@@ -26,7 +26,7 @@
     </teiHeader>
     <text xml:lang="la">
         <body>
-            <div n="0" type="textpart" subtype="chapter">
+            <div n="Epist" type="textpart" subtype="chapter">
                 <pb n="3r"/>
                 <head rend="red inner">Epistula.</head>
                 <p>
@@ -123,7 +123,7 @@
                         <pb n="4r"/>
                         <lb/>ita ut hec corporibus<g ref="#f161">;</g> illa spiritibus glorietur. Gloriatur ecclesia
                         <lb/>militans se potentes habere patronos ac defensores
-                        <lb/><subst><del><gap reason="lost" quantity="7" unit="character"/></del><add>propitios</add></subst><g ref="#f161">;</g> quos gaudet et filios habuisse. Tales
+                        <lb/><corr>propitios</corr><g ref="#f161">;</g> quos gaudet et filios habuisse. Tales
                         <lb/>tibi o ecclesia trumphans educauit uiros militans
                         <lb/>ecclesia<g ref="#f161">;</g> tales tibi ciues transfmittit. Regnant cum <choice><abbr>x<g ref="#e665">p</g>o</abbr><expan>christo</expan></choice> cum
                         <lb/>eodem eternaliter regnaturi<g ref="#f161">;</g> ueris et eternis fruen
@@ -624,7 +624,7 @@
                         <pb n="10r"/>
                         <lb/>enim incidere in manus dei iuuentis. Non est igitur
                         <lb/>optabile fragilitati nostre ut in purgatorio pu
-                        <lb break="no"/>niamur<g ref="#f161">;</g> propter acerbitatem pene. <metamark function="flag" rend="nota" resp="later"/>Minima enim pe
+                        <lb break="no"/>niamur<g ref="#f161">;</g> propter acerbitatem pene. <metamark function="flag" rend="nota" />Minima enim pe
                         <lb break="no"/>na purgatorii<g ref="#f161">;</g> maior est quam pena temporalis que
                         <lb/>hic possit excogitari. Quod sic uideri postest.
                         <lb/>Pena illa matuerialis erit pura in igne· set in
@@ -744,7 +744,7 @@
                 </div>
                 <div n="42" type="textpart" subtype="section">
                     <head rend="outer red frame">Ex tractatu super cantica canticorum.</head>
-                    <p><metamark function="flag" rend="nota" resp="later"/>Viri nomen non meretur quem nunc uentus
+                    <p><metamark function="flag" rend="nota"/>Viri nomen non meretur quem nunc uentus
                         <lb/>adulationis flectit in<supplied reason="omitted"> </supplied>hand partem· nunc uentus
                         <lb/>detractionis flectit in partem alteram. Harundo
                         <lb/>est agitata uento is quem nunc demulcet adu
@@ -845,7 +845,7 @@
                     <p>
                         Nostro etiam
                         <lb/>iuditio non solum anima iusta templum est spiritus sancti<g ref="#f161">;</g>
-                        <lb/><subst><del><gap reason="lost" quantity="40" unit="character"/></del><add>sed et corpus quod anima iusta uiuifiat. Mundat</add></subst>
+                        <lb/><corr>sed et corpus quod anima iusta uiuifiat. Mundat</corr>
                         <lb/>enim spiritus sanctus corpus quod prius in mundum erat· et mun
                         <lb break="no"/>diciam ipsius conseruat. Equum est igitur ut corpus quod
                         <lb/>est templum spiritus sancti<g ref="#f1f9">~</g> quamquam aliter multi sentiant<g ref="#f161">;</g>
