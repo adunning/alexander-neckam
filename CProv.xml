@@ -761,17 +761,18 @@
                         </p>
                         <p>
                             ¶ He sunt 
+                            <!-- Should these be a new "section"? -->
                             <lb/>igitur parabole salomonis filii dauid regis israel<g ref="#f161">;</g> edite uel necessa
                             <lb break="no"/>rie et utiles<subst><del>·</del><add><g ref="#f1e2">,</g></add></subst> ad sciendam scientiam et disciplinam. Sapientia<g ref="#f161">;</g> est sa
                             <lb break="no"/>pore uirtutum condita rerum diuinarum <corr>cognitio</corr>. Quicumque
                             <lb/>igitur firmiter credit in deum<g ref="#f1f9">~</g> difenter sperat· feruentem habet di
                             <lb break="no"/>lect<subst><del><unclear>ti</unclear></del><add>io</add></subst>nem<g ref="#f1f9">~</g> habens uel leuem cognitionem rerum supernarum<g ref="#f161">;</g> sapiens
                             <lb/>est. Numquid igitur philosophi gentiles<g ref="#f161">;</g> aut recte sapientes aut
-                            <lb/>amatores sapientie rite dicentur? Sapientiam quidem uocavulum
+                            <lb/>amatores sapientie rite dicentur? Sapienti<subst><del>a</del><add>e</add></subst> quidem uocabulum
                             <lb/>quandoque coarctatur· quandoque laxatur. Set nunquam ueri nominis sapientia in <corr>puro</corr> 
                             <lb/>homine uiatore substitit<g ref="#f161">;</g> sine fide mediatoris dei et hominum·
                             <lb/>fide inquam<g ref="#f161">;</g> implicita aut explic<corr>ita</corr>. Puro dixi<g ref="#f161">;</g> respici
-                            <lb break="no"/>ens <choice><abbr>iħm</abbr><expan>iesum</expan></choice> <choice><abbr>x<g ref="#e665">p</g>m</abbr><expan>christum</expan></choice>· qui non fidem<g ref="#f161">;</g> sed scientiam habuit comprehensiuam.
+                            <lb break="no"/>ens <choice><abbr>iħm</abbr><expan>iesum</expan></choice> <choice><abbr>x<g ref="#e665">p</g>m</abbr><expan>christum</expan></choice>· qui non fidem<g ref="#f161">;</g> set scientiam habuit comprehensiuam.
                             <cb n="b"/>
                             <lb/>Viatore adieci<g ref="#f161">;</g> eo quod comprehensores fidem non habent. Fides namque 
                             <lb/>et spes<g ref="#f161">;</g> euacuabuntur· caritas autem nunquam excidet. Quid autem
@@ -805,7 +806,37 @@
                             <lb/>presumat desiderium limites excedere discipline. Eget et
                             <lb/>iustitia<del>m</del> moderamine rectitudinis· ne aut remissa
                             <lb/>langueat<g ref="#f161">;</g> aut in rigore seueritatis austere mensuram
-                            <lb/>excedat.
+                            <lb/>excedat. Disciplina exterior<g ref="#f161">;</g> consistit in sensuum regimine
+                            <lb/>et sermonis circumspectione et ordinata gestuum compositione et
+                            <lb/>rerum gerendarum administrationis moderamine. Quo pacto<g ref="#f1f9">~</g>
+                            <lb/>morum honestas in suo statu conseruaretur sine sensuum
+                            <lb/>disciplina· per quorum fenestras mors intrat? <handShift/>Felix est<g ref="#f161">;</g> qui
+                            <lb/>pepigit fedus cum oculis suis. Depredantur animam<g ref="#f1e2">,</g> molles aspectus·
+                            <lb/>et lasciuientis animi nuntius<g ref="#f161">;</g> est nutus lasciuus. Cum elegan
+                            <lb break="no"/>tem cuiusdam transeuntis formam profusius commendaret pretor<g ref="#f161">;</g>
+                            <lb/>respondit quidam· pretorem non solum manus set et oculos continentes
+                            <lb/>habere debere.
+                        </p>
+                        <p>
+                            ¶ Habet et auditus suas delicias<g ref="#f161">;</g> ne dicam ille
+                            <lb break="no"/>cebrarum uoluptatis irritamenta. Cum instrumenti cu
+                            <lb break="no"/>iusdam lasciuis sistematibus emolliri iam <unclear>inc<corr>ip</corr>er<subst><del>a</del><add place="margin">e</add></subst>t</unclear> illud 
+                            <lb/>uirile robur pectoris alexandri magni<g ref="#f161">;</g> indignatus<g ref="#f1e2">,</g>
+                            <lb/>canoras rupit <unclear>fidiculas</unclear> subiungens. Frangende sunt
+                            <lb/>corde<g ref="#f161">;</g> ne corda frangantur. Audire etiam libenter turpia<g ref="#f161">;</g>
+                            <lb/>corrutionis animi certissimum est inditium. Qui libenter au
+                            <lb break="no"/>dit detractorem<g ref="#f161">;</g> detractoris nomen meretur. Magis tamen
+                            <lb/>nocet dulce uenenum ad ulationis<g ref="#f161">;</g> que mentem male blan
+                            <lb break="no"/>diciis circumuentam excecat. Olfactus<g ref="#f161">;</g> odoris deliciosi
+                            <lb/>iocunda delectantur fragrantia· fustus<g ref="#f161">;</g> deliciis saporis
+                            <pb n="60v"/>
+                            <cb n="a"/>
+                            <lb/>gloriatur. Prodolor· frequenter sub pretextu necessitatis<g ref="#f161">;</g> efficimur serui ma
+                            <lb break="no"/>le <subst><del>uoluptatis suade</del><add>suade uoluptatis</add></subst>. Esculentorum autem lauticia aut uini gloria<g ref="#f1e2">,</g> in
+                            <lb/>culpa non est<g ref="#f161">;</g> set appetitus immoderantia.
+                        </p>
+                        <p><hi rend="trim-red">¶</hi> Tactus lenibus demul
+                            <lb break="no"/>cetur· aspera reformidat. Hic quandoque nimis licenter oberrans<g ref="#f161">;</g>                            
                         </p>
                     </div>
                 </div>
