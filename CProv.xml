@@ -27,14 +27,13 @@
     </teiHeader>
     <text xml:lang="la">
         <body>
-<div type="textpart" subtype="work">
-    <pb n="57r"/>
+            <pb n="57r"/>
             <p>Sancti spiritus assit nobis gratia.</p>
             <cb n="a"/>
             <div n="Title" type="textpart">
-                <head rend="red inline"><lb/>Incipit tractatus <persName>magistri alexandri abbatis cyrenc<ex>estrie</ex></persName> <lb/>super parabolas <persName>salomonis</persName>.</head>
+                <head rend="red inline"><lb/>Incipit tractatus <persName>magistri alexandri abbatis cyrenc<ex>estrie</ex></persName><lb/>super parabolas <persName>salomonis</persName>.</head>
             </div>
-    <div n="Proem" type="textpart" subtype="book">
+            <div n="Proem" type="textpart" subtype="book">
                 <!-- Current organization is strictly an attempt to reflect the MS, and may be revised:
                      * Large (4-line) initials = new book (Proem + Book 1 marked explicitly)
                      * Small (2-line) initials = new chapter
@@ -353,7 +352,7 @@
                     </div>
                     <div n="4" type="textpart" subtype="section">
                         <p><hi rend="enlarged red">V</hi>anitates
-                            <lb/>igitur rerum<g ref="#f161">;</g> seipsas multipliciter ennarant· et sui contemptum
+                            <lb/>igitur rerum<g ref="#f161">;</g> se ipsas multipliciter ennarant· et sui contemptum
                             <lb/>docent. Consideratio uero utilitatis creaturarum<g ref="#f161">;</g> ad amorem 
                             <lb/>diuinum nos inuitat. Cernis quonammodo superiora corpora<g ref="#f161">;</g> soloa
                             <lb break="no"/>tium lucis nobis exhibent. Dies et nox gratis successionibus
@@ -417,7 +416,7 @@
                             <lb break="no"/>ratro discipline bene culta fuerit<g ref="#f161">;</g> letas uirtutum segetes pro
                             <lb break="no"/>ducet. Clausis ergo foribus animi<g ref="#f1f9">~</g> ne uage <unclear>clamdestinis</unclear> pas
                             <lb break="no"/>sibus accedant cogitationes<g ref="#f1f9">~</g> tranquillitatis interne perturba
-                            <lb break="no"/>trices<g ref="#f161">;</g> seipsum conueniat homo· conscientiam consulat<g ref="#f161">;</g> utrum <unclear>directo</unclear> 
+                            <lb break="no"/>trices<g ref="#f161">;</g> se ipsum conueniat homo· conscientiam consulat<g ref="#f161">;</g> utrum <unclear>directo</unclear> 
                             <lb/>tramite per uias salutis<g ref="#f1f9">~</g> ad metam debitam tendat. Egredere 
                             <lb/>postea cum <persName>abraham</persName> de terra tua<g ref="#f1f9">~</g> de terra scilicet liberi arbi
                             <lb break="no"/>trii· et de cognatione tua<g ref="#f1f9">~</g> sedatis iam motibus mentis· egre
@@ -453,12 +452,364 @@
                             <lb/>potentiam· dum res ex nichilo creat· sapientiam<g ref="#f161">;</g> dum sine causa nichil in<add> </add>esse producit· benignitatem<g ref="#f161">;</g> dum res benig
                             <lb break="no"/>ne conseruat. Potens est<g ref="#f161">;</g> qui in omnibus uoluntatem manci
                             <lb break="no"/>pat affectui· sapiens<g ref="#f161">;</g> quia qua cuncta coarcet<g ref="#f1f9">~</g> se quoque
-                            <lb/>lege tenet· benignus<g ref="#f161">;</g> qui omnia diligit que fecit.
+                            <lb/>lege tenet· benignus<g ref="#f161">;</g> qui omnia diligit que fecit. Potens est<g ref="#f161">;</g>
+                            <lb/>qui nutu concutit orbem· sapiens<g ref="#f161">;</g> qui omnia antequam essent<g ref="#f1f9">~</g>
+                            <lb/>preuidit<g ref="#f1e2">,</g> preordinauit et cognouit· benignus<g ref="#f161">;</g> qui se<g ref="#f1e2">,</g> nos
+                            <lb/>amore eodem facit amare<g ref="#f161">;</g> quo et se ipsum et nos amat.
+                            <lb/>Potentiam locuntur substantiales nature dotes· sapientiam<g ref="#f161">;</g> nu
+                            <lb break="no"/>merus partium<g ref="#f1e2">,</g> figura<g ref="#f1e2">,</g> forma et dispositio· benignitatem<g ref="#f161">;</g> usu
+                            <lb/>rerum. Omnia enim creauit deus<g ref="#f161">;</g> in pondere· numbero et men
+                            <lb break="no"/>sura· ut pondus<g ref="#f161">;</g> ad stabilitatem et potentiam substantialium·
+                            <lb/>numerus<g ref="#f161">;</g> ad partium compositionem et dispositionem· mensura<g ref="#f161">;</g>
+                            <lb/>ad utilitates a summa natura limitatas referatur· quamquam
+                            <lb/>in pondere<g ref="#f161">;</g> queant intelligi naturalis eleuatio rei et
+                            <lb/>depressio secundum grauitatem aut leuitatem· numerus<g ref="#f161">;</g> ad plura
+                            <lb break="no"/>litatem ornatuum et uarietates specierum· mensura<g ref="#f161">;</g> ad quan
+                            <lb break="no"/>titatis ambitum et circumscriptionem temporis deputati essencie
+                            <lb/>rei<g ref="#f1f9">~</g> possit referri· et ad prescriptionem effectuum naturalium.
+                            <lb/>Ponderat igitur creaturas<g ref="#f161">;</g> qui tribus digitis appendit molem
+                            <lb/>terre. Quedam ergo sunt eque grauia situ· quedam superiora petuit 
+                            <lb/>tanquam leuia<g ref="#f161">;</g> quedam ad centrum tendunt predominante
+                            <lb/>ponderositate. In numero res creauit<g ref="#f161">;</g> qui numeris ele
+                            <lb break="no"/>menta ligat· qui numerat multitudinem stellarum<g ref="#f161">;</g>
+                            <lb/>et omnibus eis nomina uocat. Sicut in simplici et summa <del><unclear>a</unclear></del>ie
+                            <lb break="no"/>rarchia<lb/> trinitas est personarum<g ref="#f161">;</g> sic et in triplici ternos or
+                            <lb break="no"/>dines reperies· et in anima rationali que ad imaginem dei facta est<g ref="#f161">;</g>
+                            <lb/>tres partes potentiales agnosce. Quid quod habitabilis
+                            <lb/>nostra in tres distincta est portiones? Ditioni quaternarii
+                            <lb/>subditi sunt quatuor mundi cardines· <unclear>quatuor sunt</unclear> anni
+                            <lb/>tempora<g ref="#f161">;</g> quatuor elementa<g ref="#f1f9">~</g> quatuor humor<subst><del>i</del><add>e</add></subst> corporis<g ref="#f1f9">~</g> quatuor <unclear>politice</unclear>
+                            <lb/>uirtutes<g ref="#f1f9">~</g> quatuor etates<g ref="#f1e2">,</g> quatuor anime uires. Arenam maris
+                            <lb/>et pluuie guttas et dies seculi set et momenta<g ref="#f1f9">~</g> folia arborum
+                            <pb n="59r"/>
+                            <cb n="a"/>
+                            <lb/>et herbarum cum fructibus et floribus<g ref="#f1e2">,</g> species animalium et la
+                            <lb break="no"/>pidum et plantarum<g ref="#f1e2">,</g> colorum uarietates<g ref="#f1f9">~</g> set et mentis cogitati
+                            <lb break="no"/>ones dinumerat sapientia diuina. Animantia repentia
+                            <lb/>super terram et gradientia<g ref="#f1f9">~</g> uoluc<corr>res</corr> celi et pisces maris qui peram
+                            <lb break="no"/>bulant semitas maris<g ref="#f1f9">~</g> enumerat<g ref="#f161">;</g> tot facies animalium<g ref="#f1e2">,</g>
+                            <lb/>tot garritus auium discernit. In mensura res creat<g ref="#f161">;</g> qui
+                            <lb/>quantitates creaturarum ne in immensum euagentur<g ref="#f1e2">,</g> figuris
+                            <lb/><corr>claudit</corr> superficialibus et ambit· qui mensurabiles ponit
+                            <lb/>dies nostros<g ref="#f161">;</g> qui terminos rebus prescripsit quos eis transgredi non
+                            <lb/>licet· qui effectus naturales causarum<g ref="#f161">;</g> assignatos sibi conseruare
+                            <lb/>limites iussit. Herbarum uires et lapidum uirtutes<g ref="#f1e2">,</g> sor
+                            <lb break="no"/>tiuntur efficaciem suam<g ref="#f161">;</g> iuxta effectus a natura summa pre
+                            <lb/>scriptos. Disponit item res in pondere<g ref="#f161">;</g> qui quadam lance
+                            <lb/>statere diuine <corr>libra</corr>tionis quosdam ad superna leuat.
+                            <lb/>in altera uergunt ad ima<g ref="#f161">;</g> crutiatibus eternis puniendi.
+                            <lb/>In numero res ordinat<g ref="#f161">;</g> cui certus est numerus electorum
+                            <lb/>in mensura<g ref="#f161">;</g> qui <quote source="Bible.Vul">mensuram bonam et confertam et coagita
+                                <lb/>tam et supereffluentem dat in sinum</quote> predestinatorum ad uitam·
+                            <lb/>qui citra condignum<g ref="#f1e2">,</g> etiam eternaliter dampnandos punit.
+                            <lb/>Licet autem in maximis rebus admiratione digna sit po
+                            <lb break="no"/>tentia diuina<g ref="#f161">;</g> in minimis etiam procreat admirationem.
+                            <lb/>Quis enim teredonis mollissimi uim penetratiuam<g ref="#f1e2">,</g> formice
+                            <lb/>prudentiam<g ref="#f1e2">,</g> termetis edacitatem<g ref="#f1f9">~</g> sucrionis animo
+                            <lb break="no"/>sitatem<g ref="#f1f9">~</g> apum industriam<g ref="#f1e2">,</g> animos<g ref="#f1f9">~</g> prelia<g ref="#f1e2">,</g> seduli laboris dili
+                            <lb break="no"/>gentiam<g ref="#f1f9">~</g> dona celestia considerans non obstupescat? Nullo
+                            <lb/>item habito respectu ad creaturas<g ref="#f161">;</g> occurret pure medita
+                            <lb break="no"/>tioni ratio declaratura potentiam diuinam<g ref="#f1e2">,</g> sapientiamque et
+                            <lb/>benignitatem. Diligenti namque considerationi elucet potentiam<g ref="#f161">;</g>
+                            <lb/>in eo quod immensus est et eternus<g ref="#f1f9">~</g> nullo egens. Nonne item
+                            <lb/>potentia patris delcaratur<g ref="#f1e2">,</g> in eo quod filium generat eiusdem nature
+                            <lb/>cuius est et pater eiusdemque potentie· et coeternum patri? Nonne e
+                            <lb break="no"/>lucet sapientia trium personarum cum benignitate· in eo quod sese mu
+                            <lb break="no"/>tuo fruuntur<g ref="#f1e2">,</g> quod ipsarum una est uoluntas<g ref="#f1f9">~</g> unus amor? Et
+                            <lb/>ut ad creaturas iterato flectamus considerationis obtutus<g ref="#f161">;</g> quanta est
+                            <lb/>potentia iustificare impium? Nonne maius est iustificare
+                            <lb/>impium· quam creare celum et terra? Referendum est autem
+                            <lb/>ad dispositionem diuine sapientie· quod post iustificationem
+                            <lb/>reseruantur primi motus<g ref="#f161">;</g> tum ad exercitium quam ad con<subst><del>uers</del><add>seru</add></subst>ationem
+                            <lb/>humilitatis. O quam magna est multitudo dulcedinis be
+                            <lb break="no"/>nignitatis diuine· dum se ipsum dat deus nobis<g ref="#f1f9">~</g> qui delicias re
+                            <lb break="no"/>putat morari cum fillis hominum.
+                        </p>
+                    </div>
+                    <div n="3" type="textpart" subtype="section">
+                        <p><hi rend="enlarged red">T</hi>ranseat et consideratio ad
+                            <lb/>beatam saluatoris passionem· qua se ipsum optulit patris pro
+                            <lb/>nobis<g ref="#f161">;</g> hostiam sanctam. Aperta est terra sanctitatis<g ref="#f161">;</g> ut de fonte
+                            <lb/>uite emanarent flumina salutis. Lateamus in forami
+                            <lb break="no"/>nibus petre iustitie<g ref="#f161">;</g> tanquam columbe gementes ad fenestras
+                            <lb/>suas. O habitacula fida· o mansiones tranquille<g ref="#f161">;</g> o tuti
+                            <lb/>lares· o thalami deuotion<subst><del>e</del><add>i</add></subst>s. Sunt enim plures man
+                            <lb break="no"/>siones<g ref="#f1e2">,</g> plures etiam domus<g ref="#f161">;</g> in<supplied reason="omitted"> </supplied>domo quam <unclear>sibi</unclear> edificauit sapientia.
+                            <lb/>He sunt domus <del><gap reason="lost" quantity="1" unit="character"/></del>eburnee<g ref="#f161">;</g> a quibus mirra gutta et casia
+                            <cb n="b"/>
+                            <lb/>spirant delicias suauitatis odoris fragrantissimi. In
+                            <lb/>his dulcibus receptaculis<g ref="#f161">;</g> certam elegere sibi sedem amor
+                            <lb/>sanctus et deuotio feruens. Audebit amor sanctus<g ref="#f1f9">~</g> quid enim non audeat<g ref="#f161">;</g> lateris dextri partes ingredi penitiores· et ad
+                            <lb/>illud illud cor dulcedinis<g ref="#f1e2">,</g> passibus desiderii lenissimi accedere<g ref="#f161">;</g>
+                            <lb/>quod se mucroni lancee exposuit. Admisit et iam intra
+                            <lb/>penates cordis sui<g ref="#f161">;</g> qui tuum cor inhabitat. O si fiat cor
+                            <lb/>meum tanquam cera liequescens in medio uentris mei<g ref="#f161">;</g> dum de
+                            <lb/>corde cordis fidelium pius mentionem facit affectus. Vecors est
+                            <lb/>qui non exactissima diligentia custodit cor suum. Omni custodia
+                            <lb/>ut legetur inferius<g ref="#f161">;</g> serua cor tuum. Numquid cor suum bene seruat
+                            <lb/>qui cor cordis seruare neggligit? Sit tibi cordi<g ref="#f161">;</g> cor tuum· sit
+                            <lb/>tibi cordi<g ref="#f161">;</g> cor tui cordis. Sol soli iustitie compatiens<g ref="#f161">;</g> passus est
+                            <lb/>eclipsim· luna tamen distante a sole<g ref="#f161">;</g> per sex signa. Ceteris
+                            <lb/>igitur creaturis creatori compatientibus<g ref="#f161">;</g> quid de te sentiam o homo
+                            <lb/>tot et tantis ingrate beneficiis· qui cordi tuo<g ref="#f1f9">~</g> capiti tuo<g ref="#f1e2">,</g> saluti
+                            <lb/>tue<g ref="#f1f9">~</g> uite tue compatienti non compateris? In his esto mecum pie
+                            <lb/>lector· he sint nostre meditiationes· hec sint studia nostra. Sic<add> </add>sic
+                            <lb/>mecum ascende in palmam· sic mecum lege fructus dulcissimos
+                            <lb/>gutturi amantis.
+                        </p>
+                    </div>
+                    <div n="4" type="textpart" subtype="section">
+                        <p><hi rend="enlarged red">T</hi>riplici igitur mecum utere pie lector conside
+                            <lb/>ratione· et sic in te ipsum tua flectatur meditatio<g ref="#f1f9">~</g> sic ad terrena
+                            <lb/>extendatur<g ref="#f161">;</g> ut in deum ascendat. Ingredere te ipsum prudens
+                            <lb/>secretorum cordis explorator· et facilior tibi patebit ingressus in pa
+                            <lb break="no"/>rabolas <persName>salomonis</persName><g ref="#f161">;</g> quas expondere nutu diuino decreuimus.
+                        </p>
+                    </div>
+                    <div n="5" type="textpart" subtype="section">
+                        <p><lb/><hi rend="enlarged blue">F</hi>uere tamen nonnulli· qui tribus operibus salomonis assignarent
+                            <lb/>ue<g ref="#f1f9">~</g> lamentationes et carmen. Timor in parabolis ue commina
+                            <lb break="no"/>tur transgressoribus· scientia que docet nos recte conuersari <quote source="Bible.Vul.Phil.2.15">in me
+                                <lb break="no"/>dio huius praue et peruerse nationis</quote><g ref="#f161">;</g> uanitatibus rerum perspectis<g ref="#f1f9">~</g>
+                            <lb/>lamentationes et querelarum et satisfactionum penitentialum
+                            <lb/>indicat· carmen exultationis iocunde<g ref="#f161">;</g> canticis canticorum et
+                            <lb/>legibus deliciarum amoris congruit. Comminationem sapientie
+                            <lb/>audietis infra in parabolis<g ref="#f161">;</g> ubi legitur· <quote source="Bible.Vul.Prov.1.25">Despexistis omne con
+                                <lb break="no"/>silium meum· et increpationes meas neglexistis. Ego uero in
+                                <lb break="no"/>teritu uestro ridebo· et subsannabo<g ref="#f161">;</g> cum uobis quod timebat
+                                <lb/>aduenerit.</quote>
+                        </p>
+                    </div>
+                    <div n="6" type="textpart" subtype="section">
+                        <p><hi rend="enlarged red">H</hi>ec in medium protulimus<g ref="#f161">;</g> tropologie deserui
+                            <lb break="no"/>entes. Si enim allegorie stilus obsequatur<g ref="#f161">;</g> uidebitur intelligen
+                            <lb break="no"/>ti liber canticorum primus esse in ordine trium operum salomonis·
+                            <lb/>sicut ordo editionis librorum <persName>aristotilis</persName><g ref="#f161">;</g> contrarius est ordini ex
+                            <lb break="no"/>positionis eorundem. Liber igitur canticorum<g ref="#f161">;</g> ad misterium incar
+                            <lb break="no"/>nationis· ecclesiastes<g ref="#f161">;</g> ad tempus predicationis apostolice· liber parabo
+                            <lb break="no"/>larum<g ref="#f161">;</g> ad tempora geresum subortarum refertur. Hinc est quod in
+                            <lb/>hoc opere quod premanibus habemus<g ref="#f161">;</g> nomine meretricis<g ref="#f1f9">~</g> tipice de
+                            <lb break="no"/>signatur hereticorum peruersa doctrina. Quoniam uero per gloriosam uir
+                            <lb break="no"/>ginem cuncte hereses erant interimende<g ref="#f161">;</g> transfert se
+                            <lb/>in spiritu in hoc opere salomon quandoque ad misterium incar
+                            <lb break="no"/>nationis. Principaliter uero tropologie indulgere proposui·
+                            <lb/>ita ut allegorie loca quedam specialiter reseruentur. Nec me
+                            <lb/>prolixitatis arguat temeraris arbiter· neque enim expositoris
+                            <lb/>officium tantum<g ref="#f1e2">,</g> assumere libet<g ref="#f161">;</g> set etiam consolatoriis meditationibus
+                            <pb n="59v"/>
+                            <cb n="a"/>
+                            <lb/>recreare claustralium animos<g ref="#f1e2">,</g> non nunquam iniustis uexatos molestiis·
+                            <lb/>non nunquam propriis sautiatos iaculis. Apes celestia dona ministrant
+                            <lb/>usibus hominum· se tamen aliquando prodolor mutuis perimuit acule
+                            <lb break="no"/>is. Columbe inforaminibus raucos gemitus edentes quasi blanda
+                            <lb/>dultium querelarum amoris susurria<g ref="#f161">;</g> acerrimis quandoque in se insur
+                            <lb break="no"/>gunt insultibus· tanquam innate simplicitatis immemores.
+                            <lb/>Passeri tamen eam exagitanti<g ref="#f161">;</g> cedit columba· tam nobilitatis quam
+                            <lb/>simplicitatis reminiscens. Set quo faciem auertis pie lector· quod cor
+                            <lb break="no"/>reptionibus utor<g ref="#f1f9">~</g> moleste ferens? Set quid? Apicula cum aculeo de
+                            <lb break="no"/>stitui ceperit<g ref="#f161">;</g> mellificare desinit.
                         </p>
                     </div>
                 </div>
             </div>
-</div>
+            <div n="1" type="textpart" subtype="book">
+                <head rend="red inline">Incipit liber primus. Capitulum .i.</head>
+                <div n="1" type="textpart" subtype="chapter">
+                    <div n="1" type="textpart" subtype="section lemma">
+                        <p>
+                            <quote source="Bible.Vul.Prov.1.1"><hi rend="dropcap4 red trim-blue">P</hi><hi rend="uppercase">a</hi>rabole salomonis filii dauid regis israel· ad scien
+                                <lb break="no"/>dam sapientiam et disciplinam· ad intellegenda uerba 
+                                <lb/>prudentie et suscipiendam eruditionem doctrine·
+                                <lb/>iustitiam et iuditium et equitatem· ut detur paruulis 
+                                <lb/>astucia<g ref="#f161">;</g> adolescenti scientia.</quote>
+                        </p>
+                    </div>
+                    <div n="2" type="textpart" subtype="section">
+                        <p><hi rend="enlarged red">V</hi>ereor ne dum liber parabolarum<g ref="#f1f9">~</g><lb/>nostris se concedit manibus<g ref="#f161">;</g> inuidia faciem infecta liuore<g ref="#f1f9">~</g> intonet
+                            <lb/>ore cinico dicens. O dedecus<g ref="#f161">;</g> o indignatio. Non sufficerent ue
+                            <lb break="no"/>nerabilium patrum uolumina in archiuis recondita<g ref="#f161">;</g> nisi nouellas
+                            <lb/>quasdam expositiunculas adicere presumeret moernorum infrunita te
+                            <lb break="no"/>meritas? Siccine sui impatiens<g ref="#f1f9">~</g> uerecundie prorsus ignara<g ref="#f1e2">,</g> ui
+                            <lb/>tio ingratitudinis laborans existit<g ref="#f1e2">,</g> ceca iuniorum impudentia·
+                            <lb/>ut per consequens arguere insufficientie<g ref="#f1f9">~</g> maiorum egregia oper gau
+                            <lb break="no"/>deant minores? Superuacuis laborat impendis<g ref="#f161">;</g> qui solem ni
+                            <lb break="no"/>titur facibus iunare. Nonne similiter superfluo detinetur labore· qui ma
+                            <lb break="no"/>iorum lucidas expositiones<g ref="#f1e2">,</g> nouis uiuare contendit? Ad hec. Aut a ui
+                            <lb break="no"/>rorum autenticorum sententiis sumpta sunt que a iunioribus proponuntur<g ref="#f161">;</g>
+                            <lb/>aut ductu proprie rationie inuenta. Si in antiquorum scriptis reperiuntur<g ref="#f161">;</g> ad
+                            <lb/>quid repetuntur que alias sufficienter sunt declarata? Si precedenti
+                            <lb break="no"/>um auctoritati in nullo sunt obnoxia· nonne minus autentica
+                            <lb/>censebuntur? Preterea. In solatium <choice><abbr>mⁱ</abbr><expan>michi</expan></choice> cedit· quia cum ueterum labores
+                            <lb/>tinea demoliatur<g ref="#f161">;</g> et opuscula modernorum edax abolebit uetustas.
+                            <lb/>Quid quod non sumper letum initium· felix consequitur consummatio?
+                            <lb/>Set et si iocundo principio feliciter respondeat finis operis· facilitas
+                            <lb/>tamen intelligentie<g ref="#f161">;</g> contemptibilis lectori‚ obscuritas<g ref="#f161">;</g> molesta
+                            <lb/>censebitur. Set quid? Audeant iuniores audeant operibus nouis
+                            <lb/>insudare<g ref="#f161">;</g> dum non nisi molestos et tetricos reperiant lectores. Experiar
+                            <lb/>igirut siquid possum experiar· et lectoribus assistam comes indiuidua. Scri
+                            <lb break="no"/>bentis diligentiam<g ref="#f161">;</g> tediose prolixitati· subtilitatem<g ref="#f161">;</g> ostentiationi
+                            <lb/>curiose· breuitatem<g ref="#f161">;</g> ascribi faciam negligentie.
+                        </p>
+                    </div>
+                    <div n="3" type="textpart" subtype="section">
+                        <p><hi rend="enlarged red">E</hi>t ecce pruden
+                            <lb break="no"/>tia dispositionum animi moderatrix optima<g ref="#f161">;</g> salubre <choice><abbr>mⁱ</abbr><expan>michi</expan></choice> consilium
+                            <lb/>me iudice perhibuit. Decet inquit uirum habitu religionis de
+                            <lb break="no"/>coratum<g ref="#f161">;</g> excipere patientie clipeo<g ref="#f1f9">~</g> iacula inuidie. Nunquid per
+                            <lb break="no"/>horrescit linguarum petulantium pruritus· uix cingula est<g ref="#f1e2">,</g> testi
+                            <lb break="no"/>monium munde sereneque conscientie? Siquis uero in tantam prorumpit
+                            <lb/>impudentiam· ut contumelias refellere uelit contumeliis· etiam
+                            <lb/>si maximus haberetur ante rixam<g ref="#f161">;</g> parem iam se constituit altercanti. Et
+                            <lb/>sic<g ref="#f161">;</g> cedrus degenerans<g ref="#f161">;</g> in ramnum uertitur. O abiecta· set et ab
+                            <lb break="no"/>icienda<g ref="#f161">;</g> humiliatio. Nonne certamur ineuntes· eo ipso quod certant<g ref="#f1e2">,</g>
+                            <lb/>pares sunt? Par igitur efficitur stulto<g ref="#f161">;</g> qui stulto stulte respondet.
+                            <cb n="b"/>
+                            <lb/>Quid? Immo dum rixaris cum inuido· iam iuctus censeberis<g ref="#f161">;</g>
+                            <lb/>dum uotum assequitur liuor tabescens. Tunc renidet et applau
+                            <lb break="no"/>dit inuidia<g ref="#f161">;</g> dum se desiderii compotem effectam cernit. Nonne
+                            <metamark function="flag" rend="nota"/><lb/>qui tribulant te<g ref="#f1f9">~</g> exultabunt si motus fueris? Nonne qui pi
+                            <lb break="no"/>cem tangit· inquinatur ab ea? Quid munde manui et pici?
+                            <lb/>Nonne qui tangit morticinum· polluitur? Qui dissimilare
+                            <lb/>nouit<g ref="#f161">;</g> pedetentim accedit ad uicotiam· qui prorsus contempnit<g ref="#f161">;</g>
+                            <lb/>uictoriam assequitur· qui orat pro <corr>litig</corr>ioso<g ref="#f1f9">~</g> ut dominus cor ipsius illu
+                            <lb break="no"/>stret ad penitentiam<g ref="#f161">;</g> triumphauit. Inuidia<g ref="#f161">;</g> maximam par
+                            <lb break="no"/>tem ueneni sui bibit· sibi ipsi lues est perniciosa. Motus inuidie<g ref="#f161">;</g>
+                            <lb/>uiperee sunt generationes. Rumpitur in partu<g ref="#f161">;</g> upera· infauste so
+                            <lb break="no"/>bolis infausta parens. Contempnanda est pestis exitialis<g ref="#f161">;</g> sui
+                            <lb/>ipsius cruciatrix. Quo pacto placida pectoris transquillitate fruetur·
+                            <lb/>qui sibi ipsi molestus est<g ref="#f1e2">,</g> nisi ei cuncta suppetant ad nutum? Non est 
+                            <lb/>animi uirilis<g ref="#f161">;</g> ob<add> </add>paruipendas emulorum detractiones conster
+                            <lb break="no"/>nari. Vt autem phi<subst><del>n</del><add>l</add></subst>istei caput abscribatur gladio proprio<g ref="#f161">;</g> efficaci
+                            <lb/>ratione dissuasiones inuidie refellamus. Intelligentiam igitur antiquorum uires ingenii modernorum excedere<g ref="#f161">;</g> certo certius est. Cum
+                            <lb/>itaque multos transitus in celesti pagina censerent ueteres esse per
+                            <lb break="no"/>uios intellectui quos presens etas pro imbecillitate sue capacitatis<g ref="#f1e2">,</g> diffi
+                            <lb break="no"/>ciles esse fateantur<g ref="#f161">;</g> multa sponte reliquerunt intacta· que diebus
+                            <lb/>istis indigent expositionem. Adde quia comprehendere subiles prece
+                            <lb break="no"/>dentium patrum expositiones<g ref="#f161">;</g> non semper parua sufficiunt ingenia.
+                            <lb/>Etiam in puncto meridionasi<g ref="#f1e2">,</g> existente centro solis<g ref="#f1f9">~</g> cum ful
+                            <lb break="no"/>gor solaris iubaris potentissimus esse uidetur<g ref="#f161">;</g> fax accensa prebet
+                            <lb/>adminiculum usibus humanis. Radius solaris<g ref="#f161">;</g> nec omnia pene
+                            <lb break="no"/>trat loca· nec attigit singula. Scripta autem modernorum glorantur<g ref="#f1f9">~</g> se la
+                            <lb break="no"/>boribus antiquorum esse obnoxia· quorum uestigia semper gaudent ado
+                            <lb break="no"/>rare minores. Non nego quin artificia laboris humani<g ref="#f161">;</g> sint 
+                            <lb/>igne faciem magni iudicis precessuro<g ref="#f1e2">,</g> consumenda. Set nunquid
+                            <lb/>ideo desistent homines<g ref="#f1e2">,</g> terras colere<g ref="#f1f9">~</g> domos construere<g ref="#f1f9">~</g> ceterisque
+                            <lb/>necessariis laboribus insistere? Profecto· plures fortasse reperies le
+                            <lb break="no"/>ctores benignos<g ref="#f161">;</g> quam sinistros interpretes. Quid quod utilitatis
+                            <lb/>pubblice ministri· scriptores efficiuntur? Quid qu<supplied reason="omitted">o</supplied>d uolucres quas
+                            <lb break="no"/>abegit <persName>abraam</persName><g ref="#f1f9">~</g> nunquam melius fugantur· quam lectione ut oratione?
+                            <lb/>Importune enim sese ingerunt uane cogitatones<g ref="#f161">;</g> nisi animus
+                            <lb/>honesta detineatur occupatione. Mutuis ergo uicibus sibi succedant le
+                            <lb break="no"/>ctio et oratio· hec enim uarietas iocundis spirituale studium nutrit de
+                            <lb break="no"/>liciis. Felicibus igitur ceptis insiste· scribendo tibi pium obligabis lectorem<g ref="#f161">;</g>
+                            <lb/>ut te suis iuuet orationibus. Perpetuis itaque delitescat latebris mon
+                            <lb break="no"/>strum inuidie<g ref="#f161">;</g> prudentie consilio salubri adquiscamus. Exposi
+                            <lb break="no"/>toris autem officium assumpturus ex parte<g ref="#f161">;</g> tropologie principaliter de
+                            <lb break="no"/>seruire studebo.
+                        </p>
+                    </div>
+                    <div n="4" type="textpart" subtype="section lemma">
+                        <p rend="sidequotes">
+                            <quote source="Bible.Vul.Prov.1.1"><hi rend="enlarged red">P</hi>arabole salomonis filii dauid regis israel<g ref="#f161">;</g><lb/>ad sciendam sapientiam et disciplinam et cetera.</quote>
+                        </p>
+                    </div>
+                    <div n="5" type="textpart" subtype="section">
+                        <p><hi rend="enlarged red">F</hi>elicia censeo an
+                            <lb break="no"/>tiquorum tempora regie maiestatis sublimitas<g ref="#f161">;</g> scribendo<g ref="#f1e2">,</g> utili
+                            <lb/>tati pubblice deseruire gloriabatur. Accedit laus laudi· accrescit
+                            <lb/><corr>gloria glorie· dum sceptrum cedit stilo· dum tronus</corr> efficitur cathedra. Quid amplius
+                            <lb/>deceat patrem patrie· quam ut totum orbem adoptet tam in filium quam
+                            <lb break="no"/>in disciplulum? In hac parte<g ref="#f161">;</g> preferenda sunt scripta<g ref="#f1e2">,</g> uirtuti
+                            <pb n="60r"/>
+                            <cb n="a"/>
+                            <lb/>uiue uocis· dum enim hec presentes dumtaxat instuit<g ref="#f161">;</g> illa totam
+                            <lb/>informat posteritatem. O si reges moderni<g ref="#f161">;</g> <persName>dauid</persName> et <persName>salomonis</persName><g ref="#f1e2">,</g>
+                            <lb/>regum illustrium opera legerent egregia et intelligerent. Vter
+                            <lb/>animo uiri prudentis maior occurrit<g ref="#f1e2">,</g> pelleus qui ex magna
+                            <lb/>parte orbem subiugauit· an salomon noster qui moralibus
+                            <lb/>institutis orbem terrarum informauit? Si cedi hostium<g ref="#f1f9">~</g> si
+                            <lb/>uictorie<g ref="#f1f9">~</g> si tropheis debentur triumphi· quanta debent ipsorum
+                            <lb/>esse preconia<g ref="#f1f9">~</g> qui carnem domare<g ref="#f1e2">,</g> mundum fugere<g ref="#f1e2">,</g> uicia con
+                            <lb break="no"/>culcare<g ref="#f1f9">~</g> aerias potestates uincere fideliter docuerunt?
+                            <lb/>He sunt igitur <quote source="Bible.Vul.Prov.1.1">parabole salomonis filii dauid regis israel<g ref="#f161">;</g> ad sciendam sapientiam et disciplinam</quote>· etc. Singule dictiones hic posite<g ref="#f161">;</g>
+                            <lb/>pundus habent· unde sic pronuntiari debent<g ref="#f161">;</g> ut sensus iuuetur pro
+                            <lb break="no"/>nuntiatione. Nomen parabolarum<g ref="#f161">;</g> fuctuosam lectori spondet
+                            <lb/>utilitatem. Parabole namque sunt similitudines quedam· que per com
+                            <lb break="no"/>parationem rerum uisibilium<g ref="#f161">;</g> spiritualium intelligentiam insinuant.
+                            <lb/>Audito nomine salomonis<g ref="#f161">;</g> etiam auditoris animus qui prius desi
+                            <lb break="no"/>die torpore languere uidebatur<g ref="#f1f9">~</g> erigitur· tanquam certam nanciscens
+                            <lb/>fiduciam profectus. Quis enim ambigat mangum sapientie thesaurum
+                            <lb/>contineri in scriptis uiri tanti· priuilegiato scientie munere
+                            <lb/>peculiariter donati? <corr>Filii</corr> <persName>dauid</persName><g ref="#f1e2">,</g> dicitur· qui uidelicet in fastigio cel
+                            <lb break="no"/>situdinis regie<g ref="#f161">;</g> operam exactissimam ingenuis impendit stu
+                            <lb break="no"/>iis· qui super senes intellexit<g ref="#f161">;</g> de cuius etiam semine descensu
+                            <lb break="no"/>rus erat secundum carnem saluator mundi· qui etiam cultus diuini
+                            <lb/>gloriam adauxit gloriose. Dum <persName>salomonem</persName> recolo fuisse filium
+                            <lb/><persName>dauid</persName><g ref="#f161">;</g> uideor <choice><abbr>mⁱ</abbr><expan>michi</expan></choice> uidere splendorem ex sole procreatum‚ et flumen
+                            <lb/>ex fonte deriuatum. Dum manu forti pacificum successisse
+                            <lb/>cerno<g ref="#f161">;</g> considero pacem<g ref="#f1e2">,</g> uicorie sobolem esse generosam. Quid
+                            <lb/>quod forti operationi et strenue succedit pax eternitatis? Re
+                            <lb/>gis israel dicitur<g ref="#f1f9">~</g> populi scilicet domini peculiaris· cui lex scripta dei di
+                            <lb break="no"/>gito<g ref="#f1e2">,</g> data est<g ref="#f161">;</g> qui cultum latrie<g ref="#f1e2">,</g> uni deo exhibuit· cui tot
+                            <lb/>et tante facte sunt promissiones a domino. In eo item quod dicitur· <quote source="Bible.Vul.Prov.1.1">filii
+                                <lb/>dauid regis israel</quote><g ref="#f161">;</g> innuitur· quoniam manga magnatibus imposita est
+                            <lb/>necessitas<g ref="#f161">;</g> ne a predecessorum uirtute degener<subst><del>a</del><add>e</add></subst>nt. Monentur
+                            <lb/>etiam spectabilibus et claris orti parentibus<g ref="#f161">;</g> ne reputentur quasi 
+                            <lb/>tenebre ex splendore lucis procreate. <quote source="urn:cts:latinLit:phi1038.phi001"><!-- *Facta et dicta memorabilia*, 3.5.1 (ed. Kempf, 139, line 9) -->Dii boni</quote> inquit <persName>uale
+                                <lb break="no"/>rius</persName> loquens de filiis degenerantibus a meritis parentu<g ref="#f161">;</g>
+                            <lb/>quas tenebras e<del> </del>quo <del>f</del>lumine nasci passi estis.
+                        </p>
+                        <p>
+                            ¶ He sunt 
+                            <lb/>igitur parabole salomonis filii dauid regis israel<g ref="#f161">;</g> edite uel necessa
+                            <lb break="no"/>rie et utiles<subst><del>·</del><add><g ref="#f1e2">,</g></add></subst> ad sciendam scientiam et disciplinam. Sapientia<g ref="#f161">;</g> est sa
+                            <lb break="no"/>pore uirtutum condita rerum diuinarum <corr>cognitio</corr>. Quicumque
+                            <lb/>igitur firmiter credit in deum<g ref="#f1f9">~</g> difenter sperat· feruentem habet di
+                            <lb break="no"/>lect<subst><del><unclear>ti</unclear></del><add>io</add></subst>nem<g ref="#f1f9">~</g> habens uel leuem cognitionem rerum supernarum<g ref="#f161">;</g> sapiens
+                            <lb/>est. Numquid igitur philosophi gentiles<g ref="#f161">;</g> aut recte sapientes aut
+                            <lb/>amatores sapientie rite dicentur? Sapientiam quidem uocavulum
+                            <lb/>quandoque coarctatur· quandoque laxatur. Set nunquam ueri nominis sapientia in <corr>puro</corr> 
+                            <lb/>homine uiatore substitit<g ref="#f161">;</g> sine fide mediatoris dei et hominum·
+                            <lb/>fide inquam<g ref="#f161">;</g> implicita aut explic<corr>ita</corr>. Puro dixi<g ref="#f161">;</g> respici
+                            <lb break="no"/>ens <choice><abbr>iħm</abbr><expan>iesum</expan></choice> <choice><abbr>x<g ref="#e665">p</g>m</abbr><expan>christum</expan></choice>· qui non fidem<g ref="#f161">;</g> sed scientiam habuit comprehensiuam.
+                            <cb n="b"/>
+                            <lb/>Viatore adieci<g ref="#f161">;</g> eo quod comprehensores fidem non habent. Fides namque 
+                            <lb/>et spes<g ref="#f161">;</g> euacuabuntur· caritas autem nunquam excidet. Quid autem
+                            <lb/>sentiat apostolus super iis qui ad inuisibilium intelligentiam per
+                            <lb/>uisibilia peruenerunt<g ref="#f161">;</g> in epistula ad romanos exprimit in
+                            <lb break="no"/>quiens. Quia cum cognouissent deum<g ref="#f161">;</g> non sicut deum glorifi
+                            <lb break="no"/>cauerunt aut gratias eregunt· set euanuerunt in cogitatonibus
+                            <lb/>suis<g ref="#f161">;</g> et obscuratum est inspiens cor eorum. Dicentes enim se
+                            <lb/>esse sapientes<g ref="#f161">;</g> stulti facti sunt. Ceterum cum hic dicitur<g ref="#f1e2">,</g> ad sciendam 
+                            <lb/>sapientiam<g ref="#f161">;</g> nomine sapientie· que sapientie subsunt comprehenduntur· sicut ait 
+                            <lb/>apostolus. Sapientiam loquor inter perfectos. Sicut et nomine scientie<g ref="#f161">;</g> quanoque ipsum
+                            <lb/>donum· quandoque scita designantur. Filium ergo esse coeternum patri<subst><del><g ref="#f1e2">,</g></del><add>·</add></subst> et per filium
+                            <lb/>omnia facta esse<g ref="#f161">;</g> sapientie subsunt. De his autem dissseret auctor inferius<g ref="#f161">;</g>
+                            <lb/>dicens. Dominus possedit me in initio uiarum suarum. Antequam quicquam
+                            <lb/>faceret<g ref="#f161">;</g> a principio<g ref="#f1f9">~</g> ab eterno ordinata sum· et ex antiquis
+                            <lb/>antequam terra fieret. Et post pauca. Quando preparabat celos<g ref="#f161">;</g> ad
+                            <lb break="no"/>eram· cum eo cuncta componens· etc. Sapientie igitur nomine<g ref="#f161">;</g> ea que spec
+                            <lb break="no"/>tant ad trinitatis misterium et ad s<corr>supracelestium intelligentiam</corr>
+                            <lb/>et fidei archanum<g ref="#f161">;</g> comprehenduntur.
+                        </p>
+                    </div>
+                    <div n="6" type="textpart" subtype="section">
+                        <p><hi rend="enlarged red">V</hi>tiles itaque sunt salo
+                            <lb break="no"/>monis parabole<g ref="#f161">;</g> ad sciendam sapientiam et disciplinam. Est dis
+                            <lb break="no"/>ciplina interior<g ref="#f161">;</g> est disciplina exterior. Interior disci
+                            <lb break="no"/>plina consistit in quadam pectoris tranquillitate· cum uidelicet
+                            <lb/>pacata sunt animalia in archa <persName>noe</persName><g ref="#f161">;</g> cum in interiori uirtutum
+                            <lb/>scola<g ref="#f1f9">~</g> disciplinati mentis affectus<g ref="#f1f9">~</g> temperantie nutibus obse
+                            <lb break="no"/>cundant. Temperantia nimirum etiam uoluptati ad hone
+                            <lb break="no"/>stum finem suspiranti<g ref="#f161">;</g> certos prefigit terminos· ne scilicet
+                            <lb/>presumat desiderium limites excedere discipline. Eget et
+                            <lb/>iustitia<del>m</del> moderamine rectitudinis· ne aut remissa
+                            <lb/>langueat<g ref="#f161">;</g> aut in rigore seueritatis austere mensuram
+                            <lb/>excedat.
+                        </p>
+                    </div>
+                </div>
+            </div>
         </body>
     </text>
 </TEI>
