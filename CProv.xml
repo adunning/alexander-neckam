@@ -36,7 +36,7 @@
             <div n="Proem" type="textpart" subtype="book">
                 <!-- Current organization is strictly an attempt to reflect the MS, and may be revised:
                      * Large (4-line) initials = new book (Proem + Book 1 marked explicitly)
-                     * Small (2-line) initials = new chapter
+                     * Small (2-line) initials = new chapter (But see 1.2.)
                      * Enlarged + coloured cap = new section (currently not making a distinction between those that have decoration and those that do not; framed sidenotes are treated as headings) -->
                 <head>¶ Proemyum.</head>
                 <div n="1" type="textpart" subtype="chapter">
@@ -154,12 +154,12 @@
                             <lb/>commendatione dignissimum paradigma<g ref="#f161">;</g> quod in libro iudicum propo
                             <lb break="no"/>nit <persName>ioathan</persName> filius <persName>ieroboal</persName>. <quote source="Bible.Vul.Judg.9.8–15"><corr>Ierunt</corr> inquit ligna ut unge
                                 <lb/>rent super se regem<g ref="#f161">;</g> dixeruntque oliue. Impera nobis. Que respondit eis.
-                                <lb/>Numquid possum deserere pinguedinem meam qua et dii utuntur et ho
+                                <lb/>Nunquid possum deserere pinguedinem meam qua et dii utuntur et ho
                                 <lb break="no"/>mines· et uenire ut inter ligna promouear? Dixeruntque ligna ad 
                                 <lb/>arborem ficum. Veni· et super nos regnum accipe. Que respondit 
-                                <lb/>eis. Numquid possum deserere dulcedinem meam fructusque 
+                                <lb/>eis. Nunquid possum deserere dulcedinem meam fructusque 
                                 <lb/>suauissimos· et ire ut inter ligna commouear? Locuta sunt quoque 
-                                <lb/>ligna ad uitem. Veni· et impera nobis. Que respondit. Numquid 
+                                <lb/>ligna ad uitem. Veni· et impera nobis. Que respondit. Nunquid 
                                 <lb/>possum deserere uinum meum quod letificat deum et homines. et inter 
                                 <lb/>ligna <del>et</del> cetera commoueri? Dixeruntque omnia ligna ad ramnum.
                                 <lb/>Veni et impera super nos. Que respondit eis. Si uere me regem uobis 
@@ -546,7 +546,7 @@
                             <lb/>meum tanquam cera liequescens in medio uentris mei<g ref="#f161">;</g> dum de
                             <lb/>corde cordis fidelium pius mentionem facit affectus. Vecors est
                             <lb/>qui non exactissima diligentia custodit cor suum. Omni custodia
-                            <lb/>ut legetur inferius<g ref="#f161">;</g> serua cor tuum. Numquid cor suum bene seruat
+                            <lb/>ut legetur inferius<g ref="#f161">;</g> serua cor tuum. Nunquid cor suum bene seruat
                             <lb/>qui cor cordis seruare neggligit? Sit tibi cordi<g ref="#f161">;</g> cor tuum· sit
                             <lb/>tibi cordi<g ref="#f161">;</g> cor tui cordis. Sol soli iustitie compatiens<g ref="#f161">;</g> passus est
                             <lb/>eclipsim· luna tamen distante a sole<g ref="#f161">;</g> per sex signa. Ceteris
@@ -767,7 +767,7 @@
                             <lb break="no"/>pore uirtutum condita rerum diuinarum <corr>cognitio</corr>. Quicumque
                             <lb/>igitur firmiter credit in deum<g ref="#f1f9">~</g> difenter sperat· feruentem habet di
                             <lb break="no"/>lect<subst><del><unclear>ti</unclear></del><add>io</add></subst>nem<g ref="#f1f9">~</g> habens uel leuem cognitionem rerum supernarum<g ref="#f161">;</g> sapiens
-                            <lb/>est. Numquid igitur philosophi gentiles<g ref="#f161">;</g> aut recte sapientes aut
+                            <lb/>est. Nunquid igitur philosophi gentiles<g ref="#f161">;</g> aut recte sapientes aut
                             <lb/>amatores sapientie rite dicentur? Sapienti<subst><del>a</del><add>e</add></subst> quidem uocabulum
                             <lb/>quandoque coarctatur· quandoque laxatur. Set nunquam ueri nominis sapientia in <corr>puro</corr> 
                             <lb/>homine uiatore substitit<g ref="#f161">;</g> sine fide mediatoris dei et hominum·
@@ -836,7 +836,124 @@
                             <lb/>culpa non est<g ref="#f161">;</g> set appetitus immoderantia.
                         </p>
                         <p><hi rend="trim-red">¶</hi> Tactus lenibus demul
-                            <lb break="no"/>cetur· aspera reformidat. Hic quandoque nimis licenter oberrans<g ref="#f161">;</g>                            
+                            <lb break="no"/>cetur· aspera reformidat. Hic quandoque nimis licenter oberrans<g ref="#f161">;</g>
+                            <lb/>languentem prius nature fomitem excitat. Set quid? Vix tangen
+                            <lb break="no"/>da sunt ne dum tract<corr>an</corr>da<g ref="#f161">;</g> que ad tactus circumstantias parti
+                            <lb break="no"/>nent· ne data uerbis impudenter licentia<g ref="#f161">;</g> uerecundis mole
+                            <lb break="no"/>sta sit mentibus. Recolat tamen uir prudens· quia thamar
+                            <lb/>sorbiciunculas animo fratri suo porrexit leni manu<g ref="#f161">;</g> non sine
+                            <lb/>iactura pudicitie uirginalis. Presit igitur regimini sensuum
+                            <lb/>disciplina<g ref="#f161">;</g> moderatrix optima· diserta morum informatrix.
+                        </p>
+                        <p><lb/><hi rend="trim-red">¶</hi> Sit sermo circumspectus· utilitati fratrum deseruiens<g ref="#f161">;</g> non
+                            <lb/>ostentationi aut uane curiositati. Lingue dicacis pruri
+                            <lb break="no"/>ens petulantia<g ref="#f161">;</g> castiganda· presumptuosa temeritas<g ref="#f161">;</g> pu
+                            <lb break="no"/>nienda. Audent ciues pentapoleos<g ref="#f1f9">~</g> quid enim non audeant
+                            <lb/>hostes nature· audent inquam<g ref="#f161">;</g> flagitium suum honestus uiris im
+                            <lb break="no"/>ponere· pro estimatione sui<g ref="#f161">;</g> aliorum mores<g ref="#f1e2">,</g> diiudicantes. Acu
+                            <lb break="no"/>te sibi prospiciunt· dum uicium quo laborant<g ref="#f161">;</g> grauibus placere perso
+                            <lb break="no"/>nis contendunt euincere. Male seipsos excusant<g ref="#f161">;</g> qui uiros
+                            <lb/>autenticos impudenter accusant. Elephantiosis similes sunt<g ref="#f161">;</g>
+                            <lb/>qui morbo tam graui totum orbem infici desiderant.
+                        </p>
+                        <p>
+                            ¶ Discipli
+                            <lb break="no"/>nata autem compositio exterior<g ref="#f161">;</g> non lene est bene composite mentis argu
+                            <lb break="no"/>mentum. Set o<add> </add>dolor<g ref="#f161">;</g> cum gestus in<corr> </corr>gesticulationes degenerant.
+                            <lb/>In oculorum hirquis transuersa tuentibus<g ref="#f1f9">~</g> in ceruicis obliquatio
+                            <lb break="no"/>ne<g ref="#f1e2">,</g> molli etiam incesu<g ref="#f1f9">~</g> inhumerorum motu minus compositio<g ref="#f161">;</g>
+                            <lb/>tipum est elationis reperire. Cum incedentis humeri certa
+                            <lb break="no"/>re uidentur<g ref="#f1f9">~</g> utri liceat precedere· aut dum coraule motus re
+                            <lb break="no"/>presentare coguntur<g ref="#f161">;</g> quis uultum risu non soluat? Incessus pom
+                            <lb break="no"/>ponii pomposus<g ref="#f161">;</g> nunc pugilis nunc alitis iunonii gressum mentitur.
+                            <lb/>Lacertus sure innitens<g ref="#f161">;</g> in cathetum et ypotenusam incur
+                            <lb break="no"/>uatur· basis uicem optinente linea lateris. Set o morum
+                            <lb/>iactura· in domo iustitie<g ref="#f1f9">~</g> capitulum loquor<g ref="#f161">;</g> extenduntur digi
+                            <lb break="no"/>ti· exercentur togata prelia<g ref="#f161">;</g> adeo ut curionem rostra tenere
+                            <lb/>credas. Declamant ibi iuris ignari· cedere nescientes<g ref="#f161">;</g>
+                            <lb/>set experiri promptissimi. Quid ni? Imperitia<g ref="#f161">;</g> temeritatem· erudi
+                            <lb break="no"/>tio uero timorem creat.
+                        </p>
+                        <p><hi rend="trim-red">¶</hi> In admi<corr>nistra</corr>tione item rerum gerendarum<g ref="#f161">;</g>
+                            <lb/>uendicat disciplina quod suum est. Qui enim ex offitio
+                            <lb/>sibi iniuncto<g ref="#f1e2">,</g> specialem tenetur adhibere diligentiam hospitibus sus
+                            <lb break="no"/>cipiendis· caueat hinc ne uultus hilaritas<g ref="#f1e2">,</g> sit dissoluta· inde<g ref="#f161">;</g>
+                            <lb/>ne grauis austeritas susceptos contristet.
+                        </p>
+                        <p>
+                            ¶ Sint igitur affectus
+                            <lb/>mentis<g ref="#f161">;</g> disciplinati· actiones<g ref="#f161">;</g> disciplinate· studia<g ref="#f161">;</g> discipli
+                            <lb break="no"/>nata. Si enim discipline uocavulo rite uti uolumus<g ref="#f161">;</g> conti
+                            <lb break="no"/>nebit disciplina continentiam et sustinentiam· ita ut conti
+                            <lb break="no"/>nentia<g ref="#f161">;</g> sub se contineat abstinentiam. Dignitas enim hu
+                            <lb break="no"/>mane conditionis per immoderantiam sauciata<g ref="#f161">;</g> studio par
+                            <lb break="no"/>simonie medicinalis reformanda est. Abstinentia quidem<g ref="#f161">;</g>
+                            <lb/>et medicina est et disciplina.
+                        </p>
+                    </div>
+                    <div n="7" type="textpart" subtype="section">
+                        <p><hi rend="enlarged red">V</hi>tiles igitur sunt parabole
+                            <lb/>salomonis ad sciendam sapientiam et disciplinam. Sapientiam<g ref="#f161">;</g><cb n="b"/><lb/>quantum ad fidem· disciplinam<g ref="#f161">;</g> quantum ad mores. Et ad in
+                            <lb break="no"/>telligenda uerba prudentie· et suscipiendam eruditionem
+                            <lb/>doctrine. Ad intelligenda inquit uerba prudentum· qui in
+                            <lb/>parabolis<g ref="#f1e2">,</g> utiles sententias proponere solent. Augentur sa
+                            <lb break="no"/>pientia et doctina in homine<g ref="#f161">;</g> dum intelliguntur uerba pruden
+                            <lb break="no"/>tum· et in thesauro memorie reconduntur. Quid est enim
+                            <lb/>intelligere nisi interius legere· aut inter alia seorsum que uti
+                            <lb break="no"/>liora sunt eligere? Intelligenda sunt igitur uerba peritorum et memo
+                            <lb break="no"/>rie commendanda· que tanquam bone fidei<g ref="#f1e2">,</g> resituere consue
+                            <lb break="no"/>uit fideliter depositum. Set quia non induit recte formam
+                            <lb/>discipuli quis<g ref="#f1e2">,</g> nisi doctor<subst><del>e</del><add>i</add></subst>s approbatores mores imitetur<g ref="#f161">;</g>
+                            <lb/>apte subiungit· et suscipiendam eruditionem doctrine.
+                            <lb/>Doctores commendatione digni sunt<g ref="#f161">;</g> qui honestis informant
+                            <lb/>discipulos institutis <add place="above line">et erudiunt</add>. Quid enim est erudire· nisi extra ru
+                            <lb break="no"/>ditatem morum ponere? Approbandi sunt <add>et</add> discipuli<g ref="#f161">;</g> qui doctorum
+                            <lb/>honestati se conformare student. Honesta presidentis
+                            <lb/>uita<g ref="#f161">;</g> et speculum et liber esse debet subditi. Sicut aquila
+                            <lb/>prouocat pullos suos ad uolandum<g ref="#f161">;</g> sic et eruditor disci
+                            <lb break="no"/>pulos incendere debet ad amorem supernorum. Sicut stru
+                            <lb/>cio oua sua et arena recondita aspectu uiuificat<g ref="#f161">;</g> sic
+                            <lb/>preceptor auditorem suum<g ref="#f1e2">,</g> etiam nutu informare debet.
+                        </p>
+                    </div>
+                </div>
+                <div n="2" type="textpart" subtype="chapter">
+                    <head rend="red margin">De iuditio et iusticia. Capitulum .ii.</head>
+                    <div n="1" type="textpart" subtype="section">
+                        <p><hi rend="enlarged red">S</hi>unt
+                            <lb/>et utiles parabole salomonis<g ref="#f161">;</g> ad faciendam iustitias et
+                            <lb/>iuditium et equitatem. Sensus hic est. Ad faciendum iustum et equm
+                            <lb/>iuditium· iustum<g ref="#f161">;</g> ut secundum allegata iudicetur· equm<g ref="#f161">;</g> ut
+                            <lb/>equitas stricto iuri preferatur. Aut iustum est iuditium<g ref="#f161">;</g>
+                            <lb/>cum secundum leges iudicatur· equm<g ref="#f161">;</g> ut non circumueniat iudicem
+                            <lb/>personarum acceptio. Set quid? Et fortasse <unclear>in</unclear>pressum scis
+                            <lb/>simulare. Nunquid enim hec erat mens auctoris? Magis
+                            <lb/>placet paruitati mee expositio <persName>bede</persName> dicentis· iustitiam<g ref="#f161">;</g>
+                            <lb/>ut secundum regulam ueritatis bene operemur· iuditium<g ref="#f161">;</g> ut recta
+                            <lb/>discretione cum proximis agamus. Equitatem<g ref="#f161">;</g> ut soli deo in iis
+                            <lb/>que recte egerimus uel indicauerimus<g ref="#f161">;</g> placeamus. Iustitiam ergo
+                            <lb/>refer ad iustam operationem· iuditium<g ref="#f161">;</g> ad discretionem‚
+                            <lb/>equitatem<g ref="#f161">;</g> ad sinceram intentionem. Iustitia est<g ref="#f161">;</g> cum alteri
+                            <lb/>facis quod tibi uis fieri. Iuditium<g ref="#f161">;</g> discretio dicitur. Vnde propheta.
+                            <lb/>Iudica me deus· <unclear>et pro idest</unclear><g ref="#f161">;</g> discerne causam meam. Equitas<g ref="#f161">;</g> in rec
+                            <lb break="no"/>titudine uoluntatis benigne<del>·</del> subsistit.
+                        </p>
+                        <p>
+                            ¶ Nos autem pro
+                            <lb/>modulo nostro<g ref="#f161">;</g> locum istum sic explanamus. Sciendum est igitur
+                            <lb/>misericordiam sub iustitia contineri. Erogare igitur bona pauperibus<g ref="#f161">;</g>
+                            <lb/>misericordia est<g ref="#f161">;</g> iustitia est. <corr>Nonne</corr> enim iustitia est reddere pau
+                            <lb/>peribus quod suum est? Bona ista<g ref="#f161">;</g> pauperibus debentur· pauperum
+                            <lb/>sunt. Quid quod omnia sunt iustorum? Inferius dicturus est
+                            <lb/>auctor. Non proderunt thesauri impietatis· iustitia uero li
+                            <lb break="no"/>berabit a morte. Quod quidem ad opera misericordie<g ref="#f161">;</g> solet referri.
+                            <lb/>Iustitia est<g ref="#f161">;</g> subuenire proximo· iuditium<g ref="#f161">;</g> nature· e
+                            <lb break="no"/>quitas<g ref="#f161">;</g> egenti. O quam signanter dicum est. <quote source="Bible.Vul.LXX.Ps.111.9"><subst><del>d</del><add>D</add></subst>ispersit de
+                                <lb break="no"/>dit pauperibus.</quote> Dispersit<g ref="#f161">;</g> quia non totum uni erogandum est.
+                            <lb/>Pauperibus<g ref="#f161">;</g> non abundantibus. Vide tamen quia diues<g ref="#f161">;</g> pro
+                            <pb n="61r"/>
+                            <cb n="a"/>
+                            <lb/>tempore pauper dici meretur. Dedit inquit<g ref="#f161">;</g> non uendidit.
                         </p>
                     </div>
                 </div>
