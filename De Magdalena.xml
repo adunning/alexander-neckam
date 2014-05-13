@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Meditatio de Magdalena</title>
+                <author xml:id="AN">Alexander Neckam</author>
+                <editor xml:id="AD">Andrew Dunning</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Andrew Dunning</authority>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International Licence.</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Hereford</settlement>
+                        <repository>Cathedral Library</repository>
+                        <idno>O.i.2</idno>
+                    </msIdentifier>
+                </msDesc>
+                <!-- Transcription has been made from a black-and-white microfilm. -->
+                <listBibl>
+                    <!-- Earlier introduction/edition, whose emendations are included. -->
+                    <biblStruct type="journalArticle" xml:id="Bestul1999">
+                        <analytic>
+                            <editor>
+                                <forename>Thomas H.</forename>
+                                <surname>Bestul</surname>
+                            </editor>
+                            <title level="a">The Meditation on Mary Magdalene of Alexander Nequam</title>
+                        </analytic>
+                        <monogr>
+                            <title level="j">The Journal of Medieval Latin</title>
+                            <imprint>
+                                <biblScope type="vol">9</biblScope>
+                                <biblScope type="pp">1-40</biblScope>
+                                <date>1999</date>
+                            </imprint>
+                        </monogr>
+                        <idno type="DOI">10.1484/J.JML.2.304112</idno>
+                    </biblStruct>
+                </listBibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text xml:lang="la">
+        <body>
+            <pb n="131r"/>
+            <fw>De <supplied reason="damage">magdalena</supplied>.</fw>
+            <cb n="a"/>
+            <div n="Title" type="textpart" subtype="section">
+                <head rend="red">Meditatio magistri <persName>Alexandri</persName> de <persName>magdalena</persName>.</head>
+                <!-- At least, I assume that's red. -->
+            </div>
+            <div n="1" type="textpart" subtype="section">
+                <p rend="lemma">
+                    <lb/>
+                    <quote source="Bible.Vul.Song.1.1"><hi rend="dropcap3">O</hi>sculetur me osculo oris sui.</quote>
+                </p>
+            </div>
+            <div n="2" type="textpart" subtype="section">
+                <p><hi rend="enlarged">A</hi>d men
+                    <lb break="no"/>sam spiritualis refectionis recumbente 
+                    <lb/>sapientia· uenerabili uirtutum cetu 
+                    <lb/>stipata<g ref="#f161">;</g> pulsat ad ostium penitentia. cau
+                    <lb break="no"/>sam aduentus ostiarie prudentie uidelicet· 
+                    <lb/>manifestans humiliter. Accersit prudentia 
+                    <lb/>comitem familiarem temperantiam<g ref="#f161">;</g> recumbenti
+                    <lb break="no"/>bus ministrantem· hortans ut pietati consist<subst><del>a</del><add><unclear>e</unclear></add></subst>nti<!-- Bestul thinks that the 'a' hasn't been replaced with anything, but on my microfilm it almost looks like it has been; perhaps it's just dust. -->
+                    <lb break="no"/>am ueritatis rei declaret. Incessu maturo adest 
+                    <lb/>pietas· cernensque contritionem scisso uelamine 
+                    <lb/>merentem· roseo uultus rubore· uerecundiam 
+                    <lb/>mentis indicante<g ref="#f161">;</g> lacrimatur et ipsa· uerbis affec
+                    <lb break="no"/>tuosis lugentem demulcens. Veros ueri do
+                    <lb break="no"/>loris nuntios agnoscens pietas· gemitus 
+                    <lb/>scilicet· spiritus amaritudinem enarrantes<g ref="#f161">;</g> sapien
+                    <lb break="no"/>tie dulciter exponit contricionis desiderium. 
+                    <lb/>Sapientia flenti pietati· et iam peroranti compa
+                    <lb break="no"/>tiens<g ref="#f161">;</g> accedat inquit accedat<g ref="#f161">;</g> uoti compos 
+                    <lb/>efficienda· et pedes meos osculetur ab osculis 
+                    <lb/>oris sui. Os penitentie<g ref="#f161">;</g> confessio· osculum<g ref="#f161">;</g> su
+                    <lb break="no"/>auitas est delectationis. Delectationem<g ref="#f161">;</g> pa
+                    <lb break="no"/>rit dilectio· suauitatem<g ref="#f161">;</g> deuocio· amaritudi
+                    <lb break="no"/>nem<g ref="#f161">;</g> peccatorum recordatio· adeo ut suauis 
+                    <lb/>sit asperitas satisfactionis<g ref="#f161">;</g> dulcis sit amaritu
+                    <lb break="no"/>do doloris. Dulcescit penitenti<g ref="#f161">;</g> iam iam aman
+                    <lb break="no"/>ti<g ref="#f161">;</g> amaritudo· leticie iocunditate respersus 
+                    <lb/>est dolor. Amaritudo<g ref="#f161">;</g> conditur sapore dul
+                    <lb break="no"/>cedinis· doloris acerbitas<g ref="#f161">;</g> lenitur suauitate 
+                    <lb/><metamark function="flag" rend="hand"/>deuotionis. Mira res. Crescit gaudium 
+                    <lb/>uere penitentis<g ref="#f161">;</g> dolore crescente. Pedes sa
+                    <lb break="no"/>pientie· misericordiam scilicet et iudicium· quibus 
+                    <lb/>orbem perambulat sapientia attingens 
+                    <lb/>a fine usque ad finem fortiter· et disponens omnia 
+                    <lb/>suauiter<g ref="#f161">;</g> dulciter et affectuose deosculatur 
+                    <lb/>penitentia. Vere namque penitens<g ref="#f161">;</g> mise
+                    <lb/>ricordiam diuinam ulnis amoris amplexa
+                    <lb break="no"/>tur· iudicium reuerenter ueneratur. O pietas<g ref="#f1f9">~</g> 
+                    <lb/>animam peccatricem sapientie concilians<g ref="#f161">;</g> 
+                    <lb/>o<supplied reason="omitted"> </supplied>sapientia· penitentem in osculum pacis 
+                    <lb/>dulciter admittens.
+                </p>
+            </div>
+            <div n="3" type="textpart" subtype="section">
+                <p><hi rend="enlarged">E</hi>t ecce <persName>magdalena</persName><lb/>uenenate carnalium illecebrarum dulcedini 
+                    <lb/>faciens uale<g ref="#f161">;</g> medicum animarum querit 
+                    <lb/>egrotans· fontem uite siciens. Rigor au
+                    <lb break="no"/>steritatis per phariseum designatus<g ref="#f161">;</g> sapien
+                    <lb break="no"/>tiam ad conuiuium inuitauerat· set ma
+                    <lb break="no"/>teriale· <persName>magdalena</persName><g ref="#f161">;</g> ad spirituale. Inuitaue
+                    <cb n="b" break="no"/>
+                    <lb break="no"/>rat <persName>maria</persName> se inuitantem· reficit<g ref="#f161">;</g> se reficien
+                    <lb break="no"/>tem. Sapientia in domo pharisei recumbit· 
+                    <lb/>in<supplied reason="omitted"> </supplied>thalamo cordis <persName>marie</persName> deliciatur. Delicio
+                    <lb break="no"/>sus amor mundi· in archano pectoris muli
+                    <lb break="no"/>eris penitentis deliciatur· et disciplinatos mentis 
+                    <lb/>affectus reficit panis angelorum. Anime deuo
+                    <lb break="no"/>tio hunc panem esurientis<g ref="#f161">;</g> cibus est ipsius. Mi
+                    <lb break="no"/><metamark function="flag" rend="hand"/>ra res. Dolor anime<g ref="#f161">;</g> cibus est leticie.
+                </p>
+            </div>
+            <div n="4" type="textpart" subtype="section">
+                <p><hi rend="enlarged">E</hi>t ecce 
+                    <lb/><persName>rebecca</persName> conspecto <persName>ysaac</persName> descendit de<supplied reason="omitted"> </supplied>camelo· 
+                    <lb/>et tollens cito pallium· operit se. Seruus <persName>abrahe</persName> 
+                    <lb/>qui <persName>rebecce</persName> persuasit ut transiret in amplexus 
+                    <lb/><persName>ysaac</persName><g ref="#f161">;</g> timor est discretus· qui fidei assecula est. 
+                    <lb/>Anima autem suspirans frui dulci aspectu 
+                    <lb/>ueri <persName>ysaac</persName>, de camelo fastus elationis<del><unclear><g ref="#f161">;</g></unclear></del> descen
+                    <lb break="no"/>dit· ornans se humilitatis pallio. Quamquam 
+                    <lb/>et pallium dicere consueuerimus gratiam uere
+                    <lb break="no"/>cundie· que penitentis clamis est coccinea.
+                </p>
+            </div>
+            <div n="5" type="textpart" subtype="section">
+                <p><hi rend="enlarged">O</hi>ccurrit et meditationi nostre <persName>thamar</persName> or
+                    <lb break="no"/>nans se theristro· arrabone munita. O arra 
+                    <lb/>commendabilis<g ref="#f161">;</g> anulus fidei· et armilla dilec
+                    <lb break="no"/>tionis· et baculus spei nos erigentis et susten
+                    <lb break="no"/>tantis. Pignus certitudinis future felici
+                    <lb break="no"/>tatis<g ref="#f161">;</g> est spiritus sanctus in<supplied reason="omitted"> </supplied>presenti· qui in futuro pre
+                    <lb break="no"/>mium erit. Fecundatur <persName>thamar</persName> prole gemina·
+                    <lb/>post amplexus <persName>iude</persName>· dum anima penitens 
+                    <lb/>spiritualibus confessionis gaudens deliciis· defe
+                    <lb break="no"/>catis felicitatur meditationibus et honestis 
+                    <lb/>actionibus. Sic et <persName>sara</persName> sterilis prius<g ref="#f161">;</g> fecundita
+                    <lb break="no"/>tis· gloria datur· et <persName>rachel</persName> uoti compos efficitur.
+                    <lb/>Sic sic super famulam suam<g ref="#f1f9">~</g> <persName>ruth</persName> scilicet<g ref="#f161">;</g> <persName>bo
+                        <lb break="no"/>oz</persName> pallium extendit· et <persName>anne</persName> fecundate uul
+                    <lb break="no"/>tus non amplius in diuersa mutantur. Sic sic filia 
+                    <lb break="no"/><persName>merari</persName> <persName>iudith</persName><g ref="#f161">;</g> antiquo <persName>oloferni</persName> caput precidit·
+                    <lb/>et regine hester<g ref="#f161">;</g> auream uirgam porrigit <persName>as
+                        <lb break="no"/>suerus</persName>.
+                </p>
+            </div>
+            <div n="6" type="textpart" subtype="section">
+                <p><hi rend="enlarged">C</hi>um uero mentis oculis conspicio <persName>mag
+                        <lb break="no"/>dalenam</persName> prouolutam ad pedes ueri <persName>helisei</persName>· 
+                    <lb/>occurrit michi transitus ille libri Regum quar
+                    <lb break="no"/>ti<g ref="#f161">;</g> in<supplied reason="omitted"> </supplied>quo sic legitur. <quote source="Bible.Vul.4Kgdms.4.27">Cum uenisset <persName>sunami
+                            <lb break="no"/>tis</persName> ad uirum dei in monte· apprehendit pedes 
+                        <lb/>eius. Et accessit <persName>giezi</persName><g ref="#f1f9">~</g> ut amoueret eam. 
+                        <lb/>Et ait homo dei. <q>Dimitte illam<g ref="#f161">;</g> anima 
+                            <lb/>enim eius in amaritudine est.</q></quote> Nonne occurrunt<!-- Bestul has 'occurritur'. --> 
+                    <lb/>iam tue meditationi pie lector· saluator
+                    <lb/>et <persName>magdalena</persName>· et phariseus? <persName>Heliseus</persName><g ref="#f161">;</g> homo 
+                    <lb/>dei fuit· saluator<g ref="#f161">;</g> homo deus. Accessit <persName>giezi</persName> 
+                    <lb/>ut amoueret <persName>sunamitem</persName>· phariseus autem 
+                    <pb n="131v"/>
+                    <cb n="a"/>
+                    <lb/><persName>magdalenam</persName> amouit<g ref="#f161">;</g> quantum in ipso fuit. Anima 
+                    <lb/><persName>sunamitis</persName>· in amaritudine fuit. Tanta 
+                    <lb/>autem fuit amaritudo cordis <persName>magdalene</persName><g ref="#f161">;</g> ut 
+                    <lb/>ex re nomen sortita de iure uideretur. <note place="margin">Triplex interpretatio huius nominis <persName>marath</persName>.</note>Tres sunt 
+                    <lb/>enim interpretationes huius nominis <persName>maria</persName><g ref="#f161">;</g> 
+                    <lb/>tractatui presenti conuenientes. Dicitur enim <persName>maria</persName> 
+                    <lb/>a<supplied reason="omitted"> </supplied><placeName>marath</placeName> quod interpretatur amaritudo. Set dulco
+                    <lb break="no"/>rate sunt aque <placeName>marath</placeName><g ref="#f161">;</g> immisso ligno· quia 
+                    <lb/>cogitationes amaritudinis cordis contriti dul
+                    <lb break="no"/>corantur· per fidem passionis saluatoris. Dicitur 
+                    <lb/>etiam<!-- Bestul 'enim'. --> <persName>maria</persName> illuminata· a moor<g ref="#f161">;</g> quod est lumen. 
+                    <lb/>Dicitur tertio modo <persName>maria</persName><g ref="#f161">;</g> quasi illuminatrix. Non
+                    <lb break="no"/>ne illuminatrix fuit· dum apostolis apostola· resur
+                    <lb break="no"/>rexisse dominum euangelizauit· dum lumen fidei cor
+                    <lb break="no"/>dibus discipulorum per apostole annuntiatio
+                    <lb break="no"/>nem illuxit· orto iam sole uero? Set ad <persName>sunami
+                        <lb break="no"/>tem</persName> reuertamur. Quid igitur petiit <persName>sunamitis</persName>· 
+                    <lb/>nisi ut restitueretur ei filius defunctus? Non
+                    <lb break="no"/>ne idem uidetur tibi <persName>maria</persName> petisse? Nonne enim 
+                    <lb break="no"/>animus· a quo uita ipsius recessit mortuus cen
+                    <lb break="no"/>sebitur? Deus anime uita est. Peccatum uero mor
+                    <lb break="no"/>tale<g ref="#f161">;</g> mors eiusdem est. <note place="margin">De <persName>sunamite</persName> et eius filio.</note>Et animaduertendum est 
+                    <lb/>quia baculus <persName>helisei</persName><g ref="#f161">;</g> non suscitauit defunctum. 
+                    <lb/>Quid enim per baculum· nisi iusticie rigor· quid 
+                    <lb/>per <persName>heliseum</persName>· nisi diuine misericordie benignitas desi
+                    <lb break="no"/>gnatur? Applicat se misericordia artubus pueri<g ref="#f161">;</g> 
+                    <lb/>miserie nostre condescendens et compatiens. 
+                    <lb/>Audiamus uerba <persName>sunamitis</persName><g ref="#f161">;</g> dicentis <persName>heli
+                        <lb break="no"/>seo</persName>. <quote source="Bible.Vul.4Kgdms.4.30">Viuit dominus· et uiuit anima tua· non di
+                        <lb break="no"/>mittam te.</quote> Que uerba melius adaptari 
+                    <lb/>queunt anime penitenti· iam iam salutem 
+                    <lb/>ueram manibus spei et desiderii contrectan
+                    <lb break="no"/>ti et comprehendenti? Reuera· hec sunt uerba 
+                    <lb/><persName>sunamitis</persName>· non adhuc captiuitatis seruitu
+                    <lb break="no"/>tis abiectissime iugo oppresse<g ref="#f161">;</g> set coccinee.
+                    <lb/>Coccinee inquam· ab igneo feruore dilectionis 
+                    <lb/>cocco bis tincte designate. <persName>Sunamitis</persName> quippe<g ref="#f161">;</g> 
+                    <lb/>nunc captiuata· nunc coccinea interpretatur.
+                </p>
+            </div>
+            <div n="7" type="textpart" subtype="section">
+                <p><lb/><hi rend="enlarged">Q</hi>uoniam<!-- Bestul has 'quam'. --> uero dulcius ex ipso fonte bibuntur aque<g ref="#f161">;</g>                    
+                    <lb/>attendamus quam feruenti desiderio estuans·
+                    <lb/>currat ad fontem salutis siciens· ut aquas 
+                    <lb/>gratie salutares hauriat abundantius de<supplied reason="omitted"> </supplied>fonte 
+                    <lb/>saluatoris. Verba igitur <persName>luce</persName> euangeliste in me
+                    <lb break="no"/>dium proponamus<g ref="#f161">;</g> ut pias meditationes iocun
+                    <lb break="no"/>dis deliciis spiritualis refectionis recreemus. <quote source="Bible.Vul.Luke.7.37–38" xml:id="MedMag7q1a" next="MedMag7q1b">Et ecce</quote> 
+                    <lb/>inquit <persName>lucas</persName>· <quote xml:id="MedMag7q1b" prev="MedMag7q1a">mulier in<supplied reason="omitted"> </supplied>ciuitate peccatrix 
+                        <cb n="b"/>
+                        <lb/>ut cognouit quod <persName>iesus</persName> accubuisset in domo pha
+                        <lb/>risei<g ref="#f161">;</g> attulit alabastrum unguenti et stans 
+                        <lb/>retro secus pedes eius<g ref="#f161">;</g> lacrimis cepit rigare pe
+                        <lb break="no"/>des eius· et capillis capitis sui tergebat. Et oscu
+                        <lb break="no"/>labatur pedes eius<g ref="#f161">;</g> et unguento ungebat.</quote>
+                </p>
+            </div>
+            <div n="8" type="textpart" subtype="section">
+                <p><lb/><hi rend="enlarged">Q</hi>ue fuit misera<g ref="#f161">;</g> misericordiam· peccatrix<g ref="#f161">;</g> salu
+                    <lb break="no"/>tem· egra<g ref="#f161">;</g> medicum animarum querit. Ad pieta
+                    <lb break="no"/>tis fontem<g ref="#f161">;</g> tend<unclear><subst><del>i</del><add>e</add></subst></unclear>t passibus fidei· nouo igne pectus 
+                    <lb/>accensa. A<supplied reason="omitted"> </supplied>caligine tenebrarum migrans· ad ue
+                    <lb break="no"/>re lucis solacium transit. Attulit alabastrum 
+                    <lb/>unguenti· cuius cor uas erat deuocionis. 
+                    <lb/>Stetit per spem erecta· et ad celestia suspirans· 
+                    <lb/>retro secus pedes saluatoris· tanquam desiderans 
+                    <lb/>sequi uestigia salutis. Per uiam humilitatis 
+                    <lb/>incesserat· morum informator· doctor uirtutum 
+                    <lb/>et largitor<g ref="#f161">;</g> cuius ad<choice><sic> </sic><corr/></choice>orare uestigia dignum 
+                    <lb/>ducit· a<corr>b</corr> errorum anfractibus reuocata. Quod 
+                    <lb/>item retro stetit· humilitatis et uerecundie· et 
+                    <lb/>simplicitatis fuit· quod secus<g ref="#f161">;</g> spei. Lacrimis 
+                    <lb/>cepit rigare pedes eius<g ref="#f161">;</g> qui cruore roseo mun
+                    <lb break="no"/>dum erat mundaturus. Ecce quia ad<supplied reason="omitted"> </supplied>locum 
+                    <lb/>unde exeunt flumina<g ref="#f161">;</g> reuertuntur. A fonte 
+                    <lb/>pietatis scaturiente interius in meditullio 
+                    <lb/>cordis· emanauerunt riui lacrimarum· 
+                    <lb/>et ad eundem fontem reuertuntur exterius. Fluuius 
+                    <lb/>egrediebatur<!-- Bestul 'egrediabatur'. --> de<supplied reason="omitted"> </supplied>loco uoluptatis<g ref="#f161">;</g> ad irrigan
+                    <lb break="no"/>dum paradisum. Locus uoluptatis est ortus 
+                    <lb/>mentis· uirtutum arboribus decenter consitus· a quo 
+                    <lb/>egrediebatur<!-- Bestul 'egrediabatur'. --> lacrimarum fluuius· ad irrigan
+                    <lb break="no"/>dum paradisum deliciarum sancte ecclesie. Quis 
+                    <lb/>est paradisus· nisi <persName>iesus christus</persName>? Lauit <persName>magdale
+                        <lb break="no"/>na</persName> lacrimis pedes illius<g ref="#f161">;</g> qui lacrimas ipsas 
+                    <lb/>lauit. Lauat munditiam ipsam mundan
+                    <lb break="no"/>tem· lauat <del>ad</del> fontem aquarum uiuentium. 
+                    <lb/>Capillis capitis sui tergebat lacrimas proprias· 
+                    <lb/>tergebat et pedes <supplied reason="omitted" resp="#Bestul1999">capillis</supplied> capitis sui. Capillis capi
+                    <lb break="no"/>tis pedes saluatoris tergebat<g ref="#f161">;</g> dum piis 
+                    <lb/>et subtilibus meditationibus mentis· huma
+                    <lb break="no"/>nitatis assumpte uenerabatur humili
+                    <lb break="no"/>tatem. Et osculabatur pedes eius exterius· qui 
+                    <lb/>osculo oris sui eam intus in animo oscu
+                    <lb break="no"/>labatur. Quid est os ipsius salutis nisi mi
+                    <lb break="no"/>sericordia? Quid est osculum oris salutis· 
+                    <lb/>nisi suauissima iocunditas misericordie? Lo
+                    <lb break="no"/>cuti<subst><del>a</del><add>o</add></subst><del><g ref="#f161">;</g></del> misericordie<g ref="#f161">;</g> est inspiratio gratie. Vnguen
+                    <lb break="no"/>to ungebat pedes illius· cuius nomen est un
+                    <pb n="132r" break="no"/>
+                    <cb n="a" break="no"/>
+                    <lb break="no"/>guentum effusum· qui inunctus est oleo 
+                    <lb/>leticie pre<supplied reason="omitted"> </supplied>consortibus suis. Fragrantia unguen
+                    <lb break="no"/>ti exterioris<g ref="#f161">;</g> attestabatur suauitati odoris 
+                    <lb/>unguenti interioris. Exterius iacebat <persName>mag
+                        <lb break="no"/>dalena</persName> prouoluta ad pedes saluatoris<g ref="#f161">;</g> qui eam in thalamo cordis amplexabatur ulnis 
+                    <lb/>amoris. In<supplied reason="omitted"> </supplied>osculo igitur suauitatis interne inspi
+                    <lb break="no"/>rationis<g ref="#f161">;</g> uisa est michi <persName>maria</persName> dixisse intra 
+                    <lb/>se. <q>Sic sic osculetur me dilectus meus· dominus meus· 
+                        <lb/>deus meus<g ref="#f161">;</g> osculo oris sui· sic sic delectet me 
+                        <lb/>suauitate misericordie sue<g ref="#f161">;</g> sic sic recreet me 
+                        <lb/>osculo reconciliationis.</q> In osculo igitur interne 
+                    <lb/>pacis<g ref="#f161">;</g> uix iocunditati deliciarum spiritualium 
+                    <lb/>mens suffecit· uix estus deliciosi feruorem 
+                    <lb/>igneum sustinuit<g ref="#f161">;</g> uix tantas includere 
+                    <lb/>potuit delicias· felici itaque feruens estu· et no
+                    <lb break="no"/>uo· et pectus innouante<g ref="#f161">;</g> conuertit sermonem. 
+                    <lb/>Hec est enim uis amoris<g ref="#f161">;</g> ad dilectum dicens. 
+                    <lb/><quote source="Bible.Vul.Song.1.1–2" rend="margin-quotes">Quia meliora sunt ubera tua uino· fra
+                        <lb break="no"/>grantia unguentis optimis.</quote> O <persName>iesu</persName> dul
+                    <lb break="no"/>cissime· o dulcedo· o benig<supplied reason="omitted">n</supplied>itas· o misericordia· 
+                    <lb/>que me miseram· osculo tui tui oris digna
+                    <lb break="no"/>ris. <note place="margin">Duo ubera</note>O ubera misericordie semper lacte suauitatis ex
+                    <lb break="no"/>uberantia· o ubera uberrima· compassio ui
+                    <lb break="no"/>delicet et consolatio. Quid michi de<supplied reason="omitted"> </supplied>cetero· et uino 
+                    <lb/>uoluptatum male dulcium. O <persName>iesu</persName> bone· o saluator o salus meliora sunt ubera 
+                    <lb/>tua<g ref="#f161">;</g> uino· o ubera fragrantia ungentis 
+                    <lb/>optimis. Effectus namque compassionis et 
+                    <lb/>consolationis diuine clementie· suaue re
+                    <lb break="no"/>dolere faciunt fidelium mentes optimis 
+                    <lb/>unguentis carismatum gratie. O unguenta 
+                    <lb/>spiritus sancti· o inunctiones spirituales. O quanta 
+                    <lb/>est fragrantia<g ref="#f161">;</g> in ungentis optimis. O u
+                    <lb break="no"/>bera· o fragrantia<g ref="#f161">;</g> o ubera fragrantia. Quid 
+                    <lb/>de<supplied reason="omitted"> </supplied>cetero michi· quam saluator oculis benignita
+                    <lb break="no"/>tis respicere dignaturus est· et uino male su
+                    <lb break="no"/>ade uoluptatis? O uoluptates obscene· 
+                    <lb/>o fetor sulphuree libidinis· o mundicia 
+                    <lb/>continentie· o fragrantia castitatis· o io
+                    <lb/>cunda· o deliciosa suauitas fragrantie o
+                    <lb break="no"/>doris unguentorum optimorum. Bone <persName>iesu</persName>. 
+                    <lb/>Tu unguentum es· tu unctio. ‌Unguentum 
+                    <lb/>effusum<g ref="#f161">;</g> nomen tuum. Oleum es<g ref="#f161">;</g> quia 
+                    <lb/>reficis· sanas· illuminas. Ideo non solum 
+                    <lb/>sexaginta regine· non solum octoginta concu
+                    <cb n="b" break="no"/>
+                    <lb break="no"/>bine diligunt te<g ref="#f161">;</g> set etiam adolescentule· quarum 
+                    <lb/>non est numerus. Tu qui manu lenissima trahis ad 
+                    <lb/>te etiam imbecilles<g ref="#f161">;</g> trahe me post te. 
+                    <lb/>Sita sum retro secus pedes tuos<g ref="#f161">;</g> ut me trahere tra
+                    <lb break="no"/>here uolentem uelis. Ego et alie adolescentu
+                    <lb break="no"/>le diligentes te<g ref="#f161">;</g> currens in<supplied reason="omitted"> </supplied>odore unguen
+                    <lb break="no"/>torum tuorum. In<supplied reason="omitted"> </supplied>predulci recordatione be
+                    <lb break="no"/>nefic<unclear>i</unclear>orum tuorum<g ref="#f161">;</g> curremus uiam uite· 
+                    <lb/>delicias gaudiorum supracelestium naribus fidei 
+                    <lb/>et discretionis odorantes.
+                </p>
+            </div>
+            <div n="9" type="textpart" subtype="section">
+                <p><hi rend="enlarged">C</hi>onsideremus ergo
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
