@@ -56,8 +56,9 @@
                 <head rend="red">Meditatio magistri <persName>Alexandri</persName> de <persName>magdalena</persName>.</head>
                 <!-- At least, I assume that's red. -->
             </div>
-            <div n="1" type="textpart" subtype="section">
-                <p rend="lemma">
+            <div n="1" type="textpart" subtype="section lemma">
+                <!-- New sections correspond to enlarged capitals in MS. -->
+                <p>
                     <lb/>
                     <quote source="Bible.Vul.Song.1.1"><hi rend="dropcap3">O</hi>sculetur me osculo oris sui.</quote>
                 </p>
@@ -332,6 +333,183 @@
             </div>
             <div n="9" type="textpart" subtype="section">
                 <p><hi rend="enlarged">C</hi>onsideremus ergo
+                    <lb/><persName>magdalenam</persName> iam felices habentem ad 
+                    <lb/>uota successus· osculantem illos<supplied reason="omitted"> </supplied>illos dulcis
+                    <lb break="no"/>simos pedes uiri desideriorum· <note place="margin">De lacrimis.</note>et non solum im
+                    <lb break="no"/>bre lacrimarum set et riuis de<supplied reason="omitted"> </supplied>fonte pietatis 
+                    <lb/>profluentibus oscula<supplied reason="omitted"> </supplied>dulciora super mel et fa
+                    <lb break="no"/>uum condientem. Set cum pectus illud aman
+                    <lb break="no"/>tis igne flamigere caritatis incenderetur· 
+                    <lb/>unde tanta lacrimarum inundatio? Quid? 
+                    <lb/>Ignis amoris<g ref="#f161">;</g> optime nutritur in<supplied reason="omitted"> </supplied>fonte aquarum 
+                    <lb/>salientium in uitam eternam? Quid? Immo 
+                    <lb/>et ipsa aqua<g ref="#f161">;</g> cor inflammat· et accendit. 
+                    <lb/><note place="margin">De macabeorum.</note>Vt docet quippe <ref target="Bible.Vul.2Macc.1.19–22">secundus machabeorum</ref><g ref="#f161">;</g> ignis 
+                    <lb/><choice><orig>imputeo</orig><reg>in puteo</reg></choice> reconditus est. Tractu uero temporis· 
+                    <lb/>non est inuentus ignis<g ref="#f161">;</g> set aqua crassa. Sa
+                    <lb break="no"/>crificia uero asper<supplied reason="omitted" resp="#Bestul1999">s</supplied>a<!-- Cf. 'aspargi', 2 Macc. 1:21. --> aqua hausta et ligna<g ref="#f161">;</g> ac
+                    <lb break="no"/>censa sunt igne magno. Nonne spiritus sanctus· 
+                    <lb/>ignis dicitur <note place="margin">Spiritus sig<ex>nificat</ex> ignis· aqua.<!-- Written as a distinction; is there a better way of representing this? --></note>et aqua ratione diuersorum ef
+                    <lb break="no"/>fectuum? Ignis<g ref="#f161">;</g> exhilarat domum interiorem. 
+                    <lb/>Aqua in orto paradisi mentis nobilia ri
+                    <lb break="no"/>gat uirtutum genimina· et fecundat terram 
+                    <lb/>liberi arbitrii. Ignis<g ref="#f161">;</g> cor accendit uiciorum· 
+                    <lb/>rubiginem consumit· mentem illustrat· 
+                    <lb/>aqua<g ref="#f161">;</g> fluentis salubribus refrigeria prestat 
+                    <lb/>animo estuanti<g ref="#f161">;</g> Ignis<g ref="#f161">;</g> lucet· aqua<g ref="#f161">;</g> 
+                    <lb/>crassa est. Omnis pinguedo· domini est. Crassi
+                    <lb break="no"/>tudo ista<g ref="#f161">;</g> deuocionis lete est exhilaratio. 
+                    <lb/>Flammis huius ignis non uritur uirtutum<del>t</del> 
+                    <!-- This and the following two Fs do not look like the typical capital F used by the scribe, but I think they're intended to be taken as such. -->
+                    <lb/>uiror· set nutritur dulciter· et feliciter inten
+                    <lb break="no"/>ditur. <note place="margin">Aqua crassa in libro macabe<ex>orum</ex>.</note>Fluuius igneus<g ref="#f161">;</g> ciuitatem letificat 
+                    <lb/>interiorem· uirtutum munitam propugna
+                    <lb break="no"/>culis. Fons igneus<g ref="#f161">;</g> lacrimas emittit ex se 
+                    <lb/>calidas· attestantes calori deuocionis. Oscula 
+                    <lb/>lacrimis delibuta<g ref="#f161">;</g> plus sapiunt. Amor<g ref="#f161">;</g> 
+                    <lb/>oscula· pietas<g ref="#f161">;</g> lacrimas ministrat. O oscu
+                    <lb/>la dulcia· o lacrime amare· oscula dulcia<g ref="#f161">;</g> 
+                    <lb/>lacrimis amaris condiuntur. Deuocionis dul
+                    <pb n="132v" break="no"/>
+                    <cb n="a" break="no"/>
+                    <lb break="no"/>cedinem<g ref="#f161">;</g> condit amaritudo contricionis. O ama
+                    <lb break="no"/>ritudo dulcis· o lacrime tam amare quam dul
+                    <lb break="no"/>ces. Amare<g ref="#f161">;</g> gustu· dulces<g ref="#f161">;</g> effectu· dulces 
+                    <lb/>etiam affectu. Quid ni? Auget inundans la
+                    <lb break="no"/>crimarum imber<g ref="#f161">;</g> dulcorem affectus interioris· quas 
+                    <lb/>mutua recompensatione<g ref="#f161">;</g> dulciores efficit. Quid? 
+                    <lb/>Immo dulcedinem lacrime mutuantur ab affectu 
+                    <lb/>interiori· que tanquam memores accepti bene
+                    <lb break="no"/>ficii<g ref="#f161">;</g> uice remunerationis dulciorem red
+                    <lb break="no"/>dunt ipsum affectum. Limpidas reddit lacri
+                    <lb break="no"/>mas<g ref="#f161">;</g> sinceritas intentionis· calidas<g ref="#f161">;</g> feruor 
+                    <lb/>dilectionis· amaras<g ref="#f161">;</g> peccatorum recordatio<supplied reason="omitted">·</supplied>
+                    <lb/>dulces<g ref="#f161">;</g> affectus uoluntatis.
+                </p>
+            </div>
+            <div n="10" type="textpart" subtype="section">
+                <p><quote source="Bible.Vul.Luke.7.38" xml:id="MedMag10q1-a" next="MedMag10q1-b"><hi rend="enlarged">E</hi>t oscula
+                        <lb/>batur</quote> inquit <persName>lucas</persName> <quote xml:id="MedMag10q1-b" prev="MedMag10q1-a">pedes eius, et unguento 
+                        <lb/>ungebat.</quote> Pedes illius ungebantur exterius
+                    <lb/>qui sedule ministrantem inunxit uncti
+                    <lb break="no"/>one spiritus sancti interius. Ab osculo interiori discur
+                    <lb break="no"/>rebat dulcedo ad osculum exterius· et meatu re
+                    <lb break="no"/>ciproco recurrebat du<add>l</add>cedo ab osculo exteriori<g ref="#f161">;</g> 
+                    <lb/>ad interius. <note place="margin">Sudat balsamus calamitam.</note>Sudat balsamus calamitam· et petra 
+                    <lb/>iusticie stillat mel duledinis. Influ<subst><del>a</del><add>i</add></subst>t dul
+                    <lb/>cedo a dulcedine exteriori· et a dulcedine in
+                    <lb break="no"/>teriori<g ref="#f161">;</g> effluit dulcor ad dulcedinem exteri
+                    <lb break="no"/>orem. Vix suas capit delicias amor nouus· 
+                    <lb/>nouis feliciter occupatus studiis. Nunc impri
+                    <lb break="no"/>mit oscula dulcissimis saluatoris uestigiis· 
+                    <lb/>nunc sugit dulcedinem de dulcedine. Nunc 
+                    <lb/>feruor amoris mentis ad sublimia rerum 
+                    <lb/>spectacula rap<del>i</del>te· ceteros affectus anime con
+                    <lb break="no"/>ueniens<g ref="#f161">;</g> dicere uidetur raptus tam in noui
+                    <lb break="no"/>tatem admirationis· quam in admirationem no
+                    <lb break="no"/>uitatis. <quote source="Bible.Vul.Song.1.3" rend="margin-quotes">Introduxit me rex<g ref="#f161">;</g> in cellaria<add> </add>sua.</quote> 
+                    <lb/>Ratione enim spei· introducta sum in<supplied reason="omitted"> </supplied>ce
+                    <lb/>lorum penetralia. Et ad <persName>iesum</persName> conuertens sermo
+                    <lb break="no"/>nem spes sursum erecta<g ref="#f161">;</g> ipsum exultantem alloquitur 
+                    <lb/>dicens. <note place="margin">Inuidia et detractio que per phariseum<g ref="#f161">;</g> in claustris habitant.</note><quote source="Bible.Vul.Song.1.3">Exultabimus et letabimur in te<g ref="#f161">;</g> memores uberum tuorum super uinum.</quote> Exulta
+                    <lb break="no"/>bimus· felicibus hylariter operibus insistendo· 
+                    <lb/>letabimur<g ref="#f161">;</g> intus cum defecatis meditatio
+                    <lb break="no"/>nibus diem festum agendo. Exultabimus
+                    <lb/>inquam et letabimur in<supplied reason="omitted"> </supplied>te qui uera leticia 
+                    <lb/>es<g ref="#f161">;</g> memores compassionis tue et consolationis·
+                    <lb/>contemptis uoluptatibus leticie secularis. Nunc 
+                    <lb/>ad se rediens multamque aduertens distantiam 
+                    <lb/>lucis matutine ad fulgorem serenitatis me
+                    <lb break="no"/>ridiane<g ref="#f161">;</g> in uerba humilitatis prorumpit
+                    <cb n="b"/>
+                    <lb/>amans dicens. <quote source="Bible.Vul.Song.1.6" rend="quotes-margin">Indica michi quem diligit 
+                        <lb/>anima mea· ubi pascas· ubi cubes in<supplied reason="omitted"> </supplied>me
+                        <lb break="no"/>ridie<g ref="#f161">;</g> ne incipiam uagari post greges 
+                        <lb/>sodalium tuorum.</quote> Indica inquit michi in 
+                    <lb/>quorum mentibus quiescas<g ref="#f161">;</g> in<supplied reason="omitted"> </supplied>quorum operibus 
+                    <lb/>delecteris· ut me illis conformare studeam. 
+                    <lb/>O si legam in libro experientie· que sint delicie 
+                    <lb/>conuiuantium cum<add> </add>sapientia<g ref="#f161">;</g> in meridie se
+                    <lb break="no"/>renissime conscientie. O felix <persName>magdalena</persName>· 
+                    <lb/>adhuc pedes et lauas et ungis saluatoris· set 
+                    <lb/>ad<del>d</del>erit dies optatus cum tibi fas erit caput 
+                    <lb/>ipsius unguento preciosissimo ungere. 
+                    <lb/>Nunc oritur in orizonte mentis tue sol nouus· 
+                    <lb/>set tunc lucebit tibi sol uerus in consummatio
+                    <lb break="no"/>ne meridiani fulgoris. Felix tibi iam inci
+                    <lb break="no"/>pit dies illucescere· illustraberis postmo
+                    <lb break="no"/>dum gloria lucis meridiane. Ortus auro
+                    <lb break="no"/>re surgens· precessiuus est iubaris serenis
+                    <lb break="no"/>simi· et sol matutinus terre faciem illustrans 
+                    <lb/>radiis presentie sue<g ref="#f161">;</g> ascendit paulisper ten
+                    <lb break="no"/>dens ad punctum linee meridionalis. 
+                    <lb/>Set quinam dicuntur sodales <persName>christi</persName>? Doctores 
+                    <lb/>legis· nam et ipse <persName>christus</persName>· doctor magister
+                    <lb/>ueritatis· immo et magister qui et <choice><sic>et</sic><corr source="#Bestul1999">est</corr></choice> ueritas. 
+                    <lb/>Gratiam tibi euangelice ueritatis<g ref="#f161">;</g> umbre 
+                    <lb/>cerimonialium figurarum preferendam esse· 
+                    <lb/>perspicuum est filiis lucis.
+                </p>
+            </div>
+            <div n="11" type="textpart" subtype="section lemma">
+                <p>
+                    <quote source="Bible.Vul.Luke.7.39"><hi rend="enlarged">V</hi>idens autem 
+                        <lb/>phariseus, qui uocauerat eum<g ref="#f161">;</g> ait intra 
+                        <lb/>se dicens. <q>Hic si esset propheta<g ref="#f161">;</g> sciret utique que 
+                            <lb/>et qualis mulier esset que tangit eum quia 
+                            <lb/>peccatrix est.</q></quote>
+                </p>
+            </div>
+            <div n="12" type="textpart" subtype="section">
+                <p><hi rend="enlarged">P</hi>ro dolor. Ecce domum 
+                    <lb/>in qua recumbit dominus <persName>iesus</persName><g ref="#f161">;</g> audet liuor edax 
+                    <lb/>intrare· set et felicibus studiis detrahere. Inco
+                    <lb break="no"/>lis paradisi terrestris uenenum corruptionis 
+                    <lb/>serpens antiqus infudit. Quid ni? In 
+                    <lb/>celo orta est tabifica lues inuidie· sibi ipsi 
+                    <lb/>pestis semper perniciosa. Septa claustri ni
+                    <lb break="no"/>mis familia<choice><sic>l</sic><corr>r</corr></choice>iter pro dolor ingreditur hec pe
+                    <lb break="no"/>stis<g ref="#f161">;</g> et uix reperitur cetus fratrum <persName>christo</persName> militan
+                    <lb/>tium<!-- Bestul 'militantum' --><g ref="#f161">;</g> in<supplied reason="omitted"> </supplied>quo non dominentur plures phari
+                    <lb break="no"/>sei. Set <add>o</add> dolor· o dedecus· o miseria· non nunquam 
+                    <lb/>is qui preest <persName>christi</persName> discipulis<g ref="#f161">;</g> phariseus est. 
+                    <lb/>O pudor· o gemitus· cum caput se diuidit· 
+                    <lb/>et separat a<supplied reason="omitted"> </supplied>menbris. Phariseus enim a<supplied reason="omitted"> </supplied>diui
+                    <lb/>sione nomen sumit. Quid cum congreganda 
+                    <lb/>dispergit· separat· alienat· bonorum patrimo
+                    <pb n="133r" break="no"/>
+                    <cb n="a" break="no"/>
+                    <lb break="no"/>nii crucifixi dilapidator· crimen expilate 
+                    <lb/><metamark function="flag" rend="hand"/>hereditatis incurrens? O extrema dementia· 
+                    <lb/>cum prelatus phariseum induens<g ref="#f161">;</g> honestis spiritu
+                    <lb break="no"/>alium studiorum exercitiis inuidere presumit. 
+                    <lb/>O pharisei presumptuosa temeritas<g ref="#f161">;</g> et reue
+                    <lb/>rentie tanto hospiti· set et a<supplied reason="omitted"> </supplied>se inuitato exhi
+                    <lb break="no"/>bende· et proprie fragilitatis et naturalis compas
+                    <lb break="no"/>sionis nimis obliti. <quote source="Bible.Vul.Luke.7.39" xml:id="MedMag12q1-a" next="#MedMag12q1-b">Videns</quote> inquit <persName>lucas</persName> <quote xml:id="MedMag12q1-b" prev="MedMag12q1-a">pha
+                        <lb break="no"/>riseus</quote>· set inuidens· et cecus cecitate mentis qui 
+                    <lb/><persName>iesum</persName> uocauerat. Quid igitur pharisee uocato 
+                    <lb/>a<supplied reason="omitted"> </supplied>te et inuitato· presumis impudenter detra
+                    <lb/>here? <quote source="Bible.Vul.Luke.7.39" xml:id="MedMag12q2-a" next="#MedMag12q2-b">Hic</quote> inquit <quote xml:id="MedMag12q2-b" prev="MedMag12q2-a">si esset propheta<g ref="#f161">;</g> sciret utique que 
+                        <lb/>et qualis esset mulier que tangit eum· quia 
+                        <lb/>peccatrix est.</quote> Si<supplied reason="omitted"> </supplied>nominis consulas interpre
+                    <lb/>tationem· reuera propheta est· uidens est. Non
+                    <lb break="no"/>ne uidens est qui omnia uidet? Quid ipsam 
+                    <lb/>sapientiam· latenter arguis ignorantie? 
+                    <lb/>Que ascendit ad pedes <persName>iesu</persName><g ref="#f161">;</g> te iudice mi
+                    <lb break="no"/>sera est· peccatrix est· egra est· immunda 
+                    <lb/>est. Nonne licet misere ad misericordiam· pec
+                    <lb break="no"/>catrici ad salutem· egre ad medicum cui na
+                    <lb break="no"/>tura seruit· immunde ad<supplied reason="omitted"> </supplied>mundiciam· ut 
+                    <lb/>mundetur accedere? Ecce <persName>giezi</persName> <persName>sunamitem</persName> 
+                    <lb/>arcet· arcet a<supplied reason="omitted"> </supplied>pedibus <persName>helisei</persName>· <persName>aman</persName> inuidet 
+                    <lb/>deliciis amoris <persName>assueri</persName> et <persName>hester</persName><g ref="#f161">;</g> <persName>heli</persName> <persName>annam</persName> 
+                    <lb/>multiplicantem preces domino· et effundentem ani
+                    <lb break="no"/>mam suam in conspectu domini arguit temu
+                    <lb break="no"/>lentie. Set quid est pharisee· quod dum alios 
+                    <lb/>reprehendis· in<supplied reason="omitted"> </supplied>teipsum oculos mentis non flectis? 
+                    <lb/>Aer qui paulo ante pallio caliginis obduce
+                    <lb break="no"/>batur<g ref="#f161">;</g> repente radiis solaribus serenatur.                
                 </p>
             </div>
         </body>
