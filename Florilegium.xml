@@ -123,7 +123,7 @@
                         <pb n="4r"/>
                         <lb/>ita ut hec corporibus<g ref="#f161">;</g> illa spiritibus glorietur. Gloriatur ecclesia
                         <lb/>militans se potentes habere patronos ac defensores
-                        <lb/><corr>propitios</corr><g ref="#f161">;</g> quos gaudet et filios habuisse. Tales
+                        <lb/><add place="overstrike">propitios</add><g ref="#f161">;</g> quos gaudet et filios habuisse. Tales
                         <lb/>tibi o ecclesia trumphans educauit uiros militans
                         <lb/>ecclesia<g ref="#f161">;</g> tales tibi ciues transfmittit. Regnant cum <choice><abbr>x<g ref="#e665">p</g>o</abbr><expan>christo</expan></choice> cum
                         <lb/>eodem eternaliter regnaturi<g ref="#f161">;</g> ueris et eternis fruen
@@ -166,7 +166,7 @@
                         <lb/>lautioris mense<g ref="#f161">;</g> commutabuntur in<supplied reason="omitted"> </supplied>fletum et
                         <lb/>stridorem dentium. Qui turpibus misere libidi
                         <lb break="no"/>nis illecebris exponuntur<g ref="#f161">;</g> ignis sulphurei estu
-                        <lb/>in<choice><sic> </sic><corr/></choice>tollerabili cruciabuntur· et qui nunc seruilis
+                        <lb/>in<surplus> </surplus>tollerabili cruciabuntur· et qui nunc seruilis
                         <lb/>conditionis esse censentur<g ref="#f161">;</g> erunt ingenui.					
                     </p>
                 </div>
@@ -214,7 +214,7 @@
                         <lb/>tunc erit clarior<g ref="#f1f9">~</g> septuplum quam modo sit. Anima
                         <lb/>autem longe clarior longe pulchrior etit<g ref="#f161">;</g> quam
                         <lb/>corpus. Ipsa autem compositio uel coniunctio corporis
-                        <lb/>et anime<g ref="#f161">;</g> ad<choice><sic> </sic><corr/></choice>huc longe clarior. Claritas enim duarum
+                        <lb/>et anime<g ref="#f161">;</g> ad<surplus> </surplus>huc longe clarior. Claritas enim duarum
                         <lb/>stolarum maior erit alterutra illarum<g ref="#f161">;</g> sicut duo
                         <lb/>magna<g ref="#f1f9">~</g> maiora sunt insimul accepta <choice><sic>alteritro</sic><corr>alterutro</corr></choice> illorum.
                     </p>
@@ -511,7 +511,7 @@
                             <lb/>mis eorum non morietur<g ref="#f1f9">~</g> et ignis non extinguetur</quote><g ref="#f161">;</g>
                         <lb/>ur stimulus conscientie pungat ad penam·
                         <lb/>quos aculeus nequitie stimulauit ad culpam.
-                        <lb/>Penitebunt dampnati et in<choice><sic> </sic><corr/></choice>utiliter secundum quod
+                        <lb/>Penitebunt dampnati et in<surplus> </surplus>utiliter secundum quod
                         <lb/>legitur. <quote>Dicent inter se penitentiam agentes.</quote>
                         <lb/><quote>Errauimus a uia ueritatis· et iusticie lumen
                             <lb/>non luxit nobis.</quote> <quote source="Bible.Vul.Wis.5.8-9">Quid profuit nobis superbia·
@@ -845,7 +845,7 @@
                     <p>
                         Nostro etiam
                         <lb/>iuditio non solum anima iusta templum est spiritus sancti<g ref="#f161">;</g>
-                        <lb/><corr>sed et corpus quod anima iusta uiuifiat. Mundat</corr>
+                        <lb/><add place="overstrike">sed et corpus quod anima iusta uiuifiat. Mundat</add>
                         <lb/>enim spiritus sanctus corpus quod prius in mundum erat· et mun
                         <lb break="no"/>diciam ipsius conseruat. Equum est igitur ut corpus quod
                         <lb/>est templum spiritus sancti<g ref="#f1f9">~</g> quamquam aliter multi sentiant<g ref="#f161">;</g>
