@@ -46,7 +46,7 @@
                 </p>
             </div>
             <div n="1" type="textpart" subtype="chapter">
-                <head rend="inline red">Sermo in festiuitate reliquiarum· excerptus ex libris magistri alexandri abbatis cyrencestr<ex>ie</ex>.</head>
+                <head rend="inline red">Sermo in festiuitate reliquiarum· excerptus ex libris magistri alexandri abbatis <expan><abbr>cyrencestr</abbr><ex>ie</ex></expan>.</head>
                 <p><lb/><hi rend="dropcap2">H</hi>i sunt uiri misericordie qui assistunt 
                     <lb/>dominatori uniuerse terre.
                 </p>
@@ -73,7 +73,7 @@
                         <lb/>Insistamus et laudibus patronorum nostrorum quorum laudes et 
                         <lb/>suas esse<g ref="#f1f9">~</g> dominus noster et saluator noster non diffitetur. 
                         <lb/>Gloriosum est preconiis illorum deseruire<g ref="#f161">;</g> quid in castris 
-                        <lb/>milicie <choice><abbr>x<g ref="#e665">p</g>i</abbr><expan>christi</expan></choice>ane strenue militauerunt tanquam 
+                        <lb/>milicie <expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>i</abbr></expan>ane strenue militauerunt tanquam 
                         <lb/>uiri fortres fuge nescii.</p>
                 </div>
                 <div n="3" type="textpart" subtype="section">
@@ -99,7 +99,7 @@
                         <lb break="no"/>tempserunt<g ref="#f1f9">~</g> minas concepte crudelitatis nuntias<g ref="#f161">;</g>
                         <lb/>paruipenderunt. Cruciatus exquisitos<g ref="#f161">;</g> uicere tri
                         <lb break="no"/>umphatores inuictissimi et tanto felitiores<g ref="#f161">;</g>
-                        <lb/>quanto grauiora pro <choice><abbr>x<g ref="#e665">p</g>o</abbr><expan>christo</expan></choice> sustinuere. O celebris
+                        <lb/>quanto grauiora pro <expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex>o</expan> sustinuere. O celebris
                         <lb/>supernorum ciuium tripudiatio. O preclarea solemp
                         <lb break="no"/>nitas.
                     </p>
@@ -109,7 +109,7 @@
                     <p>
                         Celum presentia tantorum ciuium ornatum 
                         <lb/>est<g ref="#f161">;</g> et noua iam sidera in celis micantia refulse
-                        <lb break="no"/>runt. Stelle iste<g ref="#f1f9">~</g> non sub firmamento<g ref="#f1f9">~</g> <choice><abbr>s;</abbr><expan>set</expan></choice> supra 
+                        <lb break="no"/>runt. Stelle iste<g ref="#f1f9">~</g> non sub firmamento<g ref="#f1f9">~</g> <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> supra 
                         <lb/>firmamentum radioso iubare scintillant· nec il
                         <lb break="no"/>luminationi tenebrarum noctis<g ref="#f161">;</g> beneficium fulgoris
                         <lb/>earum debetur. Semper cum sole suo diem serenis
@@ -128,7 +128,7 @@
                         <lb/>militans se potentes habere patronos ac defensores
                         <lb/><add place="overstrike">propitios</add><g ref="#f161">;</g> quos gaudet et filios habuisse. Tales
                         <lb/>tibi o ecclesia trumphans educauit uiros militans
-                        <lb/>ecclesia<g ref="#f161">;</g> tales tibi ciues transfmittit. Regnant cum <choice><abbr>x<g ref="#e665">p</g>o</abbr><expan>christo</expan></choice> cum
+                        <lb/>ecclesia<g ref="#f161">;</g> tales tibi ciues transmittit. Regnant cum <expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex>o</expan> cum
                         <lb/>eodem eternaliter regnaturi<g ref="#f161">;</g> ueris et eternis fruen
                         <lb break="no"/>tes deliciis· cum iam infelicissimi tyranni perpe
                         <lb break="no"/>tuis expositi sunt cruciatibus.
@@ -212,7 +212,7 @@
                     <p>
                         quia corpora eorum non
                         <lb/>solum erunt clariora quam sol sit modo· uel quam fuerit 
-                        <lb/>ante peccatum ade<g ref="#f161">;</g> <choice><abbr>s;</abbr><expan>set</expan></choice> etiam corpora habebunt clariora
+                        <lb/>ante peccatum ade<g ref="#f161">;</g> <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> etiam corpora habebunt clariora
                         <lb/>septuplum<g ref="#f1f9">~</g> qua futurus sit sol post diem iudicii· qui
                         <lb/>tunc erit clarior<g ref="#f1f9">~</g> septuplum quam modo sit. Anima
                         <lb/>autem longe clarior longe pulchrior etit<g ref="#f161">;</g> quam
@@ -265,7 +265,7 @@
                     <head rend="outer red frame">Ex eodem tractatu.</head>
                     <p>
                         Felices erunt qui paupertatem spontanteam 
-                        <lb/>quam yllariter propter <choice><abbr>x<g ref="#e665">p</g>m</abbr><expan>christum</expan></choice> elegerunt<g ref="#f161">;</g> diuicias esse
+                        <lb/>quam yllariter propter <expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christu</ex><abbr>m</abbr></expan> elegerunt<g ref="#f161">;</g> diuicias esse
                         <lb/>reputant. Veras tunc et eternas possidebunt et
                         <lb/>diuitias et delicias<g ref="#f161">;</g> qui temporalium diuitiarum
                         <lb/>uanitatem<g ref="#f1f9">~</g> in carne mortali degentes<g ref="#f1f9">~</g> prorsus
@@ -282,7 +282,7 @@
                 <div n="19" type="textpart" subtype="section">
                     <head rend="outer red frame">Super mulierem fortem.</head>
                     <p>
-                        Felices erunt <choice><abbr>s;</abbr><expan>set</expan></choice> felicissi
+                        Felices erunt <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> felicissi
                         <lb break="no"/>mi<g ref="#f161">;</g> quibus excellentissimi uiri misericordie patrocinium
                         <lb/>prestabunt indistricto examine. Attenti sitis
                         <lb/>uiri fratres.
@@ -295,9 +295,9 @@
                         <lb/>misericordie gaudio angelorum<g ref="#f1f9">~</g> qui deum uestrum uisuri sunt<g ref="#f161">;</g>
                         <pb n="6v"/>eternaliter regnaturum in carne de nobis sumpta.
                         <lb/>Filius enim dei qui uenit ut saluum faceret quod
-                        <lb/>perierat<g ref="#f161">;</g> non angelicam naturam <choice><abbr>s;</abbr><expan>set</expan></choice> semen abrahe
+                        <lb/>perierat<g ref="#f161">;</g> non angelicam naturam <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> semen abrahe
                         <lb/>apprehendit. Angeli quidem delectantur et de
-                        <lb break="no"/>lectabuntur in ipsum prospicere<g ref="#f161">;</g> <choice><abbr>s;</abbr><expan>set</expan></choice> ipsum esse fratrem
+                        <lb break="no"/>lectabuntur in ipsum prospicere<g ref="#f161">;</g> <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> ipsum esse fratrem
                         <lb/>eorum<g ref="#f1f9">~</g> ratione nature assumpte gloriari non poterunt.
                     </p>
                 </div>
@@ -334,7 +334,7 @@
                             Set dicet quis quod de sanctis
                             <lb/>animalibus secus esse uidetur<g ref="#f161">;</g> quam de angelis. Harum
                             <lb/>enim nimirum crescet gloria ex consortio corporis
-                            <lb/>quod glorificabitur<g ref="#f161">;</g> set in angelis <choice><abbr>nⁱl</abbr><expan>nichil</expan></choice> simile reperietur.
+                            <lb/>quod glorificabitur<g ref="#f161">;</g> set in angelis <expan><abbr>n<am>&#x0365;</am></abbr><ex>ichi</ex><abbr>l</abbr></expan> simile reperietur.
                         </p>
                     </div>
                     <div type="textpart">
@@ -392,7 +392,7 @@
                         <lb/>habebit<g ref="#f161">;</g> et super ipsorum plenissima remissione<g ref="#f1f9">~</g>
                         <lb/>eternaliter gratias persoluet altissimo. Nec erubes
                         <lb break="no"/>cet <persName>magdalena</persName> super hoc quod in memoria habe
-                        <lb/>bit septem demonia ab ipsa eiecta esse· <choice><abbr>nⁱl</abbr><expan>nichil</expan></choice> enim in 
+                        <lb/>bit septem demonia ab ipsa eiecta esse· <expan><abbr>n<am>&#x0365;</am></abbr><ex>ichi</ex><abbr>l</abbr></expan> enim in 
                         <lb/>ipsa erit erubescibile. Alioquin<g ref="#f161">;</g> non esse plena
                         <lb/>ipsa felicitas<g ref="#f161">;</g> nec gaudium consummatissimum.
                         <lb/>O dulce<del>s</del> consortium.
@@ -423,13 +423,13 @@
                 <div n="26" type="textpart" subtype="section">
                     <head rend="outer red frame">Ex sermone qui sic incipit. Absterget deus.</head>
                     <p>
-                        O quam felix locus ubi rex<g ref="#f161">;</g> <choice><abbr>x<g ref="#e665">p</g>c</abbr><expan>christus</expan></choice>· mater
+                        O quam felix locus ubi rex<g ref="#f161">;</g> <expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christu</ex><abbr>s</abbr></expan>· mater
                         <lb/> humilitatis<g ref="#f161">;</g> regina· conciuis<g ref="#f161">;</g> angelus· ciui
                         <lb break="no"/>tas<g ref="#f161">;</g> paradysus. Sine tumultu<g ref="#f161">;</g> regia· sine
                         <lb/>cura<g ref="#f161">;</g> curia. Iocunditas<g ref="#f161">;</g> sine fastidio· saci
                         <lb break="no"/>etas<g ref="#f161">;</g> cum desiderio. O quam dissim<choice><sic>u</sic><corr>i</corr></choice>lis ciuitas<g ref="#f1f9">~</g>
                         <lb/>in qua rex<g ref="#f161">;</g> diabolus. Mater<g ref="#f161">;</g> malicia· con
-                        <lb/>ciuis<g ref="#f161">;</g> anti<choice><abbr>x<g ref="#e665">p</g>c</abbr><expan>christus</expan></choice>· ciuitas<g ref="#f161">;</g> infernus· ubi sine termino<g ref="#f161">;</g>
+                        <lb/>ciuis<g ref="#f161">;</g> anti<expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christu</ex><abbr>s</abbr></expan>· ciuitas<g ref="#f161">;</g> infernus· ubi sine termino<g ref="#f161">;</g>
                         <lb/>pena· sine fine miseria. 
                     </p>
                 </div>
@@ -730,7 +730,7 @@
                         <lb/>uiri misericordie. Viri<g ref="#f1f9">~</g> a<supplied reason="omitted"> </supplied>uirore uirtutum<g ref="#f161">;</g> ad uirorem
                         <lb/>pascue celestis olim tendentes· nunc deliciis
                         <lb/>eius perfruentes. Viri erant a<supplied reason="omitted"> </supplied>uirili strenuitate<g ref="#f161">;</g>
-                        <lb/>uiriliter et fortiter <choice><abbr>x<g ref="#e665">p</g>o</abbr><expan>christo</expan></choice> militantes. Vir enim nomen
+                        <lb/>uiriliter et fortiter <expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex>o</expan> militantes. Vir enim nomen
                         <lb/>est uirtutis. Vt<g ref="#f1f9">~</g> <quote source="Bible.Vul.LXX.Ps.1.1">Beatus uir qui non abiit in<supplied reason="omitted"> </supplied>con
                             <lb break="no"/>silio impiorum</quote>· et ibi. <quote source="Bible.Vul.Job.1.1">Vir erat in terra hus<g ref="#f161">;</g> nomine
                             <lb/>iob</quote>· et apud poetam. <quote><l>Fecunda uirorum</l><l>paupertas
@@ -792,7 +792,7 @@
                     <head rend="outer red frame">Ex sermone de apostolis.</head>
                     <p>
                         Hi sunt uiri misericordie<g ref="#f161">;</g> quia
-                        <lb/><choice><abbr>x<g ref="#e665">p</g>i</abbr><expan>christi</expan></choice> qui est misericordia imitatores fuerunt. Imitemur
+                        <lb/><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>i</abbr></expan> qui est misericordia imitatores fuerunt. Imitemur
                         <lb/>ergo et nos beatissimos patronos nostros<g ref="#f161">;</g> ut effec
                         <lb break="no"/>tum misericordie suffragiis ipsorum intercedentibus senti
                         <lb break="no"/>amus.
@@ -869,14 +869,14 @@
                         Fateor
                         <lb/>libens fateor· quia laus uiris misericordie condigna<g ref="#f161">;</g>
                         <lb/>uires nostras exdedit<g ref="#f1f9">~</g> adeo ut <unclear>nec</unclear> desiderii ueloci
-                        <lb break="no"/>tas<g ref="#f1e2">,</g> quo <choice><abbr>nⁱl</abbr><expan>nichil</expan></choice> uelocius esse potest<g ref="#f161">;</g> laudes eorum assequi
+                        <lb break="no"/>tas<g ref="#f1e2">,</g> quo <expan><abbr>n<am>&#x0365;</am></abbr><ex>ichi</ex><abbr>l</abbr></expan> uelocius esse potest<g ref="#f161">;</g> laudes eorum assequi
                         <lb/>queat.
                     </p>
                 </div>
                 <div n="54" type="textpart" subtype="section">
                     <head rend="outer red frame">Ex sermone qui sic incipit. Cum esses iunior.</head>
                     <p>
-                        Et quia ratione offitii <choice><abbr>mⁱ</abbr><expan>michi</expan></choice> a<supplied reason="omitted"> </supplied>domino commissi
+                        Et quia ratione offitii <expan><abbr>m<am>&#x0365;</am></abbr><ex>ichi</ex></expan> a<supplied reason="omitted"> </supplied>domino commissi
                         <lb/>debitorem me constitui<g ref="#f1f9">~</g> tam in formationi
                         <lb/>minorum quam profectui maiorum<g ref="#f161">;</g> pascere faudeo
                         <lb/>nunc agnos<g ref="#f1e2">,</g> lacte simplicitatis<g ref="#f1f9">~</g> nunc eruditiores
