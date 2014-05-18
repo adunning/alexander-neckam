@@ -134,7 +134,7 @@
                     <lb/>qui <persName>rebecce</persName> persuasit ut transiret in amplexus 
                     <lb/><persName>ysaac</persName><g ref="#f161">;</g> timor est discretus· qui fidei assecula est. 
                     <lb/>Anima autem suspirans frui dulci aspectu 
-                    <lb/>ueri <persName>ysaac</persName>, de camelo fastus elationis<del><unclear><g ref="#f161">;</g></unclear></del> descen
+                    <lb/>ueri <persName>ysaac</persName>· de camelo fastus elationis<del><unclear><g ref="#f161">;</g></unclear></del> descen
                     <lb break="no"/>dit· ornans se humilitatis pallio. Quamquam 
                     <lb/>et pallium dicere consueuerimus gratiam uere
                     <lb break="no"/>cundie· que penitentis clamis est coccinea.
@@ -392,7 +392,7 @@
             </div>
             <div n="10" type="textpart" subtype="section">
                 <p><quote source="Bible.Vul.Luke.7.38" xml:id="MedMag10q1-a" next="MedMag10q1-b"><hi rend="enlarged">E</hi>t oscula
-                        <lb/>batur</quote> inquit <persName>lucas</persName> <quote xml:id="MedMag10q1-b" prev="MedMag10q1-a">pedes eius, et unguento 
+                        <lb/>batur</quote> inquit <persName>lucas</persName> <quote xml:id="MedMag10q1-b" prev="MedMag10q1-a">pedes eius<g ref="#f161">;</g> et unguento 
                         <lb/>ungebat.</quote> Pedes illius ungebantur exterius
                     <lb/>qui sedule ministrantem inunxit uncti
                     <lb break="no"/>one spiritus sancti interius. Ab osculo interiori discur
@@ -457,7 +457,7 @@
             <div n="11" type="textpart" subtype="section" rendition="lemma">
                 <p>
                     <quote source="Bible.Vul.Luke.7.39"><hi rend="enlarged">V</hi>idens autem 
-                        <lb/>phariseus, qui uocauerat eum<g ref="#f161">;</g> ait intra 
+                        <lb/>phariseus qui uocauerat eum<g ref="#f161">;</g> ait intra 
                         <lb/>se dicens. <q>Hic si esset propheta<g ref="#f161">;</g> sciret utique que 
                             <lb/>et qualis mulier esset que tangit eum quia 
                             <lb/>peccatrix est.</q></quote>
@@ -558,7 +558,7 @@
                     <lb/>multitudo transitum istum circumstat<g ref="#f161">;</g> ut 
                     <lb/>uix expediri queat difficultas· etiam diligen
                     <lb break="no"/>tissima inuestigatione amice inquisitionis. 
-                    <lb/>Si enim <term>donauit</term> accipiatur· pro <term>condonauit</term>, cum 
+                    <lb/>Si enim <term>donauit</term> accipiatur· pro <term>condonauit</term>· cum 
                     <lb/>scilicet dicitur· <q>Estimo· quia is cui plus dona
                         <lb break="no"/>uit</q><g ref="#f161">;</g> dabitur quia plus diligere deberis <del>q</del><!-- Bestul 'a' --> 
                     <lb/>cui plus cond<add place="overstrike">o</add>natum est. Quid igitur si<supplied reason="omitted"> </supplied>ei cui 
@@ -590,7 +590,7 @@
                     <pb n="133v"/>
                     <cb n="a"/>
                     <lb/><note place="margin"><unclear>¶</unclear> Vita inuenta salus <unclear>lite</unclear> cognitio deitatis sunt saluandorum premis pax et amor.</note>assumit narrationis exordium<g ref="#f161">;</g> antequam id<supplied reason="omitted"> </supplied>non 
-                    <lb/>solum annuat hospes fieri· sed et exhortetur
+                    <lb/>solum annuat hospes fieri· set et exhortetur
                     <lb/>dicens. <quote source="Bible.Vul.Luke.7.40">Magister dic.</quote> Commendat etiam senten
                     <lb break="no"/>tiam hospitis magister ueritatis<g ref="#f161">;</g> dicens. <quote>Rec
                         <lb break="no"/>te iudicasti.</quote> Pro dolor. Supercil<surplus>ic</surplus>iosus fastus 
@@ -598,14 +598,112 @@
                     <lb/>equanimiter minoris opinionem<g ref="#f161">;</g> set et moleste 
                     <lb/>fert et indignanter. O mores<g ref="#f161">;</g> o tempora. Ole
                     <lb break="no"/>um in<supplied reason="omitted"> </supplied>caminum mittere censetur priuata perso
-                    <lb break="no"/>na<g ref="#f161">;</g> quotiens potestati etiam salubre dat con
+                    <lb break="no"/><note place="margin">De <unclear>superatio</unclear> magnatum.</note>na<g ref="#f161">;</g> quotiens potestati etiam salubre dat con
                     <lb break="no"/>silium. Non est tutum subdito etiam consulto<g ref="#f161">;</g> 
                     <lb/>presidenti consulere consultori. Potens etiam 
                     <lb/>consultor<g ref="#f161">;</g> imperiosam habet faciem· oculos sub
                     <lb break="no"/>limes<g ref="#f161">;</g> ceruicem erectam. Legislator <persName>moyses</persName> 
                     <lb/>humilitatis gratia preditus· consilio <persName>ietro</persName> licet gen
                     <lb break="no"/>tilis esset acquieuit. Iudex qui nutu con
-                    <lb break="no"/>cutit orbem<g ref="#f161">;</g> sententiam pharisei commendat.
+                    <lb break="no"/>cutit orbem<g ref="#f161">;</g> sententiam pharisei commendat. 
+                    <lb/>Et conuersus ad mulierem<g ref="#f161">;</g> dixit <persName>symoni</persName>.
+                    <lb/>O felix <persName>magdalena</persName>· ad te se conuertit misericordia·
+                    <lb/>te respicit oculis dulcedinis sue<g ref="#f161">;</g> ministerii 
+                    <lb/>tui sedulitatem commendat officiosam. <quote source="Bible.Vul.Luke.7.44">Vi
+                        <lb break="no"/>des</quote> inquit <quote>hanc mulierem?</quote> Si archana cor
+                    <lb break="no"/>dis ipsius uideres<g ref="#f161">;</g> mutares in<supplied reason="omitted"> </supplied>melius sen
+                    <lb break="no"/>tentiam· qua iam ipsam condempnare pre
+                    <lb break="no"/>sumpsisti. Saltem obsequii feruentis di
+                    <lb break="no"/>ligentiam attende. <quote source="Bible.Vul.Luke.7.44–45">Intraui in domum 
+                        <lb/>tuam<g ref="#f161">;</g> aquam pedibus meis non dedisti. Hec autem 
+                        <lb/>lacrimis r<subst><del>o</del><add place="above">i</add></subst>gauit pedes meos<g ref="#f161">;</g> et capillis suis 
+                        <lb/>tersit. Osculum michi non dedisti· hec autem ex quo 
+                        <lb/>intraui<g ref="#f161">;</g> non cessauit osculari pedes meos.</quote> 
+                    <lb/><add place="margin">Non dico quod osculata est pedes meos<g ref="#f161">;</g></add> set quod non cessauit osculari pedes meos. Aquam 
+                    <lb/>communem michi non dedisti· hec lacrimis lauit 
+                    <lb/>pedes meos· set et capillis suis tersit. Osculum 
+                    <lb/>oris non michi prebuisti· hec autem pedes meos non 
+                    <lb/>solum est osculata· set ex<supplied reason="omitted"> </supplied>quo intraui<g ref="#f161">;</g> non ces
+                    <lb break="no"/>sauit osculari pedes meos. <quote source="Bible.Vul.Luke.7.46">Oleo caput 
+                        <lb/>meum non unxisti· hec autem unguento</quote>· uidelicet· precioso <quote>pedes meos unxit.</quote> Tu nec oleum 
+                    <lb/>michi dedisti· ista<g ref="#f161">;</g> unguentum preciosum. 
+                    <lb/>Tu nec caput unxisti· ista<g ref="#f161">;</g> pedes unxit. 
+                    <lb/><quote source="Bible.Vul.Luke.7.47">Propter quod dico tibi· remittuntur ei pec
+                        <lb break="no"/>cata multa· quoniam dilexit multum.</quote> Quid 
+                    <lb/>ergo si non multum dilexisset· dilexisset tamen· 
+                    <lb/>nonne ei remissa essent peccata multa? 
+                    <lb/>Nonne caritas <expan>quec<abbr rend="supraline">u</abbr><ex>m</ex><abbr>q<am>;</am></abbr><ex>ue</ex></expan> sufficeret ad dele    
+                    <lb break="no"/>tionem multorum reatuum? Nonne gratie 
+                    <cb n="b"/>
+                    <lb/>infusio· causa est remissionis peccatorum?               
+                    <lb/>Nunquid oportet necessario ut ubi 
+                    <lb/>abundauit delictum<g ref="#f161">;</g> superabundet et gratia? 
+                    <lb/>Nunquid oportet ut intensio gratie superueni
+                    <lb break="no"/>entis· par<supplied reason="omitted"> </supplied>sit reatui precedenti· aut maior? 
+                    <lb/>Quamquam autem sentiamus infu<subst><del>g</del><add place="overstrike">s</add></subst>ionem gratie tan
+                    <lb break="no"/>quam causam precedere peccatorum remissionem<g ref="#f161">;</g> 
+                    <lb/>uiris tamen auctoritatis magne uisum est 
+                    <lb/>contrarium· dicentibus hanc dictionem <term>quoniam</term> tene
+                    <lb break="no"/>ri comprobatiue· non causaliter<g ref="#f161">;</g> cum dicitur· 
+                    <lb/><quote source="Bible.Vul.Luke.7.47">Remittuntur ei peccata multa<g ref="#f161">;</g> quoniam dilexit 
+                        <lb/>multum.</quote> Ortodoxorum autem patrum exposi
+                    <lb break="no"/>tiones<g ref="#f161">;</g> huic obuiant opinioni. <quote>Ignis 
+                        <lb/>caritatis</quote> inquit <persName>gregorius</persName><g ref="#f161">;</g> <quote>peccatorum 
+                        
+                        <lb/>rubiginem comburit.</quote><!-- See Bestul 16n76 on source. --> Nonne lucis illu
+                    <lb break="no"/>minatio· precessiua est naturaliter expulsio
+                    <lb break="no"/>nis tenebrarum. Sequitur. <quote source="Bible.Vul.Luke.7.47">Cui autem minus 
+                        <lb/>dimittitur<g ref="#f161">;</g> minus diligit.</quote> Quid ergo si ei cui 
+                    <lb/>minus dimittitur· multo plus gratie con
+                    <lb break="no"/>fertur? Proponantur igitur duo quorum alter 
+                    <lb/>duplo sit peior altero<g ref="#f161">;</g> remittaturque utrique 
+                    <lb/>reatus· ita quod ei qui<supplied reason="omitted"> </supplied>minus malus fue
+                    <lb break="no"/>rat<g ref="#f161">;</g> decuplo maior gratia conferatur. Nonne 
+                    <lb/>plus diligit· cui minus est dimissum? Non
+                    <lb break="no"/>ne etiam magis obligatus est ad diligen
+                    <lb break="no"/>dum? Cum ergo dicitur· <quote>cui minus dimit
+                        <lb break="no"/>titur· minus diligit</quote><g ref="#f161">;</g> hec dictio <term>minus</term> 
+                    <lb/>non tenetur nominaliter set aduerbialiter· sub hoc 
+                    <lb/>sensu. <q>Ille cui ex<supplied reason="omitted"> </supplied>minori caritate fit re
+                        <lb break="no"/>missio<g ref="#f161">;</g> minus diligit.</q> Set quid? Non uidetur 
+                    <lb/>ad<supplied reason="omitted"> </supplied>hoc tendere<g ref="#f161">;</g> sermonis finale propositum. 
+                    <lb/>Nunquid enim minus obligatus est ad diligen
+                    <lb break="no"/>dum· is cui ex<supplied reason="omitted"> </supplied>minori caritate peccata di
+                    <lb break="no"/>mittuntur? Quid si multo amplior fuerit 
+                    <lb/>reatus illius· cui minor infunditur gratia? 
+                    <lb/>Poterit tamen alicui uideri quod quantulecumque 
+                    <lb/>gratie infusio magis obliget ad diligendum· 
+                    <lb/>quam quantumlibet magni reatus remissio. 
+                    <lb/>Remissio enim reatus in se considerata<g ref="#f161">;</g> non 
+                    <lb/>confert cuipiam ut sit dignus uita eterna. 
+                    <lb/>Proponantur enim duo quorum alteri remit
+                    <lb break="no"/>tantur· quantum uis enormes transgressiones<g ref="#f161">;</g> 
+                    <lb/>ita quod ei non conferatur uirtus· alteri<g ref="#f161">;</g> 
+                    <lb/>gratia quantulacumque donetur. Cum igitur unus 
+                    <lb/>sit bonus· alter non sit bonus· nonne felicior est condicio eius qui dignus est uita 
+                    <pb n="134r"/>
+                    <cb n="a"/>
+                    <lb/>eterna? Set quid? Cum gratia sit causa remis
+                    <lb break="no"/>sionis peccatorum. Nonne censebitur de<supplied reason="omitted"> </supplied>iure 
+                    <lb/>impossibilis precedens positio? Quod ergo dicitur· 
+                    <lb/><quote>cui minus dimittitur· minus diligit</quote>· ad casus 
+                    <lb/>assignationem in<supplied reason="omitted"> </supplied>quo intelligenda est parabo
+                    <lb break="no"/>la proposita a<supplied reason="omitted"> </supplied>domino· referendum est. Proponen
+                    <lb break="no"/>di namque sunt duo· quorum uni plus sit 
+                    <lb/>condonatum· et plus donatum· reliquo minus sit· et condonatum et donatum.
+                </p>
+            </div>
+            <div n="16" type="textpart" subtype="section">
+                <p><hi rend="enlarged">A</hi>udiamus postmo
+                    <lb break="no"/>dum quem set et quam desiderabilem fructum conse
+                    <lb break="no"/><unclear>quantur· qui humi</unclear><!-- Tear in microfilm. -->liter accedunt ad pedes sal
+                    <lb break="no"/>uatoris. <quote source="Bible.Vul.Luke.7.50">Fides</quote> inquit saluator <quote>tua saluam 
+                        <lb/>te fecit. Vade in pace.</quote> O uerbum salutis· o uer
+                    <lb break="no"/>bum salubre<g ref="#f161">;</g> o uerbum penitioribus pena
+                    <lb break="no"/>tibus cordis fideliter reseruandum. <quote>Fides tua 
+                        <lb/>te saluam fecit· uade in<supplied reason="omitted"> </supplied>pace.</quote> Animad
+                    <lb break="no"/>uertendum igitur quia fides saluat· set illa 
+                    <lb/>que operatur per<supplied reason="omitted"> </supplied>dilectionem.
                 </p>
             </div>
         </body>
