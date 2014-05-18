@@ -63,7 +63,7 @@
                 <!-- New sections correspond to enlarged capitals in MS. -->
                 <p>
                     <lb/>
-                    <quote source="Bible.Vul.Song.1.1"><hi rend="dropcap3">O</hi>sculetur me osculo oris sui.</quote>
+                    <quote source="Bible.Vul:Song.1.1"><hi rend="dropcap3">O</hi>sculetur me osculo oris sui.</quote>
                 </p>
             </div>
             <div n="2" type="textpart" subtype="section">
@@ -165,7 +165,7 @@
                 <p><hi rend="enlarged">C</hi>um uero mentis oculis conspicio <persName>mag
                         <lb break="no"/>dalenam</persName> prouolutam ad pedes ueri <persName>helisei</persName>· 
                     <lb/>occurrit michi transitus ille libri Regum quar
-                    <lb break="no"/>ti<g ref="#f161">;</g> in<supplied reason="omitted"> </supplied>quo sic legitur. <quote source="Bible.Vul.4Kgdms.4.27">Cum uenisset <persName>sunami
+                    <lb break="no"/>ti<g ref="#f161">;</g> in<supplied reason="omitted"> </supplied>quo sic legitur. <quote source="Bible.Vul:4Kgdms.4.27">Cum uenisset <persName>sunami
                             <lb break="no"/>tis</persName> ad uirum dei in monte· apprehendit pedes 
                         <lb/>eius. Et accessit <persName>giezi</persName><g ref="#f1f9">~</g> ut amoueret eam. 
                         <lb/>Et ait homo dei. <q>Dimitte illam<g ref="#f161">;</g> anima 
@@ -204,7 +204,7 @@
                     <lb break="no"/>gnatur? Applicat se misericordia artubus pueri<g ref="#f161">;</g> 
                     <lb/>miserie nostre condescendens et compatiens. 
                     <lb/>Audiamus uerba <persName>sunamitis</persName><g ref="#f161">;</g> dicentis <persName>heli
-                        <lb break="no"/>seo</persName>. <quote source="Bible.Vul.4Kgdms.4.30">Viuit dominus· et uiuit anima tua· non di
+                        <lb break="no"/>seo</persName>. <quote source="Bible.Vul:4Kgdms.4.30">Viuit dominus· et uiuit anima tua· non di
                         <lb break="no"/>mittam te.</quote> Que uerba melius adaptari 
                     <lb/>queunt anime penitenti· iam iam salutem 
                     <lb/>ueram manibus spei et desiderii contrectan
@@ -223,7 +223,7 @@
                     <lb/>gratie salutares hauriat abundantius de<supplied reason="omitted"> </supplied>fonte 
                     <lb/>saluatoris. Verba igitur <persName>luce</persName> euangeliste in me
                     <lb break="no"/>dium proponamus<g ref="#f161">;</g> ut pias meditationes iocun
-                    <lb break="no"/>dis deliciis spiritualis refectionis recreemus. <quote source="Bible.Vul.Luke.7.37–38" xml:id="MedMag7q1a" next="MedMag7q1b">Et ecce</quote> 
+                    <lb break="no"/>dis deliciis spiritualis refectionis recreemus. <quote source="Bible.Vul:Luke.7.37–38" xml:id="MedMag7q1a" next="MedMag7q1b">Et ecce</quote> 
                     <lb/>inquit <persName>lucas</persName>· <quote xml:id="MedMag7q1b" prev="MedMag7q1a">mulier in<supplied reason="omitted"> </supplied>ciuitate peccatrix 
                         <cb n="b"/>
                         <lb/>ut cognouit quod <persName>iesus</persName> accubuisset in domo pha
@@ -294,7 +294,7 @@
                     <lb/>potuit delicias· felici itaque feruens estu· et no
                     <lb break="no"/>uo· et pectus innouante<g ref="#f161">;</g> conuertit sermonem. 
                     <lb/>Hec est enim uis amoris<g ref="#f161">;</g> ad dilectum dicens. 
-                    <lb/><quote source="Bible.Vul.Song.1.1–2" rend="margin-quotes">Quia meliora sunt ubera tua uino· fra
+                    <lb/><quote source="Bible.Vul:Song.1.1–2" rend="margin-quotes">Quia meliora sunt ubera tua uino· fra
                         <lb break="no"/>grantia unguentis optimis.</quote> O <persName>iesu</persName> dul
                     <lb break="no"/>cissime· o dulcedo· o benig<supplied reason="omitted">n</supplied>itas· o misericordia· 
                     <lb/>que me miseram· osculo tui tui oris digna
@@ -347,7 +347,7 @@
                     <lb/>Ignis amoris<g ref="#f161">;</g> optime nutritur in<supplied reason="omitted"> </supplied>fonte aquarum 
                     <lb/>salientium in uitam eternam? Quid? Immo 
                     <lb/>et ipsa aqua<g ref="#f161">;</g> cor inflammat· et accendit. 
-                    <lb/><label place="margin">¶ De macabeorum.</label>Vt docet quippe <ref target="Bible.Vul.2Macc.1.19–22">secundus machabeorum</ref><g ref="#f161">;</g> ignis 
+                    <lb/><label place="margin">¶ De macabeorum.</label>Vt docet quippe <ref target="Bible.Vul:2Macc.1.19–22">secundus machabeorum</ref><g ref="#f161">;</g> ignis 
                     <lb/><choice><orig>imputeo</orig><reg>in puteo</reg></choice> reconditus est. Tractu uero temporis· 
                     <lb/>non est inuentus ignis<g ref="#f161">;</g> set aqua crassa. Sa
                     <lb break="no"/>crificia uero asper<supplied reason="omitted" resp="#Bestul1999">s</supplied>a<!-- Cf. 'aspargi', 2 Macc. 1:21. --> aqua hausta et ligna<g ref="#f161">;</g> ac
@@ -391,7 +391,7 @@
                 </p>
             </div>
             <div n="10" type="textpart" subtype="section">
-                <p><quote source="Bible.Vul.Luke.7.38" xml:id="MedMag10q1-a" next="MedMag10q1-b"><hi rend="enlarged">E</hi>t oscula
+                <p><quote source="Bible.Vul:Luke.7.38" xml:id="MedMag10q1-a" next="MedMag10q1-b"><hi rend="enlarged">E</hi>t oscula
                         <lb/>batur</quote> inquit <persName>lucas</persName> <quote xml:id="MedMag10q1-b" prev="MedMag10q1-a">pedes eius<g ref="#f161">;</g> et unguento 
                         <lb/>ungebat.</quote> Pedes illius ungebantur exterius
                     <lb/>qui sedule ministrantem inunxit uncti
@@ -410,11 +410,11 @@
                     <lb/>spectacula rap<del>i</del>te· ceteros affectus anime con
                     <lb break="no"/>ueniens<g ref="#f161">;</g> dicere uidetur raptus tam in noui
                     <lb break="no"/>tatem admirationis· quam in admirationem no
-                    <lb break="no"/>uitatis. <quote source="Bible.Vul.Song.1.3" rend="margin-quotes">Introduxit me rex<g ref="#f161">;</g> in cellaria<add> </add>sua.</quote> 
+                    <lb break="no"/>uitatis. <quote source="Bible.Vul:Song.1.3" rend="margin-quotes">Introduxit me rex<g ref="#f161">;</g> in cellaria<add> </add>sua.</quote> 
                     <lb/>Ratione enim spei· introducta sum in<supplied reason="omitted"> </supplied>ce
                     <lb/>lorum penetralia. Et ad <persName>iesum</persName> conuertens sermo
                     <lb break="no"/>nem spes sursum erecta<g ref="#f161">;</g> ipsum exultantem alloquitur 
-                    <lb/>dicens. <label place="margin">Inuidia<!-- What is the symbol above this word? --> et detractio que per phariseum<g ref="#f161">;</g> in claustris habitant.</label><quote source="Bible.Vul.Song.1.3">Exultabimus et letabimur in te<g ref="#f161">;</g> memores uberum tuorum super uinum.</quote> Exulta
+                    <lb/>dicens. <label place="margin">Inuidia<!-- What is the symbol above this word? --> et detractio que per phariseum<g ref="#f161">;</g> in claustris habitant.</label><quote source="Bible.Vul:Song.1.3">Exultabimus et letabimur in te<g ref="#f161">;</g> memores uberum tuorum super uinum.</quote> Exulta
                     <lb break="no"/>bimus· felicibus hylariter operibus insistendo· 
                     <lb/>letabimur<g ref="#f161">;</g> intus cum defecatis meditatio
                     <lb break="no"/>nibus diem festum agendo. Exultabimus
@@ -425,7 +425,7 @@
                     <lb/>lucis matutine ad fulgorem serenitatis me
                     <lb break="no"/>ridiane<g ref="#f161">;</g> in uerba humilitatis prorumpit
                     <cb n="b"/>
-                    <lb/>amans dicens. <quote source="Bible.Vul.Song.1.6" rend="quotes-margin">Indica michi quem diligit 
+                    <lb/>amans dicens. <quote source="Bible.Vul:Song.1.6" rend="quotes-margin">Indica michi quem diligit 
                         <lb/>anima mea· ubi pascas· ubi cubes in<supplied reason="omitted"> </supplied>me
                         <lb break="no"/>ridie<g ref="#f161">;</g> ne incipiam uagari post greges 
                         <lb/>sodalium tuorum.</quote> Indica inquit michi in 
@@ -456,7 +456,7 @@
             </div>
             <div n="11" type="textpart" subtype="section" rendition="lemma">
                 <p>
-                    <quote source="Bible.Vul.Luke.7.39"><hi rend="enlarged">V</hi>idens autem 
+                    <quote source="Bible.Vul:Luke.7.39"><hi rend="enlarged">V</hi>idens autem 
                         <lb/>phariseus qui uocauerat eum<g ref="#f161">;</g> ait intra 
                         <lb/>se dicens. <q>Hic si esset propheta<g ref="#f161">;</g> sciret utique que 
                             <lb/>et qualis mulier esset que tangit eum quia 
@@ -489,11 +489,11 @@
                     <lb/>O pharisei presumptuosa temeritas<g ref="#f161">;</g> et reue
                     <lb/>rentie tanto hospiti· set et a<supplied reason="omitted"> </supplied>se inuitato exhi
                     <lb break="no"/>bende· et proprie fragilitatis et naturalis compas
-                    <lb break="no"/>sionis nimis obliti. <quote source="Bible.Vul.Luke.7.39" xml:id="MedMag12q1-a" next="#MedMag12q1-b">Videns</quote> inquit <persName>lucas</persName> <quote xml:id="MedMag12q1-b" prev="MedMag12q1-a">pha
+                    <lb break="no"/>sionis nimis obliti. <quote source="Bible.Vul:Luke.7.39" xml:id="MedMag12q1-a" next="#MedMag12q1-b">Videns</quote> inquit <persName>lucas</persName> <quote xml:id="MedMag12q1-b" prev="MedMag12q1-a">pha
                         <lb break="no"/>riseus</quote>· set inuidens· et cecus cecitate mentis qui 
                     <lb/><persName>iesum</persName> uocauerat. Quid igitur pharisee uocato 
                     <lb/>a<supplied reason="omitted"> </supplied>te et inuitato· presumis impudenter detra
-                    <lb/>here? <quote source="Bible.Vul.Luke.7.39" xml:id="MedMag12q2-a" next="#MedMag12q2-b">Hic</quote> inquit <quote xml:id="MedMag12q2-b" prev="MedMag12q2-a">si esset propheta<g ref="#f161">;</g> sciret utique que 
+                    <lb/>here? <quote source="Bible.Vul:Luke.7.39" xml:id="MedMag12q2-a" next="#MedMag12q2-b">Hic</quote> inquit <quote xml:id="MedMag12q2-b" prev="MedMag12q2-a">si esset propheta<g ref="#f161">;</g> sciret utique que 
                         <lb/>et qualis esset mulier que tangit eum· quia 
                         <lb/>peccatrix est.</quote> Si<supplied reason="omitted"> </supplied>nominis consulas interpre
                     <lb/>tationem· reuera propheta est· uidens est. Non
@@ -529,7 +529,7 @@
                 </p>
             </div>
             <div n="13" type="textpart" subtype="section">
-                <p><quote source="Bible.Vul.Luke.7.40" xml:id="MedMag13q1-a" next="#MedMag13q1-b"><hi rend="enlarged">S</hi>imon</quote> inquit
+                <p><quote source="Bible.Vul:Luke.7.40" xml:id="MedMag13q1-a" next="#MedMag13q1-b"><hi rend="enlarged">S</hi>imon</quote> inquit
                     <lb/><quote xml:id="MedMag13q1-b">habeo tibi aliquit dicere.</quote> O felix <persName>magdale
                         <lb break="no"/>n<choice><sic>e</sic><corr>a</corr></choice></persName><g ref="#f161">;</g> que tantum habere meruisiti defensorem. 
                     <cb n="b"/>
@@ -543,7 +543,7 @@
                 </p>
             </div>
             <div n="14" type="textpart" subtype="section" rendition="lemma">
-                <p><quote source="Bible.Vul.Luke.7.41" xml:id="MedMag14q1-a" next="#MedMag14a1-b"><q><hi rend="enlarged">D</hi>uo</q></quote> inquit <quote xml:id="MedMag14a1-b"><q>debitores erant cuidam 
+                <p><quote source="Bible.Vul:Luke.7.41" xml:id="MedMag14q1-a" next="#MedMag14a1-b"><q><hi rend="enlarged">D</hi>uo</q></quote> inquit <quote xml:id="MedMag14a1-b"><q>debitores erant cuidam 
                             <lb/>feneratori· unus debebat feneratori denari
                             <lb break="no"/>os quingentos<g ref="#f161">;</g> et alius <del><unclear>et</unclear></del> quinquaginta. Non 
                             <lb/>habentibus autem illis unde redderent<g ref="#f161">;</g> do
@@ -569,7 +569,7 @@
                     <lb/>seu <term>largitus est</term>· nunquid ergo diligere· plus 
                     <lb/>tenetur· cui plus gratie collatum est· mul
                     <lb break="no"/>tominus<!-- Bestul 'multo minus' --> est dimissum? Inferius enim in<supplied reason="omitted"> </supplied>hoc 
-                    <lb/>eodem <persName>luce</persName> euangelio dicturus est dominus. <quote source="Bible.Vul.Luke.7.47">Cui
+                    <lb/>eodem <persName>luce</persName> euangelio dicturus est dominus. <quote source="Bible.Vul:Luke.7.47">Cui
                         <lb/>minus dimittitur<g ref="#f161">;</g> minus diligit.</quote> Quare is plus 
                     <lb/>debet diligere<g ref="#f161">;</g> cui amplius est dimissum. 
                     <lb/>Set ecce iam degenerare uidebitur· alicui mo
@@ -581,7 +581,7 @@
                     <lb/>est collatum<g ref="#f161">;</g> et multum dimissum. Vtinam 
                     <lb/>autem attendat prudens lector<g ref="#f161">;</g> quam circum
                     <lb break="no"/>specte· quam ciuiliter· quam modeste· rex regum hospi
-                    <lb break="no"/>tem suum compellet dicens. <label place="margin">De reuerentia exhibenda hospitibus.<!-- 's' is decoratively lengthened to justify the text. --></label><quote source="Bible.Vul.Luke.7.40">Symon<g ref="#f161">;</g> habeo 
+                    <lb break="no"/>tem suum compellet dicens. <label place="margin">De reuerentia exhibenda hospitibus.<!-- 's' is decoratively lengthened to justify the text. --></label><quote source="Bible.Vul:Luke.7.40">Symon<g ref="#f161">;</g> habeo 
                         <lb/>tibi aliquid dicere.</quote> Addiscat hinc regia ma
                     <lb break="no"/>iestas tam obseruare iura hospicii<g ref="#f161">;</g> quam 
                     <lb/>exhibere reuerentiam hospitibus. O res subli
@@ -591,7 +591,7 @@
                     <cb n="a"/>
                     <lb/><label place="margin"><unclear>¶</unclear> Vita inuenta salus <unclear>lite</unclear> cognitio deitatis sunt saluandorum premis pax et amor.</label>assumit narrationis exordium<g ref="#f161">;</g> antequam id<supplied reason="omitted"> </supplied>non 
                     <lb/>solum annuat hospes fieri· set et exhortetur
-                    <lb/>dicens. <quote source="Bible.Vul.Luke.7.40">Magister dic.</quote> Commendat etiam senten
+                    <lb/>dicens. <quote source="Bible.Vul:Luke.7.40">Magister dic.</quote> Commendat etiam senten
                     <lb break="no"/>tiam hospitis magister ueritatis<g ref="#f161">;</g> dicens. <quote>Rec
                         <lb break="no"/>te iudicasti.</quote> Pro dolor. <label place="margin" corresp="#MedMag15.1">De <unclear>superatio</unclear> magnatum.</label>Supercil<surplus>ic</surplus>iosus fastus 
                         <lb/>elationis magnatum non solum non sustinet 
@@ -609,12 +609,12 @@
                     <lb/>Et conuersus ad mulierem<g ref="#f161">;</g> dixit <persName>symoni</persName>.
                     <lb/>O felix <persName>magdalena</persName>· ad te se conuertit misericordia·
                     <lb/>te respicit oculis dulcedinis sue<g ref="#f161">;</g> ministerii 
-                    <lb/>tui sedulitatem commendat officiosam. <quote source="Bible.Vul.Luke.7.44">Vi
+                    <lb/>tui sedulitatem commendat officiosam. <quote source="Bible.Vul:Luke.7.44">Vi
                         <lb break="no"/>des</quote> inquit <quote>hanc mulierem?</quote> Si archana cor
                     <lb break="no"/>dis ipsius uideres<g ref="#f161">;</g> mutares in<supplied reason="omitted"> </supplied>melius sen
                     <lb break="no"/>tentiam· qua iam ipsam condempnare pre
                     <lb break="no"/>sumpsisti. Saltem obsequii feruentis di
-                    <lb break="no"/>ligentiam attende. <quote source="Bible.Vul.Luke.7.44–45">Intraui in domum 
+                    <lb break="no"/>ligentiam attende. <quote source="Bible.Vul:Luke.7.44–45">Intraui in domum 
                         <lb/>tuam<g ref="#f161">;</g> aquam pedibus meis non dedisti. Hec autem 
                         <lb/>lacrimis r<subst><del>o</del><add place="above">i</add></subst>gauit pedes meos<g ref="#f161">;</g> et capillis suis 
                         <lb/>tersit. Osculum michi non dedisti· hec autem ex quo 
@@ -624,11 +624,11 @@
                     <lb/>pedes meos· set et capillis suis tersit. Osculum 
                     <lb/>oris non michi prebuisti· hec autem pedes meos non 
                     <lb/>solum est osculata· set ex<supplied reason="omitted"> </supplied>quo intraui<g ref="#f161">;</g> non ces
-                    <lb break="no"/>sauit osculari pedes meos. <quote source="Bible.Vul.Luke.7.46">Oleo caput 
+                    <lb break="no"/>sauit osculari pedes meos. <quote source="Bible.Vul:Luke.7.46">Oleo caput 
                         <lb/>meum non unxisti· hec autem unguento</quote>· uidelicet· precioso <quote>pedes meos unxit.</quote> Tu nec oleum 
                     <lb/>michi dedisti· ista<g ref="#f161">;</g> unguentum preciosum. 
                     <lb/>Tu nec caput unxisti· ista<g ref="#f161">;</g> pedes unxit. 
-                    <lb/><quote source="Bible.Vul.Luke.7.47">Propter quod dico tibi· remittuntur ei pec
+                    <lb/><quote source="Bible.Vul:Luke.7.47">Propter quod dico tibi· remittuntur ei pec
                         <lb break="no"/>cata multa· quoniam dilexit multum.</quote> Quid 
                     <lb/>ergo si non multum dilexisset· dilexisset tamen· 
                     <lb/>nonne ei remissa essent peccata multa? 
@@ -645,14 +645,14 @@
                     <lb/>uiris tamen auctoritatis magne uisum est 
                     <lb/>contrarium· dicentibus hanc dictionem <term>quoniam</term> tene
                     <lb break="no"/>ri comprobatiue· non causaliter<g ref="#f161">;</g> cum dicitur· 
-                    <lb/><quote source="Bible.Vul.Luke.7.47">Remittuntur ei peccata multa<g ref="#f161">;</g> quoniam dilexit 
+                    <lb/><quote source="Bible.Vul:Luke.7.47">Remittuntur ei peccata multa<g ref="#f161">;</g> quoniam dilexit 
                         <lb/>multum.</quote> Ortodoxorum autem patrum exposi
                     <lb break="no"/>tiones<g ref="#f161">;</g> huic obuiant opinioni. <quote>Ignis 
                         <lb/>caritatis</quote> inquit <persName>gregorius</persName><g ref="#f161">;</g> <quote>peccatorum 
                         
                         <lb/>rubiginem comburit.</quote><!-- See Bestul 16n76 on source. --> Nonne lucis illu
                     <lb break="no"/>minatio· precessiua est naturaliter expulsio
-                    <lb break="no"/>nis tenebrarum. Sequitur. <quote source="Bible.Vul.Luke.7.47">Cui autem minus 
+                    <lb break="no"/>nis tenebrarum. Sequitur. <quote source="Bible.Vul:Luke.7.47">Cui autem minus 
                         <lb/>dimittitur<g ref="#f161">;</g> minus diligit.</quote> Quid ergo si ei cui 
                     <lb/>minus dimittitur· multo plus gratie con
                     <lb break="no"/>fertur? Proponantur igitur duo quorum alter 
@@ -697,7 +697,7 @@
                 <p><hi rend="enlarged">A</hi>udiamus postmo
                     <lb break="no"/>dum quem set et quam desiderabilem fructum conse
                     <lb break="no"/><unclear>quantur· qui humi</unclear><!-- Tear in microfilm. -->liter accedunt ad pedes sal
-                    <lb break="no"/>uatoris. <quote source="Bible.Vul.Luke.7.50">Fides</quote> inquit saluator <quote>tua saluam 
+                    <lb break="no"/>uatoris. <quote source="Bible.Vul:Luke.7.50">Fides</quote> inquit saluator <quote>tua saluam 
                         <lb/>te fecit. Vade in pace.</quote> O uerbum salutis· o uer
                     <lb break="no"/>bum salubre<g ref="#f161">;</g> o uerbum penitioribus pena
                     <lb break="no"/>tibus cordis fideliter reseruandum. <quote>Fides tua 

@@ -155,7 +155,7 @@
                             <add resp="#AN" place="margin">Etiam ambitionis desiderio<g ref="#f1f9">~</g> frenum dabit prudentia<g ref="#f161">;</g> si illud iob reducas ad memoriam. In nidulo meo morar· et sicut palma multiplicabo dies.</add> 
                             O utinam reducas ad memoriam illud 
                             <lb/>commendatione dignissimum paradigma<g ref="#f161">;</g> quod in libro iudicum propo
-                            <lb break="no"/>nit <persName>ioathan</persName> filius <persName>ieroboal</persName>. <quote source="Bible.Vul.Judg.9.8–15"><add place="overstrike">Ierunt</add> inquit ligna ut unge
+                            <lb break="no"/>nit <persName>ioathan</persName> filius <persName>ieroboal</persName>. <quote source="Bible.Vul:Judg.9.8–15"><add place="overstrike">Ierunt</add> inquit ligna ut unge
                                 <lb/>rent super se regem<g ref="#f161">;</g> dixeruntque oliue. Impera nobis. Que respondit eis.
                                 <lb/>Nunquid possum deserere pinguedinem meam qua et dii utuntur et ho
                                 <lb break="no"/>mines· et uenire ut inter ligna promouear? Dixeruntque ligna ad 
@@ -184,7 +184,7 @@
                             <lb break="no"/>um sollicitudo est. Si mari te commiseris<g ref="#f161">;</g> timendum est tibi ne a 
                             <metamark function="flag" rend="nota"/><lb/>ceto deglutiaris. Qui igitur mare iam enauigastis· et ad portum 
                             <lb/>terre firmi et stabilis propositi iam applicuistis<g ref="#f161">;</g> ut quid iterato pro
-                            <lb break="no"/>cellosum mare tumultuum secularium intrare desideratis? <quote source="Bible.Vul.Col.2.20">Mortui 
+                            <lb break="no"/>cellosum mare tumultuum secularium intrare desideratis? <quote source="Bible.Vul:Col.2.20">Mortui 
                                 <lb/>estis</quote> ut ait apostolus· et uita uestra abscondita est cum <expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>o</abbr></expan> in deo. Cum uero 
                             <lb/>apparuerit <expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan> uita uestra<g ref="#f161">;</g> apparebitis et uos cum ipso in gloria. 
                             <lb/>Mortui estis mundo<g ref="#f1e2">,</g> uiciis et concupiscentiis· mortui estis 
@@ -572,12 +572,12 @@
                     <div n="5" type="textpart" subtype="section">
                         <p><lb/><hi rend="enlarged blue">F</hi>uere tamen nonnulli· qui tribus operibus salomonis assignarent
                             <lb/>ue<g ref="#f1f9">~</g> lamentationes et carmen. Timor in parabolis ue commina
-                            <lb break="no"/>tur transgressoribus· scientia que docet nos recte conuersari <quote source="Bible.Vul.Phil.2.15">in me
+                            <lb break="no"/>tur transgressoribus· scientia que docet nos recte conuersari <quote source="Bible.Vul:Phil.2.15">in me
                                 <lb break="no"/>dio huius praue et peruerse nationis</quote><g ref="#f161">;</g> uanitatibus rerum perspectis<g ref="#f1f9">~</g>
                             <lb/>lamentationes et querelarum et satisfactionum penitentialum
                             <lb/>indicat· carmen exultationis iocunde<g ref="#f161">;</g> canticis canticorum et
                             <lb/>legibus deliciarum amoris congruit. Comminationem sapientie
-                            <lb/>audietis infra in parabolis<g ref="#f161">;</g> ubi legitur· <quote source="Bible.Vul.Prov.1.25">Despexistis omne con
+                            <lb/>audietis infra in parabolis<g ref="#f161">;</g> ubi legitur· <quote source="Bible.Vul:Prov.1.25">Despexistis omne con
                                 <lb break="no"/>silium meum· et increpationes meas neglexistis. Ego uero in
                                 <lb break="no"/>teritu uestro ridebo· et subsannabo<g ref="#f161">;</g> cum uobis quod timebat
                                 <lb/>aduenerit.</quote>
@@ -620,7 +620,7 @@
                 <div n="1" type="textpart" subtype="chapter">
                     <div n="1" type="textpart" subtype="section" rendition="lemma">
                         <p>
-                            <quote source="Bible.Vul.Prov.1.1"><hi rend="dropcap4 red trim-blue">P</hi><hi rend="uppercase">a</hi>rabole salomonis filii dauid regis israel· ad scien
+                            <quote source="Bible.Vul:Prov.1.1"><hi rend="dropcap4 red trim-blue">P</hi><hi rend="uppercase">a</hi>rabole salomonis filii dauid regis israel· ad scien
                                 <lb break="no"/>dam sapientiam et disciplinam· ad intellegenda uerba 
                                 <lb/>prudentie et suscipiendam eruditionem doctrine·
                                 <lb/>iustitiam et iuditium et equitatem· ut detur paruulis 
@@ -713,7 +713,7 @@
                     </div>
                     <div n="4" type="textpart" subtype="section" rendition="lemma">
                         <p rend="sidequotes">
-                            <quote source="Bible.Vul.Prov.1.1"><hi rend="enlarged red">P</hi>arabole salomonis filii dauid regis israel<g ref="#f161">;</g><lb/>ad sciendam sapientiam et disciplinam et cetera.</quote>
+                            <quote source="Bible.Vul:Prov.1.1"><hi rend="enlarged red">P</hi>arabole salomonis filii dauid regis israel<g ref="#f161">;</g><lb/>ad sciendam sapientiam et disciplinam et cetera.</quote>
                         </p>
                     </div>
                     <div n="5" type="textpart" subtype="section">
@@ -734,7 +734,7 @@
                             <lb/>uictorie<g ref="#f1f9">~</g> si tropheis debentur triumphi· quanta debent ipsorum
                             <lb/>esse preconia<g ref="#f1f9">~</g> qui carnem domare<g ref="#f1e2">,</g> mundum fugere<g ref="#f1e2">,</g> uicia con
                             <lb break="no"/>culcare<g ref="#f1f9">~</g> aerias potestates uincere fideliter docuerunt?
-                            <lb/>He sunt igitur <quote source="Bible.Vul.Prov.1.1">parabole salomonis filii dauid regis israel<g ref="#f161">;</g> ad sciendam sapientiam et disciplinam</quote>· etc. Singule dictiones hic posite<g ref="#f161">;</g>
+                            <lb/>He sunt igitur <quote source="Bible.Vul:Prov.1.1">parabole salomonis filii dauid regis israel<g ref="#f161">;</g> ad sciendam sapientiam et disciplinam</quote>· etc. Singule dictiones hic posite<g ref="#f161">;</g>
                             <lb/>pundus habent· unde sic pronuntiari debent<g ref="#f161">;</g> ut sensus iuuetur pro
                             <lb break="no"/>nuntiatione. Nomen parabolarum<g ref="#f161">;</g> fuctuosam lectori spondet
                             <lb/>utilitatem. Parabole namque sunt similitudines quedam· que per com
@@ -754,7 +754,7 @@
                             <lb/>quod forti operationi et strenue succedit pax eternitatis? Re
                             <lb/>gis israel dicitur<g ref="#f1f9">~</g> populi scilicet domini peculiaris· cui lex scripta dei di
                             <lb break="no"/>gito<g ref="#f1e2">,</g> data est<g ref="#f161">;</g> qui cultum latrie<g ref="#f1e2">,</g> uni deo exhibuit· cui tot
-                            <lb/>et tante facte sunt promissiones a domino. In eo item quod dicitur· <quote source="Bible.Vul.Prov.1.1">filii
+                            <lb/>et tante facte sunt promissiones a domino. In eo item quod dicitur· <quote source="Bible.Vul:Prov.1.1">filii
                                 <lb/>dauid regis israel</quote><g ref="#f161">;</g> innuitur· quoniam manga magnatibus imposita est
                             <lb/>necessitas<g ref="#f161">;</g> ne a predecessorum uirtute degener<subst><del>a</del><add>e</add></subst>nt. Monentur
                             <lb/>etiam spectabilibus et claris orti parentibus<g ref="#f161">;</g> ne reputentur quasi 
@@ -951,7 +951,7 @@
                             <lb/>auctor. Non proderunt thesauri impietatis· iustitia uero li
                             <lb break="no"/>berabit a morte. Quod quidem ad opera misericordie<g ref="#f161">;</g> solet referri.
                             <lb/>Iustitia est<g ref="#f161">;</g> subuenire proximo· iuditium<g ref="#f161">;</g> nature· e
-                            <lb break="no"/>quitas<g ref="#f161">;</g> egenti. O quam signanter dicum est. <quote source="Bible.Vul.LXX.Ps.111.9"><subst><del>d</del><add>D</add></subst>ispersit de
+                            <lb break="no"/>quitas<g ref="#f161">;</g> egenti. O quam signanter dicum est. <quote source="Bible.Vul.LXX:Ps.111.9"><subst><del>d</del><add>D</add></subst>ispersit de
                                 <lb break="no"/>dit pauperibus.</quote> Dispersit<g ref="#f161">;</g> quia non totum uni erogandum est.
                             <lb/>Pauperibus<g ref="#f161">;</g> non abundantibus. Vide tamen quia diues<g ref="#f161">;</g> pro
                             <pb n="61r"/>
