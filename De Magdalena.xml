@@ -179,7 +179,7 @@
                     <lb/><persName>magdalenam</persName> amouit<g ref="#f161">;</g> quantum in ipso fuit. Anima 
                     <lb/><persName>sunamitis</persName>· in amaritudine fuit. Tanta 
                     <lb/>autem fuit amaritudo cordis <persName>magdalene</persName><g ref="#f161">;</g> ut 
-                    <lb/>ex re nomen sortita de iure uideretur. <note place="margin">¶ Triplex interpretatio huius nominis <persName>marath</persName>.</note>Tres sunt 
+                    <lb/>ex re nomen sortita de iure uideretur. <label place="margin">¶ Triplex interpretatio huius nominis <persName>marath</persName>.</label>Tres sunt 
                     <lb/>enim interpretationes huius nominis <persName>maria</persName><g ref="#f161">;</g> 
                     <lb/>tractatui presenti conuenientes. Dicitur enim <persName>maria</persName> 
                     <lb/>a<supplied reason="omitted"> </supplied><placeName>marath</placeName> quod interpretatur amaritudo. Set dulco
@@ -197,7 +197,7 @@
                     <lb break="no"/>ne idem uidetur tibi <persName>maria</persName> petisse? Nonne enim 
                     <lb break="no"/>animus· a quo uita ipsius recessit mortuus cen
                     <lb break="no"/>sebitur? Deus anime uita est. Peccatum uero mor
-                    <lb break="no"/>tale<g ref="#f161">;</g> mors eiusdem est. <note place="margin">De <persName>sunamite</persName> et eius filio.</note>Et animaduertendum est 
+                    <lb break="no"/>tale<g ref="#f161">;</g> mors eiusdem est. <label place="margin">De <persName>sunamite</persName> et eius filio.</label>Et animaduertendum est 
                     <lb/>quia baculus <persName>helisei</persName><g ref="#f161">;</g> non suscitauit defunctum. 
                     <lb/>Quid enim per baculum· nisi iusticie rigor· quid 
                     <lb/>per <persName>heliseum</persName>· nisi diuine misericordie benignitas desi
@@ -298,7 +298,7 @@
                         <lb break="no"/>grantia unguentis optimis.</quote> O <persName>iesu</persName> dul
                     <lb break="no"/>cissime· o dulcedo· o benig<supplied reason="omitted">n</supplied>itas· o misericordia· 
                     <lb/>que me miseram· osculo tui tui oris digna
-                    <lb break="no"/>ris. <note place="margin">Duo ubera</note>O ubera misericordie semper lacte suauitatis ex
+                    <lb break="no"/>ris. <label place="margin">Duo ubera</label>O ubera misericordie semper lacte suauitatis ex
                     <lb break="no"/>uberantia· o ubera uberrima· compassio ui
                     <lb break="no"/>delicet et consolatio. Quid michi de<supplied reason="omitted"> </supplied>cetero· et uino 
                     <lb/>uoluptatum male dulcium. O <persName>iesu</persName> bone· o saluator o salus meliora sunt ubera 
@@ -338,7 +338,7 @@
                 <p><hi rend="enlarged">C</hi>onsideremus ergo
                     <lb/><persName>magdalenam</persName> iam felices habentem ad 
                     <lb/>uota successus· osculantem illos<supplied reason="omitted"> </supplied>illos dulcis
-                    <lb break="no"/>simos pedes uiri desideriorum· <note place="margin">¶ De lacrimis.</note>et non solum im
+                    <lb break="no"/>simos pedes uiri desideriorum· <label place="margin">¶ De lacrimis.</label>et non solum im
                     <lb break="no"/>bre lacrimarum set et riuis de<supplied reason="omitted"> </supplied>fonte pietatis 
                     <lb/>profluentibus oscula<supplied reason="omitted"> </supplied>dulciora super mel et fa
                     <lb break="no"/>uum condientem. Set cum pectus illud aman
@@ -347,12 +347,12 @@
                     <lb/>Ignis amoris<g ref="#f161">;</g> optime nutritur in<supplied reason="omitted"> </supplied>fonte aquarum 
                     <lb/>salientium in uitam eternam? Quid? Immo 
                     <lb/>et ipsa aqua<g ref="#f161">;</g> cor inflammat· et accendit. 
-                    <lb/><note place="margin">¶ De macabeorum.</note>Vt docet quippe <ref target="Bible.Vul.2Macc.1.19–22">secundus machabeorum</ref><g ref="#f161">;</g> ignis 
+                    <lb/><label place="margin">¶ De macabeorum.</label>Vt docet quippe <ref target="Bible.Vul.2Macc.1.19–22">secundus machabeorum</ref><g ref="#f161">;</g> ignis 
                     <lb/><choice><orig>imputeo</orig><reg>in puteo</reg></choice> reconditus est. Tractu uero temporis· 
                     <lb/>non est inuentus ignis<g ref="#f161">;</g> set aqua crassa. Sa
                     <lb break="no"/>crificia uero asper<supplied reason="omitted" resp="#Bestul1999">s</supplied>a<!-- Cf. 'aspargi', 2 Macc. 1:21. --> aqua hausta et ligna<g ref="#f161">;</g> ac
                     <lb break="no"/>censa sunt igne magno. Nonne spiritus sanctus· 
-                    <lb/>ignis dicitur <note place="margin">¶ Spiritus <expan><abbr>sig</abbr><ex>nificat</ex></expan> ignis· aqua.<!-- Written as a distinction; is there a better way of representing this? --></note>et aqua ratione diuersorum ef
+                    <lb/>ignis dicitur <label place="margin">¶ Spiritus <expan><abbr>sig</abbr><ex>nificat</ex></expan> ignis· aqua.<!-- Written as a distinction; is there a better way of representing this? --></label>et aqua ratione diuersorum ef
                     <lb break="no"/>fectuum? Ignis<g ref="#f161">;</g> exhilarat domum interiorem. 
                     <lb/>Aqua in orto paradisi mentis nobilia ri
                     <lb break="no"/>gat uirtutum genimina· et fecundat terram 
@@ -365,7 +365,7 @@
                     <lb/>Flammis huius ignis non uritur uirtutum<del>t</del> 
                     <!-- This and the following two Fs do not look like the typical capital F used by the scribe, but I think they're intended to be taken as such. -->
                     <lb/>uiror· set nutritur dulciter· et feliciter inten
-                    <lb break="no"/>ditur. <note place="margin">¶ Aqua crassa in libro <expan><abbr>macabe</abbr><ex>orum</ex></expan>.</note>Fluuius igneus<g ref="#f161">;</g> ciuitatem letificat 
+                    <lb break="no"/>ditur. <label place="margin">¶ Aqua crassa in libro <expan><abbr>macabe</abbr><ex>orum</ex></expan>.</label>Fluuius igneus<g ref="#f161">;</g> ciuitatem letificat 
                     <lb/>interiorem· uirtutum munitam propugna
                     <lb break="no"/>culis. Fons igneus<g ref="#f161">;</g> lacrimas emittit ex se 
                     <lb/>calidas· attestantes calori deuocionis. Oscula 
@@ -398,7 +398,7 @@
                     <lb break="no"/>one spiritus sancti interius. Ab osculo interiori discur
                     <lb break="no"/>rebat dulcedo ad osculum exterius· et meatu re
                     <lb break="no"/>ciproco recurrebat du<add>l</add>cedo ab osculo exteriori<g ref="#f161">;</g> 
-                    <lb/>ad interius. <note place="margin">¶ Sudat balsamus calamitam.</note>Sudat balsamus calamitam· et petra 
+                    <lb/>ad interius. <label place="margin">¶ Sudat balsamus calamitam.</label>Sudat balsamus calamitam· et petra 
                     <lb/>iusticie stillat mel duledinis. Influ<subst><del>a</del><add>i</add></subst>t dul
                     <lb/>cedo a dulcedine exteriori· et a dulcedine in
                     <lb break="no"/>teriori<g ref="#f161">;</g> effluit dulcor ad dulcedinem exteri
@@ -414,7 +414,7 @@
                     <lb/>Ratione enim spei· introducta sum in<supplied reason="omitted"> </supplied>ce
                     <lb/>lorum penetralia. Et ad <persName>iesum</persName> conuertens sermo
                     <lb break="no"/>nem spes sursum erecta<g ref="#f161">;</g> ipsum exultantem alloquitur 
-                    <lb/>dicens. <note place="margin">Inuidia<!-- What is the symbol above this word? --> et detractio que per phariseum<g ref="#f161">;</g> in claustris habitant.</note><quote source="Bible.Vul.Song.1.3">Exultabimus et letabimur in te<g ref="#f161">;</g> memores uberum tuorum super uinum.</quote> Exulta
+                    <lb/>dicens. <label place="margin">Inuidia<!-- What is the symbol above this word? --> et detractio que per phariseum<g ref="#f161">;</g> in claustris habitant.</label><quote source="Bible.Vul.Song.1.3">Exultabimus et letabimur in te<g ref="#f161">;</g> memores uberum tuorum super uinum.</quote> Exulta
                     <lb break="no"/>bimus· felicibus hylariter operibus insistendo· 
                     <lb/>letabimur<g ref="#f161">;</g> intus cum defecatis meditatio
                     <lb break="no"/>nibus diem festum agendo. Exultabimus
@@ -581,7 +581,7 @@
                     <lb/>est collatum<g ref="#f161">;</g> et multum dimissum. Vtinam 
                     <lb/>autem attendat prudens lector<g ref="#f161">;</g> quam circum
                     <lb break="no"/>specte· quam ciuiliter· quam modeste· rex regum hospi
-                    <lb break="no"/>tem suum compellet dicens. <note place="margin">De reuerentia exhibenda hospitibus.<!-- 's' is decoratively lengthened to justify the text. --></note><quote source="Bible.Vul.Luke.7.40">Symon<g ref="#f161">;</g> habeo 
+                    <lb break="no"/>tem suum compellet dicens. <label place="margin">De reuerentia exhibenda hospitibus.<!-- 's' is decoratively lengthened to justify the text. --></label><quote source="Bible.Vul.Luke.7.40">Symon<g ref="#f161">;</g> habeo 
                         <lb/>tibi aliquid dicere.</quote> Addiscat hinc regia ma
                     <lb break="no"/>iestas tam obseruare iura hospicii<g ref="#f161">;</g> quam 
                     <lb/>exhibere reuerentiam hospitibus. O res subli
@@ -589,11 +589,11 @@
                     <lb break="no"/>tatis sublimans. Ecce summus imperator non 
                     <pb n="133v"/>
                     <cb n="a"/>
-                    <lb/><note place="margin"><unclear>¶</unclear> Vita inuenta salus <unclear>lite</unclear> cognitio deitatis sunt saluandorum premis pax et amor.</note>assumit narrationis exordium<g ref="#f161">;</g> antequam id<supplied reason="omitted"> </supplied>non 
+                    <lb/><label place="margin"><unclear>¶</unclear> Vita inuenta salus <unclear>lite</unclear> cognitio deitatis sunt saluandorum premis pax et amor.</label>assumit narrationis exordium<g ref="#f161">;</g> antequam id<supplied reason="omitted"> </supplied>non 
                     <lb/>solum annuat hospes fieri· set et exhortetur
                     <lb/>dicens. <quote source="Bible.Vul.Luke.7.40">Magister dic.</quote> Commendat etiam senten
                     <lb break="no"/>tiam hospitis magister ueritatis<g ref="#f161">;</g> dicens. <quote>Rec
-                        <lb break="no"/>te iudicasti.</quote> Pro dolor. <ab rend="margin bracket-face"><note place="margin">De <unclear>superatio</unclear> magnatum.</note>Supercil<surplus>ic</surplus>iosus fastus 
+                        <lb break="no"/>te iudicasti.</quote> Pro dolor. <label place="margin" corresp="#MedMag15.1">De <unclear>superatio</unclear> magnatum.</label>Supercil<surplus>ic</surplus>iosus fastus 
                         <lb/>elationis magnatum non solum non sustinet 
                         <lb/>equanimiter minoris opinionem<g ref="#f161">;</g> set et moleste 
                         <lb/>fert et indignanter. O mores<g ref="#f161">;</g> o tempora. Ole
@@ -605,7 +605,7 @@
                         <lb break="no"/>limes<g ref="#f161">;</g> ceruicem erectam. Legislator <persName>moyses</persName> 
                         <lb/>humilitatis gratia preditus· consilio <persName>ietro</persName> licet gen
                         <lb break="no"/>tilis esset acquieuit. Iudex qui nutu con
-                        <lb break="no"/>cutit orbem<g ref="#f161">;</g> sententiam pharisei commendat.</ab> 
+                        <lb break="no"/>cutit orbem<g ref="#f161">;</g> sententiam pharisei commendat.<anchor xml:id="MedMag15.1"/> 
                     <lb/>Et conuersus ad mulierem<g ref="#f161">;</g> dixit <persName>symoni</persName>.
                     <lb/>O felix <persName>magdalena</persName>· ad te se conuertit misericordia·
                     <lb/>te respicit oculis dulcedinis sue<g ref="#f161">;</g> ministerii 
