@@ -317,7 +317,7 @@
                     <lb/>continentie· o fragrantia castitatis· o io
                     <lb/>cunda· o deliciosa suauitas fragrantie o
                     <lb break="no"/>doris unguentorum optimorum. Bone <persName>iesu</persName>. 
-                    <lb/>Tu unguentum es· tu unctio. ‌Unguentum 
+                    <lb/>Tu unguentum es· tu unctio. ‌Vnguentum 
                     <lb/>effusum<g ref="#f161">;</g> nomen tuum. Oleum es<g ref="#f161">;</g> quia 
                     <lb/>reficis· sanas· illuminas. Ideo non solum 
                     <lb/>sexaginta regine· non solum octoginta concu
@@ -632,6 +632,7 @@
                         <lb break="no"/>cata multa· quoniam dilexit multum.</quote> Quid 
                     <lb/>ergo si non multum dilexisset· dilexisset tamen· 
                     <lb/>nonne ei remissa essent peccata multa? 
+                    <!-- MacGregor via Bestul 15n74 suggests that the following two sentences should be transposed. -->
                     <lb/>Nonne caritas <expan>quec<abbr rend="supraline">u</abbr><ex>m</ex><abbr>q<am>;</am></abbr><ex>ue</ex></expan> sufficeret ad dele    
                     <lb break="no"/>tionem multorum reatuum? Nonne gratie 
                     <cb n="b"/>
@@ -730,7 +731,7 @@
                     <lb break="no"/>gionis<g ref="#f161">;</g> sunt humanitas saluatoris et 
                     <lb/>diuinitas. Huic<g ref="#f161">;</g> dignissimam dulie speciem<!-- Bestul 'spem' --> 
                     <lb/>exhibemus· illi<g ref="#f161">;</g> latriam impendimus. 
-                    <lb/>Christus igitur in utraque natura<g ref="#f161">;</g> est pax nostra· gau
+                    <lb/><persName>Christus</persName> igitur in utraque natura<g ref="#f161">;</g> est pax nostra· gau
                     <lb break="no"/>dium nostrum· finis noster. In utraque natura sal
                     <cb n="b" break="no"/>
                     <lb break="no"/>uatoris delectabimur<!-- Bestul 'delectabimus' --> eternaliter· glorifica
@@ -827,6 +828,557 @@
                     <lb/>suscepta patronum? Te ream absoluit se
                     <lb break="no"/>renissimus iudex· qui et aduocatus et testis tu
                     <cb n="b" break="no"/>
+                    <lb break="no"/>us effectus est. O testis<g ref="#f161">;</g> omni exceptione 
+                    <lb/>maior. <quote>Dimissa sunt ei</quote> inquit <quote>peccata mul
+                        <lb break="no"/>ta quoniam dilexit multum.</quote> O iudicis aucto
+                    <lb break="no"/>ritas<g ref="#f161">;</g> o patroni pietas· o testis ueritas<g ref="#f161">;</g> o 
+                    <lb/>absoluentis benignitas. O sublimis auc
+                    <lb break="no"/>toritas· o patiens pietas<g ref="#f161">;</g> o irrefragabilis 
+                    <lb/>ueritas· o inexhausta benignitas. O ad
+                    <lb break="no"/>miratione· o commendatione digna· impera
+                    <lb break="no"/>toris summi munificentia. Terreni princi
+                    <lb break="no"/>pes suis distribuunt militibus <label place="margin">Congiarium<!-- I believe that the mark above ('b'?) is indicating that this goes in the second column. --></label>congiaria· 
+                    <lb/>set celestis imperator fidem peccatorum remis
+                    <lb break="no"/>sionem· salutem· pacem· seipsum etiam suis 
+                    <lb/>largitur. <quote source="Bible.Vul:Luke.7.48">Remittuntur</quote> inquit ueritas<g ref="#f161">;</g> 
+                    <lb/><quote>tibi peccata·</quote> <quote source="Bible.Vul:Luke.7.50">fides tua te saluam fecit. Vade in<supplied reason="omitted"> </supplied>pace.</quote> O pax desiderabilis<g ref="#f161">;</g> sabba
+                    <lb break="no"/>tismus interne tranquillitatis. O munera 
+                    <lb/>regem celestem decentia quibus <quote>magdalenam</quote> 
+                    <lb/>ditauit imperator noster.
+                </p>
+            </div>
+            <div n="18" type="textpart" subtype="section">
+                <p><hi rend="enlarged">A</hi>ttendite uiri fratres 
+                    <lb/>quibus celitus iam concessum est prelibare 
+                    <lb/>suauitatem deliciarum iocundatis eterne· 
+                    <lb/>quia <persName>iesus</persName> noster qui scuto bone uoluntatis sue 
+                    <lb/>nos coronat· <label>Ter fuit <persName>christus</persName> aduocatus <persName>magdalene</persName>.<!-- Also with a mark for the second column. --></label>ter protexisse <persName>magdalenam</persName> 
+                    <lb/>clipeo protectionis legitur. In domo namque 
+                    <lb/>pharisei compescuit indignationem eiusdem<g ref="#f161">;</g> 
+                    <lb/>dum egre tulit quod <persName>maria</persName> tam familiari
+                    <lb break="no"/>ter ad <persName>iesum</persName> accessit. Cum item <persName>martha</persName> pe
+                    <lb break="no"/>teret a domino ut soror<del><unclear>i</unclear></del> eius ipsi solatium impen
+                    <lb break="no"/>deret in laboris honesti participio<g ref="#f161">;</g> fouit <persName>marie</persName> partem dominus dicens. <quote source="Bible.Vul:Luke.10.41–Luke.10.42"><!-- Incorrect reference in Bestul. --><persName>Martha</persName><!-- Should be a space here, which for some reason is getting collapsed when formatting XML. --><persName>mar
+                            <lb break="no"/>tha</persName> sollicita es et turbaris erga plurima. 
+                        <lb/>Porro<g ref="#f161">;</g> unum est necessarium. <persName>Maria</persName> opti
+                        <lb break="no"/>mam partem elegit· que non auferetur ab ea.</quote> 
+                    <lb/>Seruili item auaricie mancipio <persName>iuda</persName> 
+                    <lb/>proditore indignante super ung<add place="above">u</add>enti precio
+                    <lb break="no"/>si effusione· non solum obsequium mini
+                    <lb break="no"/>strantis commendauit· set et temerarie 
+                    <lb/>cauillationis molestos arguens insidia
+                    <lb break="no"/>tores<g ref="#f161">;</g> adiecit. <quote source="Bible.Vul:Mark.14.9">Vbicumque predicatum fuerit 
+                        <lb/>euangelium istud in immenso mundo<g ref="#f161">;</g> 
+                        <lb/>et quod fecit hec narrabitur in memoriam 
+                        <lb/>eius.</quote> Domus impleta est ex odore unguenti<g ref="#f161">;</g> et mundus fama nominis <persName>magdalene</persName> 
+                    <lb/>repletus est. Quorsum hec? Vt atten
+                    <lb break="no"/>datis quam propenso fauore contemplati
+                    <lb break="no"/>uam uitam tueatur diuina dementia. 
+                    <lb/><label place="margin">¶ De laude contemplatiue uite.</label>Delectatur et ipse altissimus deliciis con
+                    <pb n="135r" break="no"/>
+                    <cb n="a" break="no"/>
+                    <lb break="no"/>templatiuorum. Vnde in epithalamio amo
+                    <lb break="no"/>ris<g ref="#f161">;</g> introducitur dilectus dicens. <quote source="Bible.Vul:Song.8.4">Adiu
+                        <lb break="no"/>ro uos filie <placeName>ierusalem</placeName><g ref="#f161">;</g> ne suscitetis neque eui
+                        <lb break="no"/>gilare faciatis dilectam<g ref="#f1f9">~</g> donec ipsa uelit.</quote> 
+                    <lb/>Set et uitam ipsam contemplatiuam tanquam 
+                    <lb/>sub admiratione commendans<g ref="#f161">;</g> subdit. 
+                    <lb/><quote source="Bible.Vul:Song.8.5">Que est ista que ascendit de deserto· deli
+                        <lb break="no"/>ciis affluens· et innixa super dilectum suum?</quote> 
+                    <lb/>O quam dulce· quam iocundum· quam tutum est<g ref="#f161">;</g> 
+                    <lb/><metamark function="flag" rend="hand"/>inniti super dilectum. Baculo harundineo 
+                    <lb/>innititur<g ref="#f161">;</g> qui familiaritate potestatis ter<!-- Tear in microfilm. -->
+                    <lb break="no"/>rene gloriatur. Set et dilectam suam· contem
+                    <lb break="no"/>platiuam uidelicet<g ref="#f161">;</g> dulciter alloquitur 
+                    <lb/>dicens. <quote source="Bible.Vul:Cant.8.6–Cant.8.7">Pone me ut signaculum super cor 
+                        <lb/>tuum<g ref="#f161">;</g> ut signaculum super brachium· 
+                        <lb/>quia fortis est ut mors dilectio· dura sicut 
+                        <lb/>inferus emulatio. Lampades eius· lampa
+                        <lb break="no"/>des ignis atque flammarum. Aque multe 
+                        <lb/>non poterunt extinguere caritatem· ne
+                        <lb break="no"/>que flumina obruent illam. Si dederit homo 
+                        <lb/>omnem substantiam domus sue pro dilecti
+                        <lb break="no"/>one<g ref="#f161">;</g> quasi nichil despiciet eam.</quote> Et rur
+                    <lb break="no"/>sum. <quote source="Bible.Vul:Cant.8.13">Que habitas in ortis<g ref="#f161">;</g> fac me audi
+                        <lb break="no"/>re uocem tuam· amici ascultant.</quote> Et iterum. 
+                    <lb/><quote source="Bible.Vul:Song.2.14">Ostende michi faciem tuam<g ref="#f161">;</g> sonet uox tua 
+                        <lb/>in auribus meis. Vox enim tua dulcis<g ref="#f161">;</g> et 
+                        <lb/>facies decora.</quote> <quote source="Bible.Vul:Song.6.3">Pulchra es</quote> inquit <quote>amica 
+                        <lb/>mea· et suauis· et decora· sicut <placeName>ierusalem</placeName><g ref="#f161">;</g> terribilis 
+                        <lb/>ut castrorum acies ordinata.</quote> Venerabilis 
+                    <lb/>quidem cohors uirorum claustralium<!-- Corrected in the margin. --> decora 
+                    <lb/>est sicut <placeName>ierusalem</placeName><g ref="#f161">;</g> iuxta id quod ait<del>·</del> dominus 
+                    <lb/><persName>moysi</persName>. <quote source="Bible.Vul:Exod.26.30">Fac tibi tabernaculum instar illius<g ref="#f161">;</g> 
+                        <lb/>quod in<supplied reason="omitted"> </supplied>monte premonstratum est.</quote> Ter
+                    <lb break="no"/>ribilis est etiam malignis spiritibus· est 
+                    <lb/>enim acies ista castrorum in<supplied reason="omitted"> </supplied>quibus militant 
+                    <lb/><persName>christi</persName> milites<g ref="#f161">;</g> ordinata contra uiciorum bar
+                    <lb break="no"/>bariem. Est etiam ecclesia militans ordina
+                    <lb break="no"/>ta<g ref="#f161">;</g> instar legionum angelicarum· que· in 
+                    <lb/>nouem ordines decentissime distributa 
+                    <lb/>est et disposita. Iacob<g ref="#f161">;</g> amorem sequentis 
+                    <lb/>pretulit priori· et <persName>helcana</persName> magis gauisus 
+                    <lb/>est amplexibus <persName>anne</persName> quam <persName>fenenne</persName>. <persName>Mar
+                        <lb break="no"/>the</persName> preponitur <persName>maria</persName><g ref="#f1f9">~</g> et labori quies est 
+                    <lb/>preferenda. Quid ni? Laboris honesti<g ref="#f161">;</g> fi
+                    <lb break="no"/>nis est quies. Felix est labor temporalis<g ref="#f161">;</g> 
+                    <lb/><metamark function="flag" rend="nota"/>cui quies eterna debetur· felicissima est 
+                    <cb n="b"/>
+                    <lb/>tranquillitas contemplatiue· que deliciis eter
+                    <lb break="no"/>ne quietis continuatur. <quote source="Bible.Vul:Luke.10.42"><persName>Maria</persName></quote> inquit <quote>optimam partem elegit<g ref="#f161">;</g> que non auferetur ab ea.</quote> 
+                    <lb/>Contemplatiua<g ref="#f161">;</g> hic incipit· et in celesti pa
+                    <lb break="no"/>tria perficietur· quia amoris ignis qui ardere 
+                    <lb/>hic inchoat· cum ipsum quem amat uiderit<g ref="#f161">;</g> 
+                    <lb/>amplius ignescet. Cum presenti milicia<g ref="#f161">;</g> aufe
+                    <lb break="no"/>retur actiua· set delicie contemplationis<g ref="#f161">;</g> tam 
+                    <lb/>in<supplied reason="omitted"> </supplied>cognitione<!-- Bestul reads 'cognitatione' and corrects it to 'cogitatione'. --> quam in dilectione· felix sus
+                    <lb break="no"/>cipient incrementum. Prouida est <persName>marthe</persName> dis
+                    <lb break="no"/>cretio· dum fidele sororis<!-- Microfilm tear. --> subsidium implo
+                    <lb break="no"/>rat<g ref="#f161">;</g> in<supplied reason="omitted"> </supplied>humili deuotarum orationum supplica
+                    <lb break="no"/>tione. Oritur tamen quandoque quedam emula
+                    <lb break="no"/>tionis species<g ref="#f161">;</g> inter eos qui<!-- Bestul 'que' --> felicibus spiritualium <!-- A correction added in the margin; not possible to read in microfilm. Also another face bracket down to 'O delicie' -->
+                    <lb/>studiorum excercitiis indulgent· et eos qui 
+                    <lb/>necessitatibus rerum familiarium<!-- Bestul 'familiarum' --> implican
+                    <lb break="no"/>tur. Hi<g ref="#f161">;</g> laboris in<surplus> </surplus>commoda cum anxiis sol
+                    <lb break="no"/>licitudinum curis pretendunt· et uberiorem 
+                    <lb/>fructu<add place="above">u</add>m prouentum procedere ex labore ipsorum· 
+                    <lb/>quam ex ocio fratrum<g ref="#f161">;</g> contendunt eu<add place="above">i</add>ncere. Illi 
+                    <lb/>lectionum utilium fructu<supplied reason="omitted"> </supplied>se recreant· aut 
+                    <lb/>orationum piarum dulcedine capiuntur. <add place="margin">Et dum tantis capiuntur</add> 
+                    <lb/>deliciis<g ref="#f161">;</g> tantas uix capiunt delicias<g ref="#f161">;</g> O deli
+                    <lb break="no"/>cie semper noue· semper cor innouantes. O deli
+                    <lb break="no"/>cie<g ref="#f161">;</g> o diuicie· o diuites· o delicie o deliciose 
+                    <lb/>diuicie.<!-- Bestul 'deuicie' --> Quam tutum sit sedere ad pedes domini 
+                    <lb/>cum <persName>maria</persName><g ref="#f161">;</g> nouit dilecta que dilecto res
+                    <lb break="no"/>pondit· <quote source="Bible.Vul:Song.5.3">Expoliaui me tunica mea· quomodo 
+                        <lb/>induar ea? Laui pedes meos· quomodo inquinabo 
+                        <lb/>eos?</quote> <quote source="Bible.Vul:Prov.21.9">Melius est sedere in<supplied reason="omitted"> </supplied>angulo domatis· <metamark function="flag" rend="nota"/>
+                        <lb/>quam cum uxore litigiosa in<supplied reason="omitted"> </supplied>domo communi.</quote> 
+                    <lb/><label place="margin">Vxor litigiosa.</label>Que est uxor litigiosa<g ref="#f161">;</g> nisi sollicitudo re<metamark function="flag" rend="hand"/>
+                    <lb break="no"/>rum terrenarum? <label place="margin">Domus communis.</label>Que est domus communis· 
+                    <lb/>nisi conuersatio uite secularis? <quote source="Bible.Vul:Luke.10.39"><persName>Maria</persName></quote> inquit 
+                    <lb/><quote>lucas</quote>· <quote source="Bible.Vul:Luke.10.39–Luke.10.40">sedens secus pedes domini<g ref="#f161">;</g> audiebat uer<!-- A correction added in the margin; not possible to read in microfilm. -->
+                        <lb break="no"/>bum illius. <persName>Martha</persName> autem· satagebat circa 
+                        <lb/>frequens ministerium. Que stetit<g ref="#f161">;</g> et ait· Do
+                        <lb break="no"/>mine non est tibi cure· quod soror mea reliquit 
+                        <lb/>me solam ministrare?</quote> Ecce <persName>maria</persName> no<metamark function="flag" rend="hand"/>
+                    <lb break="no"/>uit· quia cultus iusticie<g ref="#f161">;</g> est silentium. <persName>Maria</persName><g ref="#f161">;</g> 
+                    <lb/>sedebat et audiebat· <persName>martha</persName> stabat et lo
+                    <lb break="no"/>quebatur. Illa<g ref="#f161">;</g> sedebat secus pedes domini. 
+                    <lb/>Ista<g ref="#f161">;</g> satagebat circa frequens ministerium. 
+                    <lb/>Sedere<g ref="#f161">;</g> est quescentis· sedere<g ref="#f161">;</g> est et regnan
+                    <lb break="no"/>tis. Nonne qui mundum cum mundanis 
+                    <lb/>contempnit· qui suauitatem iocunditatis
+                    <pb n="135v"/>
+                    <cb n="a"/>
+                    <lb/>patrie celestis iam libat· cuius <quote>conuersatio iam est 
+                        <lb/>in<supplied reason="omitted"> </supplied>celis</quote>· cum domino quodammodo iam regnat? Stat 
+                    <lb/><persName>martha</persName><g ref="#f161">;</g> in laboris desudans agone. Sedet 
+                    <lb/>ad pedes domini<g ref="#f161">;</g> quicumque de<supplied reason="omitted"> </supplied>dulci saluatoris 
+                    <lb/>humanitate· pias uoluit in<supplied reason="omitted"> </supplied>animo meditationes. 
+                    <lb/>Nonne tibi pie lector uidetur <persName>maria</persName> sedens ad 
+                    <lb/>pedes dilecti· et audiens uerbum illius dicere· 
+                    <lb/><quote source="Bible.Vul:Song.2.3">sub<supplied reason="omitted"> </supplied>umbra illius quem desideraueram sedi· et 
+                        <lb/><!-- Face-bracket runnning to 'precipitans'. -->fructus eius dulcis gutturi meo</quote>? Vtinam uero ii quorum 
+                    <lb/>interest prospicere indempnitati rei publice<g ref="#f161">;</g> aduer
+                    <lb break="no"/>tant quam signanter· quam circumspecte de <persName>martha</persName> 
+                    <lb/>scriptum sit: <quote><persName>Martha</persName> autem<g ref="#f161">;</g> satagebat circa fre
+                        <lb break="no"/>quens ministerium.</quote> <label place="margin">Satagere<!-- Also something cut off in the margin. --></label>Quid enim est satagere circa 
+                    <lb/>ministerium· nisi diligentiam exactissimam adhibere 
+                    <lb/>regende administrationi· cum lenissima tran
+                    <lb break="no"/>quillitate et pace fratrum <persName>christi</persName>· et amoris dulcedi
+                    <lb break="no"/>ne· et discretione prouidentie exitum rei preme
+                    <lb break="no"/>tientis? Verbum satagendi<g ref="#f161">;</g> auream respicit 
+                    <lb/>mediocritatem· ut dispensatorem non constringat a
+                    <lb break="no"/>uaritia semper<supplied reason="omitted"> </supplied>inops<g ref="#f161">;</g> nec rerum suarum esse· profu
+                    <lb break="no"/>sum preceps compellat prodigalitatis inconsul
+                    <lb break="no"/>te temeritas. Satagit· qui intra limites mu
+                    <lb break="no"/>nifice largitatis certos deambulat· nec super
+                    <lb break="no"/>fluitatis dispendium incurrens· nec in carcerem 
+                    <lb/>misere tenacitatis sese precipitans. <label place="margin">Prodigalitas.</label>Prodigalitas 
+                    <lb/>est torrens estiuus repentinis <subst><del>u</del><add>i</add></subst>mbrium inun
+                    <lb break="no"/>dationibus intumescens· per abrupta montium 
+                    <lb/>se precipitans<g ref="#f161">;</g> set in breui desiccandus. <label place="margin">Auaricia.</label>Auari
+                    <lb break="no"/>tia est palus <placeName>meotica</placeName><g ref="#f161">;</g> perpetuo gelu constricta. 
+                    <lb/><label place="margin">Largitas.</label>Largitas est fons illimis· nitidis argenteus 
+                    <lb/><metamark function="flag" rend="hand"/>undis<g ref="#f161">;</g> iugiter scaturiens. Sicut autem uena diues 
+                    <lb/>fonti perpetuas aquas ministrat<g ref="#f161">;</g> sic largitati 
+                    <lb/>sufficientiam semper largitur dementia diuine be
+                    <lb break="no"/>nignitatis. Etsi enim uir honestus sciat penu
+                    <lb break="no"/>riam pati cum res desiderat<g ref="#f161">;</g> nunquam tamen in se 
+                    <lb/>egena est uirtus· set semper diues· semper habun
+                    <lb break="no"/>dans. Set cum uirtus sit medium uiciorum utr<subst><del>u</del><add>i</add></subst>mque 
+                    <lb/>redactum<g ref="#f161">;</g> nescio quo pacto detestabilior pro
+                    <lb break="no"/>digalitate censeatur auaritia· nisi forte 
+                    <lb/>filii <persName>ade</persName> sua querentes commoda<g ref="#f161">;</g> libenter fa
+                    <lb break="no"/>ueant pecunie aliene effusioni.<!-- Looks like a colon: is that on purpose? --> Set quid? 
+                    <lb/>In remotis agit partibus prodigalitas· impati
+                    <lb break="no"/>ens tyrannidis hostis sue<g ref="#f161">;</g> que iam maximam 
+                    <lb/>habitabilis nostre portionem<g ref="#f161">;</g> ditioni sue subegit. 
+                    <lb/>Set ab auaritia quero cui libenter oppono dum 
+                    <lb/>ei me libentius oppono<g ref="#f161">;</g> utrum grata sit prodi
+                    <cb n="b" break="no"/>
+                    <lb break="no"/>galitati munera ipsi prodigenti. Nonne etiam 
+                    <lb/>ab ipsa prodigalitate· libens accipit dona et 
+                    <lb/>auaritia? Set dum indignatur super rerum 
+                    <lb/>profusione· nonne letatur si tamen letari nouit· 
+                    <lb/>de profusa munerum acceptione? Set quid? Solum 
+                    <lb/>prodigalitatis nomen superesse reor<g ref="#f161">;</g> diebus quibus reg
+                    <lb break="no"/>nat auaritia. O quam felicia<supplied reason="omitted"> </supplied>sunt tempora 
+                    <lb/>nostra· que uicium prodigalitatis non nouerunt. 
+                    <lb/>Felicia quidem<g ref="#f161">;</g> si monstrum auaricie abhor
+                    <lb break="no"/>rerent. Fallitur si<supplied reason="omitted"> </supplied>quis opinatur in<supplied reason="omitted"> </supplied>curiis mag
+                    <lb break="no"/>natum omne genus uiciorum dominari· cum 
+                    <lb/>nec eas intrare fas sit prodigalitati<g ref="#f161">;</g> auari
+                    <lb break="no"/>tia pre foribus residente· in<supplied reason="omitted"> </supplied>foro rostra tenente<g ref="#f161">;</g> 
+                    <lb/>in<supplied reason="omitted"> </supplied>palatio ad<supplied reason="omitted"> </supplied>mensam discumbente· in thala
+                    <lb break="no"/>mis noctes insompnes ducente‚ in<supplied reason="omitted"> </supplied>fisco 
+                    <lb/>lapidem in<supplied reason="omitted"> </supplied>aceruum <persName>mercurii</persName> mittente.
+                </p>
+            </div>
+            <div n="19" type="textpart" subtype="section">
+                <p><lb/><quote source="Bible.Vul:Luke.10.42"><hi rend="enlarged">P</hi>orro unum est necessarium. <persName>Maria</persName> optimam 
+                        <lb/>partem elegit<g ref="#f161">;</g> que non auferetur ab ea.</quote> Peruia ui
+                    <lb break="no"/>dentur ista esse intelligentie· arduarum tamen 
+                    <lb/>questionum subtilitas<g ref="#f161">;</g> transitum istum reddit 
+                    <lb/>difficilem. Que est enim ista pars quam <persName>ma
+                        <lb break="no"/>ria</persName> elegit· nisi contemplatiua uita· que quasi 
+                    <lb/>pars est sapientie aut honestatis? Set in quo 
+                    <lb/>melior est contemplatiua quam actiua· nisi 
+                    <lb/>quia tutior est· et molestiis anxiarum sollicitu
+                    <lb break="no"/>dinum minus exposita? Veri simile quidem 
+                    <lb/>uidetur<g ref="#f161">;</g> quod difficultas ad<add place="inline">a</add>ugeat meritum. 
+                    <lb/>Alioquin<g ref="#f161">;</g> ut quid diceret apostolus uas electionis· 
+                    <lb/>se plus omnibus laborasse? Nonne item 
+                    <lb/>purpuratorum uictoriis martirum debetur 
+                    <lb/>aureola· confessoribus aurea? Nonne predi
+                    <lb break="no"/>catorum labor egregius peculiarem palme 
+                    <lb/>gloriam promeretur? Si igitur in caritate pari· dif
+                    <lb break="no"/>ficultati laboris amplior debetur corona· con
+                    <lb break="no"/>stare uidetur quod actiuus in caritate pari plus 
+                    <lb/>mereatur contemplatiuo. In<supplied reason="omitted"> </supplied>quo ergo melior 
+                    <lb/>est pars quam elegit contemplatiuus? Si uero 
+                    <lb/>penes caritatem subsistit meriti substantia· 
+                    <lb/>quid igitur si contemplatiu<supplied reason="omitted">u</supplied>s· et actiuus plus 
+                    <lb/>laborans· contemplatiuo pari in intensio
+                    <lb break="no"/>ne donentur caritate? Nunquid cum dicitur· 
+                    <lb/><quote><persName>maria</persName> optimam partem elegit que non auferetur 
+                        <lb/>ab ea</quote><g ref="#f1f9">~</g> relatio causam implicat? Quid est 
+                    <lb/>igitur quod dicitur· <quote>porro unum est necessarium</quote>? 
+                    <lb/>Vtrum hoc est intelligendum de<supplied reason="omitted"> </supplied>necessitate 
+                    <lb/>utilitatis· aut necessitate ineuitabilitatis? 
+                    <pb n="136r"/>
+                    <cb n="a"/>
+                    <lb/>Credere· sperare· et diligere· plura sunt<g ref="#f161">;</g> et sine 
+                    <lb/>his salutem non consequetur adultus. Quod est istud 
+                    <lb/>unum? Nunquid inherere deo? Set nonne 
+                    <lb/><persName>martha</persName> inheret· et adheret deo? Si unum istud 
+                    <lb/>censeatur esse tranquillitas interna· nunquid sine 
+                    <lb/>eius presentia non aderit salus? <label place="margin">Sollicitudo circa plura.</label>Actiuus ergo laqueis 
+                    <lb/>sollicitudinum implicitus· caritatem tamen 
+                    <lb/>habens<g ref="#f161">;</g> pacem habet pectoris. Quid est ergo 
+                    <lb/>quod dicitur· <quote source="Bible.Vul:Luke.10.41"><persName>Martha</persName><persName>martha</persName> sollicita es· et tur
+                        <lb break="no"/>baris erga plurima</quote>? Nunquid sollicitudo tur
+                    <lb break="no"/>bans animum· comes est interne quietis?<!-- Microfilm tear. --> 
+                    <lb/>Nunquid fons limpidus est dum turbatur? Set 
+                    <lb/>nonne aliud est turbari· aliud perturbari? 
+                    <lb/>Set quid? Timeo ne michi stilum talibus acco
+                    <lb break="no"/>modanti<g ref="#f161">;</g> dicatur. Vt quid sollicitus es· et tur
+                    <lb break="no"/>baris erga plurima? <quote>Porro unum est ne
+                        <lb break="no"/>cessarium.</quote> Sciendum est igitur quia plura sunt 
+                    <lb/>necessaria ad salutem<g ref="#f161">;</g> dum ad unum tendunt· 
+                    <lb/>non quia plura<g ref="#f161">;</g> set quia ad unum. Eo enim ipso 
+                    <lb/>quod ad unum tendunt· interpretatione iuris 
+                    <lb/>celestis· unum sunt. <persName>Martha</persName> itaque eo ipso 
+                    <lb/>conformatur <persName>marie</persName><g ref="#f161">;</g> quod ad<supplied reason="omitted"> </supplied>unum tendit. Mo
+                    <lb break="no"/>netur igitur <persName>martha</persName> ne<supplied reason="omitted"> </supplied>sic eam negociorum 
+                    <lb/>sollicitudo perturbet· circa plurima<g ref="#f161">;</g> quin ad 
+                    <lb/>unum quod necessarium est tendat· profecto<g ref="#f161">;</g> 
+                    <lb/>unum est necessarium· frui uidelicet deo. 
+                    <lb/>In<supplied reason="omitted"> </supplied>presenti quidem fruimur deo<g ref="#f161">;</g> in futuro fru
+                    <lb break="no"/>emur· set et perfruemur. Ad hoc autem ut assit 
+                    <lb/>illa illa iocundissima perfru<supplied reason="omitted">i</supplied>tio<g ref="#f161">;</g> optimam 
+                    <lb/>partem elegit <persName>maria</persName>. Hanc nimirum<g ref="#f161">;</g> ut 
+                    <lb/>inhereat deo· molestiis tumultuum foren
+                    <lb break="no"/>sium exclusis. Optimam inquam ratione 
+                    <lb/>expedite securitatis· optimam<g ref="#f161">;</g> quia non 
+                    <lb/>auferetur. Continuatur enim quies frui
+                    <lb break="no"/>tionis· perfecte requiei<!-- Bestul 'requie' --> perfruitionis. Amor 
+                    <lb/>qui militat<!-- Bestul 'inuitat' --> in presenti<g ref="#f161">;</g> triumphabit in 
+                    <lb/>futuro· et fruitio que nunc semiplena est· 
+                    <lb/>instar lune dum est amphicirtos<g ref="#f161">;</g> plena 
+                    <lb/>erit ut luna dum panselenos est. Immo a
+                    <lb break="no"/>mor idem numero<unclear>·</unclear> qui in<supplied reason="omitted"> </supplied>presentiarum radiat 
+                    <lb/>ut stella micans<g ref="#f161">;</g> in<supplied reason="omitted"> </supplied>celo fulgebit empireo 
+                    <lb/><!-- Face-bracket to end of column. -->ut sol choruscans in<supplied reason="omitted"> </supplied>meridie. <persName>Martha</persName> quidem 
+                    <lb/>sollicita est<g ref="#f161">;</g> et turbatur erga plurima. Set 
+                    <lb/>quid sentiemus de iis qui sollicitantur et 
+                    <lb/>turbantur circa infinita? O uehemens 
+                    <lb/>animi applicatio· o afflictio spiritus illius qui 
+                    <cb n="b"/>
+                    <lb/>preest regimini scolarum· dum uno capite ydre 
+                    <lb/>gladio<add place="inline"> </add>solutionis preciso<g ref="#f161">;</g> multa succrescunt. 
+                    <lb/>Dum enim unus questionis articulus expeditus esse 
+                    <lb/>uidetur sufficienter<g ref="#f161">;</g> oriuntur alie questiones· 
+                    <lb/>datam turbantes solutionem. <label place="margin">¶ Audi monache.</label><!-- Face-bracket to end of column. -->Quosdam uero cura 
+                    <lb/>uigil macerat<g ref="#f161">;</g> ut res adquirantur· timor geli
+                    <lb break="no"/>dus sollicitat<g ref="#f161">;</g> ne subtrahantur· dolor anxius excru
+                    <lb break="no"/>ciat<g ref="#f161">;</g> si forte subducantur. <label place="margin">Versus.<!-- Figure out where this goes. --></label>Alios uexat et an
+                    <lb break="no"/>git honoris ambitus· impatiens dilationis· et qua 
+                    <lb/>non grauior mortalibus addita cura est<g ref="#f161">;</g> spes ubi 
+                    <lb/>longa uenit. Set quid? <quote>Porro<g ref="#f161">;</g> unum est neces
+                        <lb break="no"/>sarium. <persName>Maria</persName> optimam partem elegit· que 
+                        <lb/>non auferetur ab ea.</quote> <quote source="Bible.Vul.LXX:Ps.26.4">Vnam</quote> inquit psalmista 
+                    <lb/><quote>petii a domino· hanc requiram· ut inhabitem in do
+                        <lb break="no"/>mo domini omnibus diebus uite mee.</quote> <quote source="Bible.Vul:Cant.1.7">Si ignoras 
+                        <lb/>te</quote> inquit dilectus· <quote source="Bible.Vul:Cant.1.7">o pulcherrima inter mu
+                        <lb break="no"/>lieres<g ref="#f161">;</g> egredere· et abi post uestigia gregum· 
+                        <lb/><label place="margin">¶ Audi monache.</label>et pasce hedos tuos iuxta tabernacula pastorum.</quote> 
+                    <lb/>Pulcherrima inter uite uarietates quas in hac 
+                    <lb/>ualle lacrimarum diuersi elegerunt<g ref="#f161">;</g> est uita con
+                    <lb break="no"/>templatiua. <metamark function="flag" rend="hand"/><label place="margin">Multi claustrales ignorant felicitatem status sui.</label>Set pro dolor· multi scemate reli
+                    <lb break="no"/>gionis decorati<g ref="#f161">;</g> fe!icitatem status sui uidentur 
+                    <lb/>ignorare. Set o si egrederentur a deliciis quietis 
+                    <lb/>quam elegerunt· ad fantastica mundanarum 
+                    <lb/>uanitatum spectacula. Egrediantur saltem 
+                    <lb/>et abeant per considerationem post uestigia gre
+                    <lb break="no"/>gum· et agnoscant quanta sit prominentia egre<metamark function="flag" rend="nota"/>
+                    <lb break="no"/>giorum· ad<supplied reason="omitted"> </supplied>milites gregarios. <label place="margin">¶ Multis periculis supponuntur et exponuntur <unclear>dum</unclear> milites· et mundi amatores. A quibus te protegit <unclear>segnia</unclear> religionis. Quantum igitur uenerari debeas <unclear>uerbum dei</unclear> tu uideris.</label>Milites egregii<g ref="#f161">;</g> 
+                    <lb/>sunt milites <persName>christi</persName>· qui uiriliter sustinent pondus 
+                    <lb/>et estum dierum et noctium. Gregarii sunt<g ref="#f161">;</g> qui 
+                    <lb/>habitant in tabernaculis peccatorum· et mundo 
+                    <lb/>militant. O quam iocundius· quam tucius· quam 
+                    <lb/>gloriosius est· spiritualibus exercitiis uacare<g ref="#f161">;</g> quam 
+                    <lb/>in mundana militia promereri mortis stipen
+                    <lb break="no"/>dia. Abit igitur passibus considerationis post uesti
+                    <lb break="no"/>gia gregum<g ref="#f161">;</g> qui uanitates uite secularis atten
+                    <lb break="no"/>dit. <label place="margin"><!-- Symbol for specifying that this is for the second column? -->Hedi motus animi.</label>Hedi autem hic dicuntur<g ref="#f161">;</g> motus animi· 
+                    <lb/>salientes· et ascendentes· et hylares· salientes<g ref="#f161">;</g> 
+                    <lb/>in uitam eternam· ascendentes<g ref="#f161">;</g> ad celi fastigia· 
+                    <lb/>hylares<g ref="#f161">;</g> iocunditate spiritualis leticie. Hedos 
+                    <lb/>igitur pascit iuxta tabernacula pastorum· quicunque 
+                    <lb/>meditationibus honestis delectatur<g ref="#f161">;</g> dum considerat 
+                    <lb/>quibus molestiis plena· quantis uanitatibus sint 
+                    <lb/>obnoxia· magnatum studia. <quote source="Bible.Vul:Jer.50.8">Recedite</quote> inquit 
+                    <lb/><persName>ieremias</persName> <quote source="Bible.Vul:Jer.50.8">de medio <placeName>babilonis</placeName>· et de terra <persName>caldeorum</persName> 
+                        <lb/>egredimini· et estote quasi hedi ante greges.</quote> 
+                    <pb n="136v"/>
+                    <cb n="a"/>
+                    <lb/>Vel cum dicitur· <quote source="Bible.Vul:Song.1.7">si ignoras te o pulcherrima 
+                        <lb/>inter mulieres</quote><g ref="#f161">;</g> aposiopesis est. Ac si dicatur. 
+                    <lb/><q>Mirum est si anima deliciis contemplationis 
+                        <lb/>uacans<g ref="#f161">;</g> felicitatem status sui ignorat.</q> <!-- Face-bracket to 'iuxta tabernacula' line. -->Pul
+                    <lb break="no"/>cherrima inter uitas<g ref="#f161">;</g> est uita contemplatiua. 
+                    <lb/>Accidit tamen non nunquam<g ref="#f161">;</g> animam que relic
+                    <lb break="no"/>tis secularibus nugis transiit ad frugem melioris 
+                    <lb/>uite· phantasticis paralogizari meditatio
+                    <lb break="no"/>nibus· dum felices illos reputat<g ref="#f161">;</g> qui pompis 
+                    <lb/>secularis glorie delectantur. Inclusa est ergo mens 
+                    <lb/>ambitu cogitationum tanquam ipsam obsiden
+                    <lb break="no"/>tium· unde et egredi a<supplied reason="omitted"> </supplied>laberintho erroris mo
+                    <lb break="no"/>netur<g ref="#f161">;</g> cum subditur. <quote source="Bible.Vul:Song.1.7">Egredere et abi post uesti
+                        <lb break="no"/>gia gregum.</quote> Egredere a friuolarum maceria 
+                    <lb/>turbationum te cingente· et abi post uesti
+                    <lb break="no"/>gia gregum<g ref="#f161">;</g> ad quorum uenerabile consor
+                    <lb break="no"/>tium te transtulisti. Secundum hoc igitur scribitur no
+                    <lb break="no"/>men gregum aureis litteris· cum prius scriptum esset 
+                    <lb/>tetris. <quote source="Bible.Vul:John.10.16">Habeo</quote> inquit pastor bonus <quote source="Bible.Vul:John.10.16">alias oues 
+                        <lb/>que non sunt ex<supplied reason="omitted"> </supplied>hoc ouili· et illas oportet me 
+                        <lb/>adducere<g ref="#f161">;</g> et uocem meam audient· et fiet u
+                        <lb break="no"/>num ouile<g ref="#f161">;</g> et unus pastor.</quote> <quote source="Bible.Vul:Cant.1.7">Egredere et abi 
+                        <lb/>post uestigia gregum· et pasce hedes tuos<g ref="#f161">;</g> 
+                        <lb/>iuxta tabernacula pastorum.</quote> Hedi<g ref="#f1f9">~</g> sunt· animi 
+                    <lb/>motus· lactis idest suauitatis fecundi· qui secundum 
+                    <lb/>doctrinas et instituta sanctorum patrum· refici debetur. 
+                    <lb/>Planior erit intelligentia<g ref="#f161">;</g> si dicatur dilectus 
+                    <lb/>conuenire animam in<supplied reason="omitted"> </supplied>medio <placeName>babilonis</placeName> residen
+                    <lb break="no"/>tem. Anima igitur rationalis· inter mulieres pul
+                    <lb break="no"/>cherrima esse· perhibetur· quia inter creaturas dig
+                    <lb break="no"/>nissima est. <quote source="Bible.Vul:Song.1.7">Si ignoras te</quote> inquit<g ref="#f161">;</g> <quote source="Bible.Vul:Song.1.7">o pulcher
+                        <lb break="no"/>rima inter mulieres</quote>. Aposiopesis est. <quote source="Juvenal:Sat.11.27"><!-- See Bestul 24n124. -->Descendit 
+                        <lb/>de<supplied reason="omitted"> </supplied>celis<g ref="#f161">;</g> nothis elithos.</quote> O si anima rationalis<g ref="#f161">;</g> 
+                    <lb/>suam agnoscat dignitatem. O dolor· o gemitus· 
+                    <lb/>cum anima ad<supplied reason="omitted"> </supplied>imaginem et similitudinem dei 
+                    <lb/>facta· et roseo agni innocentie cruore redemp
+                    <lb break="no"/>ta<g ref="#f161">;</g> et sui inmemor est originis· et tot et tam 
+                    <lb/>fructuosis beneficiis saluatoris ingrata. Egre
+                    <lb break="no"/>dere igitur de<supplied reason="omitted"> </supplied>limo profundi· in<supplied reason="omitted"> </supplied>quo non est substantia· 
+                    <lb/>et abi post uestigia gregum<g ref="#f161">;</g> transferens te ad<supplied reason="omitted"> </supplied>re
+                    <lb break="no"/>gularis uite disciplinam· et pasce hedos 
+                    <lb/>tuos· idest<!-- Not sure if that's one word or two in this case, but above it's certainly one word. --> motus penitentie et contritionis<g ref="#f161">;</g> iuxta 
+                    <lb/>tabernacula pastorum siue in tabernaculis pa
+                    <lb break="no"/>storum. Humilium sequamur uestigia· et in<supplied reason="omitted"> </supplied>locis 
+                    <lb/>deo<!-- Bestul 'dei' --> dicatis· que sunt pastorum tabernacula<g ref="#f161">;</g> 
+                    <lb/><persName>christo</persName> militemus. Instituta maiorum<g ref="#f161">;</g> sunt ta
+                    <cb n="b"/>
+                    <lb break="no"/>bernacula, in quibus quiescere debemus.
+                </p>
+            </div>
+            <div n="20" type="textpart" subtype="section">
+                <p><hi rend="enlarged">Q</hi>uan
+                    <lb break="no"/>tis igitur efferat preconiorum titulis uitam contem
+                    <lb break="no"/>platiuam dilectus in<supplied reason="omitted"> </supplied>epithalamio amoris<g ref="#f161">;</g><lb/>breui dicendi genere· relegata tamen procul 
+                    <lb/>obscuritatis molestia declaremus. <quote source="Bible.Vul:Song.1.8" rend="quotes-margin">Equita
+                        <lb break="no"/>tui</quote> inquit <quote source="Bible.Vul:Song.1.8" rend="quotes-margin">meo in<supplied reason="omitted"> </supplied>curribus <persName>pharaonis</persName><g ref="#f161">;</g> assi
+                        <lb break="no"/>milaui<!-- Bestul 'assimilauit' --> <unclear>te</unclear> amica mea.</quote> Equitatus nomine<g ref="#f161">;</g> 
+                    <lb/>possunt tam filii <placeName>israel</placeName> quam angelici cet<am><surplus>ꝯ</surplus></am>us pro
+                    <lb break="no"/>turbantes <persName>pharaonis</persName> currus· designari. Viri <metamark function="flag" rend="hand"/>
+                    <lb/>autem felici contemplationis ocio dediti<g ref="#f161">;</g> 
+                    <lb/>ueri sunt <placeName>israel</placeName> filii· dum speculatiue theo
+                    <lb break="no"/>riis indulgent. Nonne etiam angeli sunt 
+                    <lb/>therestres· dum in<supplied reason="omitted"> </supplied>terris angelicam uitam 
+                    <lb/>ducunt? Immo dum celestis <persName>ade</persName> uestigia 
+                    <lb/>sequuntur· dum ipsorum <quote>conuersatio in<supplied reason="omitted"> </supplied>celis 
+                        <lb/>est</quote><g ref="#f161">;</g> celestes sunt. Qualis <persName>adam</persName> terrenus<g ref="#f161">;</g> tales 
+                    <lb/>et terreni· qualis celestis<g ref="#f161">;</g> tales et celestes. Currus 
+                    <lb/><persName>pharaonis</persName><g ref="#f161">;</g> uicia sunt. Contemplatiua cur
+                    <lb break="no"/>rus <persName>pharaonis</persName> subuertit. 
+                </p>
+            </div>
+            <div n="21" type="textpart" subtype="section">
+                <p><quote source="Bible.Vul:Cant.1.9" rend="sidequotes"><hi rend="enlarged">P</hi>ulchre sunt 
+                        <lb/>gene tue<g ref="#f161">;</g> sicut turturis·<!-- Bestul 'turturii' --> collum tuum<g ref="#f161">;</g> sicut 
+                        <lb/>monilia.</quote> Decoris faciei uenuste gloria<g ref="#f161">;</g> sunt 
+                    <lb/>gene· <label place="margin">¶ <unclear>Est intra</unclear><!-- Microfilm is distorted. -->.</label>quibus candor liliorum purpureo rosa
+                    <lb break="no"/>rum honori associatus est decentia quadam 
+                    <lb/>proportionali. Pudor roseus<g ref="#f161">;</g> uerecundie est 
+                    <lb/>inditium· candor niueus<g ref="#f161">;</g> simplicitatis 
+                    <lb/>designatiuus. Turtur castitatem representat· 
+                    <lb/>qui uiroris refugit amena<g ref="#f161">;</g> ex<supplied reason="omitted"> </supplied>quo compa
+                    <lb break="no"/>ris est destituta solatio. Sic et anima studio 
+                    <lb/>contemplationis inherens· mundanas repu
+                    <lb break="no"/>diat· uoluptates<g ref="#f161">;</g> postquam corpus mundo 
+                    <lb/>mortuum est. Immo et ipsa contemplati
+                    <lb break="no"/>ua<g ref="#f161">;</g> turtur est castitatis· turtur est amo
+                    <lb break="no"/>ris fidelissimi. Sicut autem collum ornant 
+                    <lb/>decenter monilia<g ref="#f161">;</g> sic obedientiam uenustant 
+                    <lb/>sustinentia et abstinentia. Illa· colli· he· 
+                    <lb/>monilium sunt designatiue.
+                </p>
+            </div>
+            <div n="22" type="textpart" subtype="section">
+                <p><quote source="Bible.Vul:Song.1.10"><hi rend="enlarged">M</hi>urenulas 
+                        <lb/>aureas faciemus tibi<g ref="#f161">;</g> uermiculatas argen
+                        <lb break="no"/>to.</quote><quote>Sententias</quote> inquit dilectus <quote>faciemus 
+                        <lb/>tibi<g ref="#f161">;</g> rutilantes auro sapientie<g ref="#f161">;</g> distinctas 
+                        <lb/>argento eloquentie.</quote> Pulcrior est fa
+                    <lb/>cies<g ref="#f161">;</g> in<supplied reason="omitted"> </supplied>qua aliquis <unclear>neuus</unclear> apparet. Minus 
+                    <lb/>artificiosa est uerborum elegantium festina po
+                    <lb break="no"/>sitio<g ref="#f161">;</g> quotiens assidua est. Interpol<del>l</del>ata que
+                    <lb break="no"/>dam ornatus intermissio<g ref="#f161">;</g> facit ad ornatum. 
+                    <lb/>Murenule item auree<g ref="#f161">;</g> sunt nobiles sen
+                    <lb break="no"/>tentie ad aurum deitatis pertinentes· que 
+                    <pb n="137r"/>
+                    <cb n="a"/>
+                    <lb/>uermiculate sunt argento<g ref="#f161">;</g> quotiens ad<supplied reason="omitted"> </supplied>hu
+                    <lb break="no"/>manitatem saluatoris stilus se transfert. Infor
+                    <lb break="no"/>mentur alii regulis grammatice· dialectice<g ref="#f161">;</g> maxi
+                    <lb break="no"/>mis· rhetorice<g ref="#f161">;</g> locis communibus· arismetice<g ref="#f161">;</g> a
+                    <lb break="no"/>porismatibus· a<surplus>n</surplus>xiomatibus<g ref="#f161">;</g> musice· geometrie<g ref="#f161">;</g> theorematibus· astronomie<g ref="#f161">;</g> canonibus· regulis<g ref="#f161">;</g> 
+                    <lb/>iuris <persName>iustiniani</persName>· aphorismis<g ref="#f161">;</g> <persName>ypocratis</persName><subst><del><g ref="#f161">;</g></del><add>·</add></subst> dum
+                    <lb/>modo<!-- They really seem to be treating this as two words; no hyphenation at end of line. --> lectione celestis pagine recreetur con
+                    <lb break="no"/>templatiuus. <metamark function="flag" rend="nota"/><!-- Looks like this might be highlighting a larger section, but it's hard to tell the exact range due to image quality. -->Transfert se namque contempla
+                    <lb break="no"/>tiuus a<supplied reason="omitted"> </supplied>lectione ad<supplied reason="omitted"> </supplied>orationem· ut nunc loquatur 
+                    <lb/>cum deo<g ref="#f161">;</g> nunc deus cum ipso. <quote>Faciemus</quote> inquit 
+                    <lb/>dilectus· <quote>auctoritati connumerans ortho
+                        <lb break="no"/>doxorum patrum cooperationem.</quote>
+                </p>
+            </div>
+            <div n="23" type="textpart" subtype="section">
+                <p><quote source="Bible.Vul:Song.2.2" rend="sidequotes"><hi rend="enlarged">S</hi>icut 
+                        <lb/>lilium inter spinas<g ref="#f161">;</g> sic amica mea inter filias.</quote><lb/>Ne temere blandiatur sibi anima· <persName>marie</persName> 
+                    <lb/>et <persName>rachelis</persName>· et <persName>anne</persName> sequens uestigia· quia spi
+                    <lb break="no"/>narum corona cincta est· et circumdata. Set 
+                    <lb/>tamen exultet in domino quamdiu et spinis pun
+                    <lb break="no"/>gitur et candorem retinet· set et suauis redolet<g ref="#f161">;</g> 
+                    <lb/>instar lilii. Spine<g ref="#f161">;</g> etiam oleo adulationis 
+                    <lb/>circumlite p<del>er</del>ungunt.<!-- Bestul writes 'perungunt' without comment; it's not totally clear in the image, but I'm fairly sure it has been erased. --> Pungant dum modo 
+                    <lb/>lilium non minus ueste candoris innocentie 
+                    <lb/>ornetur. Parcendum uideretur lilii substantie<g ref="#f161">;</g> 
+                    <lb/>quia delicata est et tenella· set spine parcere 
+                    <lb/>non nouerunt. <label place="margin">Ruscus.</label>Insurgat ramnus in ruscum· 
+                    <lb/>quam gloriam consequetur spina· lilium pun
+                    <lb break="no"/>gens. Gloriosum quidem est esse lilium· set gloriosissimum 
+                    <lb/>est esse lilium inter spinas. Set pro dolor· nonnunquam 
+                    <lb/>spina se mentitur esse lilium<g ref="#f161">;</g> nonnunquam lilium 
+                    <lb/>in spinam degenerat. Dilucida uero erit in
+                    <lb break="no"/>telligentia<g ref="#f161">;</g> si dilecti uerba ad hunc sensum 
+                    <lb/>aptentur. Quanta est preminentia<!-- Bestul 'prominentia' --> pulchritu
+                    <lb break="no"/>dinis lilii ad<supplied reason="omitted"> </supplied>spinas<g ref="#f161">;</g> tanta est uite theorice 
+                    <lb/><metamark function="flag" rend="hand"/>ad uarietates mundane conuersationis. Que
+                    <lb break="no"/>libet<!-- No hyphenation; check for other evidence. --> autem mundanarum dulcedo uolup
+                    <lb break="no"/>tatum· si tamen dulcedinis nomen meretur· spiritua
+                    <lb break="no"/>libus collata exercitiis<g ref="#f161">;</g> amarescit.
+                </p>
+            </div>
+            <div n="24" type="textpart" subtype="section">
+                <p><hi rend="enlarged">D</hi>um 
+                    <lb/>item delicias· dum securitatem· dum fructum· 
+                    <lb/>dum tranquillitatem speculatiue diligentius 
+                    <lb/>considero<g ref="#f161">;</g> occurrit menti mee illud quod 
+                    <lb/>in<supplied reason="omitted"> </supplied>commendatione<surplus>m</surplus><!-- Bestul does not note final 'm'. --> contemplatiue legitur. 
+                    <lb/><quote source="Bible.Vul:Song.3.6">Que est ista que ascendit per desertum sicut uir
+                        <lb break="no"/>gula fumi ex aromatibus mirre et thuris et 
+                        <lb/>uniuersi pulueris pigmentarii?</quote> Ascendit 
+                    <lb/>enim deuotio sicut et desiderium· quod ex<supplied reason="omitted"> </supplied>amore 
+                    <lb/>et aliis uirtutibus oritur<g ref="#f161">;</g> sicut fumus ex 
+                    <cb n="b"/>
+                    <lb/>igne ascendit. Ascendit et uenerabilis choors 
+                    <lb/>uirorum spiritualium per scalam <persName>iacob</persName><g ref="#f161">;</g> ascendit et 
+                    <lb/>per gradus uirtutum· ascendit in<supplied reason="omitted"> </supplied>curru igneo 
+                    <lb/>cum <persName>helia</persName><g ref="#f161">;</g> ascendit etiam sicut uirgula fu
+                    <lb break="no"/>mi procreati ex aromatibus mirre et thuris et 
+                    <lb/>uniuersi pulueris pigmentarii. Virgule comparatur<g ref="#f161">;</g> 
+                    <lb/>quia recta est per amorem<g ref="#f161">;</g> directa per<supplied reason="omitted"> </supplied>fidem· erecta 
+                    <lb/>per spem<g ref="#f161">;</g> gratilis et attenuata per disciplinam· 
+                    <lb/>suaue redolent in<supplied reason="omitted"> </supplied>conspectu altis<add place="above">si</add>mi· aro
+                    <lb break="no"/>mata mirre mortificationis carnis· et thuris 
+                    <lb/>fragrantie orationis· et uniuersi pulueris pig
+                    <lb break="no"/>mentarii. Si enim uirtutum singularum aroma
+                    <lb break="no"/>ta fragrantiam prebent deliciosam in odorem 
+                    <lb/>suauitatis iocundissime· quante sunt delicie 
+                    <lb/>ipsius uniuersitatis?
+                </p>
+            </div>
+            <div n="25" type="textpart" subtype="section">
+                <p><hi rend="enlarged">S</hi>et et pulcritudinem 
+                    <lb/>theorice spiritualem commendat dilectus. <quote source="Bible.Vul:Song.4.1">Quam 
+                        <lb/>pulchra</quote> inquit <quote source="Bible.Vul:Song.4.1">es amica mea quam pulcra· 
+                        <lb/>oculi tui columbarum<g ref="#f161">;</g> absque eo quod intrinsecus 
+                        <lb/>latet.</quote> <metamark function="flag" rend="hand"/><label place="margin">De <unclear>commendatione simplicis gestus</unclear>.</label>Disciplina namque sensuum cum honestis 
+                    <lb/>uerecunde simplicitatis gestibus commendatione 
+                    <lb/>digna est<g ref="#f161">;</g> precipue si intentionis interius regnan
+                    <lb break="no"/>tis puritas sincera consideretur. Aut certe per<supplied reason="omitted"> </supplied>o<del>c</del>
+                    <lb break="no"/>culos designantur propositum et intentio· per id quod 
+                    <lb/>intrinsecus latet<g ref="#f161">;</g> gaudium interne fruitionis. <metamark function="flag" rend="hand"/>
+                    <lb/><metamark function="flag" rend="hand"/>Regnum enim celorum<g ref="#f161">;</g> intra nos est.<!-- Add reference? --> Felix col
+                    <lb break="no"/>legium· cuius oculi ii uidelicet qui necessitatibus fratrum 
+                    <lb/>prospiciunt<g ref="#f161">;</g> simplicitatis sunt columbine· 
+                    <lb/>preter deuotionis dulcedinem uirtutes condien
+                    <lb break="no"/>tem.</p>
+            </div>
+            <div n="26" type="textpart" subtype="section">
+                <p><quote source="Bible.Vul:Song.4.1" rend="sidequotes">Capilli tui sunt grex caprarum<g ref="#f161">;</g> 
+                        <lb/>que ascendunt de<supplied reason="omitted"> </supplied>monte <placeName>galaad</placeName>.</quote> Meditatio
+                    <lb break="no"/>nes namque caput mentis decenter ornantes· 
+                    <lb/>subtiles sunt<g ref="#f161">;</g> sicut expositiones sanctorum· que 
+                    <lb/>ascendunt de sublimi pagine celestis intelli
+                    <lb break="no"/>gentia· sententie patrum orthodoxorum<g ref="#f161">;</g> per capras 
+                    <lb/>figurantur propter fecunditatem. Sacra scriptura 
+                    <lb/>mons est <placeName>galaad</placeName><g ref="#f161">;</g> quia aceruus est testimonii· 
+                    <lb/>in<supplied reason="omitted"> </supplied>quo coacer<choice><sic>n</sic><corr>u</corr></choice>antur auctoritates legis et 
+                    <lb/>prophetarum· irrefragabilis ueritatis<del><g ref="#f161">;</g></del> testimo
+                    <lb break="no"/>nium ueritati que <persName>christus</persName> est perhibentium. <metamark function="flag" rend="hand"/>O cetus 
+                    <lb/>ueneratione dignus· in<supplied reason="omitted"> </supplied>quo<g ref="#f161">;</g> eminentiores 
+                    <lb/>se conformant minoribus· qui de <persName>christo</persName> tanquam 
+                    <lb/>a fundamento stabili<g ref="#f161">;</g> ad ipsum <persName>christum</persName> tanquam 
+                    <lb/>finem ascendunt. Secundum hoc igitur censentur 
+                    <lb/>nomine<del><unclear><g ref="#f161">;</g></unclear></del> caprarum<g ref="#f161">;</g> penitentes· qui se pecca
+                    <lb break="no"/>tores esse humili confessione fatentur. Mons<g ref="#f161">;</g> 
+                    <lb/>est <persName>christus</persName>· mons uberrimus· in<supplied reason="omitted"> </supplied>quo<g ref="#f161">;</g> pascua uite 
+                    <pb n="137v"/>
+                    <cb n="a"/>
+                    <lb/>reperies.
                 </p>
             </div>
         </body>
