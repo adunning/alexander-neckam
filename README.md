@@ -5,6 +5,9 @@ The texts here are working editions, generally based on a single manuscript, and
 
 Material may be freely reused under the terms of the [Creative Commons Attribution-ShareAlike 4.0 International Licence](http://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA).
 
+## Completed
+- *Meditatio de Magdalena*, from Hereford, Cathedral Library, O.i.2 (incorporating corrections from [Bestul 1999](http://dx.doi.org/10.1484/J.JML.2.304112))
+
 ## In Progress
 - The *Florilegium* of Neckam's works in Cambridge, University Library, Gg.6.42
 - *Tractatus super Mulierem fortem*, a commentary on Prov. 31:10–31 (Oxford, Jesus College, 94)
