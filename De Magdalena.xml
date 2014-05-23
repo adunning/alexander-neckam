@@ -25,9 +25,7 @@
                         <idno>O.i.2</idno>
                     </msIdentifier>
                 </msDesc>
-                <!-- Transcription has been made from a black-and-white microfilm. -->
                 <listBibl>
-                    <!-- Earlier introduction/edition, whose emendations are included. -->
                     <biblStruct type="journalArticle" xml:id="Bestul1999">
                         <analytic>
                             <editor>
@@ -49,6 +47,24 @@
                 </listBibl>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>
+                    Transcription made from a slightly damaged black-and-white microfilm, taking full account of Bestul's text and notes (with some errors noted in the comments). Some of the enlarged capitals are in another shade, but I have not recorded this. Some passages cannot be read either due to distortion from photography and microfilming (especially sidenotes in the inner margin) or faintness (notably passages that appear to be roughed-in versions of the sidenotes).
+                </p>
+                <p>
+                    New sections correspond to enlarged capitals or paraphs in the manuscript (as encoded). The manuscript's marginal notes (some of which are probably authorial) are encoded using the 'label' element.
+                </p>
+                <p>
+                    Original spelling and punctuation has been retained (with words that might be ambiguous occasionally marked 'sic' to flag unabbreviated forms). An attempt has been made to record the exact word division in the manuscript, following up on an observation that 'in' and some other words are frequently joined to the following word. This is not always useful. Characters from the MUFI private use area have been used for some marks not found in Unicode (from the ENRICH Gaiji Bank).
+                </p>
+            <normalization>
+                <p>
+                    Hyphens at the ends of lines are not encoded separately from the @break attribute (ignoring a few apparent errors). Abbreviations are expanded silently except in cases of ambiguity or scribal error.
+                </p>
+            </normalization>
+            </editorialDecl>
+        </encodingDesc>
     </teiHeader>
     <text xml:lang="la">
         <body>
