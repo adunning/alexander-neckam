@@ -990,13 +990,13 @@
                             <lb/>pena condigna relaxat.
                         </p>
                         <p>
-                            <milestone>¶</milestone> Facilis autem erit intelligentia<g ref="#f161">;</g>
+                            <milestone unit="undefined">¶</milestone> Facilis autem erit intelligentia<g ref="#f161">;</g>
                             <lb/>si<add place="inline"> </add>per<add place="inline"> </add>emphasim dicta<g ref="#f161">;</g> hec intelligantur sub hoc sensu. Vti
                             <lb break="no"/>les sunt parabole<g ref="#f161">;</g> ad sciendam uel faciendam iusticiam
                             <lb/>et iuditium et equitatem· hoc est ad sciendum quid iustum
                             <lb/>quid consultum quid equum· uel ad faciendum quod iustum est<g ref="#f1e2">,</g>
-                            <lb/>quod subest etiam prudentie<g ref="#f1e2">,</g> et quod equum est. <quote source="">Feci</quote> inquit
-                            <lb/>psalmista<g ref="#f161">;</g> <quote source="">iuditium et iustitiam</quote>· iuditium<g ref="#f161">;</g> inconfigendo
+                            <lb/>quod subest etiam prudentie<g ref="#f1e2">,</g> et quod equum est. <quote source="Bible.Vul:Ps.118.166">Feci</quote> inquit
+                            <lb/>psalmista<g ref="#f161">;</g> <quote source="Bible.Vul:Ps.118.166">iuditium et iustitiam</quote>· iuditium<g ref="#f161">;</g> inconfigendo
                             <lb/>discrete<g ref="#f1e2">,</g> carnales concupiscentias· iustitiam similiter<g ref="#f161">;</g> idest opus
                             <lb/>iustitie. Cum item dicitur· omnia mandata tua equitas<g ref="#f161">;</g> em
                             <lb break="no"/>phasis est.
@@ -1153,7 +1153,7 @@
                     </div>
                 </div>
                 <div n="3" type="textpart" subtype="chapter">
-                    <handshift/>
+                    <handShift/>
                     <head rend="rend" place="inline margin"><!-- In margin for rubricator; probably not AN hand. -->De timore.</head><!-- Last heading in the work. -->
                     <div n="1" type="textpart" subtype="section" rendition="lemma">
                         <p>
@@ -1184,7 +1184,7 @@
                             <lb/>propter frigoris primitias. <!-- '5' pencilled in margin. -->Timor mundanus multos cogit
                             <lb/>a tramite iusticie exorbitare<g ref="#f161">;</g> ut possessiones tucius
                             <lb/>seruentur illese. <!-- '6' pencilled in margin. -->Timor seruilis<g ref="#f161">;</g> manum cohibet ab opere
-                            <lb/>illicito<g ref="#f1e2">,</g> <hanshift/>etsi non animum<g ref="#f1e2">,</g> ad penam dumtaxat<g ref="#f161">;</g> considerationem re
+                            <lb/>illicito<g ref="#f1e2">,</g> <handShift/>etsi non animum<g ref="#f1e2">,</g> ad penam dumtaxat<g ref="#f161">;</g> considerationem re
                             <lb break="no"/>ferens. Licet autem timoris istius consortium semper dedignetur caritas
                             <lb/>etiam imperfecta<g ref="#f161">;</g> domum tamen dei est non inutile. Domum quidem dei est ut ait
                             <lb/><expan>augus<ex>tinus</ex></expan> quo nemo bene <sic>id est</sic> meritorie utitur. <!-- '7' pencilled in margin. -->Timor<add place="inline"> </add>inicialis<g ref="#f161">;</g> iam aman
@@ -1229,8 +1229,238 @@
                             <lb/><add place="overstrike margin" resp="#AN">exhibere</add> dilecto. Ratione huius effectus<g ref="#f161">;</g> permanet in 
                             <lb/>seculum seculi timor domini sanctus.
                         </p>
-                    </div>                  
+                    </div>
+                    <div n="3" type="textpart" subtype="section">
+                        <p>
+                            <milestone rend="red">¶</milestone> Mirabitur fortasse
+                            <lb/>quis minus fideligter in sublimibus pagine celestis insti
+                            <lb break="no"/>tutis instructus<g ref="#f1e2">,</g> super hoc quod superius effectum ini<add place="above">ci</add>alis
+                            <lb/>timoris esse diximusntuitu desistere ab illicitis. 
+                            <lb/>Sic enim confundere uidemur<g ref="#f161">;</g> effectu timoris et amoris. 
+                            <lb/>Set <sic>non ne</sic><!-- This does look to be two words, but it might just be one. --> fides operatur per dilectionem? Profecto caritas
+                            <lb/>facit diligere· et fides idem efficit. Set diligere<g ref="#f161">;</g> dilec
+                            <lb break="no"/>tionis est effectus formalis siue denominationis· set fidei<g ref="#f161">;</g>
+                            <lb/>effectus est causalis. Dona spiritus sancti<g ref="#f161">;</g> mutuo federe connec
+                            <lb break="no"/>tuntur· et effectus socialiter communicant. TImor initialis
+                            <lb/>desidere facit ab illicitis<g ref="#f161">;</g> ab amorem iusticie· et idem<g ref="#f161">;</g> facit
+                            <lb/>fides. Quid ni? Dona<g ref="#f161">;</g> sunt ipsarum uirtutum effectus. 
+                            <lb/>Timor initialis qui est domum spiritus sancti<g ref="#f1e2">,</g> et est habitus mentis
+                            <lb/>bene constitute<g ref="#f161">;</g> effectus est fidei <add place="above">et</add> caritatis. Non ne tam fides
+                            <lb/>quam caritas quam iusticia· dictat elemosinas dare pau
+                            <lb break="no"/>peribus? Disserentium autem est discutere<g ref="#f161">;</g> utrum timor ini
+                            <lb break="no"/>tialis in intensione se conformet rimori pene<g ref="#f161">;</g> aut amo
+                            <lb break="no"/>ri iusticie. Proponatur igitur quis initialiter timeris. Si timor
+                            <lb/>initialis et caritas istius eque intenduntur<g ref="#f1e2">,</g> cum caritatis
+                            <cb n="b"/>
+                            <lb/>intensio secundum amorem quo diligit quis deum attendatur<g ref="#f161">;</g> erit
+                            <lb/>initialis timor huius<g ref="#f1e2">,</g> eque intensus motui<g ref="#f161">;</g> quo iste diligit
+                            <lb/>deum. Cum uero parum adhuc iste diligat deum<g ref="#f1e2">,</g> et multum timeat
+                            <lb/>penam· magis censebitur intensus in isto timor pene<g ref="#f161">;</g> quam
+                            <lb/>amor dei. Quare dabitur· timorem pene<g ref="#f161">;</g> maiorem esse dono
+                            <lb/>quod est initialis timor. QUod si est<g ref="#f161">;</g> erit effectus intensior
+                            <lb/>sua causa. Set ecce fateor<g ref="#f161">;</g> quia egre dediscitur usus. 
+                            <lb/><handShift/><!-- Interesting that these shifts in hand seem to be coming largely at points of transition in the text. -->Reuertamur igitur ad id<g ref="#f161">;</g> quod explanari principale desiderat propositum.
+                        </p>
+                    </div>
+                    <div n="4" type="textpart" subtype="section">
+                        <p> 
+                            <lb/><hi rend="enlarged red">T</hi>imor deum<g ref="#f161">;</g> principium sapientie. Timere<g ref="#f161">;</g> naturaliter precedit id
+                            <lb/>quod est diligere. Timor enim<g ref="#f161">;</g> declinare a malo<g ref="#f1e2">,</g> amor<g ref="#f161">;</g> facere bonum <add place="margin">docet</add>. 
+                            <lb/>Precessiuus amoris est timor. dum <add place="margin" resp="#AN">timor et amor</add> tanquam exploratores
+                            <lb/>terre uiuentium<g ref="#f161">;</g> botrum florentis desiderii in palo fidei portant. 
+                            <lb/>Premittere debemus in terram superne repromissionis<g ref="#f161">;</g> dictos
+                            <lb/>exploratores. Vim enim patitur regnum celorum<g ref="#f161">;</g> et uiolenti diripiunt
+                            <lb/>illud. Cum igitur diligere<g ref="#f1e2">,</g> sit sapere· et timor precedat ratione effectus
+                            <lb/>amorem<g ref="#f161">;</g> liquet<g ref="#f1e2">,</g> quia timor est precessiuus sapientis. Set seruilis
+                            <lb/>timor est initium sapientie<g ref="#f161">;</g> tanquam terminus extrasumptus· initi
+                            <lb break="no"/>alis timor principium est sapientie<g ref="#f161">;</g> tanquam terminus intrasumptus.                       
+                            <lb/>Timor uero domini ut ait <persName>iob</persName>· scilicet<!-- Weird abbreviation for that. --> timor reuerentialis<g ref="#f161">;</g> ipsa sapientia est. 
+                            <lb/>Reuereri nempe deum<g ref="#f161">;</g> sapere est, Immo etiam timore initiali timere deum<g ref="#f161">;</g> 
+                            <lb/>sapere est. Habet enim sapientia gradus suos secundum ascen<subst><del>t</del><add place="margin">s</add></subst>iones quas spiritus
+                            <lb/>sanctus disponit in humilitatis ualle irrigata riuis lacrimarum
+                            <lb/>deuotionis. A ualle humilitatis<g ref="#f161">;</g> ascend<add place="overstrike">i</add>mus ad montem celsitu
+                            <lb break="no"/>dinis contemplationis. <!-- What has been added/corrected in the margin? -->Immo et in ipso monte<g ref="#f161">;</g> uallis est. Non enim
+                            <lb/>sine causa dictum est<g ref="#f161">;</g> quia <placeName>bamoth</placeName> uallis est in uertice phasga. 
+                            <lb/>Vallis est in monte<g ref="#f161">;</g> quia humilitatis uirtus est in celsitudine theorie. 
+                            <lb/>O conpendiosa doctrina ueniendi ad sapientia· time deum. Timor <add place="overstrike">fidus</add>
+                            <lb/>assecla prudentie<g ref="#f161">;</g> securitatem neglectam<g ref="#f1e2">,</g> languentis desidie
+                            <lb/>matrem a domo sapientie procul eliminat. Timor indiuiduus
+                            <lb/>humilitatis comes<g ref="#f161">;</g> elationis scemata cum uoluptariis
+                            <lb/>superfluitatibus abicit· sufficientia frugalitatis contentus. Timor
+                            <lb/>cautus non solum palteas set et angulos interne israelem uigilan
+                            <lb break="no"/>ter explorat· ne <persName>iebuseus</persName> in<add place="inline"> </add>insidiis lateat. Timor circumspectus
+                            <lb/>errores pristinos pre oculis cordis constituit satisfactionis gratia·
+                            <lb/>rebus gerendis sollertem adhibens diligentiam. Timor consultor
+                            <lb/>consilii sedulus<g ref="#f161">;</g> quod tutius est indubiis eligit· nec gelide aut timide
+                            <lb/>aut meticulose· set timorate ministrat agenda. Ysaias commen
+                            <lb break="no"/>dans timorem domini<g ref="#f161">;</g> ait. Timor domini<g ref="#f161">;</g> ipse<g ref="#f161">;</g> thesaurus. Legitur item
+                            <lb/>in<reg> </reg>actibus apostolorum<g ref="#f161">;</g> sic. <quote source="Bible.Vul:Acts.9.31">Ecclesia edificabatur ambulans in<reg> </reg>timo
+                                <lb break="no"/>re domini· et consolatione spiritus sancti replebatur.</quote> Et in ecclesiastico. <quote source="Bible.Vul:Sir.1.13">Timenti
+                                <lb/>dominum bene erit in extremis· et in die defunctionis sue benedicetur.</quote>
+                        </p>
+                    </div>
+                    <div n="5" type="textpart" subtype="section">
+                        <p>                       
+                            <lb/><hi rend="enlarged red">S</hi>equitur. Sapientiam atque doctrinam stulti despiciunt. Sapi
+                            <lb break="no"/>entiam<g ref="#f161">;</g> recti dogmatis· doctrinam<g ref="#f161">;</g> pure conuersationis. O dolor
+                            <lb/>o gemitus. Multi sunt qui melleam manne clestis <add place="margin">doctrine</add> dulcedinem
+                            <lb/>fastidientis<g ref="#f161">;</g> dicunt. Manhu? Hoc est. Quid est hoc? Suspirant ad
+                            <lb/>pepones et allia egypti<g ref="#f161">;</g> litteras seculares celestibus preponentes. 
+                            <lb/>O utinam aduertant quia manna refici debemus in deserto uite presen
+                            <lb break="no"/>tis<g ref="#f161">;</g> usque dum fructus uite percipiamus in terra superne repromissio
+                            <lb break="no"/>nis. O si uiri eloquentes argentum eloquentie sue appenderent
+                            <pb n="62v"/>
+                            <cb n="a"/>                            
+                            <lb/>in panibus spiritualis refectionis. Set o dedecus<g ref="#f161">;</g> o temporis iactam·
+                            <lb/>i mores perditi. Cum alternis uicibus sibi succedere teneantur
+                            <lb/>oratio et lectio<g ref="#f161">;</g> uix reperiuntur aliqui qui panibus propositionis mense
+                            <lb/>celestis refici desiderent. Vanis colloquiis et nimis licentiosis
+                            <lb/>discursibus<g ref="#f161">;</g> ha nimis licenter indulgetur. Pro dolor· die ille feli
+                            <lb break="no"/>citer <add place="margin">censetur</add> consummatus<g ref="#f161">;</g> qui in nugis<g ref="#f1e2">,</g> friuolis<g ref="#f1e2">,</g> inutiliter consumptus est
+                            <lb/><del rend="stroke">profectus uidelicet uirtutum</del>. Set dum fugitiua tempora reuerti
+                            <lb/>nescia<g ref="#f1e2">,</g> celeri fuga elabuntur<g ref="#f161">;</g> adest inopina senectus mortis nun
+                            <lb break="no"/>tia. Quid tremule senectuti<g ref="#f1f9">~</g> canis resperse· et pueritie morum? Quid effeto
+                            <lb/>corpori· et lasciuie petulanti? Anus cum ludit<g ref="#f161">;</g> delicias morti
+                            <lb/>facit. Senectus uero libidini seruiens<g ref="#f161">;</g> monstrum est. Quam platanus
+                            <lb/>riuo<g ref="#f1f9">~</g> quam gaudet populus unda. Et quam limosa canna pa
+                            <lb break="no"/>lustris aqua<g ref="#f161">;</g> tam uenus ocia amat. Hec <sic>iccirco</sic> dixerim· quia <add place="margin">in deutronomen</add>
+                            <lb/>non prodest nobis manere in ualle<g ref="#f161">;</g> nisi cum ueris filiis israel mane
+                            <lb break="no"/>amus in ualle contra fanum <placeName>phogor</placeName>. Frequens lectio<g ref="#f161">;</g> illecebrarum
+                            <lb/>prurientium nouerca est. Lectio sacre scripture<g ref="#f161">;</g> hominem statuit contra
+                            <lb/>faciem suam· <handShift/>et in libro tanquam in speculo perpolito<g ref="#f161">;</g> maculas propri
+                            <lb break="no"/>as quis agnoscit.
+                        </p>
+                    </div>
+                    <div n="6" type="textpart" subtype="section">
+                        <p> 
+                            <quote source="Bible.Vul:Prov.1.8" rend="sidequotes"><hi rend="enlarged green trim-red">A</hi><hi rend="smallcaps">u</hi>di fili disciplinam patris tui· et ne dimit
+                                <lb break="no"/>tas legem matris tue<g ref="#f161">;</g> addatur gratia capiti tuo. et torques collo tuo.</quote>
+                        </p>
+                    </div>
+                    <div n="7" type="textpart" subtype="section">
+                        <p>
+                            
+                            <lb/><hi rend="enlarged red">I</hi><hi rend="smallcaps">us</hi> digito nature scriptum in corde humano<g ref="#f161">;</g> <add rend="overstrike">est</add><g ref="#f1e2">,</g> ut parens prolem te
+                            <lb break="no"/>nerrime diligat. fideliter instruat<g ref="#f161">;</g> diligenter informet. Hinc
+                            <lb/>est quod <persName>salomon</persName> quemlibet auditorem<g ref="#f1e2">,</g> nomine filii designat. ut ipsum
+                            <lb/>reddat docilem et beniuolum et attentum. Adde quod diligentia precep
+                            <lb break="no"/>toris<g ref="#f161">;</g> discipulum<g ref="#f1e2">,</g> in filium adoptare consueuit. Set et qui <add place="overstrike">disci</add>
+                            <lb break="no"/>puli formam induit<g ref="#f161">;</g> eruditorem<g ref="#f1f9">~</g> patrem esse non diffitetur. Pro serie
+                            <lb/>uero lectionis<g ref="#f161">;</g> littera sic ontinetur. Sapientiam atque doctrinam<g ref="#f161">;</g>
+                            <lb/>stulti <add place="overstrike margin" resp="#AN">despiciunt</add>. set tu fili <quote source="Bible.Vul:Prov.1.8">audi disciplinam patris tui</quote> et <expan>c<ex>etera</ex></expan>. Interest
+                            <lb/>filii audire patrem et exaudire<g ref="#f161">;</g> et eidem reuerenter obedire. Qui igitur
+                            <lb/>a domino in paradisum<g ref="#f1e2">,</g> claustrum loquor<g ref="#f1e2">,</g> translatus est<g ref="#f1f9">~</g> qui uidelicet
+                            <lb/>ad frugem tutioris et melioris inte se transtulit lege familiari
+                            <lb/>spiritus sancti ductus<g ref="#f161">;</g> humiliter exaudiat disciplinam patris spiritualis. ut
+                            <lb/>luce discipline epistemes<g ref="#f1e2">,</g> effugentur ignorantie tenebre<g ref="#f161">;</g> et cau
+                            <lb break="no"/>tela discipline phedie<g ref="#f1e2">,</g> hostium inuisibilium insidie<g ref="#f161">;</g> uidentur<g ref="#f161">;</g>
+                            <lb/>Illa<g ref="#f161">;</g> <add place="overstrike">dilucidiorem reddit intelligentiam. ista<g ref="#f161">;</g> corpus inserui
+                                <lb break="no"/>tutem redigit. ut iussis rationis optemperet</add> presidentis. Illa<g ref="#f161">;</g> scien
+                            <lb break="no"/>tiam illuminat. Ista<g ref="#f161">;</g> mores informat<g ref="#f1f9">~</g> et corpus ieiuniis castigat. 
+                            <lb/>O miseria<subst><del><g ref="#f161">;</g></del><add>.</add></subst> cum subditus presidentem<subst><del><g ref="#f1f9">~</g></del><add><g ref="#f161">;</g></add></subst> non patrem censet set hostem. 
+                            <lb/>Vtinam attendat subditus. quia <persName>dauid</persName> pepercit <persName>sauli</persName><g ref="#f161">;</g> cum etiam datus esset
+                            <lb/>in manus illius. Exhibendi est prelatis reuerentia. ita ut timorem
+                            <lb/>condiat dulcor amoris. Audi ergo disciplinam patris tui. et ne
+                            <lb/>dimittas legem matris tue. Matrem tuam reputa uenerandam
+                            <lb/>religionem. cuius lex est<g ref="#f161">;</g> consuetudo autentica cum obseruan
+                            <lb break="no"/>tiis et institutis regularibus. Maiorum instituta presertim
+                            <lb/>cum irrefragabili ratione munita sunt<g ref="#f161">;</g> immutare sine causa
+                            <lb/>certissima minus tutum est. Audi igitur fili disciplinam patris tui. et ne
+                            <lb/>dimittas legem matris tue<g ref="#f161">;</g> immo potius diligenter conserua
+                            <lb/>ut subsit liptote<g ref="#f161">;</g> ut addatur gratia capti tuo. et torques collo tuo. 
+                            <lb/>Caput illius qui secularibus nugis relictis<g ref="#f1e2">,</g> scemate habitus clau
+                            <lb break="no"/>stralium ornatus est<g ref="#f161">;</g> est initium honeste conuersationis. Tunc
+                            <lb/>enim incipit quis uiuere<g ref="#f161">;</g> cum honeste uiuere incipit. 
+                            <cb n="b"/>
+                            <lb/><!-- What is that 'F'  to the right? -->Est enim uita nature<g ref="#f161">;</g> est et uita culpe. est et uita gratia<g ref="#f161">;</g> est et
+                            <lb/>uita glorie. Viuo ego inquit apostolus<g ref="#f1f9">~</g> iam non ego. uiuit autem
+                            <lb/>in me <persName>christus</persName>. Viuo ego uita nature. sicut et prius. set iam non
+                            <lb/>ego<g ref="#f161">;</g> quo ad uitam cuple. uiut autem in me christus<g ref="#f161">;</g> uita gratie. uic
+                            <lb break="no"/>turus in me infuturo<g ref="#f161">;</g> uita glorie. Cum ergo caput dicatur terminus
+                            <lb/>rei initialis<g ref="#f161">;</g> non est mirum si caput inte dicatur uite initium. 
+                            <lb/>precipue<subst><del>.</del><add><g ref="#f161">;</g></add></subst> cum uita in modum linee uideatur extendi. Capiti
+                            <lb/>itaque uite tue. uite scilicet gratie. superaddetur amplior <add place="margin">gratia</add> profectus
+                            <lb/>uidelicet uirtutum<g ref="#f161">;</g> <del><gap reason="illegible" quantity="3" unit="character"/></del> si discipline doctoris tui obedias. 
+                            <lb/> et obserues religionis instituta. Aut certe caput dicetur prin
+                            <lb break="no"/>cipale mentis. cui gratia superadditur<add place="inline"><g ref="#f161">;</g></add> cum mentem amplior solito
+                            <lb/>ornat cultus uirtutum. Sicut autem torques ornat collum.
+                            <lb/>sic pacientia<g ref="#f161">;</g> obedientiam per collum designatam. Vel per torquem
+                            <lb/>designatur circumspectio. per collum<g ref="#f161">;</g> sermo. Additur ergo torques col
+                            <lb break="no"/>lo<g ref="#f161">;</g> cum prouida circumspectio prius uocat uerba ad limam quam ad
+                            <lb/>linguam. Ad litteram. mos er<add place="overstrike">at</add> ut legitime certantes ornarent
+                            <lb/>collum torque<g ref="#f161">;</g> et caput corona. que hic gratie nomine<g ref="#f161">;</g> censetur.
+                            <lb/>Sapientia uero instar corone<g ref="#f161">;</g> caput mentis ornat. eloquen
+                            <lb break="no"/>tia. in modum torquis sermonem uenustat.
+                        </p>                      
+                    </div>
+                    <div n="8" type="textpart" subtype="section">
+                        <p>
+                            <milestone rend="green trim-red">¶</milestone>Tropo
+                            <lb break="no"/>logie<g ref="#f161">;</g> principaliter in hoc opere deseruire decreuimus. Set quia
+                            <lb/>sorores sunt tropologia et allegoria et altera alterius poscit opem
+                            <lb/>et coniurat amice<g ref="#f161">;</g> opus est <add place="overstrike">quandoque sponte</add> allegorie ditioni nos
+                            <lb/>subdere. Pater igitur noster<g ref="#f161">;</g> est deus qui nos genuit. sacrosancta ec
+                            <lb break="no"/>clesia<g ref="#f161">;</g> mater que n<add place="overstrike">os</add> aquis salutaribus regenerauit. lacte prius
+                            <lb/>tenere doctrine<g ref="#f1f9">~</g> deinde pane solidioris intelligentie nos pa
+                            <lb break="no"/>uit<g ref="#f161">;</g> et cotidie filios suos cibat glorioso corpore saluatoris. et 
+                            <lb/>precioso sanguine eiusdem<g ref="#f161">;</g> recreat. Disciplinam ergo patris audit<g ref="#f161">;</g>
+                            <lb/>qui flagella et tribulationes quibus suos excitare dignatur<!-- Is that the scribe changing it to 'dignatus'? Cf. above. -->
+                            <lb/>altissimus<g ref="#f1e2">,</g> equanin<surplus>in</surplus>iter sustinet. Honora inquit scriptura patrem
+                            <lb/>et matrem<g ref="#f161">;</g> ut sis longeuus super terram. Deus enim colendus est<g ref="#f1f9">~</g>
+                            <lb/>et ecclesie<g ref="#f161">;</g> reuerentia debita exhibenda est. Flagellat enim et corripit
+                            <lb/>pater filium<g ref="#f161">;</g> quem diligit. Legem matris non dimittit<g ref="#f161">;</g> qui
+                            <lb/>preceptis sancte matris ecclesie<g ref="#f1e2">,</g> obsecundat. Caput nostrum<g ref="#f161">;</g> est
+                            <lb/>fides. que primogenita inter uirtutes dicitur. Additur igitur gratia
+                            <lb/>capiti<g ref="#f161">;</g> cum fides spiritualibus <add place="margin">studiis</add> indulget. Sicut autem colli lactei<g ref="#f1e2">,</g> de
+                            <lb break="no"/>cens ornatus est toques aureus<g ref="#f161">;</g> sic et predicationem<g ref="#f1e2">,</g> commendatione
+                            <lb/>dignam reddit morum maturitas. Per torquem igitur<g ref="#f1e2">,</g> fulgor perfecti
+                            <lb/>operis designatur<g ref="#f161">;</g> qui predicationem ornat. Possumus item per caput<g ref="#f161">;</g>
+                            <lb/>gratiam diuinam intelligere. per gratiam<g ref="#f161">;</g> gratiam pro gratia. scilicet inmar
+                            <lb break="no"/>cessibilem eterne glorie coronam. Per gratiam siquidem<g ref="#f161">;</g> auream. per torquem<g ref="#f161">;</g>
+                            <lb/>aureolam intellige. Priuilegiatum <sic>namque</sic> est predicationis mu
+                            <lb break="no"/>nus. cuius labor fructuosus<g ref="#f161">;</g> specialis supererogationis prerogati
+                            <lb break="no"/>ua. sicut et martirium<g ref="#f161">;</g> donabitur.
+                        </p>
+                    </div>
+                    <div n="9" type="textpart" subtype="section">
+                        <p>
+                            <add place="bottom">
+                                <lb/><hi rend="enlarged">A</hi>udiat item qui collum seruituti libere sponte supposuit<g ref="#f161">;</g> disciplinam patris. ita ut hic<g ref="#f161">;</g> sancti patris <persName>aug<subst><del>us</del><add>s</add></subst>tini</persName> institutis informetur. ille<g ref="#f161">;</g> preceptis beati benedicti
+                                <lb/>deuotus optemperet. Matrem reputa<g ref="#f161">;</g> ueneradam illam congregationem cuius consortium elegisti. Singuli<g ref="#f161">;</g> fratres tui. set ipsa universitas<g ref="#f161">;</g> mater tua sit. Huius matris legem
+                                <lb/>lege in spiritu humilitatis<g ref="#f161">;</g> tanquam digito dei scriptam in corde uel augu<subst><del>s</del><add>stini</add></subst><g ref="#f1e2">,</g> uel benedicti patris tui. Sic quidem addetur gratia capiti tuo<g ref="#f161">;</g> et tor
+                                <lb break="no"/>ques collo tuo. Caput claustralium<g ref="#f161">;</g> est humilitas. quam su<del> </del>stinet patientie uirtus<g ref="#f161">;</g> sicut collo caput innititur. Gratia igitur
+                                <lb/>coram deo et hominibus addetur uberior humilitati tue. et torques eterne remunerationis<g ref="#f161">;</g> pat<add place="above">i</add>entiam tuam 
+                                <lb/>in eternum remunerabit. <quote>Estote itaque simplices sicut columbe. et prudentes<g ref="#f161">;</g> sicut
+                                    <lb/>serpentes.</quote> Fertur serpens instinctu nature docentis<g ref="#f1f9">~</g> maximam adhi
+                                <lb break="no"/>bere diligentiam<g ref="#f161">;</g> ne caput ledatur. Sic summopere 
+                                <lb/>studere tenetur miles <persName>christi</persName><g ref="#f161">;</g> ut humilitatis
+                                <lb/>gratiam conseruet. quam studio peruigili.
+                                <lb/>molitur expugnare
+                                <lb/>spiritus elationis.
+                            </add>
+                        </p>
+                    </div>
                 </div>
+                <div n="4" type="textpart" subtype="chapter">
+                    <div n="1" type="textpart" subtype="section" rendition="lemma">
+                        <p>
+                            <quote source="Bible.Vul:Prov.1.10–19" rend="sidequotes"><!-- Quotation marks in margin only start on 63r. --><hi rend="dropcap2 green trim-red">F</hi><hi rend="capitals">ili</hi> mi si te lactauerint peccatores<g ref="#f161">;</g> non adquiescas eis. Si
+                                <lb/>dixerint<g ref="#f1f9">~</g> ueni nobiscum<g ref="#f1f9">~</g> insidiemur <add place="overstrike">sanguini</add><g ref="#f1f9">~</g> absconda
+                                <lb break="no"/>mus tendiculas contra insontem frustra<g ref="#f1f9">~</g> deglutiamus eum sicut
+                                <lb/>infernus uiuentem et integrum quasi descendentem in lacum<g ref="#f1e2">,</g> om
+                                <lb break="no"/>nem preciosam substantiam reperiemus· implebimus domos nostras
+                                <lb/>spoliis<g ref="#f1f9">~</g> sortem mitte nobiscum<g ref="#f1f9">~</g> et marsupium unum sit om
+                                <lb break="no"/>nium nostum<g ref="#f161">;</g> fili mi ne ambules <add place="margin">cum</add> eis. Prohibe pedem tuum<g ref="#f161">;</g>
+                                <pb n="63r"/>
+                                <cb n="a"/>
+                                <lb/>a semitis eorum. Pedes enim illorum ad malum currunt. et festinant 
+                                <lb/>ut effundant sanguinem. Frustra autem iacitur rete ante oculos 
+                                <lb/>pennatorum. Ipsi quoque contra sanguinem suum insidiantur<g ref="#f161">;</g> et mo
+                                <lb break="no"/>liuntur fraudes <add place="overstrike">contra </add>animas suas. Sic semite omnis auari<g ref="#f161">;</g> 
+                                <lb/>animas possidentium rapiunt.</quote>
+                        </p>
+                    </div>
+                </div>                  
             </div>
         </body>
     </text>
