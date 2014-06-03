@@ -34,14 +34,14 @@
             <fw>Sancti spiritus assit nobis gratia.</fw>
             <cb n="a"/>
             <div n="Title" type="textpart">
-                <head rend="red inline"><lb/>Incipit tractatus <persName>magistri alexandri abbatis <expan><abbr>cyrenc</abbr><ex>estrie</ex></expan></persName><lb/>super parabolas <persName>salomonis</persName>.</head>
+                <head rend="red inline"><lb/>Incipit tractatus <persName>magistri alexandri abbatis <expan><abbr>cyrenc<am>’</am></abbr><ex>estrie</ex></expan></persName><lb/>super parabolas <persName>salomonis</persName>.</head>
             </div>
             <div n="Proem" type="textpart" subtype="book">
                 <!-- Current organization is strictly an attempt to reflect the MS, and may be revised:
                      * Large (4-line) initials = new book (Proem + Book 1 marked explicitly)
                      * Small (2-line) initials = new chapter (But see 1.2.)
                      * Enlarged + coloured cap = new section (currently not making a distinction between those that have decoration and those that do not; framed sidenotes are treated as headings) -->
-                <head>¶ Proemyum.</head>
+                <head><milestone unit="undefined">¶</milestone> Proemyum.</head>
                 <div n="1" type="textpart" subtype="chapter">
                     <div n="1" type="textpart" subtype="section">
                         <p>
@@ -780,7 +780,7 @@
                     </div>
                     <div n="6" type="textpart" subtype="section">
                         <p>
-                            ¶ He sunt 
+                            <milestone unit="undefined">¶</milestone> He sunt 
                             <!-- Should these be a new "section"? -->
                             <lb/>igitur parabole <persName>salomonis</persName> filii <persName>dauid</persName> regis israel<g ref="#f161">;</g> edite uel necessa
                             <lb break="no"/>rie et utiles<subst><del>.</del><add><g ref="#f1e2">,</g></add></subst> ad sciendam scientiam et disciplinam. Sapientia<g ref="#f161">;</g> est sa
@@ -841,7 +841,7 @@
                     </div>
                     <div n="7" type="textpart" subtype="section">
                         <p>
-                            ¶ Habet et auditus suas delicias<g ref="#f161">;</g> ne dicam ille
+                            <milestone unit="undefined">¶</milestone> Habet et auditus suas delicias<g ref="#f161">;</g> ne dicam ille
                             <lb break="no"/>cebrarum uoluptatis irritamenta. Cum instrumenti cu
                             <lb break="no"/>iusdam lasciuis sistematibus emolliri iam inc<add place="overstrike">ip</add>er<subst><del>a</del><add place="margin">e</add></subst>t<!-- Check. --> illud 
                             <lb/>uirile robur pectoris alexandri magni<g ref="#f161">;</g> indignatus<g ref="#f1e2">,</g>
@@ -888,7 +888,7 @@
                     </div>
                     <div n="10" type="textpart" subtype="section">
                         <p>
-                            ¶ Discipli
+                            <milestone unit="undefined">¶</milestone> Discipli
                             <lb break="no"/>nata autem compositio exterior<g ref="#f161">;</g> non lene est bene composite mentis argu
                             <lb break="no"/>mentum. Set o<add> </add>dolor<g ref="#f161">;</g> cum gestus in<add place="inline"> </add>gesticulationes degenerant.
                             <lb/>In oculorum hirquis transuersa tuentibus<g ref="#f1f9">~</g> in ceruicis obliquatio
@@ -917,7 +917,7 @@
                     </div>
                     <div n="12" type="textpart" subtype="section">
                         <p>
-                            ¶ Sint igitur affectus
+                            <milestone unit="undefined">¶</milestone> Sint igitur affectus
                             <lb/>mentis<g ref="#f161">;</g> disciplinati. actiones<g ref="#f161">;</g> disciplinate. studia<g ref="#f161">;</g> discipli
                             <lb break="no"/>nata. Si enim discipline uocavulo rite uti uolumus<g ref="#f161">;</g> conti
                             <lb break="no"/>nebit disciplina continentiam et sustinentiam. ita ut conti
@@ -979,7 +979,7 @@
                     </div>
                     <div n="2" type="textpart" subtype="section">
                         <p>
-                            ¶ Nos autem pro
+                            <milestone unit="undefined">¶</milestone> Nos autem pro
                             <lb/>modulo nostro<g ref="#f161">;</g> locum istum sic explanamus. Sciendum est igitur
                             <lb/>misericordiam sub iustitia contineri. Erogare igitur bona pauperibus<g ref="#f161">;</g>
                             <lb/>misericordia est<g ref="#f161">;</g> iustitia est. <add place="overstrike">Nonne</add> enim iustitia est reddere pau
@@ -1113,7 +1113,7 @@
                     </div>
                     <div n="8" type="textpart" subtype="section">
                         <p>
-                            ¶ Sapiens hic dicitur secundum litteratorem hebreum<g ref="#f1e2">,</g>
+                            <milestone unit="undefined">¶</milestone> Sapiens hic dicitur secundum litteratorem hebreum<g ref="#f1e2">,</g>
                             <lb/>ille<g ref="#f161">;</g> cuius scientia se debet eruditioni preceptoris. intelligens<g ref="#f161">;</g> qui
                             <lb/>potentia acuminis ingenii<g ref="#f1e2">,</g> multorum sibi comperat noticiam. Iste<g ref="#f161">;</g>
                             <lb/>gubernacula possidebit inter sapientes. quia ad fastigium
