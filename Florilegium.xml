@@ -42,7 +42,7 @@
                         <l><lb/>Te correctorem sicio pastor pie<g ref="#f1f9">~</g> limam<g ref="#f161">;</g></l>
                         <l><lb/>Apponas operi. qui corrigis aspera claustri.</l>
                         <l><lb/>Sis pius indultor culpe. Iudexque benignus<g ref="#f161">;</g></l>
-                        <l><lb/>Absoluas quod deliquit presumptio lingue.</l>
+                        <l><lb/>Absoluas<g ref="#f1e2">,</g> quod deliqui<add place="overstrike">t</add> presumptio lingue.</l>
                     </lg>
                 </p>
             </div>
@@ -336,17 +336,14 @@
                             <lb/>et dilectio. in quibus duobus<g ref="#f161">;</g> precipue consistit
                             <lb/>uite eterne<del>.</del> beatitudo. 
                         </p>
-                        <div type="textpart">
-                            <head rend="outer red">Questio.</head>
+                            <label rend="outer red">Questio.</label>
                             <p>
                                 Set dicet quis quod de sanctis
                                 <lb/>animalibus secus esse uidetur<g ref="#f161">;</g> quam de angelis. Harum
                                 <lb/>enim nimirum crescet gloria ex consortio corporis
                                 <lb/>quod glorificabitur<g ref="#f161">;</g> set in angelis <expan><abbr>n<am>&#x365;</am></abbr><ex>ichi</ex><abbr>l</abbr></expan> simile reperietur.
                             </p>
-                        </div>
-                        <div type="textpart">
-                            <head rend="outer red">Solutio.</head>
+                            <label rend="outer red">Solutio.</label>
                             <p>
                                 <lb/>Set aduertendum est. quia usque ad diem iudicium an
                                 <lb/>feli quodamodo militant<g ref="#f161">;</g> sunt enim administratorii
@@ -368,7 +365,6 @@
                                 <lb/>et quanto erunt indilectione perfectiores<g ref="#f161">;</g> tanto
                                 <lb/>erunt sibi mutuo notiores.
                             </p>
-                        </div>
                     </div>
                     <div n="22" type="textpart" subtype="section">
                         <head rend="outer red frame">Ex tractatu super ecclesiasten.</head>
@@ -451,24 +447,19 @@
                             <lb/>pena inferni sine fine et sine ulla misericordia. ut
                             <lb/>dicit marginalis super quicumque uult. 
                         </p>
-                        <div type="textpart">
-                            <head rend="outer red frame">Questio.</head>
+                            <label rend="outer red frame">Questio.</label>
                             <p>
                                 Quid?
                                 <lb/>Nonne in omnibus domini misericordia et ueritas?
                             </p>
-                        </div>
-                        <div type="textpart">
-                            <head rend="outer red">Solutio.</head>
+                            <label rend="outer red">Solutio.</label>
                             <p>
                                 Respon
                                 <lb break="no"/>sio. Sine ulla misericordia<del><g ref="#f161">;</g></del> prorsus liberante siue sal
                                 <lb/>uante. Punientur enim citra merita. et in<reg> </reg>hoc erit
                                 <lb/>effectus misericordie<g ref="#f161">;</g> diuine.
                             </p>
-                        </div>
-                        <div type="textpart">
-                            <head rend="outer red">Aliter.</head>
+                            <label rend="outer red">Aliter.</label>
                             <p>
                                 Vel aliter. Sine ulla misericordia<g ref="#f161">;</g>
                                 <lb/>ut eis uidebitur. Tanta enim erit acerbitas pene<g ref="#f161">;</g>
@@ -480,7 +471,6 @@
                                 <pb n="8v"/>
                                 <lb/>dampnandi.
                             </p>
-                        </div>
                     </div>
                     <div n="28" type="textpart" subtype="section">
                         <head rend="outer red frame">Ex tractatu super cantica.</head>
@@ -653,8 +643,7 @@
                             <lb/>que sunt in illa<g ref="#f161">;</g> illo igne comburi non possunt. Set dicet
                             <lb/>acutus.
                         </p>
-                        <div type="textpart">
-                            <head rend="outer red">Questio.</head>
+                            <label rend="outer red">Questio.</label>
                             <p>                            
                                 Nonne eodem igne gehennali ardebit
                                 <lb/>et cruciabitur corpus quo anima in inferno? Tamen anima
@@ -662,9 +651,7 @@
                                 <lb/>nati erit subtilius quam modo sit in<reg> </reg>hac uita. cum
                                 <lb/>eiusdem deformitatis uel maioris sit futurum?
                             </p>
-                        </div>
-                        <div type="textpart">
-                            <head rend="outer red">Solutio.</head>
+                            <label rend="outer red">Solutio.</label>
                             <p>
                                 <lb/>Set sciendum quod corpora dampnatorum passibilia erunt
                                 <lb/>set in<subst><del> </del><add/></subst>mortalia. Vnde cum per ignem illum nature mi
@@ -713,7 +700,6 @@
                                 <lb break="no"/>nem<g ref="#f161">;</g> quam ut ira iudicis in uindicte tan
                                 <lb break="no"/>seat furorem. Hic urat dominus<g ref="#f161">;</g> hic secet.
                             </p>
-                        </div>
                     </div>
                     <div n="39" type="textpart" subtype="section">
                         <head rend="outer red frame">Ex tractatu super cantica.</head>
