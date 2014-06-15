@@ -7,7 +7,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tractatus super parabolas Salomonis (Commentary on Proverbs)</title>
+                <title xml:lang="la">Tractatus super parabolas Salomonis</title>
                 <author xml:id="AN">Alexander Neckam</author>
                 <editor xml:id="AD">Andrew Dunning</editor>
             </titleStmt>

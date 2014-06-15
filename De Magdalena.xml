@@ -7,7 +7,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Meditatio de Magdalena</title>
+                <title xml:lang="la">Meditatio de Magdalena</title>
                 <author xml:id="AN">Alexander Neckam</author>
                 <editor xml:id="AD">Andrew Dunning</editor>
             </titleStmt>
