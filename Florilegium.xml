@@ -983,6 +983,7 @@
                             <lb break="no"/>phium illud. Quod habui<g ref="#f161">;</g> perdidi. quod come
                             <lb break="no"/>di<g ref="#f161">;</g> habui. quod dedi<g ref="#f161">;</g> habeo. Sola enim misericordia<g ref="#f161">;</g><metamark function="flag" rend="nota"/>
                             <!-- An addition at the bottom of this page from overleaf. -->
+                            <gb/>
                             <pb n="14r"/>
                             <lb/>est unica et indiuidua comes hominis. Vnde<g ref="#f1f9">~</g> opera
                             <lb/>illorum sequntur illos.
@@ -1003,7 +1004,7 @@
                     <div n="1" type="textpart" subtype="section">
                         <head rend="outer red frame">Ex sermone de omnibus sanctis.</head>
                         <p>
-                            <hi rend="dropcap2 blue trim-red">N</hi>otandum quod misericordia duas habet species. Consistit
+                            <hi rend="dropcap2 blue trim-red">N</hi>otandum quod misericordia duas habet species. <metamark function="flag" rend="nota"/>Consistit
                             <lb/>enim in ignoscendo. et insubueniendo. In ig
                             <lb break="no"/>noscendo<g ref="#f161">;</g> Vnde<g ref="#f1f9">~</g> cum iratus fueris<g ref="#f161">;</g> misericordie recor
                             <lb break="no"/>daberis. Et in dominica oratione. Dimitte nobis deibta
@@ -1026,6 +1027,37 @@
                             <lb break="no"/>gularitas. Facilitas enim uenie<g ref="#f161">;</g> tribuit incen
                             <lb break="no"/>tiuum delinquendi. Si autem uelis fratrem tuum puni
                             <lb break="no"/>ri<g ref="#f161">;</g> <add place="overstrike">uelis</add> hoc non liuore uindicte. <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> et elo iusticie.
+                        </p>
+                    </div>
+                    <handShift/>
+                    <!-- The following section starts on 13v; it appears to be a later addition, but how much later? -->
+                    <div n="3" type="textpart" subtype="section">
+                        <head rend="margin outer red">Item super mattheum.</head>
+                        <p>
+                            <add place="overleaf">
+                                <lb/>Quod autem. scriptum est. inmatheo. odio habebis inimicum. nunquid hoc in
+                                <lb/>lege precipitur. Absit. <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> permittebatur. ut enis alium persequeretur. causa etiam
+                                <lb/><unclear>benedicte</unclear>. quod hodie non licet. <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> causa iustitie tantum. quod <unclear>licuit</unclear> in lege hoc quod dictum est
+                                <lb/>docetur in deutronomen. capitulo .c. viii.<!-- That's weird. --> Vbi dicitur <quote source="Bible.Vul:Deut.23.3–6">ammonites et moabites etiam
+                                    <lb/>post decimam generationem non intrabunt ecclesiam domini in eternum quia noluerunt
+                                    <lb/>occurrere uobis cum pane et aqua. in uia. quando egressi estis de egypto et
+                                    <!-- Bottom of 14r. -->
+                                    <lb/>quia conduxerunt contra te <persName>balaam</persName>. filium beor de mesopotami
+                                    <lb break="no"/>a. syrie. ut malediceret. tibi. et noluit dominus audire. <persName>balaam</persName>. vertitque 
+                                    <lb/>maledictionem eius in benedictionem tuam eo quod diligeret te non faci
+                                    <lb break="no"/>es cum eis pacem. nec quaeras eis bona. cunctis diebus uitae tuae 
+                                    <lb/>in sempiternum.</quote> liber etiam iudit<supplied reason="omitted">i</supplied>um. et regum idem
+                                <lb/>docent per opera que ibi leguntur.
+                            </add>
+                        </p>
+                    </div>
+                    <handShift/>
+                    <div n="4" type="textpart" subtype="section">
+                        <head rend="outer red frame">Ex sermone de omnibus sanctis.</head>
+                        <p>               
+                            <lb/>Consistit etiam misericordia insubueniendo<g ref="#f161">;</g> Vnde apostolus<g ref="#f1f9">~</g>
+                            <lb/>Estote misericordes et benigni adinuicem.
+                            <pb n="15r"/>
                         </p>
                     </div>
                 </div>
