@@ -1945,7 +1945,7 @@
                             <lb/>diem iudicii<g ref="#f161">;</g> in noticiam nostram non uenit.
                             <lb/><metamark function="flag" rend="nota red"/>Qui autem moralem expositionem istorum desiderat.
                             <lb/>legat si placet opus illud<g ref="#f161">;</g> tropologicum<g ref="#f161">;</g> quod in
-                            <subst><del><lb/></del><add><lb break="no"/></add></subst>scripsimus solacium fidelis anime. Quod autem se
+                            <choice><sic><lb/></sic><reg><lb break="no"/></reg></choice>scripsimus solacium fidelis anime. Quod autem se
                             <lb break="no"/>quitur ingenesi de sopore misso in adam et
                             <lb/>de costa in mulierem edificata<g ref="#f1e2">,</g> prosequi nolumus.
                             <pb n="29v"/>
@@ -2231,11 +2231,126 @@
                         <p>
                             Transfero me ad findem lenitici<g ref="#f161">;</g> ubi
                             <lb break="no"/>legitur. Ponam tabernaculum meum in medio uestri<g ref="#f161">;</g>
-                            <lb/>et non abiciet uos anima mea. 
+                            <lb/>et non abiciet uos anima mea. Ambulabo inter uos<g ref="#f161">;</g>
+                            <lb/>et ero uester deus. Dominus deus noster in moyse loquens
+                            <lb/>populo suo peculiari<g ref="#f1f9">~</g> inuitans eum ad<reg> </reg>obser
+                            <lb break="no"/>uantias preceptorum<g ref="#f161">;</g> dulci et magna demulcet
+                            <lb/>eum promssione dicens. Ponam tabernaculum meum
+                            <lb/>etc. Tabernaculum istud orpus est iesu <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>i</abbr></expan></persName>. Corpus enim
+                            <lb/>hominis tabernaculum de iure appellatur. quia nunc erigitur<g ref="#f1f9">~</g>
+                            <lb/>nunc complicatur. nunc nascitur homo<g ref="#f161">;</g> nunc moritur. Au
+                            <lb break="no"/>diamus quid dicat petrus in<reg> </reg>canonica epistula. Scio
+                            <lb/>quia uelox est dissolutio tabernaculi mei. In<reg> </reg>persona
+                            <lb/>gneralis hominis loquitur petrus. Corpus enim iesu <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>i</abbr></expan></persName>
+                            <lb/>non solum ob<reg> </reg>dictam causam <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> ob aliud dicitur taber
+                            <lb break="no"/>naculum<g ref="#f161">;</g> quia contra seruorem uitiorum prestat nobis re
+                            <lb break="no"/>frigerium. Vnde signanter dictum est ab angelo. <!-- This and the following line seems to be hyphenated? -->
+                            <lb/>Virtus altissimi obumbrabit tibi. Dulce est.
+                            <lb/>tutum est. quiescere sub hac umbra. iocundum
+                            <lb/>est quiescere in hoc tabernaculo. Tabernaculum ergo su
+                            <lb break="no"/>um saluator noster fixit sumens carnem in
+                            <choice><sic><lb break="no"/></sic><reg><lb/></reg></choice>utero beatissime uirginis.
+                        </p>
+                    </div>
+                    <div n="37" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex eodem sermone.</head>
+                        <p>
+                            Nos igitur qui sumus
+                            <lb/>in<reg> </reg>castris milicie presentis sub umbra taberna
+                            <lb break="no"/>culi corporis iesu <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>i<am>.</am></abbr></expan></persName> secure militemus. Omnes 
+                            <lb/>quidem si uolumus possumus accedere ad<reg> </reg>hoc taber
+                            <lb break="no"/>naculum<g ref="#f161">;</g> quia tabernaculum istud in medio<add> </add>nostri est.
+                            <lb/>Dicitur enim. Ponam tabernaculum meum in<reg> </reg>medio
+                            <pb n="33v"/><!-- Ink a bit browner at first. -->
+                            <lb/>uestri. In medio dicitur. quia ipse mediator est. dicitur et hominum.
+                            <lb/>Ipse est centum ad quod naturaliter tendunt omnia. Ipse est quasi
+                            <lb/>in umbiculo terre passus. Ipse est de<reg> </reg>quo scriptum est.
+                            <lb/>In medio uestrum stat quem uos nescitis. Ipse est qui ait.
+                            <lb/>Vbicumque duo uel tres congregati fuerint in nomine meo<g ref="#f161">;</g>
+                            <lb/>ego ero in medio eorum. Vtinam tabernaculum suum <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan>
+                            <lb/>umbram protectionis sue dignetur ponere in medio
+                            <choice><sic><lb break="no"/></sic><corr><lb/></corr></choice>nostri <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> in corde uestro. Sequitur. Et non abiciet uos anima
+                            <lb/>mea. Hinc suggillatur heresis quorumdam dicenti
+                            <lb break="no"/>um <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christu</ex><abbr>m</abbr></expan></persName> animam non assumpsisse. quia cum <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> esset homo
+                            <lb/>erat spiritus. quia tota trinitas est. spiritus incomprehsnibilis.
+                            <lb/>Sciendum ergo quod <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> et corpus et animam assumpsit. ut homo et
+                            <lb/>in corpore et in anima liberaretur. Vnde panis commutatur in
+                            <lb/>corpus. uinum in<reg> </reg>sanguinem<g ref="#f1f9">~</g> in<reg> </reg>sanguine autem anima. Vtilis est
+                            <lb/>enim eucharistia et corpori et anime.
+                        </p>
+                    </div>
+                    <div n="38" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex eodem sermone.</head>
+                        <p>
+                            Qudiatis quid sequitur.
+                            <lb/>Et ambulabo inter uos. Si dominus assumpsisset corpus
+                            <lb/>statim recessurum a nobis non a<reg> </reg>deo alligati essemus
+                            <lb/>ad eum diligendum sicut astricti sumus per hoc quod di
+                            <lb break="no"/>utius dignatus est. conuersari inter nos. et predicare nobis
+                            <lb/>et instruere nos et informare exemplo conueratio
+                            <lb break="no"/>nis et dulcedinis sue. Sequitur<g ref="#f1e2">,</g> et ero deus uester. Non
+                            <lb/>solum ero homo<g ref="#f161">;</g> <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> deus. Et non solum deus<g ref="#f161">;</g> <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> et
+                            <lb/>uester ero. quia uestram naturam assumam. Hinc est quod
+                            <lb/>deus est emanuel <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> nobiscum deus. Audiamus quid
+                            <lb/>dicit ysayas. <label place="margin" rend="red frame-blue">Ysaias.</label>Conuersatus est inter nos. 
+                            etc. Sic igitur
+                            <lb/>uiuanus. sic matri misericordie supplicemus. sic incarnationi
+                            <!-- end of quire; catchword, 'filii eius credamus' -->
+                            <pb n="34r"/>
+                            <lb/>filii eius credamus et colamus<g ref="#f161">;</g> ut in<reg> </reg>die iudici audi
+                            <lb break="no"/>re possimus ab ipso domino dicente. Quesiuisti uine
+                            <lb break="no"/>am ubi cubarem in meridie. Venite benedicti. ue
+                            <lb break="no"/>nite et ostendam uobis locum quietis mee. et po
+                            <lb break="no"/>nam tabernaculum meum in medio uestri. Vtinam
+                            <lb/>in<reg> </reg>hoc tabernaculo quiescere possimus et mereamur audi
+                            <lb break="no"/>re. et non abiciet uos anima mea. immo eternaliter am
+                            <lb break="no"/>plexabitur uos dilectio mea. et ambulabo inter uos
+                            <lb/>cunctis ministrando<g ref="#f161">;</g> qui tamen deus uester sum et dominus.
+                            <lb/>Et ero deus uester<g ref="#f161">;</g> quia ero uobiscum in omnibus <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> suffici
+                            <lb break="no"/>entia omnium.
+                        </p>
+                    </div>
+                    <div n="39" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. Dixit deus. fiat lux.</head>
+                        <p>
+                            <label place="margin-inner" rend="red frame-blue">Auctoritas introducta a<reg> </reg>zacharia de incarnatione.</label>
+                            <unclear>Adest</unclear> et zacharias aduentum
+                            <lb/>saluatoris primum<g ref="#f1f9">~</g> manifeste denuntians<g ref="#f161">;</g> cum dicit.
+                            <lb/>Lauda et letare filia syon<g ref="#f161">;</g> quia ecce ego uenio<g ref="#f1f9">~</g> et
+                            <lb/>habitabo in medio tui. ait dominus<g ref="#f1f9">~</g> et applicabuntur
+                            <lb/>gentes multe ad dominum<g ref="#f161">;</g> et applicabuntur
+                            <lb/>gentes multe ad dominum<g ref="#f161">;</g> in<reg> </reg>die illa et erunt <expan><abbr>m<am>&#x365;</am></abbr><ex>ichi</ex></expan> in populum.
+                            <lb/>Et habitabo in medio tui<g ref="#f1f9">~</g> et scies quia dominus exercituum<g ref="#f161">;</g>
+                            <lb/>misit me ad te. Et possidebit dominus iudam in<reg> </reg>partem
+                            <lb/>suam <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> uere consitentes in<reg> </reg>terra sanctificata <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> in ecclesia.
+                            <lb/>et eriget adhuc ierusalem.
+                        </p>
+                    </div>
+                    <div n="40" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex eodem sermone.</head>
+                        <p>
+                            <label place="margin-outer" rend="red frame-blue">.Alia.</label>Occurrit etiam animo meo uod ait
+                            <lb/>iohannes in<reg> </reg>apocalipsi. Exiuit uincens<g ref="#f161">;</g> ut uinceret.
+                            <lb/>Exiuit inquam<g ref="#f161">;</g> de sinu patris<g ref="#f1f9">~</g> uincens<g ref="#f1f9">~</g> <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> uictor
+                            <lb/>ille<g ref="#f161">;</g> qui luciferum in celo deuicerat. Exuit in
+                            <lb/>quam<g ref="#f161">;</g> ueniens in noticiam hominum per carnis as
+                            <choice><sic><lb/></sic><corr><lb break="no"/></corr></choice>sumptionem<subst><del><g ref="#f161">;</g></del><add>.</add></subst> ut uinceret in<reg> </reg>terra<g ref="#f161">;</g> quem in<reg> </reg>celo uicerat.
+                        </p>
+                    </div>
+                    <div n="41" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex libro edito in laudem gloriose uirginis.</head>
+                        <p>
+                            <lb/>Propsito etiam nostro congruit illud ysaye. <label place="margin-inner" rend="red frame-blue">Alia. Ex ysaia.</label>Ecce dominus
+                            <lb/>ascend<subst><del>i</del><add>e</add></subst>t super nubem leuem et ingredietur egyptum<g ref="#f161">;</g>
+                            <pb n="34v"/>
+                            <lb/>et nouebuntur simulacra egypti a<reg> </reg>facie eius. Mun
+                            <lb break="no"/>dum enim istud tenebrarum caligine inuolutum<g ref="#f161">;</g>
+                            <lb/>lux uera intrans illustrauit. et <del>ui</del>tam hominum
+                            <lb/>peccata quam idola<g ref="#f1e2">,</g> quam demoniorum uiolenta dominia<g ref="#f161">;</g>
+                            <lb/>de medio sublata sunt.
                         </p>
                     </div>
                 </div>
-                
             </div>
         </body>
     </text>
