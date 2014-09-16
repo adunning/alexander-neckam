@@ -1663,7 +1663,7 @@
                             <lb/>Quis librum signatum aperuisset. nisi leo de tribu iuda?
                             <pb n="24v"/>
                             <lb/>Quis archanorum misteriorum legis reserasset in
-                            <lb break="no"/>telligentam. nisi affuisset clauis dauid? Ad<choice><sic> </sic><corr/></choice>impleta sunt
+                            <lb break="no"/>telligentam. nisi affuisset clauis dauid? Ad<surplus> </surplus>impleta sunt
                             <lb/>prophetarum uaticinia<g ref="#f1f9">~</g> <note corresp="#FL1-24-1">Enigmata obscure dicta.</note><seg xml:id="FL1-24-1">enigmata</seg> ad facilitatem in
                             <lb break="no"/>telligentie reclacta sunt<g ref="#f161">;</g> expulse sunt tenebre<g ref="#f1e2">,</g> corus
                             <lb break="no"/>catione uere lucis orbem illustrantis.
@@ -2347,7 +2347,470 @@
                             <lb break="no"/>dum enim istud tenebrarum caligine inuolutum<g ref="#f161">;</g>
                             <lb/>lux uera intrans illustrauit. et <del>ui</del>tam hominum
                             <lb/>peccata quam idola<g ref="#f1e2">,</g> quam demoniorum uiolenta dominia<g ref="#f161">;</g>
-                            <lb/>de medio sublata sunt.
+                            <lb/>de medio sublata sunt. Nubem autem leuem<g ref="#f161">;</g> dicit
+                            <lb/>beatam uirginem immunem<g ref="#f1f9">~</g> a contagione peccati<g ref="#f161">;</g>
+                            <lb/>ex quo mundicia ipsa thalamum deliciarum uterum loquor
+                            <lb/>uirginalem<g ref="#f1f9">~</g> sedem sibi elegit. Nubes aquas hauriunt et refundunt<g ref="#f161">;</g> quibus terra<del>m</del> inpinguatur.
+                            <lb/>Nubes autem ista<g ref="#f161">;</g> aquam uiuam hausit<g ref="#f1f9">~</g> <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> con
+                            <lb break="no"/>cipiendo<g ref="#f1f9">~</g> refudit<g ref="#f161">;</g> pariendo. Virtutibus autem
+                            <lb/>beate uirginis<g ref="#f161">;</g> totus orbis fecunditatem quandam spiritu
+                            <lb break="no"/>alem feliciter adeptus est.
+                        </p>
+                    </div>
+                    <div n="42" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. tu exsurgens misereberis syon.</head>
+                        <p>
+                            Dum igitur de nube loquor
+                            <lb/>uideor <expan><abbr>m<am>&#x365;</am></abbr><ex>ichi</ex></expan> uidere cum puero helye nuveculam as
+                            <lb break="no"/>cendentem de mari paruam<g ref="#f1f9">~</g> quasi uestigium hominis<g ref="#f1f9">~</g>
+                            <lb/>excrescentem autem<!-- A corrector seems to have taken the original as 'aut' and changed it to 'autem'. --> in<reg> </reg>quantitatem hominis. Sol igitur iusti
+                            <lb break="no"/>cie<g ref="#f1f9">~</g> factus est nubecula. Vnde<g ref="#f1f9">~</g> ascendam super nubem
+                            <lb/>leuem. quia caro <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>i</abbr></expan></persName><g ref="#f161">;</g> immunis erat ab omni labe
+                            <lb break="no"/>peccati. Non poterat enim sol uideri in rota. Vnde
+                            <lb/>nubeculam ascendit<g ref="#f161">;</g> et ut lippientibus oculis ui
+                            <lb break="no"/>deri posset in<reg> </reg>humanitate. <persName><expan><abbr><am>X<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName><!-- Interesting there that the 'p' is rubricated; I suppose because there is no way to do that with an 'x'. --> igitur non solum secundum
+                            <lb/>deitatem<g ref="#f161">;</g> set etiam secundum humanitatem<g ref="#f1f9">~</g> sol dicitur.
+                            <lb/>Sicut enim ad litteram de lucida illa nube<g ref="#f1f9">~</g> que
+                            <lb/>tribus diebus in<reg> </reg>initio mundi<g ref="#f1e2">,</g> arcum diei descrip
+                            <lb break="no"/>sit<g ref="#f1f9">~</g> factus est sol materialis<g ref="#f161">;</g> ita de beata uirgine<g ref="#f1f9">~</g> factus
+                            <lb/>est secundum humanitatem<g ref="#f1f9">~</g> sol iusticie. Sol igitur factus est<am>.</am>
+                            <pb n="35r"/>
+                            <lb/>de nube<g ref="#f161">;</g> set lucida. lucens sub carnis nube.
+                            <lb/>Ortus est igitur sol de nube. immo et sol de sole. Beata
+                            <lb/>enim uirgo sol dicitur. in epythalamio amoris<g ref="#f1f9">~</g> ibi.
+                            <lb/>Que est ista que ascendit ut aurora. pulchra ut
+                            <lb/>luna<g ref="#f1f9">~</g> electa ut sol? Aurora erat<g ref="#f161">;</g> in natiui
+                            <lb break="no"/>tate. luna<g ref="#f161">;</g> in uerbi conceptione. sol<g ref="#f161">;</g> in assumptoine.
+                            <lb/>Sol igitur in sole posuit suum tabernaculum. Sol ergo est
+                            <lb/>nubes. Hec est nubecula<g ref="#f161">;</g> pluuiam terre conferens. Non
+                            <lb/>enim pluerat annos tres<g ref="#f161">;</g> et menses sex. Terra
+                            <lb/>enim sancte ecclesie<g ref="#f1e2">,</g> nondum irrigata fuit rore gratie adeo ut
+                            <lb/>post<g ref="#f161">;</g> nec pluuia doctrine apostolorum<g ref="#f1f9">~</g> irrigata erat
+                            <lb/>ecclesia. nec celi rorauerant adhuc desuper<g ref="#f161">;</g> nec nubes
+                            <lb/>iustum pluerant. Et item. <metamark function="flag" rend="nota"/>Nondum pluuia
+                            <lb/>descendit in<reg> </reg>uellus gedeonis<g ref="#f161">;</g> terra uirginitatis
+                            <lb/>remanente sicca. Arida igitur fuerat terra sancte ecclesie<g ref="#f161">;</g>
+                            <lb/>per annos tres et menses sex. ANnus primus erat tempus nature.
+                            <lb/>ad initio mundi<g ref="#f161">;</g> usque ad abraham. Annus secundus<g ref="#f161">;</g>
+                            <lb/>erat tempus et nature et legis. quod erat ab abraham
+                            <lb/>usque ad moysen. Dicitur uero et illud tempus et nature et le
+                            <lb break="no"/>gis<g ref="#f161">;</g> propter circumcisionem. cuius caractere<g ref="#f161">;</g> primo insignitus
+                            <lb/>fuerat abraham. Tertius annus<g ref="#f161">;</g> erat tempus legis tantum.
+                            <lb/>quod erat a moyse<g ref="#f161">;</g> usque ad conceptionem iohannis. quia
+                            <lb/>lex et propgete<g ref="#f161">;</g> usque ad iohannem. A concetione uero iohannis
+                            <lb/>usque ad <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>i</abbr></expan></persName> conceptionem<g ref="#f161">;</g> erant quasi menses sex. Vnde
+                            <lb/>in euangelio. Et hic mensus est sextus illi que uocatur
+                            <lb/>sterilis. Latenter uero insinuatur misterium<g ref="#f1f9">~</g> cum dicitur<g ref="#f1f9">~</g>
+                            <pb n="35v"/>
+                            <lb/>quod nubecula erat extrescens inquantitatem hominis. Vel ut dicitur
+                            <lb/>in<reg> </reg>textu in libro regum<g ref="#f1f9">~</g> erat parua quasi uestigium
+                            <lb/>hominus. Per hoc enim innuitur<g ref="#f161">;</g> quod misterium pertinet
+                            <lb/>ad <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christu</ex><abbr>m</abbr></expan></persName> hominem.
+                        </p>
+                    </div>
+                    <div n="43" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex eodem sermone.</head>
+                        <p>
+                            Adimpletum est iam desiderium
+                            <lb/>ecclesie dicentis. Quando ueniet desideratus gentibus? Ve
+                            <lb break="no"/>niat et osculetur me osculo oris sui. Tempus est bone
+                            <lb/>iesu<g ref="#f161">;</g> ut uenias. Vnde aduentum primum propheta preuidens
+                            <lb/>exclamat<g ref="#f161">;</g> dicens. Tu exdugens misereberis
+                            <lb/>syon<g ref="#f161">;</g> etc. <metamark function="flag" rend="nota"/>Signanter dicitur tu<g ref="#f161">;</g> quia secunda persona es in
+                            <lb/>trinitate.<!-- NB: not hyphenated there. --> Media igitur persona in<reg> </reg>trinitate<g ref="#f161">;</g>facta est media
+                            <lb break="no"/>trix dei et hominum. Media persona in<reg> </reg>trinitate<g ref="#f161">;</g> facta est
+                            <lb/>medius terminus. coniungens maiorem extremitatem
+                            <lb/>que est diuina natura<g ref="#f161">;</g> minori extremitati <expan><abbr><am>.</am>s<am>.</am></abbr><ex>cilicet</ex></expan> huma
+                            <lb break="no"/>nitati. ut ita. quasi filogistice concluderetur principi
+                            <lb/>huius mundi. Media persona in<reg> </reg>trinitate<g ref="#f161">;</g> est lignum
+                            <lb/>uite positum in medio paradysi celestis. Hoc
+                            <lb/>est lignum quod plantatum est. secus decursus aquarum<g ref="#f161">;</g>
+                            <lb/>quod frucum suum dabit in tempore suo <expan><abbr><am>.</am>s<am>.</am></abbr><ex>cilicet</ex></expan> quando tempus pleni
+                            <lb break="no"/>tudinis uenit. Tu igitur cuius proprium est miseri et parcere.
+                            <lb/>qui fons es misericordie<g ref="#f161">;</g> misereberis syon<g ref="#f1f9">~</g> misericors et mi
+                            <lb break="no"/>serator dominus. Tu qui speculum es eternitatis<g ref="#f1f9">~</g> qui speculum
+                            <lb/>es ecclesie<g ref="#f161">;</g> misereberis syon<g ref="#f1f9">~</g> ecclesie speculatricis<g ref="#f1f9">~</g> que a<reg> </reg>lon
+                            <lb break="no"/>ge speculatur<g ref="#f1f9">~</g> que adhuc uidet in speculo et enig
+                            <lb break="no"/>mate. <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> infuturo<g ref="#f161">;</g> omnia ei relucebunt<g ref="#f161">;</g> in<reg> </reg>speculo
+                            <lb/>eternitatis. Tu igitur misereberis syon<g ref="#f161">;</g> exsurgens
+                            <lb/>ad regnandum. Ex surgens inquam<g ref="#f161">;</g> qui huc
+                            <!-- There is a distinction at the bottom of this page that continues onto the next: not sure about the best way to deal with this. IT HAS BEEN OMITTED FOR THE TIME BEING. -->
+                            <pb n="36r"/>
+                            <lb/>usque dormiuisse uideris. Serpens igitur antiqus<g ref="#f161">;</g>
+                            <lb/>erat insurgens. Eua<g ref="#f161">;</g> assurgens. filius dei<g ref="#f161">;</g> exur
+                            <lb break="no"/>gens. homo iacens proprius<g ref="#f161">;</g> surgens. <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName><g ref="#f161">;</g> a mortuis
+                            <lb/>resurgns. ecclesia<g ref="#f161">;</g> consurgens. Eiectus igitur diabolus
+                            <lb/>de paradyso celesti<g ref="#f161">;</g> inuidit homini. eum de lo
+                            <lb break="no"/>co uoluptatis eicere uolens<g ref="#f161">;</g> dolis armatus in<reg> </reg>ho
+                            <lb break="no"/>minem insurgens. Cui eua nimis credula<g ref="#f1f9">~</g>
+                            <lb/>quasi honorem exhibuit<g ref="#f161">;</g> assurgendo ei. Filius uero dei.
+                            <lb/>ad persequendum iniurias suas exurgens<g ref="#f161">;</g> uenit.
+                            <lb/>ut hominem iacentem ingrabato<g ref="#f1f9">~</g> detentum lecto
+                            <lb/>doloris surgere faceret<g ref="#f161">;</g> dicens ei. Surge<g ref="#f161">;</g> tolle
+                            <lb/>grabatum tuum<g ref="#f161">;</g> et uade. Tollamus et nos grabatum
+                            <lb/>nostrum<g ref="#f161">;</g> ut corpus nostrum regamus. Venit igitur medicus
+                            <lb/>ille<g ref="#f1f9">~</g> cui seruit natura<g ref="#f161">;</g> ferens alabastrum gratie.
+                            <lb/>antidoto suo uenenum expellens<g ref="#f161">;</g> quod serpens
+                            <lb/>antiqus posteritati ade infudit. Serpens seduxit<g ref="#f161">;</g>
+                            <lb/>agnus reduxit. Fructus ligni seduxit nos<g ref="#f161">;</g> fructus
+                            <lb/>uirge. fructus uite<g ref="#f161">;</g> reduxit nos. Insurgens
+                            <lb/>erat antiqus hostis. <expan><abbr>S<am>;</am></abbr><ex>et</ex></expan> fortior qui fortem de
+                            <lb break="no"/>uicit<g ref="#f161">;</g> uenit exurgens. Vt autem ecclesia et in corpore
+                            <lb/>et in anima esse consurgens<g ref="#f161">;</g> uoluit <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> a mortuis
+                            <lb/>resurgere. Tu igitur exurgens misereberis syon<g ref="#f161">;</g>
+                            <lb/>quia tempus miserendi eius. Cedit enim infata eze
+                            <lb break="no"/>chias. per quem<g ref="#f161">;</g> homo generalis intelligitur. Veniat
+                            <lb/>ueniat igitur ysayas. et dicat ezechie<g ref="#f161">;</g> uiues.
+                            <lb/>Fleas igitur eechie. fleas<g ref="#f161">;</g> et uiuet. Et si achaz
+                            <!-- Continuation of distinction from previous page omitted. -->
+                            <pb n="36v"/>
+                            <lb/>petere signum noluerit<g ref="#f161">;</g> pete tu. Signum petiisti com
+                            <lb break="no"/>mendabile<g ref="#f1f9">~</g> signum illustre<g ref="#f1f9">~</g> ut sol per decem incas des
+                            <lb break="no"/>denderet<g ref="#f161">;</g> et ueniens ad orientem<g ref="#f161">;</g> iterato cursum suum
+                            <lb/>instauraret. Sol igitur iusticie <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName><g ref="#f1f9">~</g> per decem menses
+                            <lb/>fere<g ref="#f1e2">,</g> descendit. dum formam seruilem induens<g ref="#f161">;</g> de
+                            <lb break="no"/>cem mensibus erat in utero uirginali. non dico decem 
+                            <lb/>totis. <metamark function="flag" rend="nota"/>Decimo uero mense ueniens ad portam orien
+                            <lb break="no"/>talem<g ref="#f1f9">~</g> que semper clausa erat. et uir non intrauerat
+                            <lb/>per eam<g ref="#f161">;</g> ortus est sol iusticie. Miserearis igitur o iesu<g ref="#f161">;</g>
+                            <lb/>syon <unclear>unice</unclear> tue. Miserearis<g ref="#f161">;</g> et ezechie. Nisi enim tu
+                            <lb/>qui uita est assis<g ref="#f161">;</g> uiuere non poterit. Miserearis igitur quia
+                            <lb/>uenit tempus miserendi eius. quia uenit tempus<g ref="#f161">;</g> tempus gratie<g ref="#f1f9">~</g>
+                            <lb/>tempus salutis<g ref="#f1f9">~</g> tempus acceptabile<g ref="#f1f9">~</g> tempus plenitudinis<g ref="#f1f9">~</g>
+                            <lb/><expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> impletionis eorum<g ref="#f161">;</g> que predicta erant a prophetis.
+                            <lb/>Est item tempus plenitudinis <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> tempus <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>i<am>.</am></abbr></expan></persName> qui est
+                            <lb/>plenitudo<g ref="#f1f9">~</g> quia spiritus in eo habitauit corporaliter<g ref="#f161">;</g> de
+                            <lb/>cuius plenitudine nos omnes acceptimus. Dicitur item
+                            <lb/>plenitudo<g ref="#f161">;</g> quia immensitas eius omnia implet. Est enim
+                            <lb/>deus quasi locus omnium rerum. Omnia enim in ipso sunt.
+                            <lb/>Tu igitur qui uenisti ut agnus in primo aduentu<g ref="#f161">;</g>
+                            <lb/>uenies ut leo in secundo. Tu signanter dicitur<g ref="#f161">;</g> qui iu
+                            <lb break="no"/>dicatus es a pilato in primo aduentu<g ref="#f161">;</g> iudicabis
+                            <lb/>uiuos et mortuos in secundo aduentu. Tu<g ref="#f161">;</g> tunc
+                            <lb/>eris exurgens. quia in<reg> </reg>ligno crucis dormiuisti.
+                            <lb/>Exurgens inquam<g ref="#f161">;</g> ad uindictam. Tunc exeres
+                            <lb/>gladium tue pestatis<g ref="#f161">;</g> qui absconditus prius latuit
+                            <pb n="37r"/>
+                            <lb/>in uagina humanitatis. Et licet exurgens
+                            <lb/>in<reg> </reg>dampnandos<g ref="#f161">;</g> tamen misereberis syon amice tue<g ref="#f1e2">,</g>
+                            <lb/>dilecte tue<g ref="#f1e2">,</g> pro qua tu eternus<g ref="#f1f9">~</g> factus es<!-- Corrected from something. --> temporalis. Quia
+                            <lb/>in primo aduentu<g ref="#f161">;</g> uenit tempus <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> aduenit temporalitas
+                            <lb/>tibi eterno. Misereberis igitur in<reg> </reg>secundo aduentu<del><g ref="#f161">;</g></del> syon<g ref="#f161">;</g> quia
+                            <lb/>tunc erit tempus miserendi eius. quia uenit tempus<g ref="#f161">;</g> <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> ueniet.
+                            <lb/><expan><abbr>S<am>;</am></abbr><ex>et</ex></expan> pro certitudine rei<g ref="#f161">;</g> dicitur uenit<g ref="#f1f9">~</g> ut ibi. Si consur
+                            <lb break="no"/>rexistis cum <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>o</abbr></expan></persName><g ref="#f161">;</g> <expan><abbr>s<am>.</am></abbr><ex>cilicet</ex></expan> ratione spei. Quamuis et membra
+                            <lb/>debeant dici resurrexisse in resurrectione ca
+                            <lb break="no"/>pitis. Resurgit enim corpus alicuius hominis iacentis<g ref="#f161">;</g> cum
+                            <lb/>caput resurgit. Beniet igitur tempus tibi o iesu<g ref="#f161">;</g> <expan><abbr>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> opor
+                            <lb break="no"/>tunitas iudicandi. Vnde<g ref="#f1f9">~</g> cum accepero tempus<g ref="#f161">;</g> ego
+                            <lb/>iusticias iudicabo. Veniet item tempus remuner
+                            <lb break="no"/>ationis syon. Beniet tempus gaudii. cum desinet
+                            <lb/>electis esse. tempus <add place="right">temporalitatis<g ref="#f161">;</g> cum incipiet electis esse. tempus.</add> eternitatis. immo tempus in<reg> </reg>eternitatem
+                            <lb/>commutabitur. Factus est eternus temporalis<g ref="#f161">;</g> ut nos temporales
+                            <lb/>ad eternal uitam perueniamus. ad delicias eterne
+                            <lb/>iocunditatis.
+                        </p>
+                    </div>
+                    <div n="44" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. tu es qui uenturus es.</head>
+                        <p>
+                            Attendite uiri fratres. Forma
+                            <lb/>uerborum quibus usus est iohannis baptizans illos quos aqua
+                            <lb/>intinxit<g ref="#f161">;</g> hec erat. Ego baptizo te in nomine uenturi.
+                            <lb/>Nomine quidem uenturi designatus est uerus messyas<g ref="#f161">;</g>
+                            <lb/>cuius primum aduentum expectauit uenerabilis ordo
+                            <lb/>antiquorum patrum. sicut eiusdem secundum aduentum
+                            <lb/>expectamus<g ref="#f161">;</g> qui de gentibus ad fidem uocati sumus.
+                            <lb/>Hinc est quod iacob ait. Non auferetur ceptum de
+                            <choice><sic><lb break="no"/></sic><reg><lb/></reg></choice>iuda et dux de femore eius donec ueniat qui mittendus est<g ref="#f161">;</g>
+                            <pb n="37v"/>
+                            <lb/>et ipse erit expectatio gentium. Iste est de quo legitur
+                            <lb/>in aggeo. quia ueniet desideratus cunctis gentibus. Iste
+                            <lb/>est desideratus<g ref="#f1f9">~</g> iste est desiderabilis<g ref="#f161">;</g> iste est uir desideriorum<g ref="#f1f9">~</g>
+                            <lb/>iste est desiderium desideriorum. Ego inquit iohannis bap
+                            <lb break="no"/>tizaui in nomine uenturi<g ref="#f1f9">~</g> tu es ille quem nomine uenturi
+                            <lb/>designaui. Certe bone iesu<g ref="#f1e2">,</g> tu es qui uenturus
+                            <lb/>era<subst><del>t</del><add>s</add></subst> in mundum carnem assumendo. tu es qui uen
+                            <lb break="no"/>turus es ad iudicium<g ref="#f161">;</g> mundum iudicaturus. Tu
+                            <lb/>es qui uenturi nomine designatus es<g ref="#f161">;</g> qui iam usnists<g ref="#f1f9">~</g>
+                            <lb/>qui iterato uenturus es<g ref="#f161">;</g> quem expectauimus. quem ad
+                            <lb/>huc<!-- No hyphenation: check usage elsewhere. --> expectamus. Te quidem iesu noster iesu bone ex
+                            <lb break="no"/>lectauimus et expectamus. <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> nec alium expectauimus<g ref="#f161">;</g>
+                            <lb/>nec expectamus. Miratur admodum paruitas mea
+                            <lb/>super hoc quod beatus <metamark function="flag" rend="nota"/><hi rend="fill-red"><!-- Why is that done? -->G</hi>regorius uir tam maturi pectoris
+                            <lb/>uir et subtilis et sublimis intelligentie<g ref="#f161">;</g> uidetur
+                            <lb/>uelle quod baptista besitauerit utrum saluator
+                            <lb/>descensurus esset ad inferos et educturus seum
+                            <lb/>captiuam captiuitatem. Numquid enim spiritus sanctus
+                            <lb/>qui in aliis eum fidelissime instruxit. uoluit
+                            <lb/>ut uste articulus ei ueniret indubium? Iohannis
+                            <lb/>quidem ad<add place="above">huc<!-- Same hand as the person who made the 'autem' correction earlier. --></add> paruulus<g ref="#f1e2">,</g> adhuc in utero elizabeth ex
+                            <lb break="no"/>istens<g ref="#f161">;</g> agnouit iesum existentem in utero bea
+                            <lb break="no"/>tissime uirginis. Agnouit paruulus paruu
+                            <lb break="no"/>lum. agnouit in<surplus> </surplus>nocens in<surplus> </surplus>nocentiam<!-- These both look for all the world as if 'in' has been separated. --><g ref="#f161">;</g> ag
+                            <lb break="no"/>nouit precursor dominum. Agnouit item iohannis
+                            <lb/>propgeta immo plusquam propgeta<g ref="#f161">;</g> <corr>agnum</corr><!-- Corrected, but I can't tell from what. --> innocentie
+                            <pb n="38r"/>
+                            <lb/>quem indice indicans<g ref="#f161">;</g> ait. Ecce agnus dei<g ref="#f161">;</g> ecce qui
+                            <lb/>tollit peccata mundi. Agnouit item iohannis iesum
+                            <lb/>cum intellexit spiritum sanctam in<reg> </reg>columbe specie des
+                            <lb break="no"/>cendentem super ipsum. intelligens auctoriteatem
+                            <lb/>primitiuam baptismi in domino iesu residere<g ref="#f161">;</g> qui
+                            <lb/>tactu sacratissimi corporis sui<g ref="#f1f9">~</g> uim regneratiuam
+                            <lb/>aquis contulit. Audiuit ibidem baptista uocem
+                            <lb/>patris. Hic est filius meus dilectus<g ref="#f1e2">,</g> in<reg> </reg>quo <expan><abbr>m<am>&#x365;</am></abbr><ex>ichi</ex></expan> bene complacui<g ref="#f161">;</g>
+                            <lb/>ipsum audite. Salua igitur pacte tanti uiri<g ref="#f1e2">,</g> tanti
+                            <lb/>doctoris. qui luce doctrine sue orbem illustrauit<g ref="#f161">;</g>
+                            <lb/>amoris sunt uerba et laudis <add place="above">et<!-- again the corrector? --></add> exultationis. uerba a
+                            <choice><sic><lb break="no"/></sic><reg><lb/></reg></choice>iohanne proposita. Ceterum si uerba ista debeant censeri
+                            <lb/>esse. uerba dubitationis<g ref="#f161">;</g> insinuata est sic quidem hesitatio
+                            <lb/>discipulorum iohannis. qui super hoc certificari desideran
+                            <lb break="no"/>tes<g ref="#f1e2">,</g> missi sunt a doctore suo ad illum qui ueritas est<g ref="#f161">;</g>
+                            <lb/>ut super hoc plenissime certificarentur. Textus ergo
+                            <lb/>euangelii huic opinioni astipulatur si diligentius
+                            <lb/>inspiciatur. Misit enim iohannis discipulos suos ad
+                            <lb/>iesum<g ref="#f161">;</g> ut interrogarent eum. Tu es qui uenturus
+                            <lb/>es an alium expectamus? Dominus ergo iesus intelligens
+                            <lb/>ipsorum dubitationem<g ref="#f161">;</g> noluit eos manifeste cor
+                            <lb break="no"/>ripere<g ref="#f1e2">,</g> neque arguere pro<reg> </reg>hesitatione sua insinu
+                            <lb break="no"/>ans pro litterali intelligentia iohannem super hoc non
+                            <lb/>hesitasse. nec ipsos super eodem hesitare debere. Beatus
+                            <lb/>inquit qui non fuerit sancdalizatus in me. Nos autem
+                            <lb/>in<reg> </reg>presentiarum non assumimus formam disputantis<g ref="#f161">;</g>
+                            <pb n="38v"/>
+                            <lb/><expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> predicantis.
+                        </p>
+                    </div>
+                    <div n="45" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex eodem sermone.</head>
+                        <p>
+                            Vniuit ergo sibi sapientia patris animam
+                            <lb/>et carnem. ut in gloria maiestatis diuine perma
+                            <lb break="no"/>nens<g ref="#f161">;</g> fieret homo humilis. et se ipsam ex
+                            <lb break="no"/>inaniens<g ref="#f161">;</g> formam seruilem induit. Saluator
+                            <lb/>igitur noster dominus <persName><expan><abbr>i<am>ħc</am></abbr><ex>esus</ex></expan> <expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christu</ex><abbr>s</abbr></expan></persName>. deus erat et homo<g ref="#f161">;</g> effectus me
+                            <lb break="no"/>diator inter deum et hominem. Venit itaque uita in
+                            <choice><sic><lb/></sic><reg><lb break="no"/></reg></choice>mortalis sponte pro nobis moritura<g ref="#f161">;</g> ut sic mors
+                            <lb/>moreretur. Vita mori uoluit<g ref="#f1f9">~</g> ut nos qui morta
+                            <lb break="no"/>les sumus<g ref="#f161">;</g> in<reg> </reg>eternum uiueremus. Venit sapientia patris
+                            <lb/>de antiquis patribus carnem sumens<g ref="#f161">;</g> que uenerabilem
+                            <lb/>patrum cetum erat ab inferis reuocatura. Ve
+                            <lb break="no"/>nit ergo saluator saliens in<reg> </reg>montibus et transiliens
+                            <lb/>colles.
+                        </p>
+                    </div>
+                    <div n="46" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. Dixit deus. fiat lux.</head>
+                        <p>
+                            Per lineam enim genealogie sanctorum pa
+                            <lb break="no"/>trum<g ref="#f161">;</g> descendit <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> secundum humanitatem. Sancti autem
+                            <lb/>patres dicuntur montes<g ref="#f1f9">~</g> et a<reg> </reg>stabilitate<g ref="#f161">;</g> et a<reg> </reg>uirtu
+                            <lb break="no"/>tum eminentia. Minores uero<g ref="#f161">;</g> colles dicuntur.
+                            <lb/>Quia et adeo colebantur<g ref="#f161">;</g> et deum colebant. Omnes
+                            <lb/>autem transiliit <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName><g ref="#f161">;</g> quia extremus erat in ordine. et
+                            <lb/>primus dignitate. Saliens etiam dicitur<g ref="#f161">;</g> ab<reg> </reg>effectu. quia
+                            <lb/>suos facis transilire spineta huius mundi.
+                        </p>
+                    </div>
+                    <div n="47" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. tu es qui uenturus es.</head>
+                        <p>
+                            Des
+                            <lb break="no"/>cendit igitur ab<reg> </reg>arce superna in uterum gloriose uirginis<g ref="#f161">;</g>
+                            <lb/>inde descendens in mundum. qui de<surplus> </surplus>inde ascendens
+                            <lb/>in crucem<g ref="#f161">;</g> descendere dignatus est ad inferos.
+                            <lb/>ascensurus postea ad celi fastigia. Ille igitur qui in <!-- No hyphenation here. -->
+                            <lb/>presepio humiliter inclinatus est<g ref="#f161">;</g> inclinauit
+                            <lb/>prius celos et descendit. et qui postea in celum
+                            <pb n="39r"/>
+                            <lb/>ascendit<g ref="#f161">;</g> descensurus est e celo<g ref="#f1f9">~</g> iudicaturus tam
+                            <lb/>uiuos quam mortuos. Hec iteaque preuidens in spiritu
+                            <lb/>baptista iohannis et exultans spirituali iocunditate
+                            <lb/>in apothe<add place="above">o</add>sim mentis raptus<g ref="#f161">;</g> exultans in <expan><abbr>d</abbr><ex>omi</ex><abbr>n<am>̄</am>o</abbr></expan><subst><del><g ref="#f161">;</g></del><add><g ref="#f1f9">~</g></add></subst> pro
+                            <lb break="no"/>rupit in uocem laudis attestantis gaudio di
+                            <lb break="no"/>latanti cor ipsius. Tu ne es inquit qui uenturus es
+                            <lb/>an alium expectamus? Verba sunt laudis<g ref="#f1f9">~</g> uerba
+                            <lb/>sunt amoris<g ref="#f161">;</g> uerba sunt exultationis. Familiaria
+                            <lb/>uiri fratres exempla et uulgaria<g ref="#f161">;</g> familiariter
+                            <lb/>nos instruunt quandoque. Esto igitur quod sa<corr>ra</corr> nici
+                            <lb/>dilecti filii sui ysaac moram egre ferens a<reg> </reg>gen
+                            <lb break="no"/>tis in remots pertibus<g ref="#f161">;</g> filium reuertentem uideat.
+                            <lb/>et amplexetur maternis brachiis. et oscula dulciter
+                            <lb/>imprimens ori<del>s</del> sui ysaac<g ref="#f161">;</g> pregaudio exclamans
+                            <lb/>dicat. Tu ne es unicus meus dilectus filius ysaac.
+                            <lb/>an alium sum conceptura? Ac si dicat. Ego
+                            <lb/>sterilis et effeta gratia celesti uisitata<g ref="#f1f9">~</g> te fili unice
+                            <lb/>concepi. nec unquam alium conceptura sum. Cum
+                            <lb/>igitur proferuntur hec uerba instructi<g ref="#f1f9">~</g> tu es qui uenturus
+                            <lb/>es an alium expectamus<g ref="#f161">;</g> <unclear><del>i</del>iu</unclear>uandus est sensus pronun
+                            <lb break="no"/>tiatione. ita ut quadam <unclear>peliodali</unclear> circumflexione
+                            <lb/>et accentu in arsim eleuato<g ref="#f1f9">~</g> et in tesim postea
+                            <lb/>leni tractu demisso<g ref="#f161">;</g> uerba sub quadam admi
+                            <lb break="no"/>rationis forma pronuntientur. Cum ergo dictum est<g ref="#f1f9">~</g>
+                            <lb/>tu es qui uenturus es an alium expectamus<g ref="#f161">;</g>
+                            <pb n="39v"/>
+                            <lb/>ponitur pro nomen secunde persone discretiue. et suo admi
+                            <lb break="no"/>rationis proferri desiderat accentu. Per inde ergo est ac si
+                            <lb/>dicatur. Tu dulcissime <persName><expan><abbr>i<am>ħ</am></abbr><ex>es</ex><abbr>u</abbr></expan></persName> qui es amor mundi
+                            <lb/>deliciosus<g ref="#f1f9">~</g> qui adhoc uenisti in mundum<g ref="#f1e2">,</g> ut mundum
+                            <lb/>mundares<g ref="#f161">;</g> uenturus es ad inferos<g ref="#f1e2">,</g> uenturus es ad
+                            <lb break="no"/>iudicium.
+                        </p>
+                    </div>
+                    <div n="48" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. Dixit deus. fiat lux.</head>
+                        <p>
+                            Transeamus item ad transitum illud zacha
+                            <lb break="no"/>rie ubi pater illam dulcissimam facit promissionem<g ref="#f161">;</g>
+                            <lb/>dicens. <label place="margin" rend="margin-outer red frame-blue">Alia. Auctoritas introducta.</label>Ecce adducam seruum meum ego orientem.
+                            <lb/>quia ecce lapis quem dedi coram <persName><expan><abbr>i<am>ħ</am></abbr><ex>es</ex><abbr>u</abbr></expan></persName><g ref="#f161">;</g> et super lapidem
+                            <lb/>unum<g ref="#f1f9">~</g> uel ut quidam codices habent uiuum<g ref="#f161">;</g> septem
+                            <lb/>oculi sunt. Libet iterato audire hanc dulcem pro
+                            <lb break="no"/>missionem. Ecce adducam seruum meum ego ori
+                            <lb break="no"/>entem. Signanter dicit pater de se<g ref="#f161">;</g> ego. quasi<g ref="#f1f9">~</g> ego
+                            <lb/>qui sum prima persona in<reg> </reg>trinitate<g ref="#f161">;</g> adducam ad
+                            <lb break="no"/>homines <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> ad noticiam hominum ducam<g ref="#f1f9">~</g> <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christu</ex><abbr>m</abbr></expan></persName> ser
+                            <lb break="no"/>u<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> me<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan><g ref="#f1f9">~</g> nomen illi. Ortus est sol iusticie de por
+                            <lb break="no"/>ta orientali. quia. <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName><g ref="#f161">;</g> natus est de beatissima uirgine.
+                            <lb/>Hec est porta illa illa orientalis clausa<g ref="#f1f9">~</g> ut dicitur in
+                            <lb/>ezechiele et uir non est ingressus per eam. Vtinam oriatur
+                            <lb/>iste in corde nostro<g ref="#f1f9">~</g> qui ortus est de orto concluso <expan><abbr><am>.</am>s<am>.</am></abbr><ex>cilicet</ex></expan> de
+                            <lb/>orto deliciarum uirginalis uteri. Iste est lapis quem dedit
+                            <lb/>pater coram <persName><expan><abbr>i<am>ħ</am></abbr><ex>es</ex><abbr>u</abbr></expan></persName>. Dedit inquam in prophetis. quia in<reg> </reg>pro
+                            <lb break="no"/><unclear>phetiis</unclear> datus est <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> promissus. ut esse coram <persName><expan><abbr>i<am>ħ</am></abbr><ex>es</ex><abbr>u</abbr></expan></persName> <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>o</abbr></expan></persName><g ref="#f161">;</g>
+                            <lb/><expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> precederet aduentum <persName><expan><abbr>i<am>ħ</am></abbr><ex>es</ex><abbr>u</abbr></expan></persName> <expan><abbr><am>x&#x365;</am></abbr><ex>christi</ex></expan>. Precederet inquam<g ref="#f161">;</g>
+                            <lb/>tanquam assimulatus in manibus prophetarum. Figura enim<g ref="#f161">;</g>
+                            <pb n="40r"/>
+                            <lb/>ueritatem precessit. Iste est lapis precisus de<add> </add>rupe<g ref="#f161">;</g>
+                            <lb/>sine manibus. Rupes <expan><abbr>d</abbr><ex>icitu</ex><abbr rend="supraline">r</abbr></expan> beata uirgo<g ref="#f161">;</g> quia non cole
+                            <lb break="no"/>batur studio humani operis. Ab<reg> </reg>eminentia item
+                            <lb/>uirtutis et stabilitatis<g ref="#f161">;</g> rupes dici meruit.
+                            <lb/>Super lapidem igitur unum <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christu</ex><abbr>m</abbr></expan></persName> <expan><abbr><am>.</am>s<am>.</am></abbr><ex>cilicet</ex></expan> sunt septem
+                            <lb/>oculi. quia gratie ipsius universe<g ref="#f161">;</g> ecclesiam et illuminant<g ref="#f1f9">~</g>
+                            <lb/>et discrete uidere faciunt<g ref="#f1f9">~</g> et ecclesiam ornant.
+                            <lb/>Hec nomen enim ocul<corr>us<g ref="#f161">;</g></corr> in<reg> </reg>celesti pagina quandoque
+                            <lb/>refertur ad ornatum. secundum quod uulgo <expan><abbr>d</abbr><ex>icitu</ex><abbr rend="supraline">r</abbr></expan><g ref="#f1f9">~</g> cauda
+                            <lb/><seg xml:id="FL1-48-1">iunonii</seg> altis insignita est oculis argi<g ref="#f161">;</g> quandoque
+                            <lb/>refertur ad discredtione, uel intelligentiam. Vnde
+                            <lb/>debemus esse. animalia plena oculis ante et retro<g ref="#f161">;</g> ut retro
+                            <lb/>elapsa ad memoriam reducamus. et futuros
+                            <lb/>euentus oculis prouidentie preconsideremus.
+                        </p>
+                        <note corresp="#FL1-48-1">¶ Pauo <expan><abbr>d</abbr><ex>icitu</ex><abbr rend="supraline">r</abbr></expan> Iononius ales<g ref="#f161">;</g> quia inferiori tantum aeri<del>i</del> periunionem designato<g ref="#f161">;</g> uolatus
+                            <lb/>eius obnoxius est. Poete etiam misterium ueritatis obuoluebant figmento fabulosarum relationum<g ref="#f161">;</g> intelligentibus loquentes. ¶ <label rend="red">De mercurio et argo.</label> Finxerunt igitur argum habuisse caput cinctum centum luminibus<g ref="#f161">;</g> Ideoque ei a<reg> </reg>iunone datam esse. custodianio pelicis sue. Mercurius autem fistule sue dulcedine soporem oculis inducens caput ipsius precidit. Oculi uero eius incauda pauonis locati sunt<g ref="#f161">;</g> Vnde et Iunonius ales <expan><abbr>d</abbr><ex>icitu</ex><abbr rend="supraline">r</abbr></expan>.</note>
+                    </div>
+                    <div n="49" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. Nox precessit.</head>
+                        <p>
+                            Vulgo
+                            <lb/>notum est tres esse. aduentus saluatoris. Primus
+                            <lb/>est humilitatis<subst><del><g ref="#f161">;</g></del><add>.</add></subst> secundus<g ref="#f161">;</g> suauitatis. tercius<g ref="#f161">;</g> subli
+                            <lb break="no"/>mitatis. Primus fuit in rore. secundus fit indul
+                            <lb break="no"/>core<g ref="#f161">;</g> tercius erit in terrore. In primo<g ref="#f161">;</g> ros deitatis
+                            <lb/>irrorauit ortum deliciarum terre uirginalis
+                            <lb/>que germinauit saluatorem. In secundo<g ref="#f161">;</g> manna
+                            <lb/>celestis gratie descendit in<reg> </reg>terram liberi arbitrii<g ref="#f161">;</g>
+                            <lb/>cum sancta et uenerabilis trinitas<g ref="#f1f9">~</g> cordi humano
+                            <lb/>illabitur. In<reg> </reg>tercio<g ref="#f161">;</g> ueniet cum senatoribus terre
+                            <lb/>dictrictus iudex tenens uentilabrum in manu<g ref="#f161">;</g>
+                            <lb/>quo grana separabuntur a paleis. Aduocabit
+                            <lb/>namque celum et terram<g ref="#f161">;</g> discernere populum suum.
+                            <pb n="40v"/>
+                        </p>
+                    </div>
+                    <div n="50" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex eodem sermone.</head>
+                        <p>             
+                            <lb/>Soluit iam omnia signacula leo de<reg> </reg>tribu iuda<g ref="#f161">;</g>
+                            <lb/>et solus restat aduentus ille terribilis. in<reg> </reg>quo co
+                            <lb break="no"/>lumpne celi tremebunt.
+                        </p>
+                    </div>
+                    <div n="51" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. Nox precessit.</head>
+                        <p>
+                            Primus igitur aduentus sponsi
+                            <lb/>qui est rex regum et <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><ex>u</ex><abbr>s</abbr></expan> dominantium<g ref="#f161">;</g> a propheti<unclear><subst><del>t</del><add>s</add></subst></unclear> et
+                            <lb/>patriarchis prenuntiatus est. qui quasi precursores et
+                            <lb/>prenuntii extiterunt matrimonii precursores et
+                            <lb/>ecclesiam contrahendi. Illi igitur sub felici spe exspec
+                            <lb break="no"/>tantes<g ref="#f161">;</g> et in gaudio spirituali. et in<reg> </reg>dolore max
+                            <lb break="no"/>imo erant constituti<g ref="#f161">;</g> dicentes. Putas ne
+                            <lb/>uidebo? Putas ne durabo? Quando ueniet
+                            <lb/>desideratus ille gentibus?
+                        </p>
+                    </div>
+                    <div n="52" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex libro edito in laudem gloriose uirginis.</head>
+                        <p>
+                            Qui igitur tociens per prophetas
+                            <lb/>scriptserat<g ref="#f1f9">~</g> aduentum suum spondens<g ref="#f161">;</g> uenit
+                            <lb/>tandem uenit. ut qui proscripti eramus<g ref="#f161">;</g> in<reg> </reg>uitam
+                            <lb/>eternam ascriberemur. Sancta igitur ecclesia aduentum uiri
+                            <lb/>desideriorum desiderans<g ref="#f161">;</g> dixisse uisa est. <label place="margin" rend="margin-outer red frame-blue">.Ouidius. Versus</label><quote><!-- Ovid, Epist. 1.1.110, should be: tu citius uenias, portus et ara tuis --><l>Tu citius
+                                    <lb/>uenias portus et aura tuus.</l></quote> Verbo itaque quo
+                            <lb/>omnis creatura quodammodo incsripta fuerat. in fine
+                            <lb/>temporum inscripta est nouo modo<g ref="#f1f9">~</g> caro assumpta
+                            <lb/>de uirgine in mense nouorum<g ref="#f161">;</g> adeo ut legi
+                            <lb/>posset<g ref="#f1f9">~</g> et uideri et manifeste discer\nit. Ver
+                            <lb break="no"/>bum igitur quod ab eterno cor eructauit patris<g ref="#f1f9">~</g>
+                            <lb/>factum est cor nostrum. et datum est nobis cor carneum<g ref="#f161">;</g>
+                            <lb/>ut molle sit cor nostrum et idoneum ad<reg> </reg>susci
+                            <lb break="no"/>piendum impressionem similitudinis diuine.
+                            <lb/>Cor nostrum<g ref="#f161">;</g> <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> est. Istud est cor illud<g ref="#f161">;</g> quod omni
+                            <lb/>custodia monet salomon in parabolis
+                            <!-- Another distinction spanning this spread, CURRENTLY OMITTED. -->
+                            <pb n="41r"/>
+                            <lb/>seruari a nobis. Ve<subst><del><unclear>eorum</unclear></del><add place="margin">cors</add></subst><!-- Not totally sure if I am interpreting this correctly. --> est<g ref="#f1f9">~</g> qui summam non ad
+                            <lb break="no"/>hibet diligentiam<g ref="#f161">;</g> ut cor istud custodiat.
+                            <lb/><label place="margin" rend="red">.Venit.</label>Venit ergo ad nos cor nostrum<g ref="#f161">;</g> ille quem ex<reg> </reg>toto corde
+                            <lb/>dilgere debemus. <label place="margin" rend="red">.Venit.</label>Venit ad nos<g ref="#f1f9">~</g> ut legem spiritua
+                            <lb break="no"/>liter intelligeremus<g ref="#f1f9">~</g> cor legis<g ref="#f161">;</g> glosa legis<g ref="#f1f9">~</g> et mens<g ref="#f1f9">~</g>
+                            <lb/>et uirtus<g ref="#f1f9">~</g> et medulla<g ref="#f1f9">~</g> et finis legis.
+                        </p>
+                    </div>
+                    <div n="53" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. Et tu turris gregis.</head>
+                        <p>
+                            Preter iam enumeratos tres aduentus sunt<g ref="#f1e2">,</g> alii aduentus <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>i</abbr></expan></persName>
+                            <lb/>quibus uenit ad nos. Vnus enim est<g ref="#f161">;</g> in<reg> </reg>forma pauperum.
+                            <lb/>In ipsis enim pauperibus<g ref="#f161">;</g> uenit <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> ad nos. Quod enim
+                            <lb/><expan><abbr>d</abbr><ex>icitu</ex><abbr rend="supraline">r</abbr></expan>. uidimus eum non habentem speciem neque decorem<g ref="#f161">;</g>
+                            <lb/>ad pauperes referri potest.
+                        </p>
+                    </div>
+                    <div n="54" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. Tu es qui uenturus es.</head>
+                        <p>
+                            <label place="margin" rend="red">.Venit.</label>Venit ergo <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> ad nos<g ref="#f1e2">,</g> in
+                            <lb/>pauperibus qui <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christu</ex><abbr>m</abbr></expan></persName> habitu suo representant. et
+                            <lb/>speciales fratres sunt ipsius. Vnde psalmista. Substancia
+                            <lb/>mea in inferioribus terre.
+                        </p>
+                    </div>
+                    <div n="55" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. Et tu turris gregis.</head>
+                        <p>
+                            Occurramus igitur. <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>o</abbr></expan></persName> ueni
+                            <lb break="no"/>enti. pauperes<g ref="#f161">;</g> pauperi. Pauper enim factus est pro nobis<g ref="#f161">;</g> iuxta
+                            <lb/>illud. Filius hominis non habet ubi caput reclinet.
+                            <lb/>Vnde<g ref="#f1f9">~</g> Vnicus et pauper sum ego. Pauperes simus
+                            <lb/>spiritu<g ref="#f161">;</g> humiles occuramus humili. Ex quo enim
+                            <lb/>caput humile<g ref="#f161">;</g> decens est ut membra capiti se con
+                            <lb break="no"/>forment. Instruens nos<g ref="#f161">;</g> ieiunauit<g ref="#f1f9">~</g> sic inuitans
+                            <lb/>nos ad ieiunium. <metamark function="flag" rend="nota"/>Set non est uerum ieiunium<g ref="#f161">;</g> nisi
+                            <lb/>mens sit ieiun<del>i</del>a a uiciis. Orauit <persName><expan><abbr>i<am>ħc</am></abbr><ex>esus</ex></expan></persName><g ref="#f161">;</g> dicens
+                            <lb/>disciplulis suis. Orate ne intretis in<reg> </reg>temptationem.
+                            <lb/>Tutum remedium est<g ref="#f161">;</g> remedium orationis. Legen
+                            <lb break="no"/>tes enim<g ref="#f161">;</g> loquimur cum deo<g ref="#f1f9">~</g> <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> cum oramus<g ref="#f161">;</g> loquitur
+                            <lb/>deus nobiscum.
+                        </p>
+                    </div>
+                    <div n="56" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. Tu es qui uenturus es.</head>
+                        <p>
+                            <label place="margin" rend="red">.Venit.</label>Venit item ad nos <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName>. in rore
+                            <pb n="41v"/>
                         </p>
                     </div>
                 </div>
