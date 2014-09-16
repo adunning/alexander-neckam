@@ -1198,7 +1198,7 @@
                             <lb/>altissimus.
                         </p>
                     </div>
-                    <div n="4" type="textpart" subtype="section">
+                    <div n="2" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Super cantica.</head>
                         <p>
                             Postmodum perstringere libet quonammodo
@@ -1207,7 +1207,7 @@
                             <lb/>misericordie subticere. 
                         </p>
                     </div>
-                    <div n="5" type="textpart" subtype="section">
+                    <div n="3" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex libro edito in laudem gloriose uirginis.</head>
                         <p>
                             <label place="margin-inner" rend="red frame-blue">Quod directa causa incarnationis domini fuerit ipsius misericordia benignissima.</label>Sciendum est igitur. quia directa causa in
@@ -1223,7 +1223,7 @@
                             <lb/>noster frater noster.
                         </p>
                     </div>
-                    <div n="6" type="textpart" subtype="section">
+                    <div n="4" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex eodem libro.</head>
                         <p>
                             Si igitur o peccator maiestatem deitatis in <persName><expan><abbr><am>xͦ</am></abbr><ex>christo</ex></expan></persName>.
@@ -1235,7 +1235,7 @@
                             <lb break="no"/>tatem<g ref="#f161">;</g> considera olei suauissimi lenitatem.
                         </p>
                     </div>
-                    <div n="7" type="textpart" subtype="section">
+                    <div n="5" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex eodem libro.</head>
                         <p>
                             Venit
@@ -1271,7 +1271,7 @@
                             <lb/>fractione panis agnoscit.
                         </p>
                     </div>
-                    <div n="8" type="textpart" subtype="section">
+                    <div n="6" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Super cantica.</head>
                         <p>
                             Venit de celis ad
@@ -1293,7 +1293,7 @@
                             <lb/>refulsit<g ref="#f161">;</g> ut filii lucis ad lucem transferentur.
                         </p>
                     </div>
-                    <div n="9" type="textpart" subtype="section">
+                    <div n="7" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex libro edito in laudem gloriose uirginis.</head>
                         <p>                       
                             <lb/><label place="margin-outer" rend="red">.Alia.</label>Preterea. Apud dominum misericordia<g ref="#f161">;</g> et copiosa apud eum
@@ -1311,7 +1311,7 @@
                             <lb/>acciperet.
                         </p>
                     </div>
-                    <div n="10" type="textpart" subtype="section">
+                    <div n="8" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex eodem libro.</head>
                         <p>
                             <label place="margin-outer red frame-blue">Ratio tropologica quare deus uoluit incarnari.</label>Accede igitur. securus ad eum qui cum omnium
@@ -1323,7 +1323,7 @@
                             <lb break="no"/>tibus ignosceret.
                         </p>
                     </div>  
-                    <div n="11" type="textpart" subtype="section">
+                    <div n="9" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">In epistula ad hebreos.</head>
                         <p>
                             Talis enim decebat ut nobis esset
@@ -1333,7 +1333,7 @@
                             <lb break="no"/>tatibus nostris<g ref="#f161">;</g> quoniam et ipse circumdatus est infirmitate.
                         </p>
                     </div>
-                    <div n="12" type="textpart" subtype="section">
+                    <div n="10" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Alia ratio de incarnatione.</head>
                         <p>
                             Quis item pro nobis tam efficaciter peroraret in
@@ -1377,7 +1377,7 @@
                             <lb break="no"/>uotio<g ref="#f161">;</g> quam uerborum ornata compositio.
                         </p>
                     </div>
-                    <div n="13" type="textpart" subtype="section">
+                    <div n="11" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. Ingregere petiam.</head>
                         <p>
                             <label place="margin-outer red frame-blue">Alia ratio de incarnatione.</label>Sciendum
@@ -1391,7 +1391,7 @@
                             <lb/>per ipsum.
                         </p>
                     </div>
-                    <div n="14" type="textpart" subtype="section">
+                    <div n="12" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex libro edito in laudem gloriose uirbinis.</head>
                         <p>
                             <label place="margin">Alia ratio de incarnatione.</label>Ration<subst><del><gap reason="illegible" quantity="2" unit="character"/></del><add>i it</add></subst>em consentaneum erat. ut
@@ -1448,7 +1448,7 @@
                             <lb break="no"/>tatem. ut et potentcie reseruaretur quod suum erat<g ref="#f161">;</g>
                             <lb/>et benignitas effectu suo gauderet.                         </p>
                     </div>
-                    <div n="15" type="textpart" subtype="section">
+                    <div n="13" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Item ex eodem capitulo.</head>
                         <p>
                             <label place="margin">.alia.</label>Adde quod si
@@ -1474,7 +1474,7 @@
                             <lb/>egrotum<g ref="#f161">;</g> medicina.
                         </p>
                     </div>
-                    <div n="16" type="textpart" subtype="section">
+                    <div n="14" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Quod peccatum hominis fuit remediabile. peccatum autem diaboli. irremediabile.</head>
                         <p>
                             <label place="margin-outer" rend="red">.Alia.</label><!-- Not totally sure if this belongs here. --> <metamark function="flag" rend="nota"/> Remediabile item fuit
@@ -1506,7 +1506,7 @@
                             <lb/>et ipsum abimis ad summa erexit.
                         </p>
                     </div>
-                    <div n="17" type="textpart" subtype="section">
+                    <div n="15" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Alia ratio de incarnatione.</head>
                         <p>
                             <label place="margin" rend="margin-outer red frame-blue">Item ex<reg> </reg>eodem libro.</label>
@@ -1523,7 +1523,7 @@
                             <lb break="no"/>fert.
                         </p>
                     </div>
-                    <div n="18" type="textpart" subtype="section">
+                    <div n="16" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Super cantica. Vbi legitus<g ref="#f161">;</g> Reuertere reuertere sunamitis.</head>
                         <p>
                             <label place="margin" rend="red">Meditatio.</label>
@@ -1607,7 +1607,7 @@
                             <lb/>et refugium nostrum.
                         </p>
                     </div>
-                    <div n="19" type="textpart" subtype="section">
+                    <div n="17" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex libro edito in laudem gloriose uirginis.</head>
                         <p>
                             <label place="margin" rend="red">Alia.</label>
@@ -1668,7 +1668,7 @@
                             <lb/>uenit.
                         </p>
                     </div>                                
-                    <div n="20" type="textpart" subtype="section">
+                    <div n="18" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. Inclinauit celos.</head>
                         <p>    
                             O uere nouum quod fecit <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><ex>u</ex><abbr>s</abbr></expan> super terram.
@@ -1683,7 +1683,7 @@
                                 <lb break="no"/>lum<g ref="#f1f9">~</g> nisi qui descendit de celo filius hominis qui est. in celo.</quote>
                         </p>
                     </div>                                
-                    <div n="21" type="textpart" subtype="section">
+                    <div n="19" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. Dabo uobis cor carenum.</head>
                         <p>
                             <lb/>Occurrit iam meditationi mee quod legitur in
@@ -1703,7 +1703,7 @@
                             <lb/>factus est secundus adam de terra uirginea.
                         </p>
                     </div>
-                    <div n="22" type="textpart" subtype="section">
+                    <div n="20" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex sermones qui sic incipit. Que est ista eque ascendit de deserto.</head>
                         <p>
                             Constet igitur omnibus
@@ -1713,7 +1713,7 @@
                             <lb/>corpus saluatoris et formatum.
                         </p>
                     </div>
-                    <div n="23" type="textpart" subtype="section">
+                    <div n="21" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. Ecce ego mitto angelum meum.</head>
                         <p>
                             Et<!-- Good example of a capitalized Tironian 'et'. --> anima noua creata
@@ -1721,7 +1721,7 @@
                             <lb/>homo ex anima rationali et humana carne subsistens.
                         </p>
                     </div>
-                    <div n="24" type="textpart" subtype="section">
+                    <div n="22" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. ponam tabernaculum meum.</head>
                         <p>                   
                             <lb/>Augustinus tamen super iohannem dicit. quod quadragenarius
@@ -1734,7 +1734,7 @@
                             <lb/>distinctiones digitorum et articulorum.
                         </p>
                     </div>
-                    <div n="25" type="textpart" subtype="section">
+                    <div n="23" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex libro edito in laudem gloriose uirginis.</head>
                         <p>
                             <label place="margin" rend="margin-inner red frame-blue">Alia ratio de incarnatione.</label>
@@ -1749,7 +1749,7 @@
                             <lb break="no"/>catione uere lucis orbem illustrantis.
                         </p>
                     </div>
-                    <div n="26" type="textpart" subtype="section">
+                    <div n="24" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex incidenti exponitur mistice<g ref="#f161">;</g> principium geneseos.</head>
                         <p>
                             <quote>Dixit enim 
@@ -1874,7 +1874,7 @@
                             <lb/>propheta. Femina circumdabit iurum. 
                         </p>
                     </div>
-                    <div n="27" type="textpart" subtype="section">
+                    <div n="25" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Quare <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> etiam in infantia dicatur fuisse uir.</head>
                         <p>
                             Sciendum
@@ -1896,7 +1896,7 @@
                             <lb break="no"/>lato<g ref="#f1f9">~</g> fidelis anime. 
                         </p>
                     </div>
-                    <div n="28" type="textpart" subtype="section">
+                    <div n="26" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Auctoritates introducte ad incarnationem saluatoris spe<supplied reason="omitted">c</supplied>tantes.</head>
                         <p>
                             Quasdam igitur auctoritates<g ref="#f1f9">~</g>
@@ -2038,7 +2038,7 @@
                             <lb break="no"/>mentis in cruce non nouit?
                         </p>
                     </div>
-                    <div n="29" type="textpart" subtype="section">
+                    <div n="27" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. Dixit deis<g ref="#f161">;</g> fiat lux.</head>
                         <p>
                             <metamark function="flag" rend="nota"/>Attenti sitis
@@ -2100,14 +2100,14 @@
                             <lb/>Sexta igitur feria conceptus est <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName><g ref="#f1f9">~</g>
                         </p>
                     </div>
-                    <div n="30" type="textpart" subtype="section">
+                    <div n="28" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex tractatu super cantica.</head>
                         <p>
                             et passus reuo
                             <lb break="no"/>lutis triginta tribus annis. et nocte dominica natus.
                         </p>
                     </div>
-                    <div n="31" type="textpart" subtype="section">
+                    <div n="29" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. Dixit deus. fiat lux.</head>
                         <p>
                             <lb/><metamark function="flag" rend="nota"/>Set quare de die conceptus<g ref="#f1f9">~</g> de nocte natus?
@@ -2140,7 +2140,7 @@
                             <lb/>honesti propositi.
                         </p>
                     </div>
-                    <div n="32" type="textpart" subtype="section">
+                    <div n="30" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. Inclinauit celos.</head>
                         <p>
                             Ille idem qui uenit in uterum
@@ -2212,7 +2212,7 @@
                             <lb/>de sinu patris in<reg> </reg>uterum uirginis.
                         </p>
                     </div>
-                    <div n="33" type="textpart" subtype="section">
+                    <div n="31" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex libro edito in laude gloriosa uirginis.</head>
                         <div n="1" type="textpart" subtype="subsection">
                             <p>
@@ -2269,7 +2269,7 @@
                             </p>
                         </div>
                     </div>
-                    <div n="34" type="textpart" subtype="section">
+                    <div n="32" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. transeamus usque belleem.</head>
                         <p>              
                             <lb/>Panis igitur angelorum<g ref="#f161">;</g> factus est oanis hominum.
@@ -2278,7 +2278,7 @@
                             <lb/>cor hominis<g ref="#f161">;</g> natus est nocte dominica.
                         </p>
                     </div>
-                    <div n="35" type="textpart" subtype="section">
+                    <div n="33" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex tractatu super cantica.</head>
                         <p>
                             O quam manga
@@ -2295,7 +2295,7 @@
                             <lb break="no"/>ma caritatis<g ref="#f161">;</g> thesaurus conscientie.
                         </p>
                     </div>
-                    <div n="36" type="textpart" subtype="section">
+                    <div n="34" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex proemio super parabolas.</head>
                         <p>
                             Ipse est dulcedo meditationum. orationum iocunditas<g ref="#f161">;</g> lectio
@@ -2306,7 +2306,7 @@
                             <lb break="no"/>summatio.
                         </p>
                     </div>
-                    <div n="37" type="textpart" subtype="section">
+                    <div n="35" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex sermone de incarnatione domini. qui sic incipit. ponam tabernaculum meum.</head>
                         <p>
                             Transfero me ad findem lenitici<g ref="#f161">;</g> ubi
@@ -2332,7 +2332,7 @@
                             <choice><sic><lb break="no"/></sic><reg><lb/></reg></choice>utero beatissime uirginis.
                         </p>
                     </div>
-                    <div n="38" type="textpart" subtype="section">
+                    <div n="36" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex eodem sermone.</head>
                         <p>
                             Nos igitur qui sumus
@@ -2359,7 +2359,7 @@
                             <lb/>enim eucharistia et corpori et anime.
                         </p>
                     </div>
-                    <div n="39" type="textpart" subtype="section">
+                    <div n="37" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex eodem sermone.</head>
                         <p>
                             Qudiatis quid sequitur.
@@ -2391,7 +2391,7 @@
                             <lb break="no"/>entia omnium.
                         </p>
                     </div>
-                    <div n="40" type="textpart" subtype="section">
+                    <div n="38" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. Dixit deus. fiat lux.</head>
                         <p>
                             <label place="margin-inner" rend="red frame-blue">Auctoritas introducta a<reg> </reg>zacharia de incarnatione.</label>
@@ -2407,7 +2407,7 @@
                             <lb/>et eriget adhuc ierusalem.
                         </p>
                     </div>
-                    <div n="41" type="textpart" subtype="section">
+                    <div n="39" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex eodem sermone.</head>
                         <p>
                             <label place="margin-outer" rend="red frame-blue">.Alia.</label>Occurrit etiam animo meo uod ait
@@ -2418,7 +2418,7 @@
                             <choice><sic><lb/></sic><corr><lb break="no"/></corr></choice>sumptionem<subst><del><g ref="#f161">;</g></del><add>.</add></subst> ut uinceret in<reg> </reg>terra<g ref="#f161">;</g> quem in<reg> </reg>celo uicerat.
                         </p>
                     </div>
-                    <div n="42" type="textpart" subtype="section">
+                    <div n="40" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex libro edito in laudem gloriose uirginis.</head>
                         <p>
                             <lb/>Propsito etiam nostro congruit illud ysaye. <label place="margin-inner" rend="red frame-blue">Alia. Ex ysaia.</label>Ecce dominus
@@ -2438,7 +2438,7 @@
                             <lb break="no"/>alem feliciter adeptus est.
                         </p>
                     </div>
-                    <div n="43" type="textpart" subtype="section">
+                    <div n="41" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. tu exsurgens misereberis syon.</head>
                         <p>
                             Dum igitur de nube loquor
@@ -2489,7 +2489,7 @@
                             <lb/>ad <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christu</ex><abbr>m</abbr></expan></persName> hominem.
                         </p>
                     </div>
-                    <div n="44" type="textpart" subtype="section">
+                    <div n="42" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex eodem sermone.</head>
                         <p>
                             Adimpletum est iam desiderium
@@ -2592,7 +2592,7 @@
                             <lb/>iocunditatis.
                         </p>
                     </div>
-                    <div n="45" type="textpart" subtype="section">
+                    <div n="43" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. tu es qui uenturus es.</head>
                         <p>
                             Attendite uiri fratres. Forma
@@ -2662,7 +2662,7 @@
                             <lb/><expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> predicantis.
                         </p>
                     </div>
-                    <div n="46" type="textpart" subtype="section">
+                    <div n="44" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex eodem sermone.</head>
                         <p>
                             Vniuit ergo sibi sapientia patris animam
@@ -2680,7 +2680,7 @@
                             <lb/>colles.
                         </p>
                     </div>
-                    <div n="47" type="textpart" subtype="section">
+                    <div n="45" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. Dixit deus. fiat lux.</head>
                         <p>
                             Per lineam enim genealogie sanctorum pa
@@ -2693,7 +2693,7 @@
                             <lb/>suos facis transilire spineta huius mundi.
                         </p>
                     </div>
-                    <div n="48" type="textpart" subtype="section">
+                    <div n="46" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. tu es qui uenturus es.</head>
                         <p>
                             Des
@@ -2738,7 +2738,7 @@
                             <lb break="no"/>iudicium.
                         </p>
                     </div>
-                    <div n="49" type="textpart" subtype="section">
+                    <div n="47" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. Dixit deus. fiat lux.</head>
                         <p>
                             Transeamus item ad transitum illud zacha
@@ -2780,7 +2780,7 @@
                         <note corresp="#FL1-48-1">¶ Pauo <expan><abbr>d</abbr><ex>icitu</ex><abbr rend="supraline">r</abbr></expan> Iononius ales<g ref="#f161">;</g> quia inferiori tantum aeri<del>i</del> periunionem designato<g ref="#f161">;</g> uolatus
                             <lb/>eius obnoxius est. Poete etiam misterium ueritatis obuoluebant figmento fabulosarum relationum<g ref="#f161">;</g> intelligentibus loquentes. ¶ <label rend="red">De mercurio et argo.</label> Finxerunt igitur argum habuisse caput cinctum centum luminibus<g ref="#f161">;</g> Ideoque ei a<reg> </reg>iunone datam esse. custodianio pelicis sue. Mercurius autem fistule sue dulcedine soporem oculis inducens caput ipsius precidit. Oculi uero eius incauda pauonis locati sunt<g ref="#f161">;</g> Vnde et Iunonius ales <expan><abbr>d</abbr><ex>icitu</ex><abbr rend="supraline">r</abbr></expan>.</note>
                     </div>
-                    <div n="50" type="textpart" subtype="section">
+                    <div n="48" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. Nox precessit.</head>
                         <p>
                             Vulgo
@@ -2799,7 +2799,7 @@
                             <pb n="40v"/>
                         </p>
                     </div>
-                    <div n="51" type="textpart" subtype="section">
+                    <div n="49" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex eodem sermone.</head>
                         <p>             
                             <lb/>Soluit iam omnia signacula leo de<reg> </reg>tribu iuda<g ref="#f161">;</g>
@@ -2807,7 +2807,7 @@
                             <lb break="no"/>lumpne celi tremebunt.
                         </p>
                     </div>
-                    <div n="52" type="textpart" subtype="section">
+                    <div n="50" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. Nox precessit.</head>
                         <p>
                             Primus igitur aduentus sponsi
@@ -2821,7 +2821,7 @@
                             <lb/>desideratus ille gentibus?
                         </p>
                     </div>
-                    <div n="53" type="textpart" subtype="section">
+                    <div n="51" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex libro edito in laudem gloriose uirginis.</head>
                         <p>
                             Qui igitur tociens per prophetas
@@ -2850,7 +2850,7 @@
                             <lb/>et uirtus<g ref="#f1f9">~</g> et medulla<g ref="#f1f9">~</g> et finis legis.
                         </p>
                     </div>
-                    <div n="54" type="textpart" subtype="section">
+                    <div n="52" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. Et tu turris gregis.</head>
                         <p>
                             Preter iam enumeratos tres aduentus sunt<g ref="#f1e2">,</g> alii aduentus <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>i</abbr></expan></persName>
@@ -2860,7 +2860,7 @@
                             <lb/>ad pauperes referri potest.
                         </p>
                     </div>
-                    <div n="55" type="textpart" subtype="section">
+                    <div n="53" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. Tu es qui uenturus es.</head>
                         <p>
                             <label place="margin" rend="red">.Venit.</label>Venit ergo <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> ad nos<g ref="#f1e2">,</g> in
@@ -2869,7 +2869,7 @@
                             <lb/>mea in inferioribus terre.
                         </p>
                     </div>
-                    <div n="56" type="textpart" subtype="section">
+                    <div n="54" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. Et tu turris gregis.</head>
                         <p>
                             Occurramus igitur. <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>o</abbr></expan></persName> ueni
@@ -2887,7 +2887,7 @@
                             <lb/>deus nobiscum.
                         </p>
                     </div>
-                    <div n="57" type="textpart" subtype="section">
+                    <div n="55" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. Tu es qui uenturus es.</head>
                         <p>
                             <label place="margin" rend="red">.Venit.</label>Venit item ad nos <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName>. in rore
@@ -2942,7 +2942,7 @@
                             <lb/>ait. Sanguis eius ornauit genas meas.
                         </p>
                     </div>
-                    <div n="58" type="textpart" subtype="section">
+                    <div n="56" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. Et tu turris gregis.</head>
                         <p>                   
                             <lb/>Est et alius aduentus <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>i</abbr></expan></persName><g ref="#f161">;</g>cum soluit homo
@@ -2961,7 +2961,7 @@
                             <lb/>habitat.
                         </p>
                     </div>
-                    <div n="59" type="textpart" subtype="section">
+                    <div n="57" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex eodem sermone.</head>
                         <p>
                             Adest ergo <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> totus et in corpore et in anima.
@@ -2984,7 +2984,7 @@
                             <lb/>infirmatur.
                         </p>
                     </div>
-                    <div n="60" type="textpart" subtype="section">
+                    <div n="58" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. Cum exaltatus fuero a terra.</head>
                         <p>
                             Quare creatori nostro pacienti non
@@ -3001,7 +3001,7 @@
                             <lb/>nostra lapidea immo lapide duriora non emolliuntur.
                         </p>
                     </div>
-                    <div n="61" type="textpart" subtype="section">
+                    <div n="59" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. Et tu turris gregis.</head>
                         <p>
                             <lb/>Quid moror? Quocienscumque uisitat nos deus
@@ -3012,11 +3012,11 @@
                             <lb break="no"/>cedit. et sic quodammodo uenit <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> ad nos.
                         </p>
                     </div>
-                    <div n="62" type="textpart" subtype="section">
+                    <div n="60" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. tu es qui uenturus es.<!-- Odd what happened with the frame there; I suppose that definitely shows they were done freehand. --></head>
                         <p>
                             <lb/>Bone <persName><expan><abbr>i<am>ħ</am></abbr><ex>es</ex><abbr>u</abbr></expan></persName> quam diu<!-- Does seem to be written as one word. --> aduentum tuum expecta
-                            <lb break="no"/>bimus? Quam diu gaudiapromissa dare differs?
+                            <lb break="no"/>bimus? Quam diu gaudia promissa dare differs?
                             <lb/>Mora ista tediosa est. uere amanti. Veni
                             <lb/>ergo <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">ne</abbr></expan> <persName><expan><abbr>i<am>ħ</am></abbr><ex>es</ex><abbr>u</abbr></expan></persName> ueni. et relaxa facinora plebis
                             <lb/>tue. Veni ad remunerandum<g ref="#f161">;</g> qui uenisti
