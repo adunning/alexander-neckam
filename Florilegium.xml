@@ -30,6 +30,21 @@
     </teiHeader>
     <text xml:lang="la">
         <body>
+            <gb n="a"/>
+            <pb n="1r"/>
+            <pb n="1v"/>
+            <pb n="2r"/>
+            <pb n="2v"/>
+            <p xml:lang="en"><!-- In a later hand. -->
+                <lb/>To Cirencester &amp; bid them pray for me.
+                <lb/>He that prayeth for me Jesu have merci on hym.
+            </p>
+            <p>
+                <lb/>Iste liber constat moritio
+                <lb/>gyffardi testante iesu
+            </p>
+            <gb n="1"/>
+            <pb n="3r"/>
             <div n="Epist" type="textpart" subtype="book">
                 <gb n="1"/>
                 <pb n="3r"/>
