@@ -46,8 +46,6 @@
             <gb n="1"/>
             <pb n="3r"/>
             <div n="Epist" type="textpart" subtype="book">
-                <gb n="1"/>
-                <pb n="3r"/>
                 <head rend="red margin-inner">Epistula.</head>
                 <ab>
                     <lg>
@@ -255,6 +253,7 @@
                             <lb/>esset. iudex ille qui uera est iusticia<g ref="#f1f9">~</g> qui fons est
                             <lb/>misericordie. si <unclear>non</unclear> promeritis debita persolueretur recompensatio?				
                             <pb n="5r"/>
+                            <!-- Drawings of monks. -->
                             <pb n="5v"/>
                             <pb n="6r"/>
                             <lb/>Oportet ergo iustos remunerari<g ref="#f161">;</g> cum in<reg> </reg>hac uita
@@ -3459,7 +3458,7 @@
                             <lb break="no"/>nantis.
                         </ab>
                     </div>
-                    <div n="20" type="textpart" subtype="section">
+                    <div n="23" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Super Mulierem fortem.</head>
                         <ab>
                             Viri gratres confidamus in matre pietatis
@@ -3469,7 +3468,7 @@
                             <lb/>iaceamus. 
                         </ab>
                     </div>
-                    <div n="21" type="textpart" subtype="section">
+                    <div n="24" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex libro edito in laudem gloriose uirginis.</head>
                         <ab>
                             Adhoc nata est ut mundo ferat
@@ -3479,7 +3478,7 @@
                             <lb break="no"/>ciliatrix.
                         </ab>
                     </div>
-                    <div n="22" type="textpart" subtype="section">
+                    <div n="25" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Super Mulierem fortem.</head>
                         <ab>
                             Frequentissime nescio addixerim
@@ -3599,7 +3598,7 @@
                             <lb break="no"/>uiens preconiis gloriose uirginis. ait 
                         </ab>
                     </div>
-                    <div n="23" type="textpart" subtype="section">
+                    <div n="26" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex libro edito in laudem gloriose uirginis.</head>
                         <ab>
                             Ait in<reg> </reg>fine para
@@ -3607,7 +3606,7 @@
                             <lb/>indumentum eius.
                         </ab>
                     </div>
-                    <div n="24" type="textpart" subtype="section">
+                    <div n="27" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Super Mulierem fortem.</head>
                         <ab>
                             Stragulam ut dicit <label place="margin" rend="red">.Ysodorus.</label>ysodorus.
@@ -3656,7 +3655,7 @@
                             <lb/>transitu perabolarum<g ref="#f161">;</g> legamus stragulam uestem.
                         </ab>
                     </div>
-                    <div n="25" type="textpart" subtype="section">
+                    <div n="28" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex eodem libro.</head>
                         <ab>
                             Stragula igitur uestis <expan><abbr>d</abbr><ex>icitu</ex><abbr rend="supraline">r</abbr></expan> hoc in loco decentissi
@@ -3678,7 +3677,7 @@
                             <lb break="no"/>entis iocundabatur
                         </ab>
                     </div>
-                    <div n="26" type="textpart" subtype="section">
+                    <div n="29" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Super cantica.</head>
                         <ab>
                             Sapientia que in<reg> </reg>diebus eternitatis
@@ -3692,7 +3691,7 @@
                             <lb/><expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> dulcissimum. <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> dulcedo.
                         </ab>
                     </div>
-                    <div n="27" type="textpart" subtype="section">
+                    <div n="30" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex libro edito in laudem gloriose uirginis.</head>
                         <ab>
                             O felix leticia uirginis
@@ -3701,7 +3700,7 @@
                             <lb/>de dulcedine fugens dulcedinem.
                         </ab>
                     </div>
-                    <div n="28" type="textpart" subtype="section">
+                    <div n="31" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex tractatu super cantica.</head>
                         <ab>
                             O quotiens inter
@@ -3712,7 +3711,7 @@
                             <lb break="no"/>nientem in hunc mundum.
                         </ab>
                     </div>
-                    <div n="29" type="textpart" subtype="section">
+                    <div n="32" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Super mulierem fortem.</head>
                         <ab>
                             O quotiens illis illis
@@ -3721,7 +3720,7 @@
                             <lb/>delibuta lacrimis <unclear>p</unclear>ietatis impressit.
                         </ab>
                     </div>
-                    <div n="30" type="textpart" subtype="section">
+                    <div n="33" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Super Mulierem fortem.</head>
                         <ab>
                             Quandoque
@@ -3768,7 +3767,7 @@
                             <lb/>benignissima<g ref="#f161">;</g> in<reg> </reg>beneficiorum supererogatione.
                         </ab>
                     </div>
-                    <div n="31" type="textpart" subtype="section">
+                    <div n="34" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex eodem tractatu.</head>
                         <ab>
                             Forti
@@ -3836,14 +3835,14 @@
                             <lb/>preferende essent gloriose uirgini multe uirgines.
                         </ab>
                     </div>
-                    <div n="32" type="textpart" subtype="section">
+                    <div n="35" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. Venit mater salomonis.</head>
                         <ab>
                             Viri fratres. aures benigne accomodastis precedentibus
                             <lb/><expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> mentem queso attencius erigatis ad subsequentia.
                         </ab>
                     </div>
-                    <div n="33" type="textpart" subtype="section">
+                    <div n="36" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Super cantica.</head>
                         <ab>                   
                             <lb/>IN canticis canti<sic>qu</sic>orum legitur<g ref="#f1f9">~</g> quia beata uirgo terri
@@ -3934,7 +3933,7 @@
                             <lb break="no"/>neremur.
                         </ab>
                     </div>
-                    <div n="34" type="textpart" subtype="section">
+                    <div n="37" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Super cantica. De osculis dulcedinis et misericordie beate dei genitricis.</head>
                         <ab>
                             Respicit enim genus gunum dulcier oculis
@@ -3949,7 +3948,7 @@
                             <lb/>miri. si per matrem mundicie multi mundantur?
                         </ab>
                     </div>
-                    <div n="35" type="textpart" subtype="section">
+                    <div n="38" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Super cantica.</head>
                         <ab>                   
                             <lb/>Predictis item adicere decreuimus quia marthe
@@ -3958,7 +3957,7 @@
                             <lb/>in<reg> </reg>conceptu uerbi.
                         </ab>
                     </div>
-                    <div n="36" type="textpart" subtype="section">
+                    <div n="39" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Super cantica. libro secundo. capitulo .Viiiº.</head>
                         <ab>
                             Benedicta tu inter mulieres
@@ -4013,7 +4012,7 @@
                             <lb/>fugit illa que fugat a nobis aerias potestates.
                         </ab>
                     </div>
-                    <div n="37" type="textpart" subtype="section">
+                    <div n="40" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex eodem libro.</head>
                         <ab>
                             Fugit
@@ -4023,7 +4022,7 @@
                             <lb/>fugientis.
                         </ab>
                     </div>
-                    <div n="38" type="textpart" subtype="section">
+                    <div n="41" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Super cantica.</head>
                         <ab>
                             Fugit in egyptum uirgo <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> cum puero et nos
@@ -4040,7 +4039,7 @@
                             <lb break="no"/>uertit mater ipsius.
                         </ab>
                     </div>
-                    <div n="39" type="textpart" subtype="section">
+                    <div n="42" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Super cantica.</head>
                         <ab>
                             Fugit iterato<g ref="#f1f9">~</g> cr<subst><del>e</del><add place="above">u</add></subst>delis insidias
@@ -4052,7 +4051,7 @@
                             <lb break="no"/>siuit gladius doloris?
                         </ab>
                     </div>
-                    <div n="40" type="textpart" subtype="section">
+                    <div n="43" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Super cantica.</head>
                         <ab>
                             Animam pie matris pertransiit
@@ -4060,7 +4059,7 @@
                             <lb break="no"/>uatoris configebantur<g ref="#f161">;</g> mantem matris men<subst><del>i</del><add>e</add></subst>trauerunt.
                         </ab>
                     </div>
-                    <div n="41" type="textpart" subtype="section">
+                    <div n="44" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex eodem tractatu.</head>
                         <ab>                   
                             <lb/>In cruce tanquam in carcere non solum
@@ -4068,7 +4067,7 @@
                             <lb/>filium <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> astitit ei<g ref="#f161">;</g> in eo paciente passa.
                         </ab>
                     </div>
-                    <div n="42" type="textpart" subtype="section">
+                    <div n="45" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. Spiritus intelligentie.</head>
                         <ab>
                             Cum autem
