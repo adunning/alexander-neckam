@@ -4975,43 +4975,43 @@
                     <head rend="margin-outer red frame-blue">Ex libro qui intitulatur Speculum Speculationum. Ex distinctione quarta.</head>
                     <ab>
                         <lb/><lg><l><hi rend="dropcap2 blue trim-red">R</hi>espirare libet. uiresque resumere. fessis<g ref="#f161">;</g></l>
-                        <lb/><l>Grata quies. fessis ocia<g ref="#f1f9">~</g> nonne placent?</l>
-                        <lb/><l>Vexatam studio recreant solacia mentem.</l>
-                        <lb/><l>Solamen uerum<g ref="#f161">;</g> gaudia uera dabunt.</l>
-                        <lb/><l>Suspiremus ad hec. suspiria<g ref="#f161">;</g> gaudi prebent.</l>
-                        <lb/><l>Leticie<g ref="#f161">;</g> gemitus<g ref="#f1e2">,</g> preuius esse. solet.</l>
-                        <lb/><l>Eterni risus<g ref="#f161">;</g> est luctus<g ref="#f1f9">~</g> causa quietem<g ref="#f161">;</g></l>
-                        <lb/><l>Exiguus<g ref="#f1e2">,</g> ueram spondet adesse. labor.</l>
-                        <lb/><l>Sudori modico debentur premia. cum sit<g ref="#f161">;</g></l>
-                        <lb/><l>Gratia<g ref="#f161">;</g> longa breui parta labore quies.</l>
-                        <lb/><l>Ergo molestus erit labor exiguus tibi. cum sit<g ref="#f161">;</g></l>
-                        <lb/><l>Res iocunda nimis. deliciosa quies.</l>
-                        <lb/><l>Iam uires redeunt. iam letus sponte laborem<g ref="#f161">;</g></l>
-                        <lb/><l>Excipio. fugiens<g ref="#f161">;</g> languide torpor abi.</l>
-                        <lb/><l>Dum iuuat<g ref="#f161">;</g> ipse labor nomen deiure quietis.</l>
-                        <lb/><l>Vendicat. immo labor<g ref="#f161">;</g> incipit esse. quies.</l>
-                        <lb/><l>Dulcescit labor iste <expan><abbr>m<am>&#x365;</am></abbr><ex>ichi</ex></expan>. quem condit amoris<g ref="#f161">;</g></l>
-                        <lb/><l>Gratia. num labor est<g ref="#f1f9">~</g> absque labore labor?</l>
-                        <lb/><l>Vt non eludar curis ludentibus. ipsis<g ref="#f161">;</g></l>
-                        <lb/><l>Illudo. nam fraus uincitur artis ope.</l>
-                        <lb/><l>Ledit dum ludit puer ysmael. <add place="overstrike">et puerilis<g ref="#f161">;</g></add></l>
-                        <lb/><l>Moribs. ha ludens efficit ipse senes</l>
-                        <lb/><l>Ergo uale facio torpori. gratia presit<g ref="#f161">;</g></l>
-                        <lb/><l>Arbitro. nostram dirigat ipsa uiam.</l></lg>
+                            <lb/><l>Grata quies. fessis ocia<g ref="#f1f9">~</g> nonne placent?</l>
+                            <lb/><l>Vexatam studio recreant solacia mentem.</l>
+                            <lb/><l>Solamen uerum<g ref="#f161">;</g> gaudia uera dabunt.</l>
+                            <lb/><l>Suspiremus ad hec. suspiria<g ref="#f161">;</g> gaudi prebent.</l>
+                            <lb/><l>Leticie<g ref="#f161">;</g> gemitus<g ref="#f1e2">,</g> preuius esse. solet.</l>
+                            <lb/><l>Eterni risus<g ref="#f161">;</g> est luctus<g ref="#f1f9">~</g> causa quietem<g ref="#f161">;</g></l>
+                            <lb/><l>Exiguus<g ref="#f1e2">,</g> ueram spondet adesse. labor.</l>
+                            <lb/><l>Sudori modico debentur premia. cum sit<g ref="#f161">;</g></l>
+                            <lb/><l>Gratia<g ref="#f161">;</g> longa breui parta labore quies.</l>
+                            <lb/><l>Ergo molestus erit labor exiguus tibi. cum sit<g ref="#f161">;</g></l>
+                            <lb/><l>Res iocunda nimis. deliciosa quies.</l>
+                            <lb/><l>Iam uires redeunt. iam letus sponte laborem<g ref="#f161">;</g></l>
+                            <lb/><l>Excipio. fugiens<g ref="#f161">;</g> languide torpor abi.</l>
+                            <lb/><l>Dum iuuat<g ref="#f161">;</g> ipse labor nomen deiure quietis.</l>
+                            <lb/><l>Vendicat. immo labor<g ref="#f161">;</g> incipit esse. quies.</l>
+                            <lb/><l>Dulcescit labor iste <expan><abbr>m<am>&#x365;</am></abbr><ex>ichi</ex></expan>. quem condit amoris<g ref="#f161">;</g></l>
+                            <lb/><l>Gratia. num labor est<g ref="#f1f9">~</g> absque labore labor?</l>
+                            <lb/><l>Vt non eludar curis ludentibus. ipsis<g ref="#f161">;</g></l>
+                            <lb/><l>Illudo. nam fraus uincitur artis ope.</l>
+                            <lb/><l>Ledit dum ludit puer ysmael. <add place="overstrike">et puerilis<g ref="#f161">;</g></add></l>
+                            <lb/><l>Moribs. ha ludens efficit ipse senes</l>
+                            <lb/><l>Ergo uale facio torpori. gratia presit<g ref="#f161">;</g></l>
+                            <lb/><l>Arbitro. nostram dirigat ipsa uiam.</l></lg>
                     </ab>
                 </div>
                 <div n="2" type="textpart" subtype="section">
                     <head rend="margin-outer red frame-blue">Ex libro qui intitulatur laus sapientie diuine. <handShift/>Distinctione quinta. contra inuidum.</head>
                     <ab>
                         <lb/><metamark function="div" rend="red">¶</metamark><lg><l><hi rend="dropcap2 red trim-blue">C</hi>um prodesse tibi sudens mea pagina lector<g ref="#f161">;</g></l>
-                        <lb/><l>Cur inferre <expan><abbr>m<am>&#x365;</am></abbr><ex>ichi</ex></expan> wlnera crebra studes?</l>
-                        <lb/><l>Me tociens iaculis infestans impetis. At quid?</l>
-                        <lb/><l>Vitari melius tela secunda solent.</l>
-                        <pb n="70v"/>
-                        <lb/><l>Pretendet clipeum pacientia<!-- abbr. pacīa --> tela potenter<g ref="#f161">;</g></l>
-                        <lb/><l>Excipiens. Noceat garula lingua sibi.</l>
-                        <lb/><l>Et nunc subsannas. nunc rides. <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> sine risu.</l>
-                        <lb/><l>Nuntius est ire<g ref="#f161">;</g> fammeus ille rubor.</l></lg>
+                            <lb/><l>Cur inferre <expan><abbr>m<am>&#x365;</am></abbr><ex>ichi</ex></expan> wlnera crebra studes?</l>
+                            <lb/><l>Me tociens iaculis infestans impetis. At quid?</l>
+                            <lb/><l>Vitari melius tela secunda solent.</l>
+                            <pb n="70v"/>
+                            <lb/><l>Pretendet clipeum pacientia<!-- abbr. pacīa --> tela potenter<g ref="#f161">;</g></l>
+                            <lb/><l>Excipiens. Noceat garula lingua sibi.</l>
+                            <lb/><l>Et nunc subsannas. nunc rides. <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> sine risu.</l>
+                            <lb/><l>Nuntius est ire<g ref="#f161">;</g> fammeus ille rubor.</l></lg>
                     </ab>
                 </div>
                 <add place="added leaf">
@@ -5170,11 +5170,248 @@
                     <div n="1" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex sermone de omnibus sanctis. qui sic incipit. Beati pauperes spiritu.</head>
                         <ab>
-                            <lb/>Quis. Quid. Cur. Quan
-                            <lb break="no"/>tum. Qui. Quali. Qualiter.
-                            <lb/>Ex quo. In hiis circ<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan>stanciis notatur
-                            <lb/>quis clare habeat elemosinam. et quid dandum<g ref="#f161">;</g>
-                            <lb/>et quantitas rei.
+                            <div n="1" subtype="subsection" type="textpart">
+                                <lb/><hi rend="dropcap2 blue trim-red">Q</hi>uis. <hi rend="enlarged red trim-blue">Q</hi>uid. <hi rend="enlarged blue trim-red">C</hi>ur. <hi rend="enlarged red trim-blue">Q</hi>uan
+                                <lb break="no"/>tum. <hi rend="enlarged blue trim-red">Q</hi>ui. <hi rend="enlarged red trim-blue">Q</hi>uali. <hi rend="enlarged blue trim-red">Q</hi>ualiter.
+                                <lb/><hi rend="enlarged red trim-blue">E</hi>x quo. In hiis circ<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan>stanciis notatur
+                                <lb/>quis clare habeat elemosinam. et quid dandum<g ref="#f161">;</g>
+                                <lb/>et quantitas rei. et effectus ipsius elemosine. et quibus
+                                <lb/>dandum. qua etiam intentione<g ref="#f161">;</g> et ex quo danda sit elemo
+                                <lb break="no"/>sina.
+                            </div>
+                            <div n="2" subtype="subsection" type="textpart">
+                                <label rend="margin-outer red">.Quis.</label><!-- Not totally sure how to deal with this. -->
+                                <hi rend="enlarged blue trim-red">P</hi>er <hi rend="fill-red">Q</hi>uis<g ref="#f161">;</g> attenditur persona dantis. priua
+                                <lb break="no"/>ta uel publica <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> priuatus aliquis uel prelatus. Pre
+                                <lb break="no"/>latus<g ref="#f161">;</g> spiritualis et ciuilis <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> ecclesasticus aut secularis.
+                                <lb/>Priuatus ergo sitire debet salutem proximi. ad moni
+                                <lb break="no"/>tionem et correptionem adhibere. Vnde <quote>si peccauerit
+                                    <lb/>in<reg> </reg>te frater tuus<g ref="#f161">;</g> corripe eum inter te et ipsum solum.</quote>
+                                <lb/>Tenetur etiam ipsum uita et exemplo instruere et infor
+                                <lb break="no"/>mare. Preterea penitentibus consilium. auxiliuj.
+                                <lb/>consolationem adhibere<g ref="#f161">;</g> et onera eius sustinere. sus
+                                <lb break="no"/>pendere. sentencia anathematis percellere. ab ecclesia
+                                <lb/>precidere. exautorare <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> degradare. ab ordine et be
+                                <lb break="no"/>nificio deponere. Secularis uero iudex glagellare.
+                                <lb/>corporaliter punire. et menbrorum<!-- sp unknown: -em-? --> mutulatione <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> trun
+                                <lb break="no"/>catione<g ref="#f1f9">~</g> suspendere<g ref="#f161">;</g> et huiusmodi. Non enim sine
+                                <lb/>causa iudex fori <quote>gladium materialem habet</quote>. Vnde in
+                                <lb/>deutronomio. Maleficos non pacieris uiuere.
+                                <lb/>Item<g ref="#f1e2">,</g><!-- Is that really the normal #f1e2 or is it just a nice version of it? --> <label place="margin" rend="red frame-blue">Ie<choice><sic>n</sic><corr>r</corr></choice>onimus.</label>Ieronimus. Homicidas et sacrilegos. uene
+                                <lb break="no"/>ficos occidere<g ref="#f1e2">,</g> non est effusio sanguinis<g ref="#f161">;</g> <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> minis
+                                <lb break="no"/>terium <subst><del>legis. est</del><add>est legis</add><!-- Really more accurate to say that 'est' was added immediately and a mark added to show it goes before 'legis'. Improve transposition. --></subst>. Facta enim inquisitio<g ref="#f161">;</g> ad officium
+                                <lb/>spectat iudicantis. pene uero persecutio non iudicis
+                                <pb n="72v"/>
+                                <lb/>officio committitur<g ref="#f161">;</g> <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> legis potestati reserutur. <expan><abbr>D</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><ex>u</ex><abbr>s</abbr></expan> tamen
+                                <lb/>de pena aliquis relaxare debet. ut etiam per hoc<g ref="#f161">;</g> mereatur.
+                                <lb/><metamark function="flag" rend="nota"/><!-- To 'quique' below. -->Vnde iusticia sine misericordia<g ref="#f161">;</g> crudelitas est. Misericordia
+                                <lb/>sine iusticia<g ref="#f161">;</g> est remissio. <!-- nota span running from here to the end of this section, corresponding to the rubricated mark on the next folio -->Crudele enim est. et cum
+                                <lb/>beluis commercium habere<g ref="#f161">;</g> nichil de pena relaxare. Vnde
+                                <lb/>poeta. <lg><label place="margin" rend="red">.Versus.</label><!-- Ovid Ep. 1.2.122. Once again in Peter the Chanter, VA conflatus 2.9.9 and prior 90 (p. 537.8); also John of Salisbury, Pol. 4.8.73; many others. --><l>Est piger ad penas princeps. ad premia uelox.</l>
+                                    <lb/><label place="margin" rend="red">.Versus.</label><l>Quique dolet quotiens cogitur esse. ferox.</l></lg>
+                            </div>
+                        </ab>
+                    </div>
+                    <div n="2" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Super cantica.</head>
+                        <ab>
+                            Aduerte igitur et in
+                            <subst><del><lb/></del><add><lb break="no"/></add></subst>tellige<g ref="#f1f9">~</g> quia iudicis est officium<g ref="#f1e2">,</g> ut diligenter singula scru
+                            <lb break="no"/>tetur<g ref="#f161">;</g> priusquam in<reg> </reg>aliquem animaduertat. Non enim sine di
+                            <lb break="no"/>ligenti cause cognitione puniendus est quis nec promotu uo
+                            <lb break="no"/>luntatis iudicis sine debita causa uentilatione pro<surplus> </surplus>ut
+                            <lb/>res desiderat<g ref="#f161">;</g> <sic>sentencia</sic> proferenda. Hinc est quod <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><ex>u</ex><abbr>s</abbr></expan>
+                            <lb/>audita accusatione. deprehensam in adulterio uolen
+                            <lb break="no"/>tium consdempnari scripsit in<reg> </reg>terra ut instrueret iudi
+                            <lb break="no"/>cem. quia causa scribenda est. digito discre<del>s</del>tionis in<reg> </reg>ter<add place="inline">ra</add>
+                            <lb/>mentis<g ref="#f161">;</g> ante sentencie prolationem. Scribitur autem causa
+                            <lb/>in animo iudicis. dum articulos negocii et memoriter
+                            <lb/>retinet et interius in<surplus> </surplus>uestigat et rimatur.
+                        </ab>
+                    </div>
+                    <div n="3" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex libro qui intitulatur corrogationes noui promethei.<!-- Is it really? Cf. Cropp p. 81. --></head>
+                        <ab>
+                            Scripsit ergo
+                            <lb/><persName><expan><abbr>i<am>ħc</am></abbr><ex>esus</ex></expan></persName> in<reg> </reg>terra hoc. terra terra absorbe hos uiros abdicatos.
+                            <lb/>Vide quod <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><ex>u</ex><abbr>s</abbr></expan> bis scripsit in<reg> </reg>terra cum iudicaturus esse in<reg> </reg>quo
+                            <lb/>instruimur<g ref="#f1e2">,</g> quia nos iudicaturi debemus digito discretionis
+                            <lb/>in<reg> </reg>terra cordis nostri scribere ut iam dictum est. et sentenciam
+                            <lb/>formare secundum ius scriptum. Item quia pluries de
+                            <lb break="no"/>bemus reuoluere sentientiam diffinitiuam quam dare
+                            <lb/>uolumus<g ref="#f161">;</g> ideo pluries <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><ex>u</ex><abbr>s</abbr></expan> in<reg> </reg>terra scripsit. Secundum quos
+                            <lb break="no"/>dam scriptis <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><ex>u</ex><abbr>s</abbr></expan> hoc. Qui uestrum sine peccato est <expan><abbr><am>.</am>s<am>.</am></abbr><ex>cilicet</ex></expan>
+                            <pb n="73r"/>
+                            <lb/>mortali. Hinc potest sumi argumentum quod iudex
+                            <lb/>mortali irretitus non debet interim sedere protribu
+                            <lb break="no"/>nali. Multo fortius nec sacerdos in mortali existens debet
+                            <lb/>aliis in iungere penitentiam. <metamark function="flag" rend="nota"/><!-- corresp to span marked above to end: figure out how to mark this properly -->Dauid non sedit protribu
+                            <lb break="no"/>nali post patratum peccatum ad ulterii ante<add place="inline"> </add>quam audi
+                            <lb break="no"/>ret a propheta transtulit <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><ex>u</ex><abbr>s</abbr></expan> a te peccatum tuum. <metamark function="div" rend="fill-red">¶</metamark>Glosa.
+                            <lb/>Scripsit peccata eorum.
+                        </ab>
+                    </div>
+                    <div n="4" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex tractatu super cantica canticorum.</head>
+                        <ab>
+                            Adde predictis quia punire semper<g ref="#f161">;</g> est
+                            <lb/>ferocitatis. parcere semper<g ref="#f161">;</g> pusillaminitatis. parcere pro
+                            <lb break="no"/><!-- Yes, really. -->tempore<g ref="#f1f9">~</g> punire protempore<g ref="#f161">;</g> equitatis est. plus amaritudi
+                            <lb break="no"/>nis habere quam suauitatis<g ref="#f161">;</g> dempnabile. tantum ama
+                            <lb break="no"/>ritudinis habere quantum suauitatis<g ref="#f161">;</g> tollerabile. Plus
+                            <lb/>habere suauitatis quam amaritudins<g ref="#f161">;</g> secundum quid commen
+                            <lb break="no"/>dabile. Plurimum habere suauitatis et nichil uel mini
+                            <lb break="no"/>mum amaritudinis<g ref="#f161">;</g> simpliciter est commendabile.
+                        </ab>
+                    </div>
+                </div>
+                <div n="1" type="textpart" subtype="chapter">
+                    <head rend="inline red">De spirituali elemosine.</head>
+                    <div n="1" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex sermone de omnibus sanctis.</head>
+                        <ab>
+                            <lb/><label place="margin" rend="red">Quid.</label><hi rend="dropcap3 red trim-blue">I</hi><hi rend="fill-red">n</hi> <hi rend="fill-red">Q</hi>uid<g ref="#f161">;</g> attenditur materia rei date
+                            <lb/>uel dande. Duplex est enim elemosina. spiritualis et
+                            <lb/>corporalis. Etiam spiritualem exhibuit nobis deus ex sola
+                            <lb/>uoluntate creando in participium glorie eius. postmodum
+                            <lb/>henus humanum lapsum<g ref="#f161">;</g> recreando. infirmos etiam
+                            <lb/>curando. leprosos mundando. mortuos suscitando. et
+                            <lb/>alia opera misericordie inpendendo. postomodum autem patibulum cru
+                            <lb break="no"/>cis ascendendo. Non enim proprio filio suo pater pepercit<g ref="#f161">;</g>
+                            <lb/><expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> pro nobis omnibus tradidit illum.
+                        </ab>
+                    </div>
+                    <div n="2" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. Erunt signa in sole et luna.</head>
+                        <ab>
+                            Iugiter pro nobis interpellat
+                            <lb/>ostentans. ille qui fons est pietatis cicatrices patri
+                            <lb/>suo singulis horis<g ref="#f1e2">,</g> <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> et singulis momentis. tanquam
+                            <lb/>aduocatus noster et frater noster. In die igitur examinis districti
+                            <pb n="73v"/>
+                            <lb/>uidebimus nos oculis corporeis regem glorie. quoniam toci
+                            <lb break="no"/>ens ad iram quantum in nobis est prouocauimus<g ref="#f161">;</g> qui ci
+                            <lb break="no"/>catrices uulnerum nobis ostendet. que pro nobis <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><ex>u</ex><abbr>s</abbr></expan> noster
+                            <lb/>rex regum et <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><ex>u</ex><abbr>s</abbr></expan> dominantium sustinere dignatus est.
+                            <lb/>Videbunt et gentes illum illum in<reg> </reg>quem pupu
+                            <lb break="no"/>gerunt<g ref="#f161">;</g> quem morte turpissima condempnauerunt.
+                            <lb/>quem crucifixerunt.
+                        </ab>
+                    </div>
+                    <div n="3" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. Erunt signa in sole et luna.</head>
+                        <ab>
+                            Erunt in<reg> </reg>aduentu districti
+                            <lb/>iudicis et mansueti<g ref="#f1f9">~</g> signa in<reg> </reg>sole et luna et stellis.
+                            <lb/>Signa erunt uictorie in <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>o</abbr></expan></persName> qui sol est iusticie<g ref="#f161">;</g>
+                            <lb/>qui cicatrices uulnerum miraculose reseruat in<reg> </reg>corpore
+                            <lb/>glorificato. Cicatrices inquam uulnerum<g ref="#f161">;</g> que susti
+                            <lb break="no"/>nuit pro nobis<g ref="#f1f9">~</g> ille qui amor noster est et desiderium<g ref="#f1f9">~</g>
+                            <lb/>qui cor <add place="overstrike">nostrum</add> est et cor cordium<g ref="#f161">;</g> et desiderium desideriorum.
+                            <lb/>Erunt signa in<reg> </reg>luna <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> in<reg> </reg>sancta ecclesia. quia tunc carebit
+                            <lb/>macula tam luna materialis que phebe <expan><abbr>d</abbr><ex>icitu</ex><abbr rend="supraline">r</abbr></expan><g ref="#f161">;</g> quam
+                            <lb/>luna sacro<surplus> </surplus>sancte ecclesie. Signum etiam erit in<reg> </reg>luna materiali.
+                            <lb/>quia in<reg> </reg>aduentu iudicis septempliciter lucebit luna<g ref="#f161">;</g>
+                            <lb/>et erit lucens sicut sol. <metamark function="flag" rend="nota"/>Erit et tunc signum glorie
+                            <lb/>decoris <add place="overstrike">in ste</add>llis <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> in<reg> </reg>his qui licet in inferiori gradu
+                            <lb/>constituti sint ad<reg> </reg>presens tanquam minores<g ref="#f161">;</g> effulge
+                            <lb break="no"/>unt gloriose tam spiritibus quam corporibus glorifica
+                            <lb break="no"/>tis. Notum est etiam quia sol et luna et stelle materi
+                            <lb break="no"/>ales <del><unclear>s</unclear></del>tunc<add place="inline"> </add>longe sp<supplied reason="omitted">l</supplied>endidius effulgebunt quam modo efful
+                            <lb break="no"/>geant. Stabit et tunc firmamentum. stabunt et sol
+                            <choice><sic><lb break="no"/></sic><corr><lb/></corr></choice>et<reg> </reg>luna et stelle. Tunc pro<reg> </reg>dolor<g ref="#f1f9">~</g> tunc erit in<reg> </reg>terris pres
+                            <lb break="no"/>sura gentium. quia qui modo gentiliter uiuunt<g ref="#f161">;</g> opprimentur
+                            <pb n="74r"/>
+                            <lb/>dolore et anxietate inenarrabili.
+                        </ab>
+                    </div>
+                    <div n="4" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Item<g ref="#f1f9">~</g> Ex eodem sermone.</head>
+                        <ab>
+                            O si <expan><abbr><am>x&#x365;</am></abbr><ex>christi</ex></expan>ani uel
+                            <lb/>gentiliter uiuerent. Gentes ydola colebant. <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> ut
+                            <lb/>serio ludam<g ref="#f1e2">,</g> aliquam excusationem pretendere potu
+                            <lb break="no"/>erunt quia aurea erant. Miseri uero <expan><abbr><am>x&#x365;</am></abbr><ex>christi</ex></expan>ani <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> nec etiam
+                            <lb/>nomine tam digno censendi nisi quia caractere tam
+                            <lb/>priuilegiato in<reg> </reg>aquis salutaribus in<reg> </reg>signiti sunt<g ref="#f161">;</g>
+                            <lb/>ydola colunt non solum argentea<g ref="#f1f9">~</g> <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> etiam enea.
+                            <lb/>Prodolor n<expan><abbr rend="supraline">u</abbr><ex>n</ex></expan>quid n<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan>micola censendi sunt esse. <expan><abbr><am>x&#x365;</am></abbr><ex>christi</ex></expan>cole?
+                            <lb/>Errant etiam per amfractus uarios<g ref="#f1e2">,</g> et opera committunt
+                            <lb/>enormia in adinuentionibus suis <expan><abbr><am>x&#x365;</am></abbr><ex>christi</ex></expan>ani<g ref="#f161">;</g> quam gen
+                            <lb break="no"/>tiles. Audiatis tubam paterne correptionis qua in
+                            <choice><sic><lb/></sic><corr><lb break="no"/></corr></choice>tonat paulus uas electionis scribens corinthiis<g ref="#f161">;</g> et
+                            <lb/>dicens. Audio fornicationem inter uos esse<g ref="#f161">;</g> qualis nec
+                            <lb/>inter gentes est.
+                        </ab>
+                    </div>
+                    <div n="5" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Item Ex eodem sermone.</head>
+                        <ab>
+                            Tunc erit signum in luna et stellis<g ref="#f161">;</g>
+                            <lb/>quia ante iudicium erit ecclesia ut aurora. Post
+                            <lb/>iudicium<g ref="#f161">;</g> ut sol. Ante uero iudicium erit et signum
+                            <lb/>in mari<g ref="#f161">;</g> quia tunc non erit mare istud elementatum.
+                            <lb/>Immo etiam ante quam mare desiccetur<g ref="#f161">;</g> erunt sonitus
+                            <lb/>maris tanquam rugientis<g ref="#f1f9">~</g> adeo ut horrore tanti
+                            <lb/>clamoris ut ita dicam<g ref="#f161">;</g> perturbetur uniuersus orbis
+                            <lb/>pro<reg> </reg>timore.
+                        </ab>
+                    </div>
+                    <div n="6" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex libro de naturis rerum.</head>
+                        <ab>
+                            Scito pie lector quia post diem iudicii<g ref="#f1f9">~</g>
+                            <lb/>neque ignis erit neque aqua<g ref="#f161">;</g> <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> aer et terra tantum
+                            <lb/>superunt. Dic igitur philosophe<g ref="#f1f9">~</g> quonammodo ista duo
+                            <lb/>elementa contraria<g ref="#f1e2">,</g> sine simzigia uel simbola alicuius
+                            <lb/>medii connectentur? Terra enim frigida est et sicca<g ref="#f161">;</g> aer
+                            <lb/>uero calidus et humidus. Nonne maior est contrarietas inter
+                            <pb n="74v"/>
+                            <lb/>animam et corpus. que tamen sine aliquo medio coniuncta
+                            <lb/>sunt? Maior enim est repugnantia simplicis ad com
+                            <lb break="no"/>positum<g ref="#f161">;</g> quam compsiti ad compositum. Scio tamen
+                            <lb/>aristotilem dixisse in<reg> </reg>topicis. quia ignis est id in<reg> </reg>quo
+                            <lb/>primo anima nata est fieri. <expan><abbr>S<am>;</am></abbr><ex>et</ex></expan> quod queso erit medium<g ref="#f1f9">~</g>
+                            <lb/>cum aer et terra coniungentur? Si <expan><abbr>m<am>&#x365;</am></abbr><ex>ichi</ex></expan> fidem non adhibes.
+                            <lb/>crede saltem principi apostolorum petro<g ref="#f1f9">~</g> idem dicenti<g ref="#f161">;</g>
+                            <lb/>in epistula <add place="right margin">prima </add> canonica. Quid nam dicenti? Quod <expan><abbr><am>.</am>s<am>.</am></abbr><ex>cilicet</ex></expan>
+                            <lb/>ignis et aqua<g ref="#f161">;</g> non erunt post diem iudicii. Nonne
+                            <lb/>ergo sapientia huius mundi. stulticia est apud deum?
+                            <lb/>Attendat item tam pius auditor quam pius lector
+                            <lb/>quia erit <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName>
+                        </ab>
+                    </div><!-- Anything to be done about this? -->
+                    <div n="7" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue"/>
+                        <ab>
+                            cum angelis suis stans in aere<g ref="#f1f9">~</g> in iu
+                            <lb break="no"/>dicio<g ref="#f161">;</g> et ex opposito. in aere stabit ecclesia militans.
+                        </ab>
+                    </div>
+                    <div n="8" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Questio scolastica.</head>
+                        <ab>
+                            Queritur a non nullis utrum iudicium futurum sit
+                            <lb/>in<reg> </reg>terra an in<reg> </reg>aere<g ref="#f1f9">~</g> quod non in aere sit futurum?
+                            <lb/>Videtur. Dicit enim <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><ex>u</ex><abbr>s</abbr></expan> in ioele. <label place="margin" rend="red frame-blue">Ioelis.</label>Congregabo omnes
+                            <lb/>gentes<g ref="#f1e2">,</g> et deducam eos in ualle iosaphat<g ref="#f161">;</g> et dicep
+                            <lb break="no"/>tabo cum eis ibi. Contra tamen hoc<g ref="#f161">;</g> uidetur facere
+                            <lb/>apostolus dicens. <label place="margin" rend="red frame-blue">.Apostolus.</label>Rapiemur illis obuiam in aera et sic
+                            <lb/>semper cum <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">no</abbr></expan> erimus. ergo iudicium erit in aere.
+                            <lb/>ad quod respondemus. quod descendet <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> in<reg> </reg>die iudicii.
+                            <lb/>et erit in<reg> </reg>aere <add place="right margin">super uallem</add> iosaphat.
+                        </ab>
+                    </div>
+                    <div n="9" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. Hodierna die noster <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><ex>u</ex><abbr>s</abbr></expan>.</head>
+                        <ab>
+                            <label place="margin" rend="red frame-blue">.crisostomus.</label><metamark function="flag" rend="nota"/>Deferent angeli ante
+                            <lb/>eum signum crucis. sicut dicit iohannes crisostomus.
+                            <lb/>et omnes saluandi cum eo erunt in aere. dampnandi<g ref="#f161">;</g>
+                            <lb/>in terra. Quoniam uero qui terrena dilexerunt terre adherebunt<g ref="#f1f9">~</g>
+                            <lb/>non eleuati in aer<subst><del>a</del><add>e</add></subst>. Dicit enim glosa super illum
+                            <pb n="75r"/>
+                            <lb/>locum.
                         </ab>
                     </div>
                 </div>
