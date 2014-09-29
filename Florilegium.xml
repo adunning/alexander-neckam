@@ -4175,7 +4175,7 @@
                             <lb/>ornat nos cum iudith <persName><expan><abbr>sp<am>c</am></abbr><ex>iritus</ex></expan></persName> <expan><abbr>s</abbr><ex>an</ex><abbr>c</abbr><ex>tu</ex><abbr>s</abbr></expan> uestimentis io
                             <lb break="no"/>cunditatis<g ref="#f161">;</g> serenata iam conscientia post satisfactio
                             <lb break="no"/>nem penitentie debitam. Tunc hester placet
-                            <pb n="59v"/>
+                            <pb n="59r"/>
                             <lb/>oculis uero assueri. adeo ut ipse extendat contra
                             <lb/>eam uirgam auream<g ref="#f161">;</g> cum opsa regalibus uesti
                             <lb break="no"/>mentis est induta. Summo regi placet anima<g ref="#f161">;</g> que
@@ -5014,7 +5014,8 @@
                         <lb/>Nuntius est ire<g ref="#f161">;</g> fammeus ille rubor.
                     </ab>
                 </div>
-                <add place="added leaf"><!-- This is the text of 70r bis. -->
+                <add place="added leaf">
+                    <pb n="70r bis"/>
                     <div n="3" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex libro qui intitulatur corrogationes noui promethei.</head>
                         <ab>
@@ -5074,6 +5075,7 @@
                             <lb/>Sueuit. Deliros hos miser esse. putas<g ref="#f161">;</g>
                             <lb/>Nomen famosum tibi das dum carpis homerum<g ref="#f161">;</g>
                             <lb/>Zoile. Cui dispar<g ref="#f161">;</g> inuide semper eris.
+                            <pb n="71r"/>
                             <lb/>Famosus magne combussit templa diane.
                             <lb/>Dum carpis magnos zoyle paruus eris.</lg>
                     </ab>
@@ -5109,6 +5111,7 @@
                             <lb/>Qui iustos vera prosperitate beat.</lg>
                     </ab>
                 </div>
+                <pb n="71v"/>
                 <div n="7" type="textpart" subtype="section">
                     <head rend="red above">Ex libro qui intitulatur laus sapientie diuine. Distinctione .iiii.a<!-- fix number --></head>
                     <ab>
