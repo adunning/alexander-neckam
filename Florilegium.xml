@@ -5177,7 +5177,7 @@
                             <lb/>et quantitas rei. et effectus ipsius elemosine. et quibus
                             <lb/>dandum. qua etiam intentione<g ref="#f161">;</g> et ex quo danda sit elemo
                             <lb break="no"/>sina.
-                            <label rend="margin-outer red">.Quis.</label><!-- Not totally sure how to deal with this. -->
+                            <milestone type="circumstance"/><!-- These milestones are being used because this is really the way in which this section is organized, but <div> tags cannot overlap, so this is the best that can be done for now. --><label rend="margin-outer red">.Quis.</label>
                             <hi rend="enlarged blue trim-red">P</hi>er <hi rend="fill-red">Q</hi>uis<g ref="#f161">;</g> attenditur persona dantis. priua
                             <lb break="no"/>ta uel publica <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> priuatus aliquis uel prelatus. Pre
                             <lb break="no"/>latus<g ref="#f161">;</g> spiritualis et ciuilis <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> ecclesasticus aut secularis.
@@ -5260,11 +5260,11 @@
                             <lb break="no"/>mum amaritudinis<g ref="#f161">;</g> simpliciter est commendabile.
                         </ab>
                     </div>
-                    <head rend="inline red">De spirituali elemosine.</head>
                     <div n="5" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex sermone de omnibus sanctis.</head>
                         <ab>
-                            <lb/><label place="margin" rend="red">Quid.</label><hi rend="dropcap3 red trim-blue">I</hi><hi rend="fill-red">n</hi> <hi rend="fill-red">Q</hi>uid<g ref="#f161">;</g> attenditur materia rei date
+                            <label rend="inline red">De spirituali elemosine.</label><!-- My encoding is really not entirely consistent here; re-evaluate this later. -->
+                            <lb/><milestone type="circumstance"/><label place="margin" rend="red">Quid.</label><hi rend="enlarged red trim-blue"><!-- I'm saying that this is enlarged rather than a drop cap because it just happens to fall at the beginning of the line and they made it more decorative because they could. But that might not be correct. The real question is whether this is just a continuation of the division by cirumstances or whether the 'De spirituali elemosine' heading should be treated as a new 'chapter', as inline headings are used elsewhere. On balance, however, I think that it should be taken as being on the same level as the 'De elemosina corporali' heading below. Therefore, this is treated as simply another section of the circumstantial narrative rather than a new chapter. -->I</hi><hi rend="fill-red">n</hi> <hi rend="fill-red">Q</hi>uid<g ref="#f161">;</g> attenditur materia rei date
                             <lb/>uel dande. Duplex est enim elemosina. spiritualis et
                             <lb/>corporalis. Etiam spiritualem exhibuit nobis deus ex sola
                             <lb/>uoluntate creando in participium glorie eius. postmodum
