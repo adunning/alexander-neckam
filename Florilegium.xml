@@ -5264,10 +5264,8 @@
                             <lb break="no"/>mum amaritudinis<g ref="#f161">;</g> simpliciter est commendabile.
                         </ab>
                     </div>
-                </div>
-                <div n="1" type="textpart" subtype="chapter">
                     <head rend="inline red">De spirituali elemosine.</head>
-                    <div n="1" type="textpart" subtype="section">
+                    <div n="5" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex sermone de omnibus sanctis.</head>
                         <ab>
                             <lb/><label place="margin" rend="red">Quid.</label><hi rend="dropcap3 red trim-blue">I</hi><hi rend="fill-red">n</hi> <hi rend="fill-red">Q</hi>uid<g ref="#f161">;</g> attenditur materia rei date
@@ -5281,7 +5279,7 @@
                             <lb/><expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> pro nobis omnibus tradidit illum.
                         </ab>
                     </div>
-                    <div n="2" type="textpart" subtype="section">
+                    <div n="6" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. Erunt signa in sole et luna.</head>
                         <ab>
                             Iugiter pro nobis interpellat
@@ -5298,7 +5296,7 @@
                             <lb/>quem crucifixerunt.
                         </ab>
                     </div>
-                    <div n="3" type="textpart" subtype="section">
+                    <div n="7" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. Erunt signa in sole et luna.</head>
                         <ab>
                             Erunt in<reg> </reg>aduentu districti
@@ -5325,7 +5323,7 @@
                             <lb/>dolore et anxietate inenarrabili.
                         </ab>
                     </div>
-                    <div n="4" type="textpart" subtype="section">
+                    <div n="8" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Item<g ref="#f1f9">~</g> Ex eodem sermone.</head>
                         <ab>
                             O si <expan><abbr><am>x&#x365;</am></abbr><ex>christi</ex></expan>ani uel
@@ -5344,7 +5342,7 @@
                             <lb/>inter gentes est.
                         </ab>
                     </div>
-                    <div n="5" type="textpart" subtype="section">
+                    <div n="9" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Item Ex eodem sermone.</head>
                         <ab>
                             Tunc erit signum in luna et stellis<g ref="#f161">;</g>
@@ -5357,7 +5355,7 @@
                             <lb/>pro<reg> </reg>timore.
                         </ab>
                     </div>
-                    <div n="6" type="textpart" subtype="section">
+                    <div n="10" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex libro de naturis rerum.</head>
                         <ab>
                             Scito pie lector quia post diem iudicii<g ref="#f1f9">~</g>
@@ -5381,14 +5379,14 @@
                             <lb/>quia erit <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName>
                         </ab>
                     </div><!-- Anything to be done about this? -->
-                    <div n="7" type="textpart" subtype="section">
+                    <div n="11" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue"/>
                         <ab>
                             cum angelis suis stans in aere<g ref="#f1f9">~</g> in iu
                             <lb break="no"/>dicio<g ref="#f161">;</g> et ex opposito. in aere stabit ecclesia militans.
                         </ab>
                     </div>
-                    <div n="8" type="textpart" subtype="section">
+                    <div n="12" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Questio scolastica.</head>
                         <ab>
                             Queritur a non nullis utrum iudicium futurum sit
@@ -5402,7 +5400,7 @@
                             <lb/>et erit in<reg> </reg>aere <add place="right margin">super uallem</add> iosaphat.
                         </ab>
                     </div>
-                    <div n="9" type="textpart" subtype="section">
+                    <div n="13" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. Hodierna die noster <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><ex>u</ex><abbr>s</abbr></expan>.</head>
                         <ab>
                             <label place="margin" rend="red frame-blue">.crisostomus.</label><metamark function="flag" rend="nota"/>Deferent angeli ante
