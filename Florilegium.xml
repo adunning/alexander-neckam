@@ -5170,46 +5170,42 @@
                     <div n="1" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex sermone de omnibus sanctis. qui sic incipit. Beati pauperes spiritu.</head>
                         <ab>
-                            <div n="1" subtype="subsection" type="textpart">
-                                <lb/><hi rend="dropcap2 blue trim-red">Q</hi>uis. <hi rend="enlarged red trim-blue">Q</hi>uid. <hi rend="enlarged blue trim-red">C</hi>ur. <hi rend="enlarged red trim-blue">Q</hi>uan
-                                <lb break="no"/>tum. <hi rend="enlarged blue trim-red">Q</hi>ui. <hi rend="enlarged red trim-blue">Q</hi>uali. <hi rend="enlarged blue trim-red">Q</hi>ualiter.
-                                <lb/><hi rend="enlarged red trim-blue">E</hi>x quo. In hiis circ<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan>stanciis notatur
-                                <lb/>quis clare habeat elemosinam. et quid dandum<g ref="#f161">;</g>
-                                <lb/>et quantitas rei. et effectus ipsius elemosine. et quibus
-                                <lb/>dandum. qua etiam intentione<g ref="#f161">;</g> et ex quo danda sit elemo
-                                <lb break="no"/>sina.
-                            </div>
-                            <div n="2" subtype="subsection" type="textpart">
-                                <label rend="margin-outer red">.Quis.</label><!-- Not totally sure how to deal with this. -->
-                                <hi rend="enlarged blue trim-red">P</hi>er <hi rend="fill-red">Q</hi>uis<g ref="#f161">;</g> attenditur persona dantis. priua
-                                <lb break="no"/>ta uel publica <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> priuatus aliquis uel prelatus. Pre
-                                <lb break="no"/>latus<g ref="#f161">;</g> spiritualis et ciuilis <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> ecclesasticus aut secularis.
-                                <lb/>Priuatus ergo sitire debet salutem proximi. ad moni
-                                <lb break="no"/>tionem et correptionem adhibere. Vnde <quote>si peccauerit
-                                    <lb/>in<reg> </reg>te frater tuus<g ref="#f161">;</g> corripe eum inter te et ipsum solum.</quote>
-                                <lb/>Tenetur etiam ipsum uita et exemplo instruere et infor
-                                <lb break="no"/>mare. Preterea penitentibus consilium. auxiliuj.
-                                <lb/>consolationem adhibere<g ref="#f161">;</g> et onera eius sustinere. sus
-                                <lb break="no"/>pendere. sentencia anathematis percellere. ab ecclesia
-                                <lb/>precidere. exautorare <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> degradare. ab ordine et be
-                                <lb break="no"/>nificio deponere. Secularis uero iudex glagellare.
-                                <lb/>corporaliter punire. et menbrorum<!-- sp unknown: -em-? --> mutulatione <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> trun
-                                <lb break="no"/>catione<g ref="#f1f9">~</g> suspendere<g ref="#f161">;</g> et huiusmodi. Non enim sine
-                                <lb/>causa iudex fori <quote>gladium materialem habet</quote>. Vnde in
-                                <lb/>deutronomio. Maleficos non pacieris uiuere.
-                                <lb/>Item<g ref="#f1e2">,</g><!-- Is that really the normal #f1e2 or is it just a nice version of it? --> <label place="margin" rend="red frame-blue">Ie<choice><sic>n</sic><corr>r</corr></choice>onimus.</label>Ieronimus. Homicidas et sacrilegos. uene
-                                <lb break="no"/>ficos occidere<g ref="#f1e2">,</g> non est effusio sanguinis<g ref="#f161">;</g> <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> minis
-                                <lb break="no"/>terium <subst><del>legis. est</del><add>est legis</add><!-- Really more accurate to say that 'est' was added immediately and a mark added to show it goes before 'legis'. Improve transposition. --></subst>. Facta enim inquisitio<g ref="#f161">;</g> ad officium
-                                <lb/>spectat iudicantis. pene uero persecutio non iudicis
-                                <pb n="72v"/>
-                                <lb/>officio committitur<g ref="#f161">;</g> <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> legis potestati reserutur. <expan><abbr>D</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><ex>u</ex><abbr>s</abbr></expan> tamen
-                                <lb/>de pena aliquis relaxare debet. ut etiam per hoc<g ref="#f161">;</g> mereatur.
-                                <lb/><metamark function="flag" rend="nota"/><!-- To 'quique' below. -->Vnde iusticia sine misericordia<g ref="#f161">;</g> crudelitas est. Misericordia
-                                <lb/>sine iusticia<g ref="#f161">;</g> est remissio. <!-- nota span running from here to the end of this section, corresponding to the rubricated mark on the next folio -->Crudele enim est. et cum
-                                <lb/>beluis commercium habere<g ref="#f161">;</g> nichil de pena relaxare. Vnde
-                                <lb/>poeta. <lg><label place="margin" rend="red">.Versus.</label><!-- Ovid Ep. 1.2.122. Once again in Peter the Chanter, VA conflatus 2.9.9 and prior 90 (p. 537.8); also John of Salisbury, Pol. 4.8.73; many others. --><l>Est piger ad penas princeps. ad premia uelox.</l>
-                                    <lb/><label place="margin" rend="red">.Versus.</label><l>Quique dolet quotiens cogitur esse. ferox.</l></lg>
-                            </div>
+                            <lb/><hi rend="dropcap2 blue trim-red">Q</hi>uis. <hi rend="enlarged red trim-blue">Q</hi>uid. <hi rend="enlarged blue trim-red">C</hi>ur. <hi rend="enlarged red trim-blue">Q</hi>uan
+                            <lb break="no"/>tum. <hi rend="enlarged blue trim-red">Q</hi>ui. <hi rend="enlarged red trim-blue">Q</hi>uali. <hi rend="enlarged blue trim-red">Q</hi>ualiter.
+                            <lb/><hi rend="enlarged red trim-blue">E</hi>x quo. In hiis circ<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan>stanciis notatur
+                            <lb/>quis clare habeat elemosinam. et quid dandum<g ref="#f161">;</g>
+                            <lb/>et quantitas rei. et effectus ipsius elemosine. et quibus
+                            <lb/>dandum. qua etiam intentione<g ref="#f161">;</g> et ex quo danda sit elemo
+                            <lb break="no"/>sina.
+                            <label rend="margin-outer red">.Quis.</label><!-- Not totally sure how to deal with this. -->
+                            <hi rend="enlarged blue trim-red">P</hi>er <hi rend="fill-red">Q</hi>uis<g ref="#f161">;</g> attenditur persona dantis. priua
+                            <lb break="no"/>ta uel publica <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> priuatus aliquis uel prelatus. Pre
+                            <lb break="no"/>latus<g ref="#f161">;</g> spiritualis et ciuilis <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> ecclesasticus aut secularis.
+                            <lb/>Priuatus ergo sitire debet salutem proximi. ad moni
+                            <lb break="no"/>tionem et correptionem adhibere. Vnde <quote>si peccauerit
+                                <lb/>in<reg> </reg>te frater tuus<g ref="#f161">;</g> corripe eum inter te et ipsum solum.</quote>
+                            <lb/>Tenetur etiam ipsum uita et exemplo instruere et infor
+                            <lb break="no"/>mare. Preterea penitentibus consilium. auxiliuj.
+                            <lb/>consolationem adhibere<g ref="#f161">;</g> et onera eius sustinere. sus
+                            <lb break="no"/>pendere. sentencia anathematis percellere. ab ecclesia
+                            <lb/>precidere. exautorare <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> degradare. ab ordine et be
+                            <lb break="no"/>nificio deponere. Secularis uero iudex glagellare.
+                            <lb/>corporaliter punire. et menbrorum<!-- sp unknown: -em-? --> mutulatione <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> trun
+                            <lb break="no"/>catione<g ref="#f1f9">~</g> suspendere<g ref="#f161">;</g> et huiusmodi. Non enim sine
+                            <lb/>causa iudex fori <quote>gladium materialem habet</quote>. Vnde in
+                            <lb/>deutronomio. Maleficos non pacieris uiuere.
+                            <lb/>Item<g ref="#f1e2">,</g><!-- Is that really the normal #f1e2 or is it just a nice version of it? --> <label place="margin" rend="red frame-blue">Ie<choice><sic>n</sic><corr>r</corr></choice>onimus.</label>Ieronimus. Homicidas et sacrilegos. uene
+                            <lb break="no"/>ficos occidere<g ref="#f1e2">,</g> non est effusio sanguinis<g ref="#f161">;</g> <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> minis
+                            <lb break="no"/>terium <subst><del>legis. est</del><add>est legis</add><!-- Really more accurate to say that 'est' was added immediately and a mark added to show it goes before 'legis'. Improve transposition. --></subst>. Facta enim inquisitio<g ref="#f161">;</g> ad officium
+                            <lb/>spectat iudicantis. pene uero persecutio non iudicis
+                            <pb n="72v"/>
+                            <lb/>officio committitur<g ref="#f161">;</g> <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> legis potestati reserutur. <expan><abbr>D</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><ex>u</ex><abbr>s</abbr></expan> tamen
+                            <lb/>de pena aliquis relaxare debet. ut etiam per hoc<g ref="#f161">;</g> mereatur.
+                            <lb/><metamark function="flag" rend="nota"/><!-- To 'quique' below. -->Vnde iusticia sine misericordia<g ref="#f161">;</g> crudelitas est. Misericordia
+                            <lb/>sine iusticia<g ref="#f161">;</g> est remissio. <!-- nota span running from here to the end of this section, corresponding to the rubricated mark on the next folio -->Crudele enim est. et cum
+                            <lb/>beluis commercium habere<g ref="#f161">;</g> nichil de pena relaxare. Vnde
+                            <lb/>poeta. <lg><label place="margin" rend="red">.Versus.</label><!-- Ovid Ep. 1.2.122. Once again in Peter the Chanter, VA conflatus 2.9.9 and prior 90 (p. 537.8); also John of Salisbury, Pol. 4.8.73; many others. --><l>Est piger ad penas princeps. ad premia uelox.</l>
+                                <lb/><label place="margin" rend="red">.Versus.</label><l>Quique dolet quotiens cogitur esse. ferox.</l></lg>
                         </ab>
                     </div>
                     <div n="2" type="textpart" subtype="section">
