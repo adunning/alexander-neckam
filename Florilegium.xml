@@ -5936,13 +5936,38 @@
                             <lb/>agit penitentiam pro<reg> </reg>enormi peccato<g ref="#f1f9">~</g> cum deo patre est<g ref="#f161">;</g>
                             <lb/>quia deum habet per inhabitantem gratiam. <expan><abbr>S<am>;</am></abbr><ex>et</ex></expan> nondum<!-- Again hard to judge actual word separation here. --> ascen
                             <lb break="no"/>dit ad deum<g ref="#f161">;</g> quia ascensus iste consistit in serena<add place="above interlinear">ta</add> con
-                            <lb break="no"/>scientia post completam penitentiam. Item.
+                            <lb break="no"/>scientia post completam penitentiam. Item. <label place="margin" rend="red frame-red-blue"><!-- These are in a slightly different style than earlier. Something to do with the new gathering? -->Quare magdalena permittatur tangere <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christu</ex><abbr>m</abbr></expan></persName> in domo symoni et non post resurrectionem.</label>Notandum quod 
+                            <lb/>in domo symonis <unclear>institudo</unclear> hominum erat presens.
+                            <lb/>et ideo beata magdalena non debuit arceri a tactu
+                            <lb/><expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">ni</abbr></expan>ci corporis. Non enim debet dispensator in facie ecclesie
+                            <lb/>arcere pingues terre a sacramento etiam tanto. <expan><abbr>S<am>;</am></abbr><ex>et</ex></expan> post re
+                            <lb break="no"/>surrectionem cum dictum est<g ref="#f1e2">,</g> magdalene<g ref="#f1f9">~</g> noli me tangere<g ref="#f161">;</g>
+                            <lb/>soli erant saluator et magdalena. In quo instruimur
+                            <lb/>quia alio ordine uti debemus<del>.</del> in<reg> </reg>clandestinis et occultis.
+                            <lb/>alio<g ref="#f161">;</g> in<reg> </reg>manifestis. alio in facie ecclesie. alio<g ref="#f161">;</g> in<reg> </reg>secreta
+                            <lb/>dispensatione.
                         </ab>
                     </div>
                     <div n="39" type="textpart" subtype="section">
-                        <head rend="margin-outer red frame-blue">Quare magdalena permittatur tangere .xp</head>
+                        <head rend="margin-outer red frame-blue">Ex sermone de omnibus sanctis qui sic incipit. Beati pauperes spiritu.</head>
                         <ab>
-                            
+                            Quod si meretrix forte picturas in ecclesia
+                            <lb/>fecerit. n<expan><abbr rend="supraline">u</abbr><ex>n</ex></expan>quid abradente essent? Etiam propter refricatio
+                            <lb break="no"/>nem memorie et maxime ibi ubi prostituta est propter scan
+                            <lb break="no"/>dalum. Secus autem si in<reg> </reg>alia prouincia talia fierent ubi
+                            <lb/>scandalum non oriretur<g ref="#f161">;</g> et ubi talia non fecit. Similiter
+                            <lb/>de his dicimus que ab ystrione immo ad ulatore qui uicio
+                            <lb/>purgato turpiter adquisita pie largiri possunt<g ref="#f161">;</g> ne contra
+                            <lb break="no"/>rium sit bede dicenti<g ref="#f161">;</g> ystrionibus dare in mane scelus
+                            <lb/>est <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> uicium fouere non debemus <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> naturam.
+                        </ab>
+                    </div>
+                    <div n="40" type="textpart" subtype="section">
+                        <head rend="margin-outer red">Ex eodem sermone.</head>
+                        <ab>
+                            <expan><abbr>S<am>;</am></abbr><ex>et</ex></expan> iuxta
+                            <lb/>hoc quod supradictum est. quia ubi turpitudo ex<reg> </reg>utraque parte
+                            <pb n="82v"/>
                         </ab>
                     </div>
                 </div>
