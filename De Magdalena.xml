@@ -8,6 +8,7 @@
         <fileDesc>
             <titleStmt>
                 <title xml:lang="la">Meditatio de Magdalena</title>
+                <title xml:lang="la" type="alt">Tractatus super admirabili conuersione beatissime Magdalenes<!-- According to the Florilegium. --></title>
                 <author xml:id="AN">Alexander Neckam</author>
                 <editor xml:id="AD">Andrew Dunning</editor>
             </titleStmt>
@@ -73,7 +74,7 @@
     <text xml:lang="la">
         <body>
             <pb n="131r"/>
-            <!--<fw>De <supplied reason="damage" evidence="parallel">magdalena</supplied>.</fw>-->
+            <fw place="top">De <supplied reason="damage" evidence="parallel">magdalena</supplied>.</fw>
             <cb n="a"/>
             <div n="Title" type="textpart" subtype="section">
                 <head rend="rubricated">Meditatio <persName><roleName>magistri</roleName> Alexandri</persName> de <persName>magdalena</persName>.</head>
@@ -198,6 +199,7 @@
                     <lb/>dei fuit. saluator<g ref="#f161">;</g> homo deus. Accessit <persName>giezi</persName> 
                     <lb/>ut amoueret <persName>sunamitem</persName>. phariseus autem 
                     <pb n="131v"/>
+                    <fw place="top">De magdalena.</fw>
                     <cb n="a"/>
                     <lb/><persName>magdalenam</persName> amouit<g ref="#f161">;</g> quantum in ipso fuit. Anima 
                     <lb/><persName>sunamitis</persName>. in amaritudine fuit. Tanta 
@@ -265,17 +267,17 @@
                     <lb/>accensa. A<reg> </reg>caligine tenebrarum migrans. ad ue
                     <lb break="no"/>re lucis solacium transit. Attulit alabastrum 
                     <lb/>unguenti. cuius cor uas erat deuocionis. 
-                    <lb/>Stetit per spem erecta. et ad celestia suspirans. 
+                    <lb/><!-- The following passage in Florilegium 2.2.37, to 'mundaturus'. -->Stetit per spem erecta. et ad celestia suspirans. 
                     <lb/>retro secus pedes saluatoris. tanquam desiderans 
                     <lb/>sequi uestigia salutis. Per uiam humilitatis 
                     <lb/>incesserat. morum informator. doctor uirtutum 
-                    <lb/>et largitor<g ref="#f161">;</g> cuius ad<choice><sic> </sic><corr/></choice>orare uestigia dignum 
+                    <lb/>et largitor<g ref="#f161">;</g> cuius <unclear>ad<surplus> </surplus>orare</unclear> uestigia dignum 
                     <lb/>ducit. a<add place="overstrike">b</add> errorum anfractibus reuocata. Quod 
-                    <lb/>item retro stetit. humilitatis et uerecundie. et 
+                    <lb/>item retro stetit. humilitatis et uerecundie. et<!-- 'et' om. FL --> 
                     <lb/>simplicitatis fuit. quod secus<g ref="#f161">;</g> spei. Lacrimis 
                     <lb/>cepit rigare pedes eius<g ref="#f161">;</g> qui cruore roseo mun
-                    <lb break="no"/>dum erat mundaturus. Ecce quia ad<reg> </reg>locum 
-                    <lb/>unde exeunt flumina<g ref="#f161">;</g> reuertuntur. A fonte 
+                    <lb break="no"/>dum erat mundaturus.<!-- End florilegium. --> Ecce quia ad<reg> </reg>locum 
+                    <lb/>unde exeunt flumina<g ref="#f161">;</g> reuertuntur. <!-- In Florilegium 2.2.39 -->A fonte 
                     <lb/>pietatis scaturiente interius in meditullio 
                     <lb/>cordis. emanauerunt riui lacrimarum. 
                     <lb/>et ad eundem fontem reuertuntur exterius. Fluuius 
@@ -287,13 +289,13 @@
                     <lb/>est paradisus. nisi <persName>iesus christus</persName>? Lauit <persName>magdale
                         <lb break="no"/>na</persName> lacrimis pedes illius<g ref="#f161">;</g> qui lacrimas ipsas 
                     <lb/>lauit. Lauat munditiam ipsam mundan
-                    <lb break="no"/>tem. lauat <del>ad</del> fontem aquarum uiuentium. 
+                    <lb break="no"/>tem. lauat <del rend="expunct">ad</del> fontem aquarum uiuentium. 
                     <lb/>Capillis capitis sui tergebat lacrimas proprias. 
-                    <lb/>tergebat et pedes <supplied reason="omitted" resp="#Bestul1999">capillis</supplied> capitis sui. Capillis capi
-                    <lb break="no"/>tis pedes saluatoris tergebat<g ref="#f161">;</g> dum piis 
+                    <lb/>tergebat et pedes <supplied reason="omitted" resp="#Bestul1999">capillis<!-- Though is it absolutely necessary? --></supplied> capitis sui. Capillis capi
+                    <lb break="no"/>tis<!-- 'sui' add. FL --> pedes saluatoris tergebat<g ref="#f161">;</g> dum piis 
                     <lb/>et subtilibus meditationibus mentis. huma
                     <lb break="no"/>nitatis assumpte uenerabatur humili
-                    <lb break="no"/>tatem. Et osculabatur pedes eius exterius. qui 
+                    <lb break="no"/>tatem.<!-- 'humanitatem' FL; quotation ends here --> Et osculabatur pedes eius exterius. qui 
                     <lb/>osculo oris sui eam intus in animo oscu
                     <lb break="no"/>labatur. Quid est os ipsius salutis nisi mi
                     <lb break="no"/>sericordia? Quid est osculum oris salutis. 
@@ -301,6 +303,7 @@
                     <lb break="no"/>cuti<subst><del>a</del><add>o</add></subst><del><g ref="#f161">;</g></del> misericordie<g ref="#f161">;</g> est inspiratio gratie. Vnguen
                     <lb break="no"/>to ungebat pedes illius. cuius nomen est un
                     <pb n="132r" break="no"/>
+                    <fw place="top">De magdalena.</fw>
                     <cb n="a" break="no"/>
                     <lb break="no"/>guentum effusum. qui inunctus est oleo 
                     <lb/>leticie pre<reg> </reg>consortibus suis. Fragrantia unguen
@@ -332,27 +335,27 @@
                     <lb/>consolationis diuine clementie. suaue re
                     <lb break="no"/>dolere faciunt fidelium mentes optimis 
                     <lb/>unguentis carismatum gratie. O unguenta 
-                    <lb/>spiritus sancti. o inunctiones spirituales. O quanta 
-                    <lb/>est fragrantia<g ref="#f161">;</g> in ungentis optimis. O u
+                    <lb/>spiritus sancti. o inunctiones spirituales. <!-- The following passage (to end of paragraph) appears in the Florilegium, 2.2.36. -->O quanta 
+                    <lb/>est fragrantia<g ref="#f161">;</g> in ungentis optimis. <!-- Following om. Florilegium. -->O u
                     <lb break="no"/>bera. o fragrantia<g ref="#f161">;</g> o ubera fragrantia. Quid 
                     <lb/>de<reg> </reg>cetero michi. quam saluator oculis benignita
                     <lb break="no"/>tis respicere dignaturus est. et uino male su
                     <lb break="no"/>ade uoluptatis? O uoluptates obscene. 
                     <lb/>o fetor sulphuree libidinis. o mundicia 
-                    <lb/>continentie. o fragrantia castitatis. o io
-                    <lb/>cunda. o deliciosa suauitas fragrantie o
+                    <lb/>continentie. o fragrantia castitatis. <!-- Florilegium starts again. -->o io
+                    <lb break="no"/>cunda. o deliciosa suauitas fragrantie o
                     <lb break="no"/>doris unguentorum optimorum. Bone <persName>iesu</persName>. 
                     <lb/>Tu unguentum es. tu unctio. <q type="allusion" source="Bible.Vul:Song.1.2">Vnguentum 
-                        <lb/>effusum<g ref="#f161">;</g> nomen tuum.</q> Oleum es<g ref="#f161">;</g> quia 
+                        <lb/>effusum<g ref="#f161">;</g> nomen tuum.</q> <!-- Another omission in FL. -->Oleum es<g ref="#f161">;</g> quia 
                     <lb/>reficis. sanas. illuminas. Ideo non solum 
                     <lb/>sexaginta regine. non solum <q type="allusion" source="Bible.Vul:Song.6.7">octoginta concu
                         <cb n="b" break="no"/>
                         <lb break="no"/>bine diligunt te<g ref="#f161">;</g> set etiam adolescentule. quarum 
-                        <lb/>non est numerus.</q> Tu qui manu lenissima trahis ad 
+                        <lb/>non est numerus.</q> <!-- End omission. -->Tu qui manu lenissima trahis ad 
                     <lb/>te etiam imbecilles<g ref="#f161">;</g> trahe me post te. 
-                    <lb/>Sita sum retro secus pedes tuos<g ref="#f161">;</g> ut me trahere tra
+                    <lb/>Sita sum<!-- 'cum magdalena' add. FL --> retro secus pedes tuos<g ref="#f161">;</g> ut me trahere tra
                     <lb break="no"/>here uolentem uelis. Ego et alie adolescentu
-                    <lb break="no"/>le diligentes te<g ref="#f161">;</g> currens in<reg> </reg>odore unguen
+                    <lb break="no"/>le diligentes te<g ref="#f161">;</g> curremus<!-- currens Bestul --> in<reg> </reg>odore<!-- odorem FL --> unguen
                     <lb break="no"/>torum tuorum. In<reg> </reg>predulci recordatione be
                     <lb break="no"/>nefic<unclear>i</unclear>orum tuorum<g ref="#f161">;</g> curremus uiam uite. 
                     <lb/>delicias gaudiorum supracelestium naribus fidei 
@@ -399,6 +402,7 @@
                     <lb/>la dulcia. o lacrime amare. oscula dulcia<g ref="#f161">;</g> 
                     <lb/>lacrimis amaris condiuntur. Deuocionis dul
                     <pb n="132v" break="no"/>
+                    <fw place="top">De magdalena.</fw>
                     <cb n="a" break="no"/>
                     <lb break="no"/>cedinem<g ref="#f161">;</g> condit amaritudo contricionis. O ama
                     <lb break="no"/>ritudo dulcis. o lacrime tam amare quam dul
@@ -508,6 +512,7 @@
                     <lb/>sione nomen sumit. Quid cum congreganda 
                     <lb/>dispergit. separat. alienat. bonorum patrimo
                     <pb n="133r" break="no"/>
+                    <fw place="top">De magdalena.</fw>
                     <cb n="a" break="no"/>
                     <lb break="no"/>nii crucifixi dilapidator. crimen expilate 
                     <lb/><metamark function="flag" rend="hand"/>hereditatis incurrens? O extrema dementia. 
@@ -618,6 +623,7 @@
                     <lb break="no"/>mis<g ref="#f161">;</g> humilitas excellentiam regie digni
                     <lb break="no"/>tatis sublimans. Ecce summus imperator non 
                     <pb n="133v"/>
+                    <fw place="top">De magdalena.</fw>
                     <cb n="a"/>
                     <lb/><label place="margin"><unclear>¶</unclear> Vita inuenta salus <unclear>lite</unclear> cognitio deitatis sunt saluandorum premis pax et amor.</label>assumit narrationis exordium<g ref="#f161">;</g> antequam id<reg> </reg>non 
                     <lb/>solum annuat hospes fieri. set et exhortetur
@@ -713,6 +719,7 @@
                     <lb/>gratia quantulacumque donetur. Cum igitur unus 
                     <lb/>sit bonus. alter non sit bonus. nonne felicior est condicio eius qui dignus est uita 
                     <pb n="134r"/>
+                    <fw place="top">De magdalena.</fw>
                     <cb n="a"/>
                     <lb/>eterna? Set quid? Cum gratia sit causa remis
                     <lb break="no"/>sionis peccatorum. Nonne censebitur de<reg> </reg>iure 
@@ -812,6 +819,7 @@
                     <lb break="no"/>ris deliciosa fragrantia. Parit amaritudi
                     <lb break="no"/>nem<g ref="#f161">;</g> peccatorum recordatio. suauitatem
                     <pb n="134v"/>
+                    <fw place="top">De magdalena.</fw>
                     <cb n="a"/>
                     <lb/>interna deuocio. In mirra item intellige car
                     <lb break="no"/>nis mortificationem. cum spe uenie et suaui 
@@ -909,6 +917,7 @@
                     <lb break="no"/>uam uitam tueatur diuina dementia. 
                     <lb/><label place="margin">¶ De laude contemplatiue uite.</label>Delectatur et ipse altissimus deliciis con
                     <pb n="135r" break="no"/>
+                    <fw place="top">De magdalena.</fw>
                     <cb n="a" break="no"/>
                     <lb break="no"/>templatiuorum. Vnde in epithalamio amo
                     <lb break="no"/>ris<g ref="#f161">;</g> introducitur dilectus dicens. <quote source="Bible.Vul:Song.8.4">Adiu
@@ -1003,6 +1012,7 @@
                     <lb break="no"/>tis. Nonne qui mundum cum mundanis 
                     <lb/>contempnit. qui suauitatem iocunditatis
                     <pb n="135v"/>
+                    <fw place="top">De magdalena.</fw>
                     <cb n="a"/>
                     <lb/>patrie celestis iam libat. cuius <q type="allusion" source="Bible.Vul:Phil.3.20">conuersatio iam est 
                         <lb/>in<reg> </reg>celis</q>. cum domino quodammodo iam regnat? Stat 
@@ -1102,6 +1112,7 @@
                     <lb/>Vtrum hoc est intelligendum de<reg> </reg>necessitate 
                     <lb/>utilitatis. aut necessitate ineuitabilitatis? 
                     <pb n="136r"/>
+                    <fw place="top">De magdalena.</fw>
                     <cb n="a"/>
                     <lb/>Credere. sperare. et diligere. plura sunt<g ref="#f161">;</g> et sine 
                     <lb/>his salutem non consequetur adultus. Quod est istud 
@@ -1197,6 +1208,7 @@
                     <lb/><persName>ieremias</persName> <quote source="Bible.Vul:Jer.50.8">de medio <placeName>babilonis</placeName>. et de terra <persName>caldeorum</persName> 
                         <lb/>egredimini. et estote quasi hedi ante greges.</quote> 
                     <pb n="136v"/>
+                    <fw place="top">De magdalena.</fw>
                     <cb n="a"/>
                     <lb/>Vel cum dicitur. <quote source="Bible.Vul:Song.1.7">si ignoras te o pulcherrima 
                         <lb/>inter mulieres</quote><g ref="#f161">;</g> aposiopesis est. Ac si dicatur. 
@@ -1307,6 +1319,7 @@
                     <lb/>Murenule item auree<g ref="#f161">;</g> sunt nobiles sen
                     <lb break="no"/>tentie ad aurum deitatis pertinentes. que 
                     <pb n="137r"/>
+                    <fw place="top">De magdalena.</fw>
                     <cb n="a"/>
                     <lb/>uermiculate sunt argento<g ref="#f161">;</g> quotiens ad<reg> </reg>hu
                     <lb break="no"/>manitatem saluatoris stilus se transfert. Infor
@@ -1420,6 +1433,7 @@
                     <lb break="no"/>tores esse humili confessione fatentur. Mons<g ref="#f161">;</g> 
                     <lb/>est <persName>christus</persName>. mons uberrimus. in<reg> </reg>quo<g ref="#f161">;</g> pascua uite 
                     <pb n="137v"/>
+                    <fw place="top">De magdalena.</fw>
                     <cb n="a"/>
                     <lb/>reperies.
                 </p>
@@ -1534,6 +1548,7 @@
                         <lb/>spei. gladio uerbi diuini</q>? Set patientie 
                     <lb/>clipei<g ref="#f161">;</g> non nisi fortium armatura sunt. 
                     <pb n="138r"/>
+                    <fw place="top">De magdalena.</fw>
                     <cb n="a"/>
                     <lb/>huic est consimilis locutionis tropus<g ref="#f161">;</g> quo utitur 
                     <lb/>psalmista dicens. <quote source="Bible.Vul:Ps.9.2">Narrabo omnia mira
@@ -1648,6 +1663,7 @@
                     <lb/>uiriliter sustinent pondus dierum et estum. 
                     <lb/><placeName>Bethania</placeName><g ref="#f161">;</g> castellum est iis qui non solum 
                     <pb n="138v"/>
+                    <fw place="top">De magdalena.</fw>
                     <cb n="a"/>
                     <lb/>se tuentur a facie inimici<g ref="#f161">;</g> set et uicia et aerias 
                     <lb/>impu<choice><orig>ng</orig><reg>gn</reg></choice>ant potestates. O dolor. non solum 
@@ -1748,6 +1764,7 @@
                     <lb break="no"/>es illi<g ref="#f161">;</g> qui quadriduano fetorem addu
                     <lb break="no"/>cunt. Sciendum igitur quod dies dicitur peccatum<g ref="#f161">;</g> 
                     <pb n="139r"/>
+                    <fw place="top">De magdalena.</fw>
                     <cb n="a"/>
                     <lb/>quod ex<reg> </reg>certa scientia patratur. nox<g ref="#f161">;</g> delictum 
                     <lb/>quod ex<reg> </reg>ignorantia committitur. Primus ergo dies<g ref="#f161">;</g> 
@@ -1843,6 +1860,7 @@
                     <lb break="no"/>driduanus. Set o dulcedo diuine miserati
                     <lb break="no"/>onis. recumbit. ad mensam cum auctore uite 
                     <pb n="139v"/>
+                    <fw place="top">De magdalena.</fw>
                     <cb n="a"/>
                     <lb/>suscitatus. Accidit enim frequenter. ut qui mor
                     <lb break="no"/>talium culparum nexibus uinctus fuerat<g ref="#f161">;</g> 
@@ -1944,6 +1962,7 @@
                         <lb break="no"/>dit michi. Inuenerunt me uigiles qui 
                         <lb/>circumierunt ciuitatem. percusserunt me et 
                         <pb n="140r"/>
+                        <fw place="top">De magdalena.</fw>
                         <cb n="a"/>
                         <lb/>uulnerauerunt me. tulerunt pallium 
                         <lb/>meum custodes murorum.</quote> Videtur <persName>salomon</persName><g ref="#f161">;</g> 
@@ -2044,6 +2063,7 @@
                     <lb/>mundi leticia. iuxta te stat ipsa leticia. 
                     <lb/><sic>Nonnunquam</sic><!-- This is spelled out. --> etiam nouis emergentibus 
                     <pb n="140v"/>
+                    <fw place="top">De magdalena.</fw>
                     <cb n="a"/>
                     <lb/>causis<g ref="#f161">;</g> afficiuntur tristicia uiri conuersationis 
                     <lb/>perfecte. Set quia uita contempla<surplus>n</surplus>tiua gau
@@ -2139,6 +2159,7 @@
                     <lb/>scribit in<reg> </reg>libro uite. Te tuus. o <persName>maria</persName> 
                     <lb/><persName>iesus</persName> agnoscit. quid est quod eum non agnoscis? 
                     <pb n="141r"/>
+                    <fw place="top">De magdalena.</fw>
                     <cb n="a"/>
                     <lb/>Te tuus dilectus<g ref="#f161">;</g> familiariter nomine proprio 
                     <lb/>specialiter designans<g ref="#f161">;</g> compellat dicens. 
@@ -2234,6 +2255,7 @@
                     <lb/>o leticia amantium mentes innouans. Ne 
                     <lb/>igitur tam<!-- om. Bestul --> desiderabilis solatium gaudii proro
                     <pb n="141v" break="no"/>
+                    <fw place="top">De magdalena.</fw>
                     <cb n="a" break="no"/>
                     <lb break="no"/>garetur dictum est <persName>marie</persName>. <quote source="Bible.Vul:John.20.17">Noli me tan
                         <lb break="no"/>gere. set uade ad fratres meos<g ref="#f161">;</g> et dic eis. Ascen
@@ -2344,6 +2366,7 @@
                     <lb/>et <persName>altera maria</persName>. <quote source="Bible.Vul:Matt.28.9">Ecce <persName>iesus</persName> occurrit illis di
                         <lb break="no"/>cens. <said>Auete.</said> Ille autem accesserunt. et te
                         <pb n="142r" break="no"/>
+                        <fw place="top">De magdalena.</fw>
                         <cb n="a" break="no"/>
                         <lb break="no"/>nuerunt pedes eius et adorauerunt eum.</quote> 
                     <lb/>Ecce <persName>maria</persName>. iam tenes dilectum. iam tenes 
