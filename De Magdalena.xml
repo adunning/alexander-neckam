@@ -295,7 +295,7 @@
                     <lb break="no"/>tis<!-- 'sui' add. FL --> pedes saluatoris tergebat<g ref="#f161">;</g> dum piis 
                     <lb/>et subtilibus meditationibus mentis. huma
                     <lb break="no"/>nitatis assumpte uenerabatur humili
-                    <lb break="no"/>tatem.<!-- 'humanitatem' FL; quotation ends here --> Et osculabatur pedes eius exterius. qui 
+                    <lb break="no"/>tatem.<!-- 'humanitatem' FL; quotation ends here --> <!-- Start FL 2.2.42 -->Et osculabatur pedes eius exterius.<!-- interius FL --> qui 
                     <lb/>osculo oris sui eam intus in animo oscu
                     <lb break="no"/>labatur. Quid est os ipsius salutis nisi mi
                     <lb break="no"/>sericordia? Quid est osculum oris salutis. 
@@ -306,7 +306,7 @@
                     <fw place="top">De magdalena.</fw>
                     <cb n="a" break="no"/>
                     <lb break="no"/>guentum effusum. qui inunctus est oleo 
-                    <lb/>leticie pre<reg> </reg>consortibus suis. Fragrantia unguen
+                    <lb/>leticie pre<reg> </reg>consortibus suis.<!-- End FL. --> Fragrantia unguen
                     <lb break="no"/>ti exterioris<g ref="#f161">;</g> attestabatur suauitati odoris 
                     <lb/>unguenti interioris. Exterius iacebat <persName>mag
                         <lb break="no"/>dalena</persName> prouoluta ad pedes saluatoris<g ref="#f161">;</g> qui eam in thalamo cordis amplexabatur ulnis 
