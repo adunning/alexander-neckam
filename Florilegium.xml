@@ -6232,7 +6232,7 @@
                         </ab>
                     </div>
                 </div>
-                <div n="2" type="chapter" subtype="textpart">
+                <div n="2" type="textpart" subtype="chapter">
                     <head rend="inline red">Narraciuncula.</head><milestone rend="line-fill" unit="undefined"/>
                     <div n="1" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex libro qui intitulatur de naturis rerum.</head>
@@ -7511,7 +7511,53 @@
                             <lb break="no"/>re potest. effetui. Manum extendit interrius<!-- Technically what it says (as next line) if we're following the rules, but more likely they just wanted 'interius'. --> mu
                             <lb break="no"/>nifica uoluntas<g ref="#f161">;</g> et si non suppetat exterrius facultas.
                             <fw place="bottom" type="catch">.Quor<expan><abbr rend="supraline">u</abbr><ex>n</ex></expan>dam autem.</fw>
+                            <gb n="11"/>
                             <pb n="103r"/>
+                        </ab>
+                    </div>
+                </div>
+                <div n="3" type="textpart" subtype="chapter">
+                    <div n="1" type="textpart" subtype="section">
+                        <ab>
+                            <lb/><hi rend="smallcap2 blue trim-red">Q</hi><hi rend="fill-red">u</hi>or<expan><abbr rend="supraline">u</abbr><ex>n</ex></expan>dam autem fratrum querelas sub habitu religionis
+                            <lb/><persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>o</abbr></expan></persName> militantium moleste sustineo<g ref="#f161">;</g> dum indignanter
+                            <lb/>ferunt se pauperibus in elemosinarum erogatione mi
+                            <lb break="no"/>nime subuenire. Absit ab eis ne angelus tenebrarum
+                            <lb/>se transformet in agenlum lucis. cupiens eorum simpli
+                            <lb break="no"/>citati persuadere<g ref="#f161">;</g> licitas ipsis esse. rerum possessun
+                            <lb break="no"/>culas ob causam tam honestam. Sub pretextu misericordie<g ref="#f161">;</g>
+                            <lb/>surripere solet pestis auaricie. Adde quia quicquid cum
+                            <lb/>moderamine discretionis ipsios usus transfert uniuer
+                            <lb break="no"/>sitas claustralium<g ref="#f161">;</g> cuilibet ipsorum <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>o</abbr></expan></persName> pie uiuentium
+                            <lb/>conciliat amplius gratiam iudicis serenissimi. Quid quod
+                            <lb/>uoluntas honesta. remunerationis fauore non desti
+                            <lb break="no"/>tuitur?
+                        </ab>
+                    </div>
+                    <div n="2" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex tractatu super mulierem fortem.</head>
+                        <ab>
+                            Comtemplatiua item manum aperit inopi dum is
+                            <lb/>qui preest regimini fratum elemosinarum largitionibus
+                            <lb/>inopes sustentat. Palmas suas extendit ad pauperem<g ref="#f161">;</g>
+                            <lb/>dum fratres circa felicia<g ref="#f161">;</g> actiue studia desudanter<g ref="#f161">;</g> re
+                            <lb break="no"/>grigerium in<reg> </reg>solatio subsidii pauperibus prestant. Dictis
+                            <lb/>adice<g ref="#f1f9">~</g> quia si tollis inuidiam<subst><del><g ref="#f161">;</g></del><add place="inline">.</add></subst> tuum est quidquid meum est.
+                            <lb/>tolle inuidam quod alius erogat pauperi<g ref="#f161">;</g> erogas
+                            <lb/>et tu. Gaudeat qui uis gaudeat. operibus misericordie feruenter
+                            <lb/>insistens. quia sicut fila in inuolu<choice><sic>e</sic><corr>c</corr></choice>rum pensi complicantur<choice><sic>?</sic><corr><g ref="#f161">;</g></corr></choice>
+                            <lb/><choice><sic><hi rend="fill-red">S</hi></sic><corr>s</corr></choice> et opera misericordie a summo depositario feliciter homini re
+                            <lb break="no"/>seruantur.
+                        </ab>
+                    </div>
+                    <div n="3" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex eodem tractatu.</head>
+                        <ab>
+                            Dulce sit tibi pie lector. illud inspicere quod
+                            <lb/>legitur angelus raphael dixisse ad tobiam. Quid nam
+                            <lb/>inquies? <metamark function="flag" rend="nota"/>Bona est oratio cum ieiunio et elemosina<g ref="#f1f9">~</g> 
+                            <lb/>magis quam thesauros auri retondere. Quoniam elemosina 
+                            <pb n="103v"/>
                         </ab>
                     </div>
                 </div>
