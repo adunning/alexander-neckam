@@ -1102,7 +1102,7 @@
                             <lb/>spiritus sanctus. dum alternis uicibus transire nos facit ab
                             <choice><sic><lb break="no"/><!-- I think? --></sic><corr><lb/></corr></choice>executione unius operis<g ref="#f161">;</g> ad exercicium alterius. Si
                             <lb/>uideris nudum<g ref="#f161">;</g> operi eum. et carnem tuam ne
-                            <lb break="no"/>despexeris. etc. Pasce fame morientem<g ref="#f161">;</g> si non
+                            <lb break="no"/>despexeris. <expan><am rend="crossed">&#x204A;</am><ex>et </ex><abbr>c<am>&#x33E;</am></abbr><ex>etera</ex></expan>. Pasce fame morientem<g ref="#f161">;</g> si non
                             <lb/>paueris<g ref="#f1f9">~</g> occidisti. Notum est et illud euangelicum.
                             <lb/>Quic<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan>que potum dederit uni ex inimis istis
                             <lb/>talicem aque frigide tantum in nomine discipuli<g ref="#f161">;</g>
@@ -1841,7 +1841,7 @@
                             <lb/>aque multarum tribulationum<g ref="#f161">;</g> caritatem quam habuit
                             <lb/>erga nos<g ref="#f1f9">~</g> extinguere non putuerunt. Quod autem dominus<g ref="#f1e2">,</g>
                             <lb/>firmamenti <subst><del>recte nomini</del><add>nomini recte</add></subst> designetur<g ref="#f161">;</g> petet per illud prophete.
-                            <lb/>Dominus firmamentum meum<g ref="#f1e2">,</g> et refugium meum<g ref="#f161">;</g> et cetera.
+                            <lb/>Dominus firmamentum meum<g ref="#f1e2">,</g> et refugium meum<g ref="#f161">;</g> <sic>et cetera</sic>.
                             <lb/>Diuisit autem dominus aquas que erant super firma
                             <pb n="26r" break="no"/>
                             <lb break="no"/>mentum<g ref="#f1e2">,</g> ab iis que erant sub firmamento<g ref="#f161">;</g> quando iu
@@ -2331,7 +2331,7 @@
                             <lb/>populo suo peculiari<g ref="#f1f9">~</g> inuitans eum ad<reg> </reg>obser
                             <lb break="no"/>uantias preceptorum<g ref="#f161">;</g> dulci et magna demulcet
                             <lb/>eum promssione dicens. Ponam tabernaculum meum
-                            <lb/>etc. Tabernaculum istud orpus est iesu <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>i</abbr></expan></persName>. Corpus enim
+                            <lb/><expan><am rend="crossed">&#x204A;</am><ex>et </ex><abbr>c<am>&#x33E;</am></abbr><ex>etera</ex></expan>. Tabernaculum istud orpus est iesu <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>i</abbr></expan></persName>. Corpus enim
                             <lb/>hominis tabernaculum de iure appellatur. quia nunc erigitur<g ref="#f1f9">~</g>
                             <lb/>nunc complicatur. nunc nascitur homo<g ref="#f161">;</g> nunc moritur. Au
                             <lb break="no"/>diamus quid dicat petrus in<reg> </reg>canonica epistula. Scio
@@ -2387,8 +2387,7 @@
                             <lb/>solum ero homo<g ref="#f161">;</g> <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> deus. Et non solum deus<g ref="#f161">;</g> <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> et
                             <lb/>uester ero. quia uestram naturam assumam. Hinc est quod
                             <lb/>deus est emanuel <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> nobiscum deus. Audiamus quid
-                            <lb/>dicit ysayas. <label place="margin" rend="red frame-blue">Ysaias.</label>Conuersatus est inter nos. 
-                            etc. Sic igitur
+                            <lb/>dicit ysayas. <label place="margin" rend="red frame-blue">Ysaias.</label>Conuersatus est inter nos. <expan><am rend="crossed">&#x204A;</am><ex>et </ex><abbr>c<am>&#x33E;</am></abbr><ex>etera</ex></expan>. Sic igitur
                             <lb/>uiuanus. sic matri misericordie supplicemus. sic incarnationi
                             <fw type="catch" place="bottom">filii eius credamus</fw>
                             <gb n="4"/>
@@ -2512,7 +2511,7 @@
                             <lb break="no"/>niat et osculetur me osculo oris sui. Tempus est bone
                             <lb/>iesu<g ref="#f161">;</g> ut uenias. Vnde aduentum primum propheta preuidens
                             <lb/>exclamat<g ref="#f161">;</g> dicens. Tu exdugens misereberis
-                            <lb/>syon<g ref="#f161">;</g> etc. <metamark function="flag" rend="nota"/>Signanter dicitur tu<g ref="#f161">;</g> quia secunda persona es in
+                            <lb/>syon<g ref="#f161">;</g> <expan><am rend="crossed">&#x204A;</am><ex>et </ex><abbr>c<am>&#x33E;</am></abbr><ex>etera</ex></expan>. <metamark function="flag" rend="nota"/>Signanter dicitur tu<g ref="#f161">;</g> quia secunda persona es in
                             <lb/>trinitate.<!-- NB: not hyphenated there. --> Media igitur persona in<reg> </reg>trinitate<g ref="#f161">;</g>facta est media
                             <lb break="no"/>trix dei et hominum. Media persona in<reg> </reg>trinitate<g ref="#f161">;</g> facta est
                             <lb/>medius terminus. coniungens maiorem extremitatem
@@ -4150,7 +4149,7 @@
                             <lb/>defunctorum<g ref="#f161">;</g> recitatur frequenter oratio subtilissime
                             <pb n="58v"/>
                             <lb/>intelligentie uerba continens. <quote>Deus cui soli competit me
-                                <lb break="no"/>dicinam prestare post mortem<g ref="#f161">;</g> presta quesumus etc.</quote> Irrisoie
+                                <lb break="no"/>dicinam prestare post mortem<g ref="#f161">;</g> presta quesumus <expan><am rend="crossed">&#x204A;</am><ex>et </ex><abbr>c<am>&#x33E;</am></abbr><ex>etera</ex></expan>.</quote> Irrisoie
                             <lb/>solet insultare uulgus <metamark function="flag" rend="nota"/><note place="margin" rend="frame-below-red" corresp="#FL-1-5-42-1">¶ Me mos morosum mora<g ref="#f161">;</g> me facit esse morosum.</note><seg xml:id="FL-1-5-42-1">moroso</seg> beneficiorum largitori<g ref="#f161">;</g>
                             <lb/>dicendo. Tu <expan><abbr>m<am>&#x365;</am></abbr><ex>ichi</ex></expan> post mortem<g ref="#f161">;</g> <note corresp="#FL-1-5-42-2" rend="frame-circle-red">Sorbiciunculas. a sorbendo. Vnde et oua sorbilia dicuntur. Sunt autem sorbiciuncule. quicumque cibi liquidi in modum pulcium.</note><seg xml:id="FL-1-5-42-2">sorbiciunculas</seg><g ref="#f1f9">~</g>
                             <lb/>parabis. <expan><abbr>S<am>;</am></abbr><ex>et</ex></expan> o<reg> </reg>dulcedo miserationis diuine benig
@@ -5460,13 +5459,13 @@
                                         <lb/>ueni<g ref="#f161">;</g> sint astra l<subst><del>i</del><add place="above">u</add></subst>cebit.</l> <label place="margin" rend="red">.<expan><abbr>V</abbr><am>̾</am><ex>ersus</ex></expan>.</label><l>Non deerit populo te ueni
                                         <lb break="no"/>ente dies.</l></lg></quote> Sciendum quod generalis resurrectio erit in<reg> </reg>die<g ref="#f161">;</g>
                             <lb/>non in nocte. licet dicatur. media nocte clamor factus est.
-                            <lb/>etc. <metamark function="flag" rend="nota"/>In iudicio stabunt sol et luna et omnes planete<g ref="#f161">;</g>
+                            <lb/><expan><am rend="crossed">&#x204A;</am><ex>et </ex><abbr>c<am>&#x33E;</am></abbr><ex>etera</ex></expan>. <metamark function="flag" rend="nota"/>In iudicio stabunt sol et luna et omnes planete<g ref="#f161">;</g>
                             <lb/>in<reg> </reg>superiori <sic>emisperio</sic>. in illis <expan><abbr><am>.</am>s<am>.</am></abbr><ex>cilicet</ex></expan> locis in<reg> </reg>quibus creata erant.
                             <lb/>ergo tunc erit dies. Preterea dici potest ad presens quod re
                             <lb break="no"/>surrectio erit in<reg> </reg>die et erit in<reg> </reg>die <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">ni</abbr></expan>ca. Sicut in
                             <lb/>die <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">ni</abbr></expan>ca creatus est mundus<g ref="#f161">;</g> et sicut in<reg> </reg>die <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">ni</abbr></expan>ca recre
                             <lb break="no"/>atus est mundus<g ref="#f161">;</g> <expan><abbr>s<am>.</am></abbr><ex>cilicet</ex></expan> in <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>i</abbr></expan></persName> resurrectione. sic in<reg> </reg>die<add place="inline"> </add><expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">ni</abbr></expan>ca
-                            <lb/>renouandus est mundus. Quod autem <expan><abbr>d</abbr><ex>icitu</ex><abbr rend="supraline">r</abbr></expan> media nocte. etc.
+                            <lb/>renouandus est mundus. Quod autem <expan><abbr>d</abbr><ex>icitu</ex><abbr rend="supraline">r</abbr></expan> media nocte. <expan><am rend="crossed">&#x204A;</am><ex>et </ex><abbr>c<am>&#x33E;</am></abbr><ex>etera</ex></expan>.
                             <lb/>non ideo ut in nocte <add place="overstrike">temporis</add> credatur iudicium esse
                             <lb/>futurum. <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> quia obscurusm erit <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> occultum quando
                             <lb/>uenturus sit dies ille. <quote>dies enim <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">ni</abbr></expan> sicut fur ueni
@@ -5514,7 +5513,7 @@
                             <lb/>sin autem<g ref="#f161">;</g> calicem aque frigide. Sin autem<g ref="#f161">;</g> cor
                             <lb break="no"/>reptionem si malus est. si bonus<g ref="#f161">;</g> orationem. <label place="margin"><expan>.Augus<ex>tinus</ex>.</expan></label>Augustinus
                             <lb/>contra fastum manicheum super illum locum. Esuriui
-                            <lb/>et non dedisti <expan><abbr>m<am>&#x365;</am></abbr><ex>ichi</ex></expan> manducare. etc. Ecce pro esca non ablata
+                            <lb/>et non dedisti <expan><abbr>m<am>&#x365;</am></abbr><ex>ichi</ex></expan> manducare. <expan><am rend="crossed">&#x204A;</am><ex>et </ex><abbr>c<am>&#x33E;</am></abbr><ex>etera</ex></expan>. Ecce pro esca non ablata
                             <lb/><expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> non data<g ref="#f161">;</g> horrendum et eternum supplicium comminatur.
                             <pb n="76v"/>
                             <lb/>et recte quidem si ueritatem consulas. Parum enim
@@ -8769,7 +8768,7 @@
                             <lb break="no"/>garent elemosine tue in<reg> </reg>districto examine.
                             <lb/>immo iudex tuus <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> pro te allegaret. tuus ef
                             <lb break="no"/>ficeretur aduocatus summus iudex. Stupeant leges
-                            <lb/>iustiniane stupeant. iudex noster <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName>. etc. et erit<g ref="#f161">;</g>
+                            <lb/>iustiniane stupeant. iudex noster <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName>. <expan><am rend="crossed">&#x204A;</am><ex>et </ex><abbr>c<am>&#x33E;</am></abbr><ex>etera</ex></expan>. et erit<g ref="#f161">;</g>
                             <lb/>aduocatus noster. Testis noster est<g ref="#f161">;</g> et erit in<reg> </reg>die iudicii.
                         </ab>
                     </div>
