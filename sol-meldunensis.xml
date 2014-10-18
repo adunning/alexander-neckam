@@ -9477,8 +9477,45 @@
                             </fw>
                             <lb/>quod cernit diuicias oculis suis? Ecce uisus tan
                             <lb break="no"/>tali<g ref="#f1f9">~</g> male rebus pascitur<g ref="#f161">;</g> dum sitis interior non
-                            <lb/>sedatur. Tantalus a labris fugientia pocula
-                            <lb/>captat.
+                            <lb/>sedatur. <quote><!-- var. of Quintus Horatius Flaccus, Sermones 1.1.68 --><label place="margin" rend="red">.<expan><abbr>V</abbr><am>̾</am><ex>ersus</ex></expan>.</label><l>Tantalus a labris fugientia pocula
+                                    <lb/>captat.</l></quote>
+                        </ab>
+                    </div>
+                    <div n="7" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex eodem tractatu.</head>
+                        <ab>
+                            O cor humanum<g ref="#f1f9">~</g> uas admiratione
+                            <lb/>dignum. quod cum capacitate satis angustum sit<g ref="#f161">;</g>
+                            <lb/>auariciam tamen includit. que et infinita est. et se ipsam
+                            <lb/>non capit. <metamark function="flag" rend="line"/><!-- span to 'cupiditas' below -->Quid autem est. quod auaricia modico contenta
+                            <lb/>est<g ref="#f1f9">~</g> cum nec toto mundo sit contenta? <expan><abbr>S<am>;</am></abbr><ex>et</ex></expan> modico con
+                            <lb break="no"/>tenta est<g ref="#f161">;</g> quo ad usum. que nec diuiciis cre<subst><del>scet</del><add place="overstrike"><unclear>i et</unclear></add></subst>
+                            <lb/>contenta est<g ref="#f161">;</g> quo ad desiderium. Sequitur.
+                        </ab>
+                    </div>
+                    <div n="8" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex eodem tractatu.</head>
+                        <ab>
+                            Dulcis est
+                            <lb/>sompnus operanti<g ref="#f161">;</g> siue parum siue multum come
+                            <lb break="no"/>dat. Saturitas autem diuitis<g ref="#f161">;</g> non sinit dormire
+                            <lb/>eum. Ostendit ecclesiastes que proueniant incommoda
+                            <lb/>ex morbo auaricie. que sompnum aufert
+                            <lb/>seruili mancipio diuitiarum. Pauper sustentans
+                            <lb/>se feliciter labore manuum suarum<g ref="#f161">;</g> tranquillitate
+                            <lb/>debita fruitur. Diues<g ref="#f161">;</g> curis augitur. et timor
+                            <lb/>sollicitus<g ref="#f161">;</g> noctes eum ducere cogit insompnes.
+                            <lb/>Dulcis est inquit sompnus operanti<g ref="#f1f9">~</g> pauperi uide
+                            <lb break="no"/>licet<g ref="#f161">;</g> siue parum siue multum comedat. Saturi
+                            <lb break="no"/>tas autem <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> habundantia superflua diuitis<g ref="#f161">;</g> non
+                            <lb/>sinit eum dormire. Vexat eum cupiditas<g ref="#f1f9">~</g>
+                            <lb/>incitat ira<g ref="#f1f9">~</g> excitat cura peruigil<g ref="#f1f9">~</g> stimulat
+                            <lb/>inuidia<g ref="#f1f9">~</g> contristat sterilitas prouent<subst><del>i</del><add place="inline">u</add></subst>um in fecunda<g ref="#f1f9">~</g>
+                            <lb/>cruciat mora<g ref="#f161">;</g> timor sollicitat. Aut certe nomine
+                            <lb/>saturitatis<g ref="#f161">;</g> utitur autor secundum usum communiter
+                            <pb n="130v"/>
+                            <lb/>loquentium. diues enim dapibus distentus<g ref="#f161">;</g> penitentia soluit
+                            <lb/>castrimargie.
                         </ab>
                     </div>
                 </div>
