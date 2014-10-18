@@ -74,7 +74,7 @@
     <text xml:lang="la">
         <body>
             <pb n="131r"/>
-            <fw place="top">De <supplied reason="damage" evidence="parallel">magdalena</supplied>.</fw>
+            <fw place="top">De <supplied reason="lost" evidence="parallel">magdalena</supplied>.</fw>
             <cb n="a"/>
             <div n="Title" type="textpart" subtype="section">
                 <head rend="rubricated">Meditatio <persName><roleName>magistri</roleName> Alexandri</persName> de <persName>magdalena</persName>.</head>
@@ -271,7 +271,7 @@
                     <lb/>retro secus pedes saluatoris. tanquam desiderans 
                     <lb/>sequi uestigia salutis. Per uiam humilitatis 
                     <lb/>incesserat. morum informator. doctor uirtutum 
-                    <lb/>et largitor<g ref="#f161">;</g> cuius <unclear>ad<surplus> </surplus>orare</unclear> uestigia dignum 
+                    <lb/>et largitor<g ref="#f161">;</g> cuius ad<surplus><unclear> </unclear></surplus>orare uestigia dignum 
                     <lb/>ducit. a<add place="overstrike">b</add> errorum anfractibus reuocata. Quod 
                     <lb/>item retro stetit. humilitatis et uerecundie. et<!-- 'et' om. FL --> 
                     <lb/>simplicitatis fuit. quod secus<g ref="#f161">;</g> spei. Lacrimis 
