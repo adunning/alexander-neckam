@@ -4985,16 +4985,16 @@
                             <lb/><l>Res iocunda nimis. deliciosa quies.</l>
                             <lb/><l>Iam uires redeunt. iam letus sponte laborem<g ref="#f161">;</g></l>
                             <lb/><l>Excipio. fugiens<g ref="#f161">;</g> languide torpor abi.</l>
-                            <lb/><l>Dum iuuat<g ref="#f161">;</g> ipse labor nomen deiure quietis.</l>
+                            <lb/><l>Dum iuuat<g ref="#f161">;</g> ipse labor nomen de<reg> </reg>iure quietis.</l>
                             <lb/><l>Vendicat. immo labor<g ref="#f161">;</g> incipit esse. quies.</l>
                             <lb/><l>Dulcescit labor iste <expan><abbr>m<am>&#x365;</am></abbr><ex>ichi</ex></expan>. quem condit amoris<g ref="#f161">;</g></l>
                             <lb/><l>Gratia. num labor est<g ref="#f1f9">~</g> absque labore labor?</l>
                             <lb/><l>Vt non eludar curis ludentibus. ipsis<g ref="#f161">;</g></l>
                             <lb/><l>Illudo. nam fraus uincitur artis ope.</l>
                             <lb/><l>Ledit dum ludit puer ysmael. <add place="overstrike">et puerilis<g ref="#f161">;</g></add></l>
-                            <lb/><l>Moribs. ha ludens efficit ipse senes</l>
+                            <lb/><l>Moribus. ha ludens efficit ipse senes</l>
                             <lb/><l>Ergo uale facio torpori. gratia presit<g ref="#f161">;</g></l>
-                            <lb/><l>Arbitro. nostram dirigat ipsa uiam.</l></lg>
+                            <lb/><l>Arbitrio. nostram dirigat ipsa uiam.</l></lg>
                     </ab>
                 </div>
                 <div n="2" type="textpart" subtype="section">
@@ -10358,7 +10358,7 @@
                             <lb/>ex<reg> </reg>quo non suppetit facultas.
                         </ab>
                     </div>
-                    <div n="19" type="textpart" subtype="section">
+                    <div n="5" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex libro qui intitulatur solatium fidelis anime.</head>
                         <ab>
                             Prima elemo
@@ -10395,7 +10395,7 @@
                             <lb/>quia quod quique accipiunt<g ref="#f161">;</g> eo communiter utantur. <add place="bottom">Hec Gregorius fons eloquentie.</add><!-- I would be interested to know whether that is in the original, or if it's an addition to help the flow. -->
                         </ab>
                     </div>
-                    <div n="20" type="textpart" subtype="section">
+                    <div n="6" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex libro de naturis rerum.</head>
                         <ab>
                             <lb/>Viri fratres expergicimini et attenti sitis. Nisi pre
@@ -10426,7 +10426,7 @@
                             <lb break="no"/>sit<g ref="#f1f9">~</g> non ut carne uesceretur. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> ut pellibus tegeretur.
                         </ab>
                     </div>
-                    <div n="21" type="textpart" subtype="section">
+                    <div n="7" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. omnia tempus habent.</head>
                         <ab>
                             <lb/>Et c<expan><am>&#x33E;</am><ex>er</ex></expan>te certe<g ref="#f161">;</g> longe robustiores et honestioris
@@ -10434,7 +10434,7 @@
                             <lb/>quam moderni.
                         </ab>
                     </div>
-                    <div n="22" type="textpart" subtype="section">
+                    <div n="8" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Es libro de naturis rerum.</head>
                         <ab>
                             Quod cetera animalia cum pena prodeunt
@@ -10451,7 +10451,7 @@
                             <lb/>dolore<g ref="#f161">;</g> nisi mortis ditioni subditus esset homo.
                         </ab>
                     </div>
-                    <div n="23" type="textpart" subtype="section">
+                    <div n="9" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex semone qui sic incipit. omnia tempus habent.</head>
                         <ab>
                             <lb/>Homo uero nunquam moreretur<g ref="#f161">;</g> <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> peracto et completo
@@ -10465,17 +10465,17 @@
                             <lb/>peracto.
                         </ab>
                     </div>
-                    <div n="24" type="textpart" subtype="section">
+                    <div n="10" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex libro qui intitulatur speculum speculationum. caput. <num>lxxv</num>. libri <num>tercii</num>.</head>
                         <ab>
                             Etiam si non cecidissent angeli<g ref="#f161">;</g> crearetur
                             <lb/>tamen homo. et cinis in<reg> </reg>superna ciuitate efficeretur.
                         </ab>
                     </div>
-                    <div n="25" type="textpart" subtype="section">
+                    <div n="11" type="textpart" subtype="section">
                         <head rend="margin-inner red frame-blue">Ex eodem libro caput. sequenti.</head>
                         <ab>
-                            <lb/>Quod autem legi<add place="overstrike">mus</add> quia homo factus est. propter reparationem
+                            <lb/>Quod autem legi<add place="overstrike">mus</add><!-- 'legitur' Thomson --> quia homo factus est. propter reparationem
                             <lb/>angelice ruine<g ref="#f1f9">~</g> non est ita intelligendum quasi non
                             <lb/>fuisset homo factus si non peccasset angelus<g ref="#f161">;</g> <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> quia
                             <lb/>inter alias causas precipuas<g ref="#f161">;</g> hec etiam non nulla excitit.
@@ -10490,11 +10490,84 @@
                             <lb/>si angelus non cecidisset.
                         </ab>
                     </div>
-                    <div n="25" type="textpart" subtype="section">
+                    <div n="12" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex libro qui intitulatur solacium fidelis anime.</head>
                         <ab>
                             Collatum est igitur homini rerum
                             <pb n="144r"/>
+                            <lb/>dominium ita tamen ut et se fateretur dominio cre
+                            <lb break="no"/>atoris singulorum<g ref="#f161">;</g> subiectum. Cum uero in<reg> </reg>caput
+                            <lb/>suum <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">ni</abbr></expan> uidelicet. ceruicem contumaciter erexit<g ref="#f161">;</g> capite dominutus in exilium relegatus est. immo etiam 
+                            <lb/>rerum dominium amisit. quia rerum <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">no</abbr></expan> iniuriatus est.
+                            <lb/>Vnde ut et preuaricationis sue non inmemor sit homo.
+                            <lb/>minimis quibusdam rebus uexatur. Puta culibibus et 
+                            <lb/>pulicibus et aliis hostibus domesticis et ut <del><unclear>m</unclear></del>elatio
+                            <lb/>ipsius reprima<add place="overstrike">tur</add><g ref="#f161">;</g> dum insultus rerum tam exilium 
+                            <lb/>declinare non potest. <add place="overstrike">C</add>eptrum cesaris culex non re
+                            <lb break="no"/>formidat. purpuram eius<g ref="#f161">;</g> pulex commaculat. Dia
+                            <lb break="no"/>demati eius insidet musca etiam canina. Quid 
+                            <lb/>superbis homo? Eodem dei iumenta et reptilia et bes
+                            <lb break="no"/>tias hominem<choice><orig> </orig><reg/></choice>que conditum esse. celestis pagine ir
+                            <lb break="no"/>refragabilis ueritas commemorat. Qui leonibus
+                            <lb/>et ursis inparare potuisti. uermium insidias effugere 
+                            <lb/>non poteris.
+                        </ab>
+                    </div>
+                    <div n="13" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex tractatu super ecclesiasten.</head>
+                        <ab>
+                            Vermes hereditatem suam adh<subst><del><unclear>ib</unclear></del><add place="overstrike">e</add></subst>unt et 
+                            <lb/>ecce adauer merito <add place="overstrike"><expan><abbr>d</abbr><ex>icitu</ex><abbr rend="supraline">r</abbr></expan></add> quasi <seg xml:id="FL2-19-13-1">caro</seg><note corresp="#FL2-19-13-1" place="right" rend="red frame-blue">ethimologia.</note> data uermibus.
+                        </ab>
+                    </div>
+                    <div n="14" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex libro de naturis rerum.</head>
+                        <ab>
+                            <lb/>Quoniam uero pecati legibus subdita est infeliciter humana
+                            <lb/>natura<g ref="#f161">;</g> nascitur homo cum dolore. uiuit in mise
+                            <lb break="no"/>ria<g ref="#f161">;</g> moritur cum angustia. Commutatus est status
+                            <lb/>glorie<g ref="#f1f9">~</g> in<reg> </reg>statum culpe. et ideo status felicitatis<g ref="#f161">;</g>
+                            <lb/>uersus est in<reg> </reg>statum miserie. In exilium huius uallis 
+                            <lb/>miserie relegati sumus. <quote><label place="margin" rend="red">.<expan><abbr>V</abbr><am>&#x33E;</am><ex>ersus</ex></expan>.</label><l><!-- Theodulus, Ecl. 44 -->Sentit enim ad huc
+                                    <lb/>proles<g ref="#f161">;</g> quod commisere parentes.</l></quote>
+                        </ab>
+                    </div>
+                    <div n="15" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit Obsecro uos tam quam aduenias.</head>
+                        <ab>
+                            Recolamus igitur dili
+                            <lb break="no"/>genter nos esse. aduenas et peregrinos<g ref="#f161">;</g> sicut et 
+                            <pb n="144v"/>
+                            <lb/>omnes patres nostri fuerunt. Non enim habemus hic 
+                            <lb/>manentem ciuitatem<g ref="#f161">;</g> ut dicit <persName>paulus</persName> in epistula 
+                            <lb/>sua ad hebreos. <add place="overstrike">I</add><!-- They aren't replacing a long 'i', are they? -->deoque ut memores simus peregri
+                            <lb break="no"/>nationis nostre. et suspiremus ad natale solum. dul
+                            <lb break="no"/>cis patrie celestis paradysi<g ref="#f161">;</g> uocat nos beatus 
+                            <lb/><persName>petrus</persName> aduenas et peregrinos dicens. Obsecro uos 
+                            <lb/>tanquam aduenas et peregrinos. abstinere uos a
+                            <choice><orig><lb break="no"/></orig><reg><lb/></reg></choice>carnalibus desideriis<g ref="#f161">;</g> que militant aduersus 
+                            <lb/>animam. <metamark function="flag" rend="nota"/>Mirum est. <hi rend="reg">M</hi>irum est. Inter animalia solus 
+                            <lb/> homo rationem habet. et inter animalia solus homo uidetur 
+                            <lb/>esse. inmemor nature proprie. Auicula enim cauea in
+                            <choice><sic><lb/></sic><corr><lb break="no"/></corr></choice>clusa<g ref="#f161">;</g> naturaliter tendit ad siluas. Vnde poeta.
+                            <lb/><quote><!-- Publius Ovidius Naso, Epistulae ex Ponto 1.3.39 --><label place="margin" rend="red">.<expan><abbr>V</abbr><am>&#x33E;</am><ex>ersus</ex></expan>.</label><l>Cum bene sint clause cauea pandione natae<g ref="#f161">;</g></l> 
+                                <lb/><l>Nititur in siluas queque redire suas.</l></quote> Nos autem
+                            <lb/>cauea inclusi sumus<g ref="#f1f9">~</g> lutea domo uidelicet. 
+                            <lb/>quare ergo non suspiramus ad patriam nostram? Quare
+                            <lb/>non sumus auicule<g ref="#f1f9">~</g> pennis uirtutum decorate<g ref="#f1f9">~</g> e
+                            <lb break="no"/>uolantes ad regionem spirituum. ad terram nobis 
+                            <lb/>locum<add place="above">que</add> dicit iob<g ref="#f161">;</g> homo nascitur ad laborem<g ref="#f1f9">~</g> 
+                            <lb/> auis ad uolatum<g ref="#f161">;</g> sub hoc sensu. Homo nas
+                            <lb break="no"/>citur ad laborem uite actiue. et ad huc rema
+                            <lb break="no"/>net quasi homo. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> ipse idem nascitur aduolatum.
+                            <lb/>et efficitur auis<g ref="#f1e2">,</g> ad uolatum inquam nascitur io
+                            <lb break="no"/>cunde contemplationis. Preterea leo repagu
+                            <lb break="no"/>latus naturali quodam desiderio ad locum 
+                            <pb n="145r"/>
+                            <lb/>natiuum tendit. Pisces sine beneficio aquarum 
+                            <lb/>spiraculum aeris hauriunt<g ref="#f161">;</g> <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> cito deiciunt. 
+                            <lb/>nisi ad aquas quas habent pro natali solo reuertantur.
+                            <lb/><seg>Scitacus</seg> 
                         </ab>
                     </div>
                 </div>
