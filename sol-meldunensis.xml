@@ -4339,9 +4339,9 @@
                             <lb/>obstinatio. <metamark function="flag" rend="nota"/>Viscosa est consuetudo et difficiliter uin
                             <lb break="no"/>citur peccatum quod multo detinetur tempore. <quote><label place="margin" rend="red">.Versus.</label><l><!-- This looks to be in hexameter, so presumably this is where the label goes, but where is it from? -->Nam uix
                                     <lb break="no"/>a<reg> </reg>teneris animi dediscitur annis.</l></quote> <add place="overstrike">Vnde Ieremias. </add><quote source="Bible.Vul:Jeremiah.13.23">Si mu
-                            <lb break="no"/>tare potest ethiops<g ref="#f1f9">~</g> pellem suam<g ref="#f1f9">~</g> aut pardus
-                            <lb/>uarietates suas et uos potestis benefacere. cum
-                            <lb/>didisceritis malum.</quote> Item Basilius<g ref="#f1f9">~</g> sicut non
+                                <lb break="no"/>tare potest ethiops<g ref="#f1f9">~</g> pellem suam<g ref="#f1f9">~</g> aut pardus
+                                <lb/>uarietates suas et uos potestis benefacere. cum
+                                <lb/>didisceritis malum.</quote> Item Basilius<g ref="#f1f9">~</g> sicut non
                             <lb/>potest homo didiscere maternam linguam<g ref="#f161">;</g> sic
                             <lb/>nec uix longeuam potest consuetudinem.
                             <lb/>Item. consuetudo<g ref="#f161">;</g> altera natura est.<!-- Appears in a number of places; not sure who started it. Check the apparatus to Guillelmus de Conchis - Glosae super Platonem - liber: 1, cap.: 49, pag.: 87, linea: 12 --> Item. <label place="margin" rend="red">.Versus.</label><quote><!-- Horace, Epistulae, 1.2.69–70 --><l>Quo
@@ -4743,8 +4743,8 @@
                             <lb/>poeta. <quote source="Ovid, Fasti 1.419"><label place="margin" rend="red">.Versus.</label><l>Fastus inest pulchris<subst><del>.</del><add><g ref="#f1e2">,</g></add></subst> sequiturque superbia
                                     <lb/>formam.</l></quote> <expan><abbr>S<am>&#xA76B;</am></abbr><ex>et</ex></expan> audi queso quid<!-- audi, quaeso, quid seems to be a common phrase; where is it from? --> idem dicat ad re
                             <lb break="no"/>pressionem superbie<g ref="#f1e2">,</g> <quote source="Publius Ovidius Naso, Ars Amatoria 2.113"><label place="margin" rend="red">.Versus.</label><l>Forma bonum fragile est. quan
-                                        <lb break="no"/>tumque accedit ad annos.</l> <label place="margin" rend="red">.Versus.</label><l>Fit minor. et spacio
-                                        <lb/>carpitur ipsa suo.</l></quote> Et idem alibi. <quote source="Publius Ovidius Naso, Metamorphoses 10.85"><label place="margin" rend="red">.Versus.</label><l>Etatis breue
+                                    <lb break="no"/>tumque accedit ad annos.</l> <label place="margin" rend="red">.Versus.</label><l>Fit minor. et spacio
+                                    <lb/>carpitur ipsa suo.</l></quote> Et idem alibi. <quote source="Publius Ovidius Naso, Metamorphoses 10.85"><label place="margin" rend="red">.Versus.</label><l>Etatis breue
                                     <lb/>uer.</l></quote> Audiat igitur si quis propter decorem effertur<g ref="#f1f9">~</g>
                             <lb/>audiat. Nonne sterquilinium niue coopertum. sterqui
                             <lb break="no"/>linium est? Nonne lutea testa. laminis au
@@ -6558,8 +6558,8 @@
                             <lb/>Tota enim uita humana<g ref="#f161">;</g> expresntis instantis
                             <lb/>puncto pendet. Quod enim pretitum est<g ref="#f161">;</g> euanuit. Quod
                             <lb/>futurum es<g ref="#f161">;</g> nondum est. Et ut ait poeta. <quote source="Publius Ovidius Naso, Amores 1.8.49–50"><label place="margin" rend="red">.<expan><abbr>V</abbr><am>&#x33E;</am><ex>ersus</ex></expan>.</label><l>Labitur oc
-                                        <lb break="no"/>culte fallitque uolubilis etas.</l> <label place="margin" rend="red">.<expan><abbr>V</abbr><am>&#x33E;</am><ex>ersus</ex></expan>.</label><l>Et celer ad<surplus> </surplus>misso
-                                        <lb/>labitur annus equo.</l></quote> Propter acceleratissimam igitur temporis fu
+                                    <lb break="no"/>culte fallitque uolubilis etas.</l> <label place="margin" rend="red">.<expan><abbr>V</abbr><am>&#x33E;</am><ex>ersus</ex></expan>.</label><l>Et celer ad<surplus> </surplus>misso
+                                    <lb/>labitur annus equo.</l></quote> Propter acceleratissimam igitur temporis fu
                             <lb break="no"/>gam fingitur a poetis phebus equos habere. Etas
                             <lb/>autem quasi ueiculum nostrum est. quo quolibet die unam dietam
                             <lb/>complemus ad metam tendentes. et ad mortem acce
@@ -9978,7 +9978,7 @@
                             <lb/>gesticulationibus representans<g ref="#f161">;</g> nunc commentatorem
                             <lb/>mendatiorum induens<g ref="#f1f9">~</g> nunc puluerem etsi nullus<g ref="#f1f9">~</g> erit
                             <lb/>excuciens. In<reg> </reg>colloquiis<g ref="#f161">;</g>protheus est in consiliis<g ref="#f161">;</g> <unclear>achito</unclear>
-                                <lb break="no"/>fel. in<reg> </reg>executione mandatorum<g ref="#f161">;</g> doeth. in respon
+                            <lb break="no"/>fel. in<reg> </reg>executione mandatorum<g ref="#f161">;</g> doeth. in respon
                             <lb break="no"/>sis<g ref="#f161">;</g> nabal. in<reg> </reg>successibus<g ref="#f161">;</g> aman. O quantis<g ref="#f1f9">~</g> quam
                             <lb/>desiderabilibus. diuiciis destituitur. qui non solum
                             <lb/>sanam amisit conscientiam<g ref="#f161">;</g> immo et lese conscientie inces
@@ -10290,16 +10290,16 @@
                                     <lb/>miseros defendere lingua.</l> <l>Quod faciat magnas<g ref="#f161">;</g> 
                                     <lb/>turpe tribunal opes.</l></quote> Nec excidat a memoria tua<g ref="#f161">;</g> 
                             <lb/>quod legitur in deuteronomio. <quote source="Bible.Vul:Deut. 16.18-20">Iudices et magistros 
-                                    <lb/>constitues in omnibus portis tuis quas <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><ex>u</ex><abbr>s</abbr></expan> deus dederit 
-                                    <lb/>tibi per singulas tribus tuas ut iudicent populum iusto 
-                                    <lb/>iuditio. nec in<reg> </reg>alteram partem declinent. Non 
-                                    <lb/>accipias personam nee munera. quia munera ex
-                                    <lb break="no"/>cecant oculos sapientium<g ref="#f161">;</g> et mutant uerba iustorum. 
-                                    <pb n="141v"/>
-                                    <lb/>Iuste quod iustum est prosequeris ut uiuas<g ref="#f161">;</g> 
-                                    <lb/>et possideas terram quam <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><ex>u</ex><abbr>s</abbr></expan> deus dederit tibi. <!-- This last sentence is an addition. --><expan><abbr>S<am>&#xA76B;</am></abbr><ex>et</ex></expan>
-                                    <lb/>ad propositum redeamus<g ref="#f161">;</g> concilio beati cypriani
-                                    <lb/>illariter adquiescentes.</quote>
+                                <lb/>constitues in omnibus portis tuis quas <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><ex>u</ex><abbr>s</abbr></expan> deus dederit 
+                                <lb/>tibi per singulas tribus tuas ut iudicent populum iusto 
+                                <lb/>iuditio. nec in<reg> </reg>alteram partem declinent. Non 
+                                <lb/>accipias personam nee munera. quia munera ex
+                                <lb break="no"/>cecant oculos sapientium<g ref="#f161">;</g> et mutant uerba iustorum. 
+                                <pb n="141v"/>
+                                <lb/>Iuste quod iustum est prosequeris ut uiuas<g ref="#f161">;</g> 
+                                <lb/>et possideas terram quam <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><ex>u</ex><abbr>s</abbr></expan> deus dederit tibi. <!-- This last sentence is an addition. --><expan><abbr>S<am>&#xA76B;</am></abbr><ex>et</ex></expan>
+                                <lb/>ad propositum redeamus<g ref="#f161">;</g> concilio beati cypriani
+                                <lb/>illariter adquiescentes.</quote>
                         </ab>
                     </div>
                     <div n="2" type="textpart" subtype="section">
@@ -11011,7 +11011,39 @@
                             <lb/>De quibus Ieremias. <quote source="Bible.Vul:Jer.5.7-8">Saturaui eos et mechati sunt.
                                 <lb/>et in<reg> </reg>domibus meretricum luxuriabantur. equi amatores 
                                 <lb/>et feminas. unusquisque ad uxorem proximi sui hinnie
-                                <lb break="no"/>bat.</quote>
+                                <lb break="no"/>bat.</quote> Hi sacerdotes <placeName xml:id="FL2-19-35-1">beelphegor</placeName><note corresp="#FL2-19-35-1" place="right">Interpretatur deus tentiginis.</note> fornicantes cum filiabus 
+                            <lb/><persName>moab</persName> ydola tentiginis consecrati<g ref="#f1f9">~</g> sacrificia mor
+                            <lb break="no"/>tuorum comedentes. et coram omni populo lupanaria 
+                            <lb/>ganearum suarum ingredientes. quibus timendum est.
+                            <lb/>ne precepto <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">ni</abbr></expan> contra solem suspendantur inpati
+                            <lb break="no"/>bulis. uel impudenter confodiantur in<reg> </reg>locis genitalibus.
+                            <lb/>Sequitur.
+                        </ab>
+                    </div>
+                    <div n="36" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex eodem sermone.</head>
+                        <ab>
+                            Facti sunt ut stercus terre<del rend="erased">.</del> per coinquinationem
+                            <lb/>et feditatem. Vnde et obiecto olfactu deprehenditur 
+                            <lb/>recens feditatis huius operatio.
+                        </ab>
+                    </div>
+                    <div n="37" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex libro de naturis rerum.</head>
+                        <ab>
+                            ut insubicienda 
+                            <lb/>continebitur relaciuncula. In <seg xml:id="FL2-19-37-1">indagine</seg><note corresp="#FL2-19-37-1" place="right" rend="frame-circle-red-blue">Est enim indago<g ref="#f161">;</g> piscium. Vinarium<g ref="#f161">;</g> feratum. quamuis uulgus contrarium putet</note> igitur magna 
+                            <lb/>que uulgo uiuarium <expan><abbr>d</abbr><ex>icitu</ex><abbr rend="supraline">r</abbr></expan><g ref="#f161">;</g> due nidificauerunt 
+                            <lb/>ciconie. super cratem quandam huic usui idoneam.
+                            <lb/>Masculo autem absente certis ex causis<g ref="#f161">;</g> ad ulter 
+                            <lb/>cum ciconia expecta<add place="inline">n</add>te furt<add place="above">i</add>uos coitus super 
+                            <lb/>dictam cratem coire <del>et </del>consueuerat. Re autem peracta
+                            <lb/>adultero a uolante<g ref="#f161">;</g> solebat ad ultera statim 
+                            <lb/>sese aquis i<subst><del>n</del><add place="inline">m</add></subst>mergere. ne a marito furtiua 
+                            <lb/>culpa deprehenderetur. Nec latuit res militem <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><ex>u</ex><abbr>m</abbr></expan> 
+                            <lb/>illius fundi<g ref="#f161">;</g> qui et uxorem suam ad inspectio
+                            <lb break="no"/>nem furtiuorum coit<unclear>uum</unclear> adduxit frequentius.
+                            <pb n="151v"/>
                         </ab>
                     </div>
                 </div>
