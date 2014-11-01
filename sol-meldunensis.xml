@@ -11618,7 +11618,62 @@
                         <head rend="margin-outer red frame-blue">Super mulierem fortem.</head>
                         <ab>
                             <label place="margin" rend="red frame-blue">De officio prelatorum.</label>Tria item sunt of
-                            <lb break="no"/>ficia<g ref="#f161">;</g> dignitati prelati annexa. <metamark function="flag" rend="nota"/><!-- span to end of this item -->
+                            <lb break="no"/>ficia<g ref="#f161">;</g> dignitati prelati annexa. <metamark function="flag" rend="nota"/><!-- span to end of this item --> Vnum est<g ref="#f161">;</g> ut indul
+                            <lb break="no"/>geat causarum cognitioni. secundum<g ref="#f161">;</g> uerbum doctrine gre
+                            <lb break="no"/>gem sibi commissum fideliter instruat. tercium<g ref="#f161">;</g> ut cum 
+                            <lb/>samaritano uulneribus sauciati infundat vinum 
+                            <lb/>austere correptionis<g ref="#f161">;</g> et oleum lenissime consolationis. 
+                            <lb/>austere correptionis<g ref="#f161">;</g> et oleum lenissime consolationis. 
+                            <lb/>Tenetur itaque prelatus<g ref="#f161">;</g> nunc iudex<g ref="#f1f9">~</g> nunc doctor<g ref="#f1f9">~</g> nunc esse 
+                            <lb/>medicus. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> medicus animarum. Causarum cognitio<g ref="#f161">;</g> desiderat 
+                            <lb/>ciuilis uiris peritiam et canonum noticiam sibi assistere 
+                            <lb/>familiariter. Qua fronte autem predicare<g ref="#f1f9">~</g> aut inter 
+                            <lb/>lepram et lepram discernere presumet. nisi fideliter in
+                            <choice><orig><lb/></orig><reg><lb break="no"/></reg></choice>structus sit tam in<reg> </reg>ueteri instrumento<g ref="#f1e2">,</g> quam in<add place="inline"> </add>nouo 
+                            <lb/>testamento? Manus prudentie sic moderari debet 
+                            <lb/>examen libre iusticie. ne si <seg xml:id="FL2-19-60-1">libra</seg><note corresp="#FL2-19-60-1" place="left">¶ Si lis inciderit te iudice. dirige libram<g ref="#f161">;</g> Iudicii. nec flectat amor<g ref="#f161">;</g> nec census habendi.</note> auri uel ar
+                            <lb break="no"/>genti in una lance resident<g ref="#f161">;</g> iudex cum pondere 
+                            <lb/>uergat. Iudici residenti protribunali<g ref="#f161">;</g> insidias pre
+                            <lb break="no"/>tendit auaricia. predicanti<g ref="#f161">;</g> inanis gloria. iniun
+                            <lb break="no"/>genti satisfactionem penitencie<g ref="#f161">;</g> inhumanitias.
+                            <lb/>ex defectu fraterne compassionis proueniens. Ho
+                            <lb break="no"/>minem enim exuit<g ref="#f161">;</g> qui fratri peccata defl<add place="overstrike">enti</add> non compa
+                            <lb break="no"/>titur. Fratres non ad suggillationem uestram <add place="above">hec </add>dixi<g ref="#f161">;</g> 
+                            <lb/><expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> ad compunctionem.
+                        </ab>
+                    </div>
+                    <div n="61" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. Nuptie facte sunt.</head>
+                        <ab>
+                            Quoniam igitur simplicibus lectoribus 
+                            <lb/>me debitorem constitui bis enim iniunctum <add place="above">est </add><persName>petro</persName>
+                            <pb n="160r"/>
+                            <lb/>ut agnos pasceret. cum semel dumtaxat in
+                            <choice><orig><lb/></orig><reg><lb break="no"/></reg></choice>iunctum esset eidem a <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">no</abbr></expan> ut pasceret oues. 
+                        </ab>
+                    </div>
+                    <div n="62" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. Dulce est lumen.</head>
+                        <ab>
+                            utor 
+                            <lb/>comico<del rend="erased">.</del> et uulgari sermone<g ref="#f161">;</g> quia simplicibus 
+                            <lb/>et non litteratis loquor. 
+                        </ab>
+                    </div>
+                    <div n="63" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. Letare <placeName>ierusalem</placeName>.</head>
+                        <ab>
+                            Digressionem igitur<add place="inline"> </add>facere uolo ad 
+                            <lb/>instructionem uestri. Sunt multi ex uobis qui par<add place="above">r</add>ro
+                            <lb break="no"/>chiam sunt alicuius sacerdotis. Videtur eis quod minus dis
+                            <lb break="no"/>cretus sit<g ref="#f161">;</g> adeunt peritiorem. Non debetis hoc 
+                            <lb/>facere<g ref="#f161">;</g> sine conuiuentia eius. Vtinam hoc faciatis<g ref="#f1f9">~</g> 
+                            <lb/>quod sacerdotes uestri uobis inponunt. Non uultis 
+                            <lb/>interesse celebrationi ipsorum. <label place="right" rend="red frame-circle-red-blue">Quod peccata ministrorum nec minuant uel augeant uim sacramentorum.</label>Male facitis<g ref="#f1f9">~</g> quia 
+                            <lb/>merita ministrorum<g ref="#f1f9">~</g> non minuunt uel augent 
+                            <lb/>uim sacramentorum. Quod re gesta dulcedini uestre uo
+                            <lb break="no"/>lo manifestare. Erat uir insignis pollens 
+                            <lb/>sanctitate uite et preditus 
                         </ab>
                     </div>
                 </div>
