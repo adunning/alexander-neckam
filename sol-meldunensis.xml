@@ -12105,6 +12105,36 @@
                             <lb/>uigilantissimum lectorem scripta eius desiderent.
                         </ab>
                     </div>
+                    <div n="83" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex libro de naturis rerum.</head>
+                        <ab>
+                            <lb/>Teodectes similis erat parre que le<subst><del>n</del><add place="inline">u</add></subst>i labore immo 
+                            <lb/><unclear>n</unclear>ullo<g ref="#f1e2">,</g> aqulam uicisse protestata est. Qua uero astucia 
+                            <lb/>secundum faculosam narrationem<g ref="#f1e2">,</g> regiam dignitatem 
+                            <lb/>inter aues uisa sit sibi adquisiuisse<g ref="#f161">;</g> uulgo notum est. 
+                            <lb/>Condixerunt enim inter se aues ut illa regie celsitu
+                            <lb break="no"/>dinis gloriam sortiretur<g ref="#f161">;</g> que sublimi uolatu omnes 
+                            <lb/>alias uinceret. Parra igitur sub ascella aquile latitans<g ref="#f161">;</g> 
+                            <lb/>oportunitatem ex tempore nacta est. Cum enim aquila<g ref="#f1e2">,</g> 
+                            <lb/>iouis pentralibus uicinior<g ref="#f1e2">,</g> <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">ni</abbr></expan>um sibi uendicaret<g ref="#f161">;</g> 
+                            <lb/>ausa est. <hi rend="reg">P</hi>arra capiti<g ref="#f1f9">~</g> aquile insidere. uictricrem se 
+                            <lb/><expan><abbr rend="supraline">e</abbr><ex>ss</ex><abbr rend="supraline">e</abbr><am>.</am></expan> asserens. Sicque nomen reguli optinuit. Hec re
+                            <lb break="no"/>latio faculosa<g ref="#f1f9">~</g> illos tangit qui gloriam aliis de
+                            <lb break="no"/>bitam in<reg> </reg>se prsumunt transferre. Et ut ait philo
+                            <lb break="no"/>sophus<g ref="#f161">;</g> <quote>nos sumus quasi nani stantes super humeros gi
+                                <lb break="no"/>gantum.</quote> Predecessoribus itaque nostris ascribere tenemur 
+                            <lb/>ea que in gloriam laudis nostre non nunquam transferre audemus.
+                        </ab>
+                    </div>
+                </div>
+                <div n="20" subtype="chapter" type="textpart">
+                    <head rend="inline red">De Inuidia <persName>aristotilis</persName>.</head>
+                    <div n="1" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex libro de naturis rerum.</head>
+                        <ab>
+                            <lb/>Inuitus autem
+                        </ab>
+                    </div>
                 </div>
             </div>
         </body>
