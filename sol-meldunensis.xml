@@ -9946,7 +9946,7 @@
                         </ab>
                     </div>
                 </div>
-                <div n="13" subtype="chapter" type="textpart">
+                <div n="14" subtype="chapter" type="textpart">
                     <head rend="inline red">De adulatione.</head>
                     <div n="1" type="textpart" subtype="section">
                         <head rend="margin-outer red">Ex eodem libro.</head>
@@ -10036,7 +10036,7 @@
                         </ab>
                     </div>
                 </div>
-                <div n="14" subtype="chapter" type="textpart">
+                <div n="15" subtype="chapter" type="textpart">
                     <head rend="inline red">De ambitione.</head>
                     <div n="1" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex libro de naturis rerum.</head>
@@ -10079,7 +10079,7 @@
                         </ab>
                     </div>
                 </div>
-                <div n="15" subtype="chapter" type="textpart">
+                <div n="16" subtype="chapter" type="textpart">
                     <head rend="inline red">De ambitiosis.</head>
                     <div n="1" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex eodem libro.</head>
@@ -10117,7 +10117,7 @@
                         </ab>
                     </div>
                 </div>
-                <div n="16" subtype="chapter" type="textpart">
+                <div n="17" subtype="chapter" type="textpart">
                     <head rend="inline red">De ypocritis.</head>
                     <pb n="139r"/>
                     <note place="top" resp="new-hand">Hypocritæ</note>
@@ -10199,7 +10199,7 @@
                         </ab>
                     </div>
                 </div>
-                <div n="17" subtype="chapter" type="textpart">
+                <div n="18" subtype="chapter" type="textpart">
                     <head rend="inline red"><metamark function="flag" rend="nota"/>De ypocritis.</head>
                     <div n="1" type="textpart" subtype="section">
                         <head rend="margin-outer red">Super ecclesiasten.</head>
@@ -10222,7 +10222,7 @@
                         </ab>
                     </div>
                 </div>
-                <div n="18" subtype="chapter" type="textpart">
+                <div n="19" subtype="chapter" type="textpart">
                     <head rend="inline red">De iis qui muneribus inhiant.</head><!-- = Wright 332 (incl. heading) -->
                     <div n="1" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex libro de naturis.</head>
@@ -10252,7 +10252,7 @@
                         </ab>
                     </div>
                 </div>
-                <div n="19" subtype="chapter" type="textpart">
+                <div n="20" subtype="chapter" type="textpart">
                     <head rend="inline red">Contra illos qui muneribus inhiant.</head>
                     <div n="1" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex eodem libro.</head><!-- = Wright 332 -->
@@ -12141,7 +12141,7 @@
                     </div>
                     <anchor xml:id="FL2-19-84add"/>
                 </div>
-                <div n="20" subtype="chapter" type="textpart">
+                <div n="21" subtype="chapter" type="textpart">
                     <head rend="inline red">De Inuidia <persName>aristotilis</persName>.</head>
                     <div n="1" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex libro de naturis rerum.</head>
