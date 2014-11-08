@@ -12097,6 +12097,7 @@
                             <lb/>quem pre<reg> </reg>manibus habebat<g ref="#f161">;</g> demum ait. <said>Disser<subst><del>n</del><add place="overstrike">u</add></subst>imus de 
                                 <lb/>hiis plenius in rethorica <persName>theodectis</persName>.</said> Ad auctorem igitur 
                             <pb n="166r"/>
+                            <fw place="top" type="new-hand">Aristoteles.</fw>
                             <lb/>proprium reuersa est operis nobilissimi gloria. quamquam tractatus 
                             <lb/>elegantis subtilitas et modus loquendi contenderent 
                             <lb/>profiteri <!-- There's an inperfection in the MS for the next few lines that effects the appearance of the script. -->auctorem <persName>aristotilem</persName>. In<reg> </reg>scriptis enim suis decisa 
@@ -12126,15 +12127,53 @@
                             <lb/>ea que in gloriam laudis nostre non nunquam transferre audemus.
                         </ab>
                     </div>
+                    <addSpan to="FL2-19-84add"/>
+                    <div n="84" type="textpart" subtype="section">
+                        <head rend="bottom frame-head-red-blue">Super ecclesiasten.</head>
+                        <ab>
+                            <lb/><handShift/>Nulla igitur est maior auaritia quam auaritia scientie. Insitus 
+                            <lb/>est animo naturaliter amor scientie unde et protopla<del>n</del>sti<del>i</del>s
+                            <lb/>temptator scient<add place="above">i</add>am promisi<add place="overstrike">t</add>. dicens. Eritis sicut dii. scien
+                            <lb break="no"/>tes bonum et malum<g ref="#f161">;</g> stultissimus autem est qui sci
+                            <lb break="no"/>entiam aliis inuidus impartiri<g ref="#f1f9">~</g> cum distributa felix suscipi
+                            <lb break="no"/>at incrementum.<handShift/>
+                        </ab>
+                    </div>
+                    <anchor xml:id="FL2-19-84add"/>
                 </div>
                 <div n="20" subtype="chapter" type="textpart">
                     <head rend="inline red">De Inuidia <persName>aristotilis</persName>.</head>
                     <div n="1" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Ex libro de naturis rerum.</head>
                         <ab>
-                            <lb/>Inuitus autem
+                            <lb/>Inuitus autem scripto commendarem 
+                            <lb/>quod <persName>aristotiles</persName> peste tam letali inuidia <expan><abbr><am>.</am>s<am>.</am></abbr><ex>cilicet</ex></expan> labo
+                            <lb break="no"/>rauerit<g ref="#f161">;</g> nisi proposuissem monstrum tam perniciosum 
+                            <lb/>cum ceteris uiciis sugillare. Viam igitur uniuerse carnis 
+                            <pb n="166v"/>
+                            <lb/>ingressus 
+                            
+                            
+                            
+                            
                         </ab>
                     </div>
+                    <div n="3" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Hyldebertus cenomanensis.</head>
+                        <lg>
+                            <lb/><milestone rend="paraph red" type="section"/><l><hi rend="enlarged fill-red">M</hi>agnus <persName>alexander</persName>. bellum mandarat <placeName>athenis</placeName>.</l>
+                            <lb/><l><hi rend="enlarged fill-red">I</hi>nfestus populo tocius urbis erat.</l>
+                            <lb/><l><hi rend="enlarged fill-red">I</hi>bat <persName>aristoteles</persName> caute temptare tyrannum.</l>
+                            <lb/><l><hi rend="enlarged fill-red">S</hi>i prece uir tantus flectere posset eum.</l>
+                            <lb/><l><hi rend="enlarged fill-red">Q</hi>uem procul intuitus ceptrum capitisque salutem<g ref="#f161">;</g></l>
+                            <lb/><l><hi rend="enlarged fill-red">T</hi>estans<g ref="#f1e2">,</g> non faciam si qua rogabis ait.</l>
+                            <lb/><l><hi rend="enlarged fill-red">M</hi>utat <persName>aristoteles</persName> causam subtiliter. urbes<g ref="#f161">;</g></l>
+                            <lb/><l><hi rend="enlarged fill-red">P</hi>ossideas. frangas menia <persName>marce</persName> pecas.</l>
+                            <lb/><l><hi rend="enlarged fill-red">P</hi>enituit iurasse ducem bellumque roganti<g ref="#f161">;</g></l>
+                            <lb/><l><hi rend="enlarged fill-red">D</hi>at pacem lusus calliditate uiri.</l>
+                        </lg>
+                    </div>
+                    <pb n="167v"/>                    
                 </div>
             </div>
         </body>
