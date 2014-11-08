@@ -12224,7 +12224,242 @@
                             <lb/><l><hi rend="enlarged fill-red">D</hi>at pacem lusus calliditate uiri.</l>
                         </lg>
                     </div>
-                    <pb n="167v"/>                    
+                </div>
+                <pb n="167v"/>
+                <div n="22" subtype="chapter" type="textpart">
+                    <fw place="top" type="new-hand">Macedo</fw>
+                    <head rend="inline red">De Inuidia <persName>macedonis</persName>.</head>
+                    <div n="1" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex libro de naturis rerum.</head>
+                        <ab>
+                            <lb/><hi rend="dropcap2 red trim-blue">M</hi>acedo discipulus <persName>aristotilis</persName> nimis 
+                            <lb/>expresse preceptorem suum uolens imitari⸝ cum orbem 
+                            <lb/>sibi sub<add place="above">h</add>ast<subst><del><unclear>ci</unclear></del><add place="overstrike">a</add></subst>ret<g ref="#f161">;</g> uicio iam sepedicto colla submisit. Pro
+                            <lb break="no"/>dolor. orbis triumphator<g ref="#f161">;</g> a<reg> </reg>uicio tam turpi triumphari 
+                            <lb/>sustinuit. Et qui gloriabatur reges uincere<g ref="#f161">;</g> seruire peste 
+                            <lb/>tam fede non erubuit. O dedecus. Tam gloriosus princeps<g ref="#f161">;</g> 
+                            <lb/>uicii tam detestabilis seruile fuit mancipium. Et 
+                            <lb/>qui tot seruos manumisit. qui tot liberos gloria <add place="overstrike">in</add>
+                            <choice><sic><lb/></sic><corr><lb break="no"/></corr></choice>genuitatis donauit<g ref="#f161">;</g> se ipsum misere seruituti sub
+                            <lb break="no"/>iecit. Probare igitur audens mors argumento irrefra
+                            <lb break="no"/>gabili illum <expan><abbr rend="supraline">e</abbr><ex>ss</ex><abbr rend="supraline">e</abbr><am>.</am></expan> hominem quem<del rend="erased">e</del> populus deum <expan><abbr rend="supraline">e</abbr><ex>ss</ex><abbr rend="supraline">e</abbr><am>.</am></expan> proclamare 
+                            <lb/><expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> et asserere publice presumpsit<g ref="#f161">;</g> rebus humanis <orgName>grecorum</orgName> 
+                            <lb/>gloriam <persName>alexandrum</persName>⸝ exemit. Qui imperiosam fatorum 
+                            <lb/>nuntiam accedere presenciens<g ref="#f1f9">~</g> duodecim constituit sui 
+                            <lb/>successores<g ref="#f161">;</g> unico heredi tantam inuidens gloriam. 
+                            <lb/>Maluit plures relinquere successores. quam parem 
+                            <lb/>sibi substituere aliquem. 
+                        </ab>
+                    </div>
+                </div>
+                <div n="23" subtype="chapter" type="textpart">
+                    <head rend="inline red">De Inuidia et superbia <persName>luciferi</persName>.</head>
+                    <div n="1" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex libro de naturis rerum.</head><!-- = Wright 19–20 -->
+                        <ab>
+                            <lb/><hi rend="dropcap2 blue trim-red">L</hi><hi rend="smallcaps fill-red">u</hi>cifer <choice><sic><expan><abbr>g<am>&#xA770;</am></abbr><ex>enus</ex></expan></sic><corr><expan><ex>i</ex>g<ex>itur</ex></expan></corr></choice> cuius omnis lapis preciosus operimentum erat<g ref="#f1f9">~</g> 
+                            <lb/>minus limpide uidit<g ref="#f161">;</g> dum creatori suo inuidit. 
+                            <lb/>O quanta sapientia. quam acuto intellectu<g ref="#f161">;</g> preditus erat. 
+                            <lb/><expan><abbr>S<am>&#xA76B;</am></abbr><ex>et</ex></expan> inuidia et superbia associate<g ref="#f161">;</g> ipsum excecauerunt. 
+                            <lb/>O quam presumptuosa est inuidie precipitis temeritas. 
+                            <lb/>que contra superiorem<g ref="#f161">;</g> se erigere presumit. <expan><abbr>S<am>&#xA76B;</am></abbr><ex>et</ex></expan> dum se super
+                            <lb break="no"/>ciliose erigit<g ref="#f161">;</g> infeliciter incuruatur. Aduertens itaque 
+                            <lb/>filium alium <expan><abbr rend="supraline">e</abbr><ex>ss</ex><abbr rend="supraline">e</abbr><am>.</am></expan> a patre<g ref="#f1f9">~</g> et tamen equalem patri<g ref="#f161">;</g> s<subst><del><unclear>i</unclear></del><add place="overstrike">e</add></subst> ipsum 
+                            <lb/>turpiter paralogizauit. dum ad equalitatem talem 
+                            <pb n="168r"/>
+                            <fw place="top" type="new-hand">Lucifer</fw>
+                            <lb/>suspirauit et aspirauit. Filio igitur inuidit qui est sapientia 
+                            <lb/>patris. et dum sapientie inuidit<g ref="#f161">;</g> stultus effectus est. Op
+                            <lb break="no"/>ponens se ei qui est ueritas<g ref="#f161">;</g> mendax est effectus. et 
+                            <lb/>pater mendacii. Per inuium erroris distractus est<g ref="#f161">;</g> 
+                            <lb/>dum illum qui uia est sequi contempsit. Mortis spiritu
+                            <lb break="no"/>alis incurrit dampnationem. dum ab<reg> </reg>eo qui uita est<g ref="#f161">;</g> 
+                            <lb/>se ipsum auertit. Diabolus hoc est deorsum ruens<g ref="#f1f9">~</g> 
+                            <lb/>deorsum est precipitatus<g ref="#f161">;</g> quia nimis ascendere presumpsit. 
+                            <lb/><note corresp="#FL2-22-1-1" place="right" rend="frame-red-blue">Quare peccatum diaboli sit irremediabile.</note><seg xml:id="FL2-22-1-1">Et</seg> quia nullo inpellente cecidit<g ref="#f1f9">~</g> maxime <expan><am rend="supraline">&#x204A;</am><ex>etiam</ex></expan> cum non 
+                            <lb/>haberet naturam ad<reg> </reg>casum procliuem<g ref="#f161">;</g> de iure pec
+                            <lb break="no"/>catum eius <expan><abbr rend="supraline">e</abbr><ex>ss</ex><abbr rend="supraline">e</abbr><am>.</am></expan> irremediabile censuit iustissimus 
+                            <lb/>iudex. Non enim dignus est uenia<g ref="#f161">;</g> qui ex<reg> </reg>propria ma
+                            <lb break="no"/>licia tantum in se mittens manus<g ref="#f161">;</g> se ipsum perimit.
+                        </ab>
+                    </div>
+                </div>
+                <div n="24" subtype="chapter" type="textpart">
+                    <div n="1" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex eodem capitulo.</head><!-- = Wright 20 -->
+                        <ab>
+                            <lb/><hi rend="dropcap2 red trim-blue">A</hi><hi rend="smallcaps fill-red">ss</hi>ocientur igitur superbia et inuidia<g ref="#f1f9">~</g> et inanis gloria. 
+                            <lb/>que hostem antiquuum sollicitauit et uicium 
+                            <lb/>ingratitudinis. et ambitio presumptuosa. et presumptio 
+                            <lb/>ambitiosa. cum tanto creatoris contemptu<g ref="#f161">;</g> et ad
+                            <lb break="no"/>uertes monstrum istud nulla uirtute redimendum. 
+                            <lb/><expan><abbr>S<am>&#xA76B;</am></abbr><ex>et</ex></expan> et multos in errrorem secum traxit<g ref="#f161">;</g> auctor iste 
+                            <lb/>cismatis et discordie<g ref="#f1f9">~</g> et seditionis et seductionis. 
+                            <lb/><label place="right" rend="red frame-blue">Contra ambiciosos.</label>Legant ista et intelligant qui nimiam digni
+                            <lb break="no"/>tatem sibi usurpare contendunt<g ref="#f161">;</g> quos angit letalis 
+                            <lb/>ambitio⸝ quos cura uigil macerat<g ref="#f1f9">~</g> et improba spes 
+                            <lb/>promotionis sollicitat. <label place="right" rend="frame-blue">Quod locus <expan><abbr>s</abbr><ex>an</ex><abbr rend="overline">c</abbr><ex>tu</ex><abbr>s</abbr></expan> <expan><abbr>s</abbr><ex>an</ex><abbr rend="overline">c</abbr><ex>tu</ex><abbr>m</abbr></expan> non faciat.</label>O quam felix permansisset 
+                            <lb/><persName>lucifer</persName><g ref="#f161">;</g> si felicitate sua contentus esset. Docemur 
+                            <lb/><expan><am rend="supraline">&#x204A;</am><ex>etiam</ex></expan> in<reg> </reg>his<g ref="#f161">;</g> quia nullus sibi blandiri debet propter loci 
+                            <pb n="168v"/>
+                            <lb/>sanctitatem et amenitatem. Quis enim locus<g ref="#f1f9">~</g> celo empireo 
+                            <lb/>sanctior. tante amenitatis? Nonne item <persName>adam</persName> 
+                            <lb/>uictus est in<reg> </reg>paradyso. <persName>iob</persName> uero uicit in sterquilinio. 
+                            <lb/><hi rend="reg">A</hi>ttenti sitis. <hi rend="fill-red">R</hi>elegata est procul e celo inuidia cum 
+                            <lb/>uiciis supra enumeratis. quia <persName>lucifer</persName> cum complicibus suis<g ref="#f161">;</g> 
+                            <lb/>precipitatus est. <metamark function="flag" rend="nota"/>Nonne celum est uirorum claustralium celestis 
+                            <lb/>conuersatio? Nonne celum<g ref="#f161">;</g> est animus qui thalamus est 
+                            <lb/>trinitatis? <label place="margin" rend="frame-red-blue">Quod celum sit claustrum angelorum. et corpus claustrum anime.</label>Excludantur igitur monstra preenumerata 
+                            <lb/>et perambulent latitudinem claustri<g ref="#f161">;</g> humilitas<g ref="#f1f9">~</g> 
+                            <lb/>pacientia<g ref="#f1f9">~</g> concordia. pax tranquillitas mentis cum gau
+                            <lb break="no"/>dio spirituali⸝ et dilectione dei et proximi. In<reg> </reg>claustro sunt 
+                            <lb/>angeli lucis<g ref="#f1f9">~</g> nec exeunt<g ref="#f161">;</g> nisi certissima ex<reg> </reg>causa. Nonne 
+                            <lb/>item anima hominis quamdiu est in<reg> </reg>ergastulo corporis in<reg> </reg>claustro 
+                            <lb/>mora<del rend="erased">n</del>tur? Cur moleste fert homo angustias claustri 
+                            <lb/>materialis. cum mens bene composita pacienter susti
+                            <lb break="no"/>neat corporis angustias?
+                        </ab>
+                    </div>
+                    <div n="2" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex tractatu super mulierem fortem.</head><!-- Note, by the way, that the punctuation is quite different from the Jesus College MS. -->
+                        <ab>
+                            Nonne claustri leta facies<g ref="#f1f9">~</g> 
+                            <lb/>paradysi representat amenitatem? Viror intermedius 
+                            <lb/>planiciei interiacentis. ad pascua uite nos inuitat<g ref="#f1e2">,</g> 
+                            <lb/>prenuncians orti deliciarum uoluptates arbor medi
+                            <lb break="no"/>tulium prati obumbrans<g ref="#f161">;</g> ligni uite quod est in medio 
+                            <lb/>paradysi tipum gerit. <add place="overstrike">si</add> <unclear>formam</unclear> dispositionis qua
+                            <lb break="no"/>drate consulas. transmitteris ad conformitatem <num>.iiii.or</num> uirtu
+                            <lb break="no"/>tum principalium. longitudo ex<add place="inline"> </add>equo respondens lati
+                            <lb break="no"/>tudini docet equalia <expan><abbr rend="supraline">e</abbr><ex>ss</ex><abbr rend="supraline">e</abbr><am>.</am></expan> latera ciuitatis.
+                        </ab>
+                    </div>
+                    <div n="3" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Super cantica.</head>
+                        <ab>
+                            <milestone rend="paraph red" unit="section"/>Quo
+                            <lb break="no"/>ciens autem uiros claustrales cerno⸝ inter arcus colump
+                            <lb break="no"/>narum residentes<g ref="#f161">;</g> piis uacare meditationibus. aut 
+                            <pb n="169r"/>
+                            <lb/>parietibus claustri inn<subst><del rend="expunct">o</del><add place="above">i</add></subst>xos et legere conspicio<g ref="#f161">;</g> 
+                            <lb/>reuoco illud ad memoriam. Ecce columbe ad fe
+                            <lb break="no"/>nestras suas. ecce columbe hee quiescunt in<reg> </reg>formami
+                            <lb break="no"/>nibus petrarum<g ref="#f161">;</g> ille latitant in cauernis materie.
+                        </ab>
+                    </div>
+                    <div n="4" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Super mulierem fortem.</head>
+                        <ab>
+                            <lb/>Vos igitur in<reg> </reg>claustro residentes tanquam columbe ad 
+                            <lb/>fenestras suas nunc legitis grana triticea in<reg> </reg>area 
+                            <lb/>sacre scripture. nunc alis contemplationis eleuamini in 
+                            <lb/>superna. Corpora in<reg> </reg>claustro resident. <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> animus in<reg> </reg>celo 
+                            <lb/>conuersatur. Exemplo mature conuersationis iuniores in
+                            <choice><sic><lb/></sic><corr><lb break="no"/></corr></choice>formatis qui ipsis estis<g ref="#f161">;</g> et speculum et liber hones
+                            <lb break="no"/>tatis. Mutuo uos inuicem preuenitis honore uiris 
+                            <lb/>uenerande caniciei debitam in<reg> </reg>penditis reueren
+                            <lb break="no"/>tiam. Corripientibus uos<g ref="#f161">;</g> uultu placido aspectu 
+                            <lb/>leni. obstipo capite. humiliter obtemperatis. Veniam 
+                            <lb/>suppliciter super commissis postulantes spondendo<!-- Hyphenation semi-erased? --> 
+                            <lb/>cautelam solito diligentiorem uos et gestibus et 
+                            <lb/>uerbis et actionibus adhibituros. <metamark function="flag" rend="nota red"/>Vix concipio spem 
+                            <lb/>corre<subst><del rend="expunct">x</del><add place="above">ct</add></subst>ionis ex quo molestus est. delinquenti sermo cor
+                            <lb break="no"/>reptionis.
+                        </ab>
+                    </div>
+                    <div n="5" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. <persName>Agar</persName> ancilla <persName>saray</persName>.</head>
+                        <ab>
+                            <milestone rend="paraph red" unit="section"/>Vt quid claustrum aborres. uir 
+                            <lb/>claustralis? inclaustro fuisti<g ref="#f161">;</g> quamdiu utero mater<add place="overstrike">no clau</add>
+                            <lb break="no"/>sus fuisti. ad claustrum tendis<g ref="#f161">;</g> qui ad<reg> </reg>sepulcrum 
+                            <lb/>festinas. 
+                        </ab>
+                    </div>
+                    <div n="6" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex libro qui intitulatur solacium fidelis anime.</head>
+                        <ab>
+                            <milestone rend="paraph red" unit="section"/>Anima tua in<reg> </reg>claustro reposita est. ut 
+                            <lb/>a<reg> </reg>claustro terreni carceris<g ref="#f161">;</g> euolet <add place="above">in </add>latitudinem patrie 
+                            <lb/>celestis. Quid reformidas claustrum columpnis la
+                            <lb break="no"/>pideis decenter ornatum. cum anima tua inclusa sit 
+                            <lb/>in<reg> </reg>claustro cuius materia limus est? Plasmauit deus 
+                            <pb n="169v"/>
+                            <lb/>hominem secundum corpus de limo terre. O homo. <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> <del rend="expunct">te </del>pro<reg> </reg>te in 
+                            <lb/>claustro uirginis reconditus est. et tu pro<reg> </reg><persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>o</abbr></expan></persName> tuo claustrum 
+                            <lb/>intrare renuis? Velis nolis in<reg> </reg>claustro manebis. Mundus 
+                            <lb/>enim ipse claustrum est. <expan><abbr>S<am>&#xA76B;</am></abbr><ex>et</ex></expan> dice<subst><del>t</del><add place="overstrike">s</add></subst>. <said>Cedo. Mundus <expan><abbr>m<am>&#x365;</am></abbr><ex>ichi</ex></expan> claustrum 
+                                <lb/>sit<g ref="#f161">;</g> satis enim amplium et deliciosum est.</said> Audi igitur queso. 
+                            <lb/>audi tu qui latitudinem tantam claustri ad nutum tuum 
+                            <lb/>eligis. anima tua in<reg> </reg>breui ergastulo inclusa est. corpus 
+                            <lb/>uero tuum ne dicam cadauer in<reg> </reg>sepulcro breui reponetur. 
+                            <lb/>et utinam in<reg> </reg>sepculcro. Mundum miser elegisti uice clau
+                            <lb break="no"/>stri. quia latum est <del rend="erased">et </del>spaciosum ut asseris clau
+                            <lb break="no"/>strum istud? Audi <said>cur aurem auertis?</said> Audi. 
+                            <lb/>nec uicem puncti mundus optinet si conferatur inmen
+                            <lb break="no"/>sitati diuine. Si latitudinem desideras. <hi rend="reg">S</hi>i delicias 
+                            <lb/>queris. quid angustiam mundi. diuine celcitudi
+                            <lb break="no"/>nis inmensitati preponis? Quid delicias <add place="overstrike">falsas</add> preponis 
+                            <lb/>ueris et eternis deliciis? Mundum <expan><abbr>t<am>&#x365;</am></abbr><ex>ibi</ex></expan> claustrum constituis. 
+                            <lb/>Prodolor. A<reg> </reg>claustro tuo ad claustrum eterne miserie 
+                            <lb/>transibis. 
+                        </ab>
+                    </div>
+                    <div n="7" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. Agar ancilla.</head>
+                        <ab>
+                            <milestone rend="paraph red" unit="section"/>Vtinam attendes quia ortus conclusus. ortus 
+                            <lb/>deliciarum. ortus uoluptatis paradysus est<g ref="#f161">;</g> qui est 
+                            <lb/>claustrum. et amenissime iocunditatis. et iocundissi
+                            <lb break="no"/>me amenitatis. Viri fratres dum hec exortationis <expan><abbr>g</abbr><abbr rend="supraline">r</abbr><ex>ati</ex><abbr>a</abbr></expan> 
+                            <lb/>in medium propono<g ref="#f161">;</g> occurrit <expan><abbr>m<am>&#x365;</am></abbr><ex>ichi</ex></expan> quod legitur in<reg> </reg>genesi<g ref="#f1f9">~</g> 
+                            <lb/><metamark function="flag" rend="nota"/><milestone rend="paraph red" unit="section"/><quote source="Bible.Vul:Gen.2.15">Tulit <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><ex>u</ex><abbr>s</abbr></expan> deus hominem et posuit eum in<reg> </reg>paradyso 
+                                <lb/>uoluptatis<g ref="#f161">;</g> ut deus operaretur et custodiret illum.</quote> hoc est 
+                            <lb/>hominem. Potest <expan><am rend="supraline">&#x204A;</am><ex>etiam</ex></expan> et sic intelligi. <quote source="Bible.Vul:Gen.2.15">tulit <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><ex>u</ex><abbr>s</abbr></expan> deus hominem 
+                                <lb/>et posuit eum in paradyso uoluptatis<g ref="#f161">;</g></quote> ut homo 
+                            <pb n="170r"/><!-- Not totally sure what happened toward the right of the text block on this page. I take it that it's something to do with the surface of the parchment, since it's repeated on the verso. -->
+                            <lb/>operaretur bona et custodiret illum. hoc est 
+                            <lb/>paradysum. Honestatem enim conuersationis 
+                            <lb/>religiose debet homo custodire in<reg> </reg>se. ut cooperetur 
+                            <lb/>homo deo. qui nisi custodierit ciuitatem<g ref="#f161">;</g> <quote>frustra ui
+                                <lb break="no"/>gilat qui custodit eam.</quote> Potest et paradysi 
+                            <lb/>nomine claustrum religiosorum designari. quod est 
+                            <lb/>paradysus uoluptatis ei. qui <expan><abbr>sp</abbr><ex>irit</ex><abbr>u</abbr></expan>alem parady
+                            <lb break="no"/>sum uoluptatis in<reg> </reg>se gerit. Debet igitur homo a <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">no</abbr></expan> 
+                            <lb/>translatus a<reg> </reg>miseria ui<unclear>te</unclear> secularis ad paradysum 
+                            <lb/>uoluptatis<g ref="#f161">;</g> custodire illum et bene operari. <add place="overstrike"><hi rend="reg">C</hi></add>laustrum 
+                            <lb/>bene custodit<g ref="#f161">;</g> qui non discurrit per angulos offi
+                            <lb break="no"/>cinarum. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> in<reg> </reg>claustro coporaliter residens<g ref="#f161">;</g> philosoph<unclear>ia</unclear> 
+                            <lb/>cum <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">no</abbr></expan>. ita ut corpus in<reg> </reg>claustro animus sit in<reg> </reg>monte 
+                            <lb/><add place="overstrike">superne<!-- looks as if it was originally corrected in the margin, just to the left --></add> syon. Claustrum bene custodit qui innixus 
+                            <lb/>columpne sue corporaliter<g ref="#f161">;</g> animo innititur columpne crucis 
+                            <lb/>cum uero <persName>samsone</persName>. et sic inuisibiles <orgName>philisteos</orgName> claustralis 
+                            <lb/>sternit moriens mundo<g ref="#f161">;</g> et uiuens deo. Claustrum bene 
+                            <lb/>custodit<g ref="#f161">;</g> cuius animus dulcedine fruitur contemplationis. 
+                            <lb/>dum corpus in<reg> </reg>claustro quiescit<g ref="#f161">;</g> adeo ut dicere possit 
+                            <lb/>sponsus anime. Ecce columba mea in<reg> </reg>foraminibus petre 
+                            <lb/>et in<reg> </reg>cauerna macerie.
+                        </ab>
+                    </div>
+                </div>
+                <div n="25" subtype="chapter" type="textpart">
+                    <head rend="inline red">De Inconstancia claustralium.</head>
+                    <div n="1" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex libro de naturis rerum.</head><!-- = Wright 329 -->
+                        <ab>
+                            <lb/>Claustrales non nulli<g ref="#f161">;</g> cenobia mutant adeo ut 
+                            <lb/>quidam a<reg> </reg>cellis ad monasteria<g ref="#f161">;</g> alii a<reg> </reg>monasteriis 
+                            <lb/>ad cellas transeant. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> in<reg> </reg>uocatione qua quia uocatus 
+                            <lb/>est<g ref="#f161">;</g> maneat. <metamark function="flag" rend="nota"/>Non conualescit planta<g ref="#f161">;</g> que sepius 
+                            <lb/>transfertur. Terre stabilitatem quis attendere debet<g ref="#f1f9">~</g> 
+                            <pb n="170v"/>
+                            <lb/>non arundinis uento agitate. uento omni cedentis 
+                            <lb/>mutabilitatem. De sancta quidem ecclesia dicit propheta. 
+                            <lb/><quote>Qui fundasti terram super stabilitatem suam non 
+                                <lb/>inclinabitur in seculum saeculi.</quote><!-- DNR text breaks off here: rest an addition from FL? --> Quid igitur o claustralis 
+                            <lb/>loca fugis? <hi rend="reg">T</hi>e ipsum primo fuge. <label place="margin" rend="red frame-blue">Narraciuncula.</label>
+                        </ab>
+                    </div>
                 </div>
             </div>
         </body>
