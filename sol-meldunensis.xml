@@ -11129,7 +11129,7 @@
                             <lb break="no"/>tores isto locutionis genere<g ref="#f161">;</g> ut mens cuiusque is est quisque.
                             <pb n="152v"/>
                             <lb/>In gallico etiam idiomate<g ref="#f161">;</g> hoc dicendi genus reperies. 
-                            <lb/><metamark function="flag" rend="nota"/>Pauper homo<g ref="#f161">;</g> pereat qui genuit eum. Alia item trans
+                            <lb/><metamark function="flag" rend="nota red"/>Pauper homo<g ref="#f161">;</g> pereat qui genuit eum. Alia item trans
                             <lb break="no"/>latio habet. <expan><abbr>S<am>&#xA76B;</am></abbr><ex>et</ex></expan> et omnis homo cui dedit deus diuicias et 
                             <lb/>substantiam<g ref="#f1f9">~</g> concessitque ei ut uesceretur ex his<g ref="#f1f9">~</g> et tol
                             <lb break="no"/>leret partem suam<g ref="#f1f9">~</g> et letaretur de labore suo<g ref="#f161">;</g>
@@ -12615,7 +12615,7 @@
                             Ne igitur suspiret 
                             <lb/>claustralis ad apices dignitatum. <expan><abbr>D</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><ex>u</ex><abbr>s</abbr></expan> enim de ipso dicit. 
                             <lb/>Sic eum uolo manere donec ueniam. Sic inquam⸝ sic<g ref="#f161">;</g> <expan><abbr>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> in<reg> </reg>hac 
-                            <lb/>dulcedine. in hac transquillitate serenate. conscientie. Sic eum 
+                            <lb/>dulcedine. in hac transquillitate serenate. conscientie. <metamark function="flag" rend="nota"/>Sic eum 
                             <lb/>uolo materie in<reg> </reg>claustro<g ref="#f161">;</g> ne malicia extrinsecorum nego
                             <lb break="no"/>tiorum inmutet cor ipsius. Sic <seg xml:id="FL2-27-3-tr1">eum</seg> <seg xml:id="FL2-27-3-tr2">igitur</seg><listTranspose><transpose><ptr target="#FL2-27-3-tr2"/><ptr target="#FL2-27-3-tr1"/></transpose></listTranspose> uolo manere donec ueniam. 
                             <lb/>occurrens anime ipsius ex<add place="overstrike">e</add>unti de corporis ergastulo. occurrens <anchor xml:id="FL2-27-3-add"/>
@@ -12897,7 +12897,150 @@
                         <head rend="margin-outer red frame-blue">Ex proemio super parabolas.</head>
                         <ab>
                             O<reg> </reg>remuneratio auctore dig
-                            <lb break="no"/>na <persName>nerone</persName> 
+                            <lb break="no"/>na <persName>nerone</persName> qui ut pius censeretur<g ref="#f161">;</g> doctorem sibi 
+                            <lb/>mortem eligere iussit. <expan><abbr>S<am>&#xA76B;</am></abbr><ex>et</ex></expan> o<reg> </reg>seua rabies effere cru
+                            <lb break="no"/>delitatis dum consulem tantum dum uirum specta
+                            <lb break="no"/>bilem rei publice tam utilem. <subst><del><expan><abbr>p<am>ħ</am></abbr><ex>ilosophu</ex><abbr>m</abbr></expan></del><add place="right">philosophum.</add></subst> illustrem. 
+                            <lb/><expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> et magistrum<g ref="#f161">;</g> mortem subire coegit. discipulus. 
+                            <lb/>set quid? Quid miri si discipulum ex<del rend="erased">i</del>uit qui iam 
+                            <pb n="176v"/>
+                            <lb/>dudum monstrum induerat? Sublare priuato uitam 
+                            <lb/>duxisset priuitam <placeName>cordube</placeName> tutissime uir clarissimus 
+                            <lb/>qui <placeName>rome</placeName> fastigia dignitatem contendens<g ref="#f161">;</g> imperatoris 
+                            <lb/>familiaritatem <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> <persName>neronis</persName> exsoluit mortis precio. <metamark function="flag" rend="nota"/>Cessit 
+                            <lb/>infata uir qui doctine luce totum illustrauerat orbem. 
+                            <lb/>In<reg> </reg>hoc saltem mortem cens<expan><am>&#x33E;</am><ex>er</ex></expan>es <expan><abbr rend="supraline">e</abbr><ex>ss</ex><abbr rend="supraline">e</abbr><am>.</am></expan> felicem. quod a<reg> </reg><persName>nero
+                                <lb break="no"/>nis</persName> tam familiaritate quam dominio dies suppremus 
+                            <lb/>eum subduxit.
+                        </ab>
+                    </div>
+                    <div n="6" type="textpart" subtype="section">
+                        <head rend="margin-outer red frame-blue">Ex tractatu super parabolas.</head>
+                        <ab>
+                            Adeo autem inualuit <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> preualuit mon
+                            <lb break="no"/>strum tam detestabile ut si habitatores <placeName>segor</placeName> non 
+                            <lb/>queant clamdestinis conspirationibus ad consensum fac
+                            <lb break="no"/>tionis inite animum <persName>loth</persName> inclinare<g ref="#f161">;</g> flagitium tamen 
+                            <lb/>suum audeant eidem impudenter imponere. Et quem 
+                            <lb/>blanditiis seducere nequeunt<g ref="#f161">;</g> occultis moliuntur frau
+                            <lb break="no"/>dibus circumuenire. aut serenitatem fame ipsius<g ref="#f1f9">~</g> turpibus 
+                            <lb/>notis<g ref="#f161">;</g> obnubilare. Quod enim fingere non presumat li
+                            <lb break="no"/>uor<g ref="#f1f9">~</g> commentator pessimus. ut nomen uiri honesti. uel 
+                            <lb/>suspitionis sinistre maculis respergatur? Eos tamen 
+                            <lb/>qui huiuscemodi studiis detinentur<g ref="#f1f9">~</g> immo miserimis 
+                            <lb/>deliramentis agitantur<g ref="#f161">;</g> diutius sollicitari non oportet 
+                            <lb/>super excogitando genere sceleris quo uirum quem
+                            <lb break="no"/>piam honestum impetant. Ad manum enim habent 
+                            <choice><sic><lb break="no"/></sic><reg><lb/></reg></choice>uicium prodolor nimis familiare. quo quia nichil 
+                            <choice><sic><lb break="no"/></sic><reg><lb/></reg></choice>enormius esse norunt<g ref="#f161">;</g> nullo libentius honestatis merita 
+                            <lb/>decolorare student. Maxima liuoris est gloria<g ref="#f161">;</g> auten
+                            <lb break="no"/>tice persone facta carpere<g ref="#f1f9">~</g> dicta peruertere. opinionem sug
+                            <lb break="no"/>gillare. Occasio leuissima prebet inuidie materiam 
+                            <pb n="177r"/>
+                            <lb/>multiplicandi figmenta suspitionum aduersum mores 
+                            <lb/>approbatos. et exilibus innitens coniecturis malicia<g ref="#f161">;</g> 
+                            <lb/>ignominiosum astruere facinus non erubescit. 
+                            <lb/>Cum uero honestati palam occurrere reformidat. Latenter 
+                            <lb/>tamen in ipsam cinicis inuehitur detractionibus. Tanta 
+                            <lb/>quippe eius cui inuidetur interdum auctoritas. fama tam 
+                            <lb/>celebris. nomen tam autenticum. tam excellentia sunt 
+                            <lb/>merita. ut ipsum uel latenter infestare non audeat im
+                            <lb break="no"/>probitas maligna<g ref="#f161">;</g> nisi complices habeat. quorum fulta 
+                            <lb/>sit patrocinio. <metamark function="flag" rend="nota"/>Contrahitur ergo sodalicium<g ref="#f161">;</g> et nichil 
+                            <lb/>est quod non agredi temptet preceps temeritas. tum quia 
+                            <lb/>fautoribus est stipata<g ref="#f161">;</g> tum quia furiis inuidie est 
+                            <lb/>agitata. tum quia rigor ecclesiastice censure et seueritas 
+                            <lb/>dicipline regularis<g ref="#f161">;</g> abierunt indissuetudinem. 
+                            <lb/>Doleo quod nutrix <persName>ypoliti</persName> a finibus nostris recessit ex
+                            <lb break="no"/>puls<add place="overstrike">a</add>. quos iam inuasit effrenis presumptio<g ref="#f161">;</g> 
+                            <lb/>ius sibi dictans. <persName>Salomon</persName> igitur non solum presagiis futurorum. 
+                            <lb/><expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> et status temporum nostrorum propheta certissimus. subterfugiendum 
+                            <lb/><expan><abbr rend="supraline">e</abbr><ex>ss</ex><abbr rend="supraline">e</abbr><am>.</am></expan> docet illorum consortium<g ref="#f161">;</g> qui fraudulentis persua
+                            <lb break="no"/>sionibus animos simplicium<g ref="#f1f9">~</g> ad con<add place="overstrike">s</add>ensum sceleris in
+                            <choice><sic><lb/></sic><corr><lb break="no"/></corr></choice>clinare moliuntur. <quote source="Bible.Vul:Prov.1.10">Fili mi</quote> inquit. <quote source="Bible.Vul:Prov.1.10">si te lactauerint 
+                                <lb/>peccatores</quote> uberibus seductionis<g ref="#f1f9">~</g> ministrando <expan><abbr>t<am>&#x365;</am></abbr><ex>ibi</ex></expan> lac pueri
+                            <lb break="no"/>lium blandiciarum<g ref="#f161">;</g> <quote source="Bible.Vul:Prov.1.10–Prov.1.11">non adquiescas eis. Si dixerint<g ref="#f1f9">~</g> 
+                                <lb/><said>ueni nobiscum</said><g ref="#f1f9">~</g> insidiemur sanguini</quote><g ref="#f161">;</g> ne ambules cum 
+                            <lb/>eis. Sanguini insidiatur<g ref="#f161">;</g> qui alterius uite naturali⸝ aut 
+                            <lb/>spirituali pretendit insidias. Mors anime<g ref="#f161">;</g> multo detestabilior 
+                            <pb n="177v"/>
+                            <lb/>est morte corporis. <metamark function="flag" rend="nota" place="above"/>Nomine igitur sanguinis<g ref="#f161">;</g> designatur anima. 
+                            <lb/>eo quod omnis anima in sanguine est. O in<add place="overstrike">c</add>onsulta temeritas<g ref="#f1f9">~</g> 
+                            <lb/>insidiari sanguini illius<g ref="#f161">;</g> pro quo sanguinem suum preciosum<g ref="#f1f9">~</g> 
+                            <lb/>effundere copiose dignatus est<g ref="#f161">;</g> mundi saluator. San
+                            <lb break="no"/>guis item dicitur peccatum<g ref="#f161">;</g> ut <quote source="Bible.Vul:Hos.4.2">sanguis sanguinem tetigit</quote>. 
+                            <lb/>O quam uigilanti sutido insidiantur <expan><am rend="supraline">&#x204A;</am><ex>etiam</ex></expan> leuibus excessibus 
+                            <lb/>fratrum exploratores miseri non correctionis gratia<g ref="#f161">;</g> <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> occa
+                            <lb break="no"/>sione malignandi. Fenum et stipulam et lignum<g ref="#f161">;</g> 
+                            <lb/>interpretatur esse<g ref="#f1f9">~</g> es plumbum et ferrum. <quote source="Bible.Vul:Prov.1.11">Abscondamus</quote> 
+                            <lb/>inquiunt <add place="above">isti </add><quote source="Bible.Vul:Prov.1.11">tendiculas contra insontem frustra.</quote> Ac si aperte 
+                            <lb/>dicant. Eo quod insons est<g ref="#f161">;</g> molestus est nobis <expan><am rend="supraline">&#x204A;</am><ex>etiam</ex></expan> ad
+                            <choice><sic><lb break="no"/></sic><reg><lb/></reg></choice>uidendum<g ref="#f1f9">~</g> cum nobis dissimulis sit. Quid lilio 
+                            <lb/>et spinis. quid columbe et uulturibus? Frustra inquiunt<g ref="#f1f9">~</g> 
+                            <lb/>hoc est sine causa<g ref="#f1f9">~</g> absque ipsius meritis<g ref="#f161">;</g> uolumus eum sedu
+                            <lb break="no"/>cere. Frustra inquam<g ref="#f161">;</g> cum sit innocens. Vel ex<reg> </reg>parte 
+                            <lb/>auctoris<g ref="#f161">;</g> appositum <expan><abbr rend="supraline">e</abbr><ex>st</ex><am>.</am></expan> quod dicitur<g ref="#f1f9">~</g> frustra. Hinc est quod 
+                            <lb/>inferius in<reg> </reg>eodem libro dicit idem <persName>salomon</persName>. Frustra 
+                            <lb/>iacitur rete ante occulos pennatorum. <!-- passage omitted, purposely I suspect --><quote source="Bible.Vul:Prov.1.11">Abscondamus inqui
+                                <lb break="no"/>unt isti<g ref="#f161">;</g> tendiculas contra insontem.</quote> Psalmista <expan><am rend="supraline">&#x204A;</am><ex>etiam</ex></expan> ait. 
+                            <lb/><quote source="Bible.Vul:Ps.139.6"><expan>Absconder<am>.</am><ex>unt</ex> superb<ex>i</ex><am>.</am> laque<am>.</am><ex>um</ex> <abbr>m<am>&#x365;</am></abbr><ex>ichi</ex></expan>.</quote> <quote source="Bible.Vul:Prov.1.12">Deglutiamus</quote> inquiunt <quote source="Bible.Vul:Prov.1.12">eum 
+                                <lb/>sicut infernus uiuentem et integrum<g ref="#f161">;</g> quasi descendentem 
+                                <lb/>in<reg> </reg>lacum.</quote> Deglutiamus aiunt eum. quamuis sit uiuens 
+                            <lb/>uita gratie. deglutiamus inquam<g ref="#f161">;</g> ut decetero nulla sit ei 
+                            <lb/>spes resurgendi ad statum priorem. uel euadendi 
+                            <lb/>insidias nostras. sicut infernus illos penitus deglutit 
+                            <lb/>quos absorbet. Et deglutiamus ipsum moribus et honestate 
+                            <pb n="178r"/>
+                            <lb/>uite inte integrum. ac si iam diu descenderit cum 
+                            <lb/>reprobis in lacum uiciorum. Quid? <metamark function="flag" rend="nota"/><!-- to end of the passage -->Immo libentius 
+                            <lb/>persequuntur iustum plures<g ref="#f161">;</g> quam iniustum. <quote source="Bible.Vul:Prov.1.13">Omnem</quote> inqui
+                            <lb break="no"/>unt <quote source="Bible.Vul:Prov.1.13">preciosam substantiam reperiemus.</quote> Sub<reg> </reg>antipofora<g ref="#f161">;</g> 
+                            <lb/>sincresi utitur. Esto inquiunt quod is quem infestamus 
+                            <lb/>omni gratia sit preditus. polleat naturalium bonorum preclaris 
+                            <lb/>titulis<g ref="#f161">;</g> fulgeant in ipso radiantia <expan><abbr>sp<am>c</am></abbr><ex>iritus</ex></expan> <expan><abbr>s</abbr><ex>an</ex><abbr rend="overline">c</abbr><ex>t</ex><abbr>i</abbr></expan> carismata. 
+                            <lb/><expan><abbr>n<am>&#x365;</am></abbr><ex>ichi</ex><abbr>l</abbr></expan>ominus<g ref="#f1f9">~</g> immo tanto auidius<g ref="#f1f9">~</g> implebimus domos 
+                            <lb/>nostras <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> corda nostra satiabimus spoliis. ut ipsos et alios 
+                            <lb/>honestos uiros<g ref="#f161">;</g> conculcemus et opprimamus. <quote source="Bible.Vul:Prov.1.14">Sortem 
+                                <lb/>mitte nobiscum. et marsupium unum<g ref="#f161">;</g> sit omnium nostrum.</quote> 
+                            <lb/><metamark function="flag" rend="nota"/><!-- to 'oculos pennatorum' --><hi rend="reg">P</hi>endet constructionis series<g ref="#f161">;</g> ex supradictis. Si dixerint 
+                            <lb/><expan><abbr>t<am>&#x365;</am></abbr><ex>ibi</ex></expan> peccatores<g ref="#f161">;</g> <said>sortem mitte communicando nobiscum. ut 
+                                <lb/>sis consors noster et unus sit consensus omnium nostrum</said>. Fili mi 
+                            <lb/>ne ambules cum eis<g ref="#f1f9">~</g> neque consentias eis. <quote source="Bible.Vul:Prov.1.15">Prohibe 
+                                <lb/>pedem tuum</quote> <expan><abbr><am>.</am>s<am>.</am></abbr><ex>cilicet</ex></expan> mentis affectum<g ref="#f161">;</g> <quote source="Bible.Vul:Prov.1.15">a semitis eorum.</quote> 
+                            <lb/>Signanter dicit<g ref="#f1f9">~</g> <quote source="Bible.Vul:Prov.1.15">semitis</quote>. Non enim per<reg> </reg>regiam stra
+                            <lb break="no"/>tam que ducit ad uitam<g ref="#f161">;</g> incedunt. <quote source="Bible.Vul:Prov.1.16">Pedes enim 
+                                <lb/>illorum ad malum currunt. et festinant ut effundant 
+                                <lb/>sanguinem.</quote> Dum sanguinem aliorum festinant effun
+                            <lb break="no"/>dere. currunt ad malum culpe. et ad malum pene 
+                            <lb/>eterne quam promerentur. <quote source="Bible.Vul:Prov.1.17">Frustra autem iacitur rete<g ref="#f161">;</g> ante 
+                                <lb/>oculos pennatorum.</quote> Sic quidem te fili mali conueniunt 
+                            <lb/>ut te et alios circumueniant. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> <quote source="Quintus Horatius Flaccus, Ars Poetica 350"><label place="margin" rend="red">.<expan><abbr>V</abbr><am>&#x33E;</am><ex>ersus</ex></expan>.</label><l>non semper feriet 
+                                    <lb/><sic>quodcumque</sic> minabitur arcus<g ref="#f161">;</g></l></quote> Vt in<reg> </reg>relatione subiti
+                            <lb break="no"/>enda continebitur.
+                        </ab>
+                    </div>
+                </div>
+                <div n="31" subtype="chapter" type="textpart">
+                    <head rend="inline red">De Niso et mustela.</head><milestone rend="line-fill" unit="undefined"/><!-- also the DNR heading -->
+                    <pb n="178v"/>
+                    <div n="1" type="textpart" subtype="section">
+                        <head rend="margin-outer red">Ex libro de naturis rerum.</head><!-- DNR 1.32 = Wright 83 -->
+                        <ab>
+                            <lb/><hi rend="dropcap2 blue trim-red">N</hi>isum quemdam humi residentem<g ref="#f1f9">~</g> mustela clandes
+                            <lb break="no"/>tinis insidiis arripuit. que dum excitio capitis 
+                            <lb/>illius immineret. ille uno pede non segniter apprehendens 
+                            <lb/>eam<g ref="#f161">;</g> arctissime eam constrinxit. <expan><abbr>S<am>&#xA76B;</am></abbr><ex>et</ex></expan> cum illa tam 
+                            <lb/>agilitatis beneficio quam artis fraudulente subtilitate 
+                            <lb/>uictoriam esset consecutura<g ref="#f161">;</g> nisus multo nisu eam reluc
+                            <lb break="no"/>tantem ad fluuium propinquum detulit. uolutanti nunc 
+                            <lb/>similis<g ref="#f1f9">~</g> nunc trahenti<g ref="#f1f9">~</g> nunc salienti. Ipsam ergo tociens 
+                            <lb/>subtus aquas mersit. quod eam prorsus submersit. Nec 
+                            <lb/>profuit inductrici<g ref="#f1f9">~</g> fraus innata. nec ut iuris est<g ref="#f161">;</g> ei patro
+                            <lb break="no"/>cinatus est dolus. Hinc addiscant dolosi<g ref="#f161">;</g> fraudem 
+                            <lb/>conceptam non nunquam proposito suo destitui. <!-- where is this last part coming from? --><metamark function="flag" rend="nota"/><!-- to end of this passage -->Sic sic fre
+                            <lb break="no"/>quenter incidit quis infoueam<g ref="#f161">;</g> quam alii preparauit. Sic 
+                            <lb/><persName>aman</persName> suspensus est patibulo quod parauerat <persName>mardocheo</persName>. 
+                            <lb/>sic <persName>golias</persName><g ref="#f161">;</g> proprio gladio peremptus est.
                         </ab>
                     </div>
                 </div>
