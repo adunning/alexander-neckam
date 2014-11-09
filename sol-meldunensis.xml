@@ -11127,7 +11127,7 @@
                             <lb/>ex labore suo. <hi rend="reg">R</hi>ei tamen ueritas est<g ref="#f161">;</g> quod isti datiui<g ref="#f1f9">~</g> 
                             <lb/>omni<g ref="#f1f9">~</g> homini. absolute tenentur. Vtuntur autem sepe auc
                             <lb break="no"/>tores isto locutionis genere<g ref="#f161">;</g> ut mens cuiusque is est quisque.
-                            <pb n="153r"/>
+                            <pb n="152v"/>
                             <lb/>In gallico etiam idiomate<g ref="#f161">;</g> hoc dicendi genus reperies. 
                             <lb/><metamark function="flag" rend="nota"/>Pauper homo<g ref="#f161">;</g> pereat qui genuit eum. Alia item trans
                             <lb break="no"/>latio habet. <expan><abbr>S<am>&#xA76B;</am></abbr><ex>et</ex></expan> et omnis homo cui dedit deus diuicias et 
@@ -11160,6 +11160,8 @@
                             <lb/>in<reg> </reg>ore quem daret portitori. Hii dicunt nemi
                             <lb break="no"/>nem posse intrare ad<reg> </reg>consortium sanctorum<g ref="#f161">;</g> si non portet 
                             <lb/>argentum in<reg> </reg>confessione quod porrigat sacerdoti. 
+                            <fw place="bottom" type="catch"><hi rend="fill-red">E</hi>t illi dicebant</fw>
+                            <gb n="16"/>
                             <pb n="153r"/>
                             <lb/>Et illi dicebant non transibis fluuium infer
                             <lb break="no"/>nalem<g ref="#f161">;</g> si non tuleris naulum. <del rend="erased"><label place="margin" rend="red">.<expan><abbr>V</abbr><am>&#x33E;</am><ex>ersus</ex></expan>.</label></del>Isti dicunt non 
@@ -11863,6 +11865,8 @@
                         <ab>
                             <expan><abbr>S<am>&#xA76B;</am></abbr><ex>et</ex></expan> iam temporis an
                             <lb break="no"/>gustia citissime labentis desiderat ut ad opera 
+                            <fw place="bottom" type="catch">miericordie et pietatis</fw>
+                            <gb n="17"/>
                             <pb n="163r"/>
                             <lb/>miericordie et pietatis reuertamur. Recolite igitur uiri fratres et ad
                             <choice><sic><lb break="no"/></sic><reg><lb/></reg></choice>memoriam reducite quod scriptum est in<reg> </reg>epistula <persName>pauli</persName> 
