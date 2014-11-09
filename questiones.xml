@@ -101,7 +101,7 @@
                 <ab> 
                     <lb/><hi rend="dropcap2 green">Q</hi>ueritur an <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> antequam <persName>petrus</persName> ipsum negas
                     <lb break="no"/>set<g ref="#f161">;</g> uellet seuerum dixisse. cum dixerit <persName>petro</persName>.
-                    <lb/><quote>Ter me negabis.</quote> <hi rend="fill-red">E</hi>t si hoc<g ref="#f161">;</g> an uellet esse uerum 
+                    <lb/><quote source="Bible.Vul:Matt.26.34; Matt.26.75; Mark.14.72; Luke.22.61">Ter me negabis.</quote> <hi rend="fill-red">E</hi>t si hoc<g ref="#f161">;</g> an uellet esse uerum 
                     <lb/><persName>petrum</persName> ipsum esse negaturum. <hi rend="fill-red">E</hi>t si hoc<g ref="#f161">;</g> an uel
                     <lb break="no"/>let <persName>petrum</persName> criminaliter peccare. <hi rend="fill-red">A</hi>d hoc. <hi rend="fill-red">C</hi>um 
                     <lb/><persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> uellet se in nullo dicto suo esse mendacem 
@@ -234,7 +234,7 @@
                     <lb/>maximum omnium. <hi rend="fill-red">E</hi>rgo nullum aliud est 
                     <lb/>eque magnum. <hi rend="fill-red">S</hi>ic sequitur ex<reg> </reg>premisso et 
                     <lb/>concedenda est conclusio. <expan><abbr><hi rend="fill-red">S</hi><am>;</am></abbr><ex>et</ex></expan> ex hoc quod dicitur. 
-                    <lb/><quote>secundum est simile illi</quote>. non prouenit quod sit ei equa
+                    <lb/><quote source="Bible.Vul:Mark.12.31">secundum est simile illi</quote>. non prouenit quod sit ei equa
                     <lb break="no"/>le. 
                 </ab>
                 <div type="textpart" subtype="solutio">
@@ -549,7 +549,7 @@
                 <ab> 
                     <lb/><hi rend="dropcap2 green">Q</hi>ueritur an <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> missus fuisset ad sa
                     <lb break="no"/>lutem omnium cum euangeli
-                    <lb break="no"/>ca auctoritas dicat. <quote>non sum missus nisi 
+                    <lb break="no"/>ca auctoritas dicat. <quote source="Bible.Vul:Matt.15.24">non sum missus nisi 
                         <lb/>ad oues que perierunt domus israel</quote> <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> ad 
                     <lb/>iudeos. <hi rend="fill-red">E</hi>rgo non ad salutem omnium. 
                 </ab>
@@ -566,10 +566,10 @@
                 <ab> 
                     <lb/><hi rend="dropcap2 red">Q</hi>ueritur an <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>i</abbr></expan></persName> aduentus fuit om
                     <lb break="no"/>nibus necessarius. <hi rend="fill-red">Q</hi>uod non uidetur. 
-                    <lb/><hi rend="fill-red">C</hi>um euuangelica auctoritas dicat. <quote>nisi 
+                    <lb/><hi rend="fill-red">C</hi>um euuangelica auctoritas dicat. <quote source="Bible.Vul:John.15.22">nisi 
                         <lb/>uenissem et locutus fuissem cum eis<g ref="#f161">;</g> 
-                        <lb/>peccatum non habent</quote>. <hi rend="fill-red">N</hi>unc autem excusa
-                    <lb break="no"/>tionem non habent de peccato suo. <hi rend="fill-red">I</hi>ta 
+                        <lb/>peccatum non habent. <hi rend="fill-red">N</hi>unc autem excusa
+                        <lb break="no"/>tionem non habent de peccato suo.</quote> <hi rend="fill-red">I</hi>ta 
                     <lb/>non omnibus profuit quia quibusdam 
                     <lb/>nocuit. 
                 </ab>
@@ -608,7 +608,7 @@
             </div>
             <div n="23" type="textpart" subtype="questio">
                 <ab> 
-                    <lb/><quote><!-- John 15:15 --><hi rend="dropcap2 red">O</hi>mnia que audiui a<reg> </reg>patre meo. nota feci 
+                    <lb/><quote source="Bible.Vul:John.15.15"><hi rend="dropcap2 red">O</hi>mnia que audiui a<reg> </reg>patre meo. nota feci 
                         <lb/>uobis.</quote> set omnia que pater scit audiuit 
                     <lb/>a<reg> </reg>patre. <hi rend="fill-red">E</hi>rgo omnia que pater scit nota fecit apos
                     <lb break="no"/>tolis. <hi rend="fill-red">E</hi>rgo eque scientes sunt cum patre. 
@@ -617,8 +617,8 @@
                     <head rend="red enlarged">Solutio</head> 
                     <ab>
                         <lb/><hi rend="fill-red">O</hi>mnia que audiui ad salutem uestram nota fe
-                        <lb break="no"/>ci uobis. <hi rend="fill-red">V</hi>el aliter. <quote><!-- John 15:15 --><hi rend="fill-red">O</hi>mnia que audiui a<reg> </reg>patre</quote> 
-                        <lb/>que notificanda erant uobis<g ref="#f161">;</g> <quote>nota feci uobis</quote>.
+                        <lb break="no"/>ci uobis. <hi rend="fill-red">V</hi>el aliter. <quote source="Bible.Vul:John.15.15"><hi rend="fill-red">O</hi>mnia que audiui a<reg> </reg>patre</quote> 
+                        <lb/>que notificanda erant uobis<g ref="#f161">;</g> <quote source="Bible.Vul:John.15.15">nota feci uobis</quote>.
                     </ab>
                 </div>
                 <milestone rend="line-fill" unit="undefined"/>
@@ -675,16 +675,16 @@
                 <milestone rend="line-fill-below" unit="undefined"/>
             </div>
             <div n="26" type="textpart" subtype="questio">
-                <ab> 
+                <ab><!-- The following is from Jerome, Ep. ad Damasum -->
                     <lb/><hi rend="dropcap2 green">S</hi>eptem sunt 
                     <lb/>peccata <persName>caini</persName>. <hi rend="fill-red">P</hi>rimum<g ref="#f161">;</g> quod recte non 
                     <lb/>diuiserit. <hi rend="fill-red">S</hi>ecundum<g ref="#f161">;</g> quod inuiderit fratri. <hi rend="fill-red">T</hi>ertium<g ref="#f161">;</g> 
-                    <lb/>quod dolose egerit dicens. <quote><hi rend="fill-red">T</hi>ranseamus in cam
-                        <lb break="no"/>pum.</quote> <hi rend="fill-red">Q</hi>uartum<g ref="#f161">;</g> quod fratrem interfecerit. <hi rend="fill-red">Q</hi>uin
-                    <lb break="no"/>tum<g ref="#f161">;</g> quod procaciter negauerit. <quote><hi rend="fill-red">N</hi>escio 
+                    <lb/>quod dolose egerit dicens. <said><!-- cf. Gen. 4:8 --><hi rend="fill-red">T</hi>ranseamus in cam
+                        <lb break="no"/>pum.</said> <hi rend="fill-red">Q</hi>uartum<g ref="#f161">;</g> quod fratrem interfecerit. <hi rend="fill-red">Q</hi>uin
+                    <lb break="no"/>tum<g ref="#f161">;</g> quod procaciter negauerit. <quote source="Bible.Vul:Gen.4.8"><hi rend="fill-red">N</hi>escio 
                         <lb/>in quid. <hi rend="fill-red">N</hi>unquid custos fratris mei su<surplus>u</surplus>m.</quote> 
                     <lb/><hi rend="fill-red">S</hi>extum<g ref="#f161">;</g> quod seipsum dampnauerit dicens. 
-                    <lb/><quote><hi rend="fill-red">M</hi>aior est culpa mea<g ref="#f161">;</g> quam ut dimittar.</quote> 
+                    <lb/><said><hi rend="fill-red">M</hi>aior est culpa mea<g ref="#f161">;</g> quam ut dimittar.</said> 
                     <lb/><hi rend="fill-red">S</hi>eptimum<g ref="#f161">;</g> quod nec dampnatus egerit peni
                     <lb break="no"/>tentiam.
                 </ab>
