@@ -11287,7 +11287,7 @@
                             <lb/>desiderat merita. Vox estis aduocati sancte matris 
                             <lb/>ecclesie. uos estis uicarii <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>i</abbr></expan></persName>. Vestri interest <unclear>peccata</unclear> 
                             <lb/>dimittere non solum ratione osten<subst><del>t</del><add place="above">s</add></subst>ionis ut non nullis 
-                            <lb/>pace<del rend="erased">a</del>t <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> etiam cuiusdam ratione secundarie <add place="overstrike"><handShift>potestatis</handShift></add> 
+                            <lb/>pace<del rend="erased">a</del>t <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> etiam cuiusdam ratione secundarie <add place="overstrike"><handShift/>potestatis<handShift/></add> 
                             <lb/>que uirtuti<del rend="erased"><unclear>s</unclear></del> ordinis adnexa est. Primitiua 
                             <lb/>enim <unclear>peccatas</unclear> remissionis peccatorum<g ref="#f161">;</g> in<reg> </reg>eo qui fun
                             <lb break="no"/>damentum est ecclesie consistit. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> secundaria reseruatur 
@@ -11604,7 +11604,7 @@
                             <lb/>propter gregem<g ref="#f161">;</g> resistere debet.
                         </ab>
                     </div>
-                    <addSpan to="#FL2-19-59add" place="bottom"/>
+                    <addSpan spanTo="#FL2-19-59add" place="bottom"/>
                     <div n="59" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">Super matheum.</head>
                         <ab>
@@ -11698,7 +11698,7 @@
                             <lb break="no"/>lito exardescit. Dum igitur uidet se nullius artificii 
                             <lb/>beneficio frui posse desiderio suo<g ref="#f161">;</g> circumspicit in ora 
                             <lb/>putei statem leprosum. qui aquam hauriebat 
-                            <lb/>de<reg> </reg>puteo iam dicto. Hauritorium <unclear><space n="2" unit="character"/></unclear> aureum esse. 
+                            <lb/>de<reg> </reg>puteo iam dicto. Hauritorium <space n="2" unit="character"/> aureum esse. 
                             <lb/>uidebatur. cathena<g ref="#f161">;</g> gemmis distincta. Leprosus 
                             <lb/>autem de hauritorio aquam limpidissimam in mun
                             <lb break="no"/>dissimum calicem effudit<g ref="#f161">;</g> et porrexit sicienti. 
@@ -12131,7 +12131,7 @@
                             <lb/>ea que in gloriam laudis nostre non nunquam transferre audemus.
                         </ab>
                     </div>
-                    <addSpan to="FL2-19-84add"/>
+                    <addSpan spanTo="#FL2-19-84add"/>
                     <div n="84" type="textpart" subtype="section">
                         <head rend="bottom frame-head-red-blue">Super ecclesiasten.</head>
                         <ab>
@@ -12209,14 +12209,13 @@
                                 <lb/>dicere.</said> Cum autem in omni doctrina philosophica primatum 
                             <lb/>teneret<g ref="#f161">;</g> solam tamen medicinam professus est. 
                         </ab>
-                    </div>
-                    <div n="4" type="textpart" subtype="section"><!-- This does not appear in DNR: I am taking this to be a contribution of the compiler. -->
-                        ¶ Libet<!-- What is going on here? Are they wanting 'libet' to be moved between 'recreationis' and 'interserere'. --> 
-                        <lb/>item causa<del rend="erased"><unclear>i</unclear></del> recreationis interserere qualiter <persName>aristotilis</persName> 
-                        <lb/><persName>alexander</persName> discipulum suum circumuenit.
-                        <head rend="margin-outer red frame-blue">Hyldebertus cenomanensis.</head>
+                        <ab><!-- The following does not seem to be from DNR: source? -->
+                            ¶ Libet<!-- What is going on here? Are they wanting 'libet' to be moved between 'recreationis' and 'interserere'? --> 
+                            <lb/>item causa<del rend="erased"><unclear>i</unclear></del> recreationis interserere qualiter <persName>aristotilis</persName> 
+                            <lb/><persName>alexander</persName> discipulum suum circumuenit.
+                        </ab>
                         <lg rend="paraph-long red left">
-                            <lb/><milestone rend="paraph red" type="section"/><l><hi rend="enlarged fill-red">M</hi>agnus <persName>alexander</persName>. bellum mandarat <placeName>athenis</placeName>.</l>
+                            <lb/><label place="margin" rend="red frame-blue">Hyldebertus cenomanensis.</label><milestone rend="paraph red" unit="undefined"/><l><hi rend="enlarged fill-red">M</hi>agnus <persName>alexander</persName>. bellum mandarat <placeName>athenis</placeName>.</l>
                             <lb/><l><hi rend="enlarged fill-red">I</hi>nfestus populo tocius urbis erat.</l>
                             <lb/><l><hi rend="enlarged fill-red">I</hi>bat <persName>aristoteles</persName> caute temptare tyrannum.</l>
                             <lb/><l><hi rend="enlarged fill-red">S</hi>i prece uir tantus flectere posset eum.</l>
@@ -12606,7 +12605,7 @@
                             <lb break="no"/>mendabilis est sapor uini leticie spiritualis<g ref="#f161">;</g> ex tranquillitate 
                             <lb/>prouenientis interna. in pinguedine oliue<g ref="#f161">;</g> deuotio
                             <lb break="no"/>nem. in ficu<g ref="#f161">;</g> dulcedinem delectationis. in uino<g ref="#f161">;</g> exul
-                            <lb break="no"/><!-- Better way to represent this? --><addSpan to="#FL2-27-3-add"/>tationis spiritualis accipe iocunditatem.
+                            <lb break="no"/><!-- Better way to represent this? --><addSpan spanTo="#FL2-27-3-add"/>tationis spiritualis accipe iocunditatem.
                         </ab>
                     </div>
                     <div n="3" type="textpart" subtype="section">
@@ -12867,11 +12866,11 @@
                             <lb/>materiali consumpti sunt.
                         </ab>
                         <ab>
-                            <milestone rend="paraph red" type="section"/>Quid quod <persName>saul</persName> succes
+                            <milestone rend="paraph red" unit="undefined"/>Quid quod <persName>saul</persName> succes
                             <lb break="no"/>sibus generi sui inuidit?
                         </ab>
                         <ab>
-                            <milestone rend="paraph red" type="section"/>De inuidia autem <persName>ioab</persName> erga 
+                            <milestone rend="paraph red" unit="undefined"/>De inuidia autem <persName>ioab</persName> erga 
                             <lb/><persName>abner</persName> principem milicie <persName>saulis</persName> et <persName>amasan</persName> notum est.<!-- skipping a sentence --> 
                             <lb/><expan><abbr>S<am>&#xA76B;</am></abbr><ex>et</ex></expan> ad henicorum hystorias transeamus. <persName>Romulus</persName> iam 
                             <lb/>sepe dicte pestis furiis agitatus<g ref="#f1f9">~</g> <persName>martis</persName> se prolem <expan><abbr rend="supraline">e</abbr><ex>ss</ex><abbr rend="supraline">e</abbr><am>.</am></expan> 
