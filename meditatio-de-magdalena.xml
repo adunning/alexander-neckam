@@ -73,6 +73,7 @@
     </teiHeader>
     <text xml:lang="la">
         <body>
+            <gb/>
             <pb n="131r"/>
             <fw place="top">De <supplied reason="lost" evidence="parallel">magdalena</supplied>.</fw>
             <cb n="a"/>
