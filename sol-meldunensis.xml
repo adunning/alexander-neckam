@@ -13289,10 +13289,10 @@
                 <div n="35" subtype="chapter" type="textpart">
                     <head rend="inline red">De arrogantia.</head>
                     <div n="1" type="textpart" subtype="section">
-                        <head rend="margin-outer red frame-blue">Ex eodem libro.</head>
+                        <head rend="margin-outer red frame-blue">Ex eodem libro.</head><!-- DNR 2.190 = Wright 343 -->
                         <ab>
                             <lb/><hi rend="dropcap2 red trim-blue">A</hi><hi rend="smallcaps fill-red">r</hi>rogantia superbie species est. 
-                            <lb/>Est autem arrogans<g ref="#f161">;</g> qui neminem pre se hominem 
+                            <lb/>Est autem arrogans<g ref="#f161">;</g> qui <quote source="Marcus Tullius Cicero, Pro S. Roscio Amerino 135.3">neminem pre se hominem</quote> 
                             <lb/>ducit. Et ut docet <persName>aristotiles</persName>⸝ omnis arrogans<g ref="#f161">;</g> odiosus est. 
                             <pb n="182v"/>
                         </ab>
