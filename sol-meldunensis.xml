@@ -13568,18 +13568,29 @@
             </div>
             <div n="2" type="textpart" subtype="work">
                 <pb n="213v"/>
-                <head rend="red">
-                    <lb/>Epistula magistri <persName><expan>Galfr<ex>idi</ex></expan> <sic>monumutensis</sic></persName> directa <persName><expan>alex<ex>andro</ex></expan> 
-                    <lb/>Lincolniensi <expan><abbr rend="overline">ep</abbr><ex>iscop</ex><abbr>o</abbr></expan></persName>
-                </head>
-                <pb n="214r"/>
                 <div n="1" type="textpart" subtype="section">
+                    <head rend="red">
+                        <lb/>Epistula magistri <persName><expan>Galfr<ex>idi</ex></expan> <sic>monumutensis</sic></persName> directa <persName><expan>alex<ex>andro</ex></expan> 
+                            <lb/>Lincolniensi <expan><abbr rend="overline">ep</abbr><ex>iscop</ex><abbr>o</abbr></expan></persName>
+                    </head>
+                    <pb n="214r"/>
+                    <p>
+                        <lb/><hi rend="dropcap2 blue trim-red">C</hi>oegit me <persName>alexander lincolniensis</persName> presul nobili
+                        <lb break="no"/>tatis tue dilectio prophecias merlini de<reg> </reg>britan
+                        <lb break="no"/>nico in<reg> </reg>latinum transferre. antequam historiam parassem<g ref="#f161">;</g> 
+                        <lb/>quam de<reg> </reg>gestis regum britannicorum inceperam. Proposueram 
+                        <lb/>enim
+                    </p>
+                    <fw place="bottom"><supplied reason="lost" evidence="parallel">Epistula magistri <persName>galfridi monumutensis</persName> directa <persName><expan>alex<ex>andro</ex></expan> lincolniensi <expan><abbr rend="overline">ep</abbr><ex>iscop</ex><abbr>o</abbr></expan></persName></supplied></fw>
+                </div>
+                <div n="2" type="textpart" subtype="section">
                     <head rend="red top">Prophetia Merlini.</head>
-                    <ab>
+                    <p>
                         <lb/><hi rend="dropcap2 blue trim-red">S</hi>edente itaque <persName>uortegirno</persName> rege <orgName>britonum</orgName> super ripam 
                         <lb/>exhausti stagni<g ref="#f161">;</g> egressi sunt duo dracones. quorum 
                         <lb/>unus albus. et alius erat rubeus. Cumque alter alteri a<supplied reason="omitted">p</supplied>propinquasset<g ref="#f161">;</g> 
-                    </ab>
+                    </p>
+                    <fw place="bottom"><supplied reason="lost" evidence="parallel">Prophetia Merlini</supplied></fw>
                 </div>
             </div>
             <div n="3" type="textpart" subtype="work">
