@@ -13597,60 +13597,56 @@
                 <pb n="223r"/>
                 <div n="1" type="textpart" subtype="section">
                     <head rend="margin-outer red frame-blue">¶ Versus <persName>magistri petri Flesensis</persName>. De commendatione uini.</head>
-                    <ab>
-                        <lg>
-                            <lb/><l><hi rend="dropcap2 blue trim-red">F</hi><hi rend="capitals fill-red">e</hi>lix ille locus quem uitis amenat amena.</l>
-                            <lb/><l><hi rend="fill-red">I</hi>lla beata domus que <persName>bachi</persName> munere <add place="overstrike">ple</add>na</l>
-                            <lb/><l><hi rend="fill-red">U</hi>ina dat hospitibus de uitis diuite uena.</l>
-                            <lb/><l><hi rend="fill-red">S</hi>et domus infelix ubi ceruisiatur auena.</l>
-                            <lb/><l><hi rend="fill-red">M</hi>ensurata <choice><sic>min</sic><corr>nim</corr></choice>is modo mensuranda lagena.</l>
-                            <lb/><l><hi rend="fill-red">I</hi>nfumata seges non uina. immo uenena.</l>
-                            <lb/><l><hi rend="fill-red">E</hi>ius enim potum sequitur dirissima pena.</l>
-                            <lb/><l><hi rend="fill-red">P</hi>es titubans. cerebri turbatio. mens aliena.</l>
-                            <lb/><l><hi rend="fill-red">T</hi>urbida mens nescit<g ref="#f161">;</g> uiciis inponere frena.</l>
-                            <lb/><l><hi rend="fill-red">D</hi>um furit ebrietas in<reg> </reg>aquis. <persName>ueneris</persName>que cathena.</l>
-                            <lb/><l><hi rend="fill-red">F</hi>eruida fermento traitur caro mentis egena.</l>
-                            <lb/><l><hi rend="fill-red">I</hi>llicitus motus nulla cohibentur habena.</l>
-                            <lb/><l><hi rend="fill-red">D</hi>um bibitur <placeName>lethea</placeName> palus. iterumque serena.</l>
-                            <lb/><l><hi rend="fill-red">M</hi>ingitur. in<reg> </reg>lapidem renum concrescit arena.</l>
-                            <lb/><l><hi rend="fill-red">Q</hi>uem nisi cum ferro nec eicit ars <persName>galiena</persName>.</l>
-                            <lb/><l><hi rend="fill-red">P</hi>lus ualet ergo michi uinum cum paupere cena.</l>
-                            <lb/><l><hi rend="fill-red">Q</hi>uam tibi cum potu de<reg> </reg>furfure fercla dena.</l>
-                        </lg>
-                    </ab>
+                    <lg>
+                        <lb/><l><hi rend="dropcap2 blue trim-red">F</hi><hi rend="capitals fill-red">e</hi>lix ille locus quem uitis amenat amena.</l>
+                        <lb/><l><hi rend="fill-red">I</hi>lla beata domus que <persName>bachi</persName> munere <add place="overstrike">ple</add>na</l>
+                        <lb/><l><hi rend="fill-red">U</hi>ina dat hospitibus de uitis diuite uena.</l>
+                        <lb/><l><hi rend="fill-red">S</hi>et domus infelix ubi ceruisiatur auena.</l>
+                        <lb/><l><hi rend="fill-red">M</hi>ensurata <choice><sic>min</sic><corr>nim</corr></choice>is modo mensuranda lagena.</l>
+                        <lb/><l><hi rend="fill-red">I</hi>nfumata seges non uina. immo uenena.</l>
+                        <lb/><l><hi rend="fill-red">E</hi>ius enim potum sequitur dirissima pena.</l>
+                        <lb/><l><hi rend="fill-red">P</hi>es titubans. cerebri turbatio. mens aliena.</l>
+                        <lb/><l><hi rend="fill-red">T</hi>urbida mens nescit<g ref="#f161">;</g> uiciis inponere frena.</l>
+                        <lb/><l><hi rend="fill-red">D</hi>um furit ebrietas in<reg> </reg>aquis. <persName>ueneris</persName>que cathena.</l>
+                        <lb/><l><hi rend="fill-red">F</hi>eruida fermento traitur caro mentis egena.</l>
+                        <lb/><l><hi rend="fill-red">I</hi>llicitus motus nulla cohibentur habena.</l>
+                        <lb/><l><hi rend="fill-red">D</hi>um bibitur <placeName>lethea</placeName> palus. iterumque serena.</l>
+                        <lb/><l><hi rend="fill-red">M</hi>ingitur. in<reg> </reg>lapidem renum concrescit arena.</l>
+                        <lb/><l><hi rend="fill-red">Q</hi>uem nisi cum ferro nec eicit ars <persName>galiena</persName>.</l>
+                        <lb/><l><hi rend="fill-red">P</hi>lus ualet ergo michi uinum cum paupere cena.</l>
+                        <lb/><l><hi rend="fill-red">Q</hi>uam tibi cum potu de<reg> </reg>furfure fercla dena.</l>
+                    </lg>
                 </div>
                 <div n="2" type="textpart" subtype="section">
                     <head rend="margin-outer red frame-blue">¶ Uersus <persName>Roberti de Bellafago</persName>. De commendatione ceruisie.</head>
-                    <ab>
-                        <lg>
-                            <lb/><l><hi rend="dropcap2 red trim-blue">E</hi>loquio dulci uernans. et uoce serena.</l>
-                            <lb/><l><hi rend="fill-red">M</hi>unera commendat <persName>bachi</persName> tua <persName>petre</persName> camena.</l>
-                            <lb/><l><hi rend="fill-red">C</hi>um tamen historias nota transcurris arena.</l>
-                            <lb/><l><hi rend="fill-red">N</hi>onne legis <persName>bachi</persName> calices. et pocula plena.</l>
-                            <lb/><l><hi rend="fill-red">P</hi>lus fecisse mali<g ref="#f161">;</g> quam noxia queque uenena?</l>
-                            <lb/><l><hi rend="fill-red">H</hi>oc subnixo deo. uinique iuuante lagena.</l>
-                            <lb/><l><hi rend="fill-red">V</hi>ictorem <persName>sodome</persName> deuicit filia lena.</l>
-                            <lb/><l><hi rend="fill-red">I</hi>ndulgensque mero. cathaclismi post inamena.</l>
-                            <lb/><l><persName><hi rend="fill-red">C</hi>ham</persName> derisorem dampnat <persName>noe</persName> uindice pena.</l>
-                            <lb/><l><hi rend="fill-red">H</hi>is caret exemplis simplex et sobria cena.</l>
-                            <lb/><l><hi rend="fill-red">I</hi>n<reg> </reg>qua conuiue facili potantur auena.</l>
-                            <lb/><l><hi rend="fill-red">E</hi>xhilarans mentes conuiuia reddit amena<g ref="#f161">;</g></l>
-                            <lb/><l><hi rend="fill-red">V</hi>ndis iuncta <persName>ceres</persName>. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> ab ipsis uix aliena.</l>
-                            <pb n="223v"/>
-                            <lb/><l><hi rend="fill-red">T</hi>emperat ardores. et feruida uentris aena.</l>
-                            <lb/><l><hi rend="fill-red">M</hi>otibus illicitis imponens sobria frena.</l>
-                            <lb/><l><hi rend="fill-red">S</hi>et simul incaluit uino uinaria uena.</l>
-                            <lb/><l><hi rend="fill-red">E</hi>stuat in lumbis. quos nulla refrenat habena?</l>
-                            <lb/><l><hi rend="fill-red">W</hi>lcani fornax. ut mens rationis egena<g ref="#f161">;</g></l>
-                            <lb/><l><hi rend="fill-red">H</hi>as nequeat flammas ulla cohibere cathena.</l>
-                            <lb/><l><hi rend="fill-red">I</hi>nflammata mero<g ref="#f1f9">~</g> <orgName>greco</orgName> calet igne crumena.</l>
-                            <lb/><l><hi rend="fill-red">Q</hi>uem nec claustra tenent. quin franges ostia dena.</l>
-                            <lb/><l><hi rend="fill-red">A</hi>d mundum reuolet. licet occurente leena.</l>
-                            <lb/><l><hi rend="fill-red">H</hi>anc febris speciem non mitigat ars <persName>galiena</persName>.</l>
-                            <lb/><l><hi rend="fill-red">N</hi>ec citharista sono. nec garritu <persName>philomena</persName>.</l>
-                            <lb/><l><hi rend="fill-red">D</hi>onec subueniat morbo. <persName>frix</persName> siue <persName>lacena</persName>.</l>
-                        </lg>
-                    </ab>
+                    <lg>
+                        <lb/><l><hi rend="dropcap2 red trim-blue">E</hi>loquio dulci uernans. et uoce serena.</l>
+                        <lb/><l><hi rend="fill-red">M</hi>unera commendat <persName>bachi</persName> tua <persName>petre</persName> camena.</l>
+                        <lb/><l><hi rend="fill-red">C</hi>um tamen historias nota transcurris arena.</l>
+                        <lb/><l><hi rend="fill-red">N</hi>onne legis <persName>bachi</persName> calices. et pocula plena.</l>
+                        <lb/><l><hi rend="fill-red">P</hi>lus fecisse mali<g ref="#f161">;</g> quam noxia queque uenena?</l>
+                        <lb/><l><hi rend="fill-red">H</hi>oc subnixo deo. uinique iuuante lagena.</l>
+                        <lb/><l><hi rend="fill-red">V</hi>ictorem <persName>sodome</persName> deuicit filia lena.</l>
+                        <lb/><l><hi rend="fill-red">I</hi>ndulgensque mero. cathaclismi post inamena.</l>
+                        <lb/><l><persName><hi rend="fill-red">C</hi>ham</persName> derisorem dampnat <persName>noe</persName> uindice pena.</l>
+                        <lb/><l><hi rend="fill-red">H</hi>is caret exemplis simplex et sobria cena.</l>
+                        <lb/><l><hi rend="fill-red">I</hi>n<reg> </reg>qua conuiue facili potantur auena.</l>
+                        <lb/><l><hi rend="fill-red">E</hi>xhilarans mentes conuiuia reddit amena<g ref="#f161">;</g></l>
+                        <lb/><l><hi rend="fill-red">V</hi>ndis iuncta <persName>ceres</persName>. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> ab ipsis uix aliena.</l>
+                        <pb n="223v"/>
+                        <lb/><l><hi rend="fill-red">T</hi>emperat ardores. et feruida uentris aena.</l>
+                        <lb/><l><hi rend="fill-red">M</hi>otibus illicitis imponens sobria frena.</l>
+                        <lb/><l><hi rend="fill-red">S</hi>et simul incaluit uino uinaria uena.</l>
+                        <lb/><l><hi rend="fill-red">E</hi>stuat in lumbis. quos nulla refrenat habena?</l>
+                        <lb/><l><hi rend="fill-red">W</hi>lcani fornax. ut mens rationis egena<g ref="#f161">;</g></l>
+                        <lb/><l><hi rend="fill-red">H</hi>as nequeat flammas ulla cohibere cathena.</l>
+                        <lb/><l><hi rend="fill-red">I</hi>nflammata mero<g ref="#f1f9">~</g> <orgName>greco</orgName> calet igne crumena.</l>
+                        <lb/><l><hi rend="fill-red">Q</hi>uem nec claustra tenent. quin franges ostia dena.</l>
+                        <lb/><l><hi rend="fill-red">A</hi>d mundum reuolet. licet occurente leena.</l>
+                        <lb/><l><hi rend="fill-red">H</hi>anc febris speciem non mitigat ars <persName>galiena</persName>.</l>
+                        <lb/><l><hi rend="fill-red">N</hi>ec citharista sono. nec garritu <persName>philomena</persName>.</l>
+                        <lb/><l><hi rend="fill-red">D</hi>onec subueniat morbo. <persName>frix</persName> siue <persName>lacena</persName>.</l>
+                    </lg>
                 </div>
             </div>
         </body>
