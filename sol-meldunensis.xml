@@ -13649,6 +13649,183 @@
                     </lg>
                 </div>
             </div>
+            <div n="4" type="textpart" subtype="work">
+                <pb n="236v"/><!-- This page needs some serious work. -->
+                <lg>
+                    <lb/><milestone rend="paraph" unit="undefined"/><l><handShift/><!-- is the hand the same as the annotations found earlier? -->Cesaris imperium per tempora longa latebit</l>
+                    <lb/><l>Et binum gladium delonge papa papa tenebit</l>
+                </lg>
+                <lg>
+                    <lb/><l>Inprobitas <placeName>galli</placeName> confines subpeditabit</l>
+                    <lb/><l>Asperitas a<unclear>pri</unclear> per <placeName>galli</placeName> strepa meabit</l>
+                </lg>
+                <lg>
+                    <lb/><l>Per duo bis centum iungas nonagintaque mille</l>
+                    <lb/><l>Fraude sue gentis: gallus trimerabitur <unclear>ille</unclear></l>
+                </lg>
+                <lg>
+                    <lb/><l>Aquila consurget; aprum sibi consociabit</l>
+                    <lb/><l>Hii duo cum uulpe quartum regem cruciabunt</l>
+                    <lb/><l><placeName>Gallo</placeName> deuicto cunctos reges superabunt</l>
+                    <lb/><l><placeName>Albion</placeName> albania sibi iungat arrogoniam</l>
+                    <lb/><l>Vnanimes ibunt quibus sua iura redibunt</l>
+                    <lb/><l>Tunc erit in terra dolor ingens et mala guerra</l>
+                    <lb/><l>Stragem terra dabit fratrem vix frater amabit</l>
+                    <lb/><l>Gens contra gentem faciam troiam <unclear>v</unclear>ia dura</l>
+                    <lb/><l>Quid dicam <unclear>plerique nec erit quam pauit egentem</unclear></l>
+                    <lb/><l>Clerus taxatus <unclear>minimos</unclear> dabit et monachatus</l>
+                    <lb/><l>Prodolor hoc <add place="above">minimus </add>non spernet episcopus unus</l><l><unclear>Qui</unclear> placeant regi facient contraria legi.</l>
+                    <lb/><l>Funere detectus <unclear>petri</unclear> successor abibit</l>
+                    <lb/><l>Et lapis erectus ad terram funditus ibit</l>
+                    <lb/><l><unclear>Soranis cum pica milno</unclear> figurat</l>
+                    <lb/><l><unclear>Signis erit pica cordis erunt</unclear> inimica</l>
+                </lg>
+                <p>
+                    <lb/>Guigo illumaro uersun quia venit himine tantum hoc scribo proter istam draconem 
+                    <lb/>iesum tamen quod ierusalem historialis est amittas vnde ierusalem ergo edificatus est 
+                    <lb/>allegorice est ideo quod sancta ecclesia tropoligica est idem quod anina <expan><abbr><am>x&#x365;</am></abbr><ex>christi</ex></expan>ana 
+                    <lb/>anagogice est idem condita celestis amphibologico <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> contra ambobus 
+                    <lb/>propter accipi sicut pet omnia <add place="above">iam </add>peccat in rota sancte
+                </p>
+                <p>
+                    <lb/>Vercont a nobis for etiam ani deus peccat regnat in secretus canernis gradia frectra presente
+                </p>
+            </div>
+            <div n="5" type="textpart" subtype="work"><!-- It appears from the style that this is by Alexander Neckam. -->
+                <pb n="237r"/>
+                <fw>
+                    <del><gap reason="illegible" quantity="4" unit="line"/><!-- Really not sure what this says; one could probably read it with a UV light. --></del>
+                </fw>
+                <cb n="a"/>
+                <head rend="inline red">De passione saluatoris.</head>
+                <lg>
+                    <lb/><l><hi rend="dropcap2 red trim-blue">S</hi>plendor. patris fons. sol. ares.</l>
+                    <lb/><l><hi rend="spaced">L</hi>anguent oculi solares.</l>
+                    <lb/><l><hi rend="spaced">Q</hi>ue nos saluat tu sola res.</l>
+                    <lb/><l><hi rend="spaced">I</hi>n te clauis leso<g ref="#f1f9">~</g> lares<g ref="#f161">;</g></l>
+                    <lb/><l><hi rend="spaced">T</hi>utos nobis paras. ha res<g ref="#f161">;</g></l>
+                    <lb/><l><hi rend="spaced">M</hi>ira. deus patri pares.</l>
+                    <lb/><l><hi rend="spaced">M</hi>inor patre. patri par es.</l>
+                    <lb/><l><hi rend="spaced">N</hi>obis uite mensam pares.</l>
+                </lg>
+                <lg>
+                    <lb/><l><hi rend="enlarged green trim-red">C</hi>rux est uitis. hac in uite<g ref="#f161">;</g></l>
+                    <lb/><l><hi rend="spaced">B</hi>otrus cipri. botrus uite<g ref="#f161">;</g></l>
+                    <lb/><l><hi rend="spaced">F</hi>loret. cuius uinum rite<g ref="#f161">;</g></l>
+                    <lb/><l><hi rend="spaced">S</hi>umptum<g ref="#f161">;</g> sobrium et mite<g ref="#f161">;</g></l>
+                    <lb/><l><hi rend="spaced">E</hi>t letum cor reddit. Ite<g ref="#f161">;</g></l>
+                    <lb/><l><hi rend="spaced">S</hi>icientes et haurite.</l>
+                    <lb/><l><hi rend="spaced">D</hi>ulcis potus. hunc sitite<g ref="#f161">;</g></l>
+                    <lb/><l><hi rend="spaced">Q</hi>ui<del rend="erased">s</del> uos sitit. et uenite.</l>
+                </lg>
+                <lg>
+                    <lb/><l><hi rend="enlarged red trim-blue">C</hi>erno portantem dolores.</l>
+                    <lb/><l><hi rend="spaced">C</hi>orui per quem in olores<g ref="#f161">;</g></l>
+                    <lb/><l><hi rend="spaced">M</hi>utantur. nobis dolor es.</l>
+                    <lb/><l><hi rend="spaced">N</hi>ostra salus. uostrum cor es.</l>
+                    <lb/><l><hi rend="spaced">H</hi>omo miser quid dolo res<g ref="#f161">;</g></l>
+                    <lb/><l><hi rend="spaced">Q</hi>ueris. tui proditor es.</l>
+                    <lb/><l><hi rend="spaced">E</hi>st iactura grauis preclaros perdere mores.</l>
+                </lg>
+                <cb n="b"/>
+                <lg>
+                    <lb/><l><hi rend="enlarged green trim-red">O</hi>rat pro nobis patronus.</l>
+                    <lb/><l><hi rend="spaced">C</hi>uius est in celo thronus.</l>
+                    <lb/><l><hi rend="spaced">S</hi>e pro suis pastor bonus<g ref="#f161">;</g></l>
+                    <lb/><l><hi rend="spaced">D</hi>edit. nostrum ferens onus.</l>
+                    <lb/><l><hi rend="spaced">C</hi>olit hunc <subst><del><unclear>u</unclear></del><add place="overstrike">c</add></subst>iuis. colonus.</l>
+                    <lb/><l><hi rend="spaced">O</hi>ibis isti seruit pronus.</l>
+                </lg>
+                <lg>
+                    <lb/><l><hi rend="enlarged red trim-blue">E</hi>n in crucis aret ara.</l>
+                    <lb/><l><hi rend="spaced">M</hi>unda caro<g ref="#f161">;</g> mundo cara.</l>
+                    <lb/><l><hi rend="spaced">L</hi>abis expers et ignara.</l>
+                    <lb/><l><hi rend="spaced">O</hi>bscuratur lux preclara.</l>
+                    <lb/><l><hi rend="spaced">F</hi>ecundatur tandem <persName>sara</persName>.</l>
+                    <lb/><l><hi rend="spaced">H</hi>a quid queris mens auara?</l>
+                    <lb/><l><hi rend="spaced">Q</hi>uod instat foro te para.</l>
+                    <lb/><l><hi rend="spaced">A</hi>mor⸝ rarus. fides rara.</l>
+                    <lb/><l><hi rend="spaced">S</hi>pes exilis. sors amara.</l>
+                </lg>
+                <lg>
+                    <lb/><l><hi rend="enlarged green trim-red">U</hi>era salus infirmatur.</l>
+                    <lb/><l><hi rend="spaced">S</hi>itit fons. risus tristatur.</l>
+                    <lb/><l><hi rend="spaced">I</hi>nnocentia damnatur.</l>
+                    <lb/><l><hi rend="spaced">U</hi>ita uiuens morti datur.</l>
+                    <lb/><l><hi rend="spaced">D</hi>um securitas turbatur.</l>
+                    <lb/><l><hi rend="spaced">T</hi>remit orbis et miratur.</l>
+                    <lb/><l><hi rend="spaced">P</hi>rinceps mundi triumphatur.</l>
+                    <lb/><l><hi rend="spaced">C</hi>aput sysare foratur.</l>
+                    <pb n="237v"/>
+                    <cb n="a"/>
+                    <lb/><l><hi rend="spaced">A</hi>man perit. superatur<g ref="#f161">;</g></l>
+                    <lb/><l><hi rend="spaced">G</hi>olias. Eglon necatur.</l>
+                </lg>
+                <lg>
+                    <lb/><l><hi rend="enlarged red trim-blue">S</hi>urgit uita. uicta morte.</l>
+                    <lb/><l><hi rend="spaced">G</hi>aze confringuntur porte.</l>
+                    <lb/><l><hi rend="spaced">P</hi>lilisteorum cohorte<g ref="#f161">;</g></l>
+                    <lb/><l><hi rend="spaced">I</hi>am prostrata. dira sorte<g ref="#f161">;</g></l>
+                    <lb/><l><hi rend="spaced">M</hi>ultus illustrat decor te<g ref="#f161">;</g></l>
+                    <lb/><l><persName><expan><abbr rend="spaced">I</abbr><abbr><am>ħ</am></abbr><ex>es</ex><abbr>u</abbr></expan></persName>. post discrimen forte.</l>
+                    <lb/><l><hi rend="spaced">M</hi>iserere rex precor te.</l>
+                    <lb/><l><hi rend="spaced">I</hi>n me sunt tot pestes orte.</l>
+                    <lb/><l><hi rend="spaced">H</hi>iis demptis<g ref="#f161">;</g> sequar dulcor te.</l>
+                </lg>
+                <lg>
+                    <lb/><l><hi rend="enlarged green trim-red">I</hi><hi rend="capitals">n</hi>exhausta tu dulcedo.</l>
+                    <lb/><l><hi rend="spaced">T</hi>ibi quod in me dulce do.</l>
+                    <lb/><l><hi rend="spaced">D</hi>icet quis. Quid? nichil. Cedo.</l>
+                    <lb/><l><hi rend="spaced">V</hi>erbis sepius excedo.</l>
+                    <lb/><l><hi rend="spaced">D</hi>ulce manna semper edo<g ref="#f161">;</g></l>
+                    <lb/><l><hi rend="spaced">C</hi>um te sumens recte credo.</l>
+                    <lb/><l><hi rend="spaced">F</hi>er opem tibi me dedo.</l>
+                    <lb/><l><hi rend="spaced">F</hi>remit mundus. seuit predo.</l>
+                    <lb/><l><hi rend="spaced">C</hi>arnis blanditur putredo.</l>
+                    <lb/><l><hi rend="spaced">H</hi>anc pesteni <persName><expan><abbr>i<am>ħ</am></abbr><ex>es</ex><abbr>u</abbr></expan></persName> uix sedo.</l>
+                    <lb/><l><hi rend="spaced">S</hi>eda tu. mundum ex fedo<g ref="#f161">;</g></l>
+                    <lb/><l><hi rend="spaced">A</hi>gnum faciens ex hedo.</l>
+                </lg>
+                <lg>
+                    <lb/><l><hi rend="enlarged red trim-blue">I</hi><hi rend="capitals">n</hi> diuersa flecto mentem.</l>
+                    <lb/><l><hi rend="spaced">I</hi>n conclau<choice><sic>e</sic><corr>i</corr></choice> residentem<g ref="#f161">;</g></l>
+                    <lb/><l><hi rend="spaced">C</hi>erno uirginem decentem<g ref="#f161">;</g></l>
+                    <lb/><l><hi rend="spaced">M</hi>undam. mundum fugientem.</l>
+                    <lb/><l><hi rend="spaced">P</hi>artem bonam eligentem.</l>
+                    <lb/><l><hi rend="spaced">I</hi>n superna<g ref="#f161">;</g> spe tendentem.</l>
+                    <lb/><l><hi rend="spaced">A</hi>ngelum cernit presentem.</l>
+                    <cb n="b"/>
+                    <lb/><l><hi rend="spaced">U</hi>erbum dulce proponentem.</l>
+                    <lb/><l><hi rend="spaced">S</hi>et attende respondentem.</l>
+                    <lb/><l><hi rend="spaced">E</hi>t ancillam se fatentem.</l>
+                    <lb/><l><hi rend="spaced">D</hi>ictis fidem adhibentem.</l>
+                    <lb/><l><hi rend="spaced">E</hi>x ipsa carnem sumentem.</l>
+                    <lb/><l><hi rend="spaced">C</hi>erne <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christu</ex><abbr>m</abbr></expan></persName> descendentem.</l>
+                    <lb/><l><hi rend="spaced">S</hi>erui formam induentem.</l>
+                    <lb/><l><hi rend="spaced">D</hi>eum cerno uagientem.</l>
+                    <lb/><l><hi rend="spaced">F</hi>ontem uite sitientem.</l>
+                    <lb/><l><hi rend="spaced">U</hi>este solem indigentem.</l>
+                    <lb/><l><hi rend="spaced">V</hi>itam cerno morientem.</l>
+                    <lb/><l><hi rend="spaced">S</hi>ed agnosco resurgentem.</l>
+                    <lb/><l><hi rend="spaced">E</hi>t cum suis conuescentem.</l>
+                    <lb/><l><hi rend="spaced">D</hi>ehinc celos ascendentem.</l>
+                    <lb/><l><hi rend="spaced">S</hi>uos secum adducentem.</l>
+                    <lb/><l><hi rend="spaced">P</hi>ro nobis intercedentem.</l>
+                    <lb/><l><hi rend="spaced">S</hi>uis opem conferentem.</l>
+                </lg>
+                <lg>
+                    <lb/><l><hi rend="enlarged green trim-red">Q</hi>uo precessit nos sequemur<g ref="#f161">;</g></l>
+                    <lb/><l><hi rend="spaced">S</hi>i tamen sequi meremur.</l>
+                    <lb/><l><hi rend="spaced">I</hi>gitur ut exaltemur<g ref="#f161">;</g></l>
+                    <lb/><l><hi rend="spaced">D</hi>ecet ut humiliemur.</l>
+                    <lb/><l><hi rend="spaced">S</hi>ic sic <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christu</ex><abbr>m</abbr></expan></persName> imitemur.</l>
+                    <lb/><l><hi rend="spaced">V</hi>t cum ipso coronemur. Amen.</l>
+                </lg>
+                <note place="bottom">
+                    <lb/><handShift/>¶ <expan>Amb<ex>rosius</ex></expan> de sacramentis. <quote source="Ambrosius Mediolanensis (dubium), De sacramentis 4.4.19 (p. 54, l. 56)">Didicistis quod ex pane corpus fiat <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>i</abbr></expan></persName>. et que in diuinum calicem 
+                        <lb/>mittitur. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> fit sanguis consecratione uerbi celestis.</quote>
+                </note>
+            </div>
         </body>
     </text>
 </TEI>
