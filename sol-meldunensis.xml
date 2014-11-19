@@ -13543,6 +13543,27 @@
                             </ab>
                         </div>
                     </div>
+                    <pb n="212v"/>
+                    <div n="Envoi" subtype="chapter" type="textpart">
+                        <lg>
+                            <lb/><milestone rend="paraph red" unit="lg"/><l><hi rend="spaced fill-red">N</hi>unc pater et domne tu uideris hic liber omne<g ref="#f161">;</g></l>
+                            <lb/><l><hi rend="spaced fill-red">S</hi>eu punctum tulerit seu uiciosus erit.</l>
+                            <lb/><l><hi rend="spaced fill-red">S</hi>tare uelis<g ref="#f161">;</g> stabit. si non<g ref="#f161">;</g> hunc flamma cremabit.</l>
+                            <lb/><l><hi rend="spaced fill-red">L</hi>aus sua sermo tuus interritus ue suus.</l>
+                            <lb/><l><hi rend="spaced fill-red">S</hi>i posui partes uelud is qui ne<supplied reason="omitted">s</supplied>ciit artes.</l>
+                            <lb/><l><hi rend="spaced fill-red">H</hi>ac miserere uice doctor apostolice.</l>
+                            <lb/><l><hi rend="spaced fill-red">L</hi>aude tui plena dedit hec rudimenta camena.</l>
+                            <lb/><l><hi rend="spaced fill-red">O</hi>b decus ingenue laudis ubique tue.</l>
+                        </lg>
+                        <lg>
+                            <lb/><milestone rend="paraph red" unit="lg"/><l><hi rend="spaced fill-red">M</hi>utua discurra<del rend="expunct">n</del>t inter nos pagina. nota<g ref="#f161">;</g></l>
+                            <lb/><l><hi rend="spaced fill-red">M</hi>ens <seg xml:id="FL-2-ENV-tr1">mea</seg> mensque <seg xml:id="FL-2-ENV-tr2">tua</seg><listTranspose><transpose><ptr target="#FL-2-ENV-tr2"/><ptr target="#FL-2-ENV-tr1"/></transpose></listTranspose><!-- Who is making this change? --> sit mediante nota.</l>
+                        </lg>
+                        <lg>
+                            <lb/><milestone rend="paraph red" unit="lg"/><l><hi rend="spaced fill-red">G</hi>audia presentis uite semperque manentis<g ref="#f161">;</g></l>
+                            <lb/><l><hi rend="spaced fill-red">E</hi>t bona cuncta deus det tibi domne meus.</l>
+                        </lg>
+                    </div>
                 </div>
             </div>
             <div n="2" type="textpart" subtype="work">
