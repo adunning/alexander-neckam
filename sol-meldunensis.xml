@@ -13579,19 +13579,408 @@
                         <lb break="no"/>tatis tue dilectio prophecias merlini de<reg> </reg>britan
                         <lb break="no"/>nico in<reg> </reg>latinum transferre. antequam historiam parassem<g ref="#f161">;</g> 
                         <lb/>quam de<reg> </reg>gestis regum britannicorum inceperam. Proposueram 
-                        <lb/>enim
+                        <lb/>enim illam prius perficere. istudque opus subsequenter explicare<g ref="#f161">;</g> 
+                        <lb/>ne dum uterque labor incumberet<g ref="#f161">;</g> sensus meus ad<reg> </reg>sin
+                        <lb break="no"/>gula minor fieret. Attamen quoniam securus eram uenie quam 
+                        <lb/>discrecio subtilis ingenii tui donaret<g ref="#f161">;</g> agrestem 
+                        <lb/>calamum meum labellis apposui. et plebeia modulaci
+                        <lb break="no"/>one igno<subst><del>e</del><add place="overstrike">t</add></subst>um tibi interpretatus sum sermonem. Admodum autem 
+                        <lb/>admiror. quia id pauperi stilo dignatus <seg xml:id="PM-1-1">es</seg><note corresp="#PM-1-1" place="above">uel eras</note> committere. cum 
+                        <lb/>tot doctiores uirga potestatis tue coherceat qui sullimi
+                        <lb break="no"/>oris carminis delectamento aures <persName>minerue</persName> tue mul
+                        <lb break="no"/>cerent. Et ut omnes philosophos tocius <placeName>britannie</placeName> insule 
+                        <lb/>preterea<add place="above">m</add> tu solus es quod non erubesco fateri. qui pre<reg> </reg>cunctis 
+                        <lb/>audaciori lira caneres nisi te culmen honoris ad cetera 
+                        <lb/>negocia uocaret. Quoniam ergo placuit ut <persName>Galfridus monemutensis</persName> fistulam 
+                        <lb/>suam in hoc uaticinio sonaret<g ref="#f161">;</g> modulationibus suis fauere non 
+                        <lb/>diffugias. Et siquid inordinate siue incuriose protulerit<g ref="#f161">;</g> ferula 
+                        <lb/>camenarum tuarum in rectum aduertas concentum.
                     </p>
                     <fw place="bottom"><supplied reason="lost" evidence="parallel">Epistula magistri <persName>galfridi monumutensis</persName> directa <persName><expan>alex<ex>andro</ex></expan> lincolniensi <expan><abbr rend="overline">ep</abbr><ex>iscop</ex><abbr>o</abbr></expan></persName></supplied></fw>
                 </div>
+                <pb n="214v"/>
                 <div n="2" type="textpart" subtype="section">
                     <head rend="red top">Prophetia Merlini.</head>
                     <p>
                         <lb/><hi rend="dropcap2 blue trim-red">S</hi>edente itaque <persName>uortegirno</persName> rege <orgName>britonum</orgName> super ripam 
                         <lb/>exhausti stagni<g ref="#f161">;</g> egressi sunt duo dracones. quorum 
                         <lb/>unus albus. et alius erat rubeus. Cumque alter alteri a<supplied reason="omitted">p</supplied>propinquasset<g ref="#f161">;</g> 
+                        <lb/>commiserunt diram pugnam et ignem anelitu procreabant. 
+                        <lb/>Pracualebat autem albus draco<g ref="#f161">;</g> rubeumque usque ad extremitatem 
+                        <lb/>lacus fugabat. At ille cum se expulsum doluisset<g ref="#f161">;</g> inpetum fecit 
+                        <lb/>in album. ipsumque retro ire cogebat. Ipsis ergo in<reg> </reg>hunc modum pug
+                        <lb break="no"/>nantibus<g ref="#f161">;</g> precepit <persName>rex uortegrinus</persName> <persName>ambrosio merlino</persName> di
+                        <lb break="no"/>cere. quid prelium draconum portendebat. Mox ille in<reg> </reg>fletum erumpens<g ref="#f161">;</g> 
+                        <lb/>spiritum hausit prophetie. et ait. <said>Ve rubeo draconi<g ref="#f161">;</g> nam extermina
+                            <lb break="no"/>cio eius festinat. Cauernas ipsius<g ref="#f161">;</g> occupab<subst><del>a</del><add place="left">i</add></subst>t albus draco. qui 
+                            <lb/><orgName>saxones</orgName> quos inuitasti significat. Rubeus uero gentem 
+                            <lb/>designat <placeName>britannie</placeName> que ab albo deprimetur. <seg xml:id="PM-2-1">Montes</seg><note corresp="#PM-2-1" place="above"><expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> britanie principes.</note> itaque 
+                            <lb/>eius ut ualles equabuntur. et <seg xml:id="PM-2-2">flumina</seg><note corresp="#PM-2-2" place="above"><expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> collectiones plebium dum <unclear>interfluerunt</unclear> a saxonibus.</note> uallium sanguine ma
+                            <lb break="no"/>nabunt. <seg xml:id="PM-2-3">Cultus</seg><note corresp="#PM-2-3" place="above"><expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>ianitas</abbr></expan></persName> quam saxones dextruerunt quia pagani erant.</note> religionis delebitur. et ruina ecclesiarum patebit. 
+                            <lb/>Preualebit tandem <seg xml:id="PM-2-4">oppressa</seg>.<note corresp="#PM-2-4" place="left"><expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> gens britonum que preualuit postea inpaganos. et subiugauit potestati sue.</note> et seuicie exterorum resistet. <seg xml:id="PM-2-5">Aper</seg><note corresp="#PM-2-6" place="above"><expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> Arturus qui postquam in<reg> </reg>regem <unclear>sullimatus</unclear> est subdidit illos sibi.</note> 
+                            <lb/>enim <placeName>cornubie</placeName> succursum prestabit. et colla eorum sub pedibus su
+                            <lb break="no"/>is conculcabit. Insule occeani potestati eius subdentur et <seg xml:id="PM2-7"><orgName>gal
+                                    <lb break="no"/>licanos</orgName></seg><note corresp="#PM2-7" place="left">pugnauit enim cum stilione tribuno. cui gallia commissa fuerat. et interfecto illo subiugauit illi galliam</note> saltus possidebit. Tremebit <seg xml:id="PM2-8"><persName>romulea</persName></seg><note corresp="#PM2-8" place="left">prophetat qualiter idem arturus pugnauit <unclear>lucio</unclear> hiberio procuratore rei puplice. et interfecit eum in<reg> </reg>sicesia ualle in<reg> </reg>terra allobrogrum.</note> domus seuici
+                            <lb break="no"/>am ipsius. et exitus eius dubius erit. In<reg> </reg>ore populorum celebrabitur<g ref="#f161">;</g> 
+                            <fw place="bottom"><supplied reason="lost" evidence="parallel">Prophetia Merlini</supplied></fw>
+                            <pb n="215r"/>
+                            <fw place="top" type="newer-hand">Propheta Merlini</fw><!-- glosses need to be filled in after this point -->
+                            <lb/>et actus eius erit cibus narrantibus. Sex <seg>posteri</seg> eius sequentur 
+                            <lb/>sceptrum. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> post ipsos exsurget <orgName>germanicus</orgName> uermis. Sul
+                            <lb break="no"/>limabit illum equoreus lupus. qui <orgName>affricana</orgName> nemora comi
+                            <lb break="no"/>tabuntur. Delebitur iterum religio. et transmutacio primarum se
+                            <lb break="no"/>dium fiet. Dignitas <placeName>lundonie</placeName> adornabit <persName>dorobemiam</persName>. 
+                            <lb/>et pastor <placeName>eboracensis</placeName> septimus in <placeName>armoneo</placeName> regno frequen
+                            <lb break="no"/>tabitur. Meneuia pallio <placeName>urbis legionum</placeName> induetur. et pre
+                            <lb break="no"/>dicator <placeName>hibernie</placeName> propter infantem in utero crescentem obmutes
+                            <lb break="no"/>cet. Pluet sanguineus imber. et dira fames mortales af
+                            <lb break="no"/>ficiet. Hiis superuenientibus dolebit rubeus draco. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> emen
+                            <lb break="no"/>so labore uigebit. Tunc infortunium albi festinabit 
+                            <lb/>et edificia ortulorum eius diruentur. Octo sceptrigeri<g ref="#f161">;</g> illius 
+                            <lb/>perimentur. et unus eorum glorificabitur. Ventres matrum secabun
+                            <lb break="no"/>tur. et infantes abortiui erunt. Erit ingens supplicium 
+                            <lb/>hominum<g ref="#f161">;</g> ut indigne restituantur. Qui faciet hec<g ref="#f161">;</g> eneum 
+                            <lb/>uirum induet. et per multa tempora super eneum equm portas 
+                            <lb/><placeName>lundonie</placeName> seruabit. Exinde in<reg> </reg>propnos mores reuertetur rubeus dra
+                            <lb break="no"/>co. nam in<reg> </reg>se ipsum seuire laborabit. Superueniet itaque ultio 
+                            <lb/><persName>tonantis</persName>. quia omnis ager colonos decipiet. Arripiet mor
+                            <lb break="no"/>talitas populum. cunctasque nationes euacuabit. Residui 
+                            <pb n="215v"/>
+                            <lb/>natale solum deserent. et exteras culturas seminabunt. 
+                            <lb/>Rex benedictus parabit nauigium. et in aula <num>.xii.</num> inter 
+                            <lb/>beatos adnumerabitur. Erit miseranda regni desolatio 
+                            <lb/>et aree messium in fructicosos saltus reddibunt. Exurget 
+                            <lb/>iterum albus draco et filiam <persName>germanie</persName> inuitabit. Replebun
+                            <lb break="no"/>tur iterum ortuli nostri alieno semine. et in<reg> </reg>extremitate 
+                            <lb/>stagni languebit rubeus. Exin coronabitur <placeName>germanie</placeName> 
+                            <lb/>uermis. et eneus princeps humabitur. Terminus illi positus est 
+                            <lb/>quem transuolare nequibit. Centum namque <num>.l.</num> annis in<reg> </reg>equietu
+                            <lb break="no"/>dine et subiectione manebit. ter centum uero insidebit. 
+                            <lb/>Tunc insurget in<reg> </reg>illum aquilo<g ref="#f161">;</g> et flores quos zephirus procrea
+                            <lb break="no"/>uit eripiet. Erit deauracio in<reg> </reg>templis<g ref="#f161">;</g> nec acumen 
+                            <lb/>gladiorum cessabit. Vix obtinebit cauernas suas <placeName>germa
+                                <lb break="no"/>nicus</placeName> draco. quia ulcio prodicionis eius superueniet. Vige
+                            <lb break="no"/>bit tandem paulisper. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> decimacio <placeName>neustrie</placeName> nocebit.</said>
                     </p>
-                    <fw place="bottom"><supplied reason="lost" evidence="parallel">Prophetia Merlini</supplied></fw>
+                    <p>
+                        <milestone rend="paraph" unit="undefined"/><said>Populus namque in<reg> </reg>ligno et ferreis tunicis superueniet qui 
+                            <lb/>uindictam de<reg> </reg>nequicia ipsius sumet. Restaurabit pristinis 
+                            <lb/>incolis mansiones. et ruina alienigenarum patebit. 
+                            <lb/>Germen ipsius ex ortulis nostris abradetur. et reliquie generacionis 
+                            <lb/>eius decimabuntur. Iugum perpetue seruitutis ferent. matremque 
+                            <pb n="215r"/>
+                            <lb/>suam ligonibus et aratris uulnerabunt.</said>
+                    </p>
+                    <p>
+                        <milestone rend="paraph" unit="undefined"/><said>Suscedent duo dra
+                            <lb break="no"/>cones quorum alter inuidie spiculo suffocabitur. alter uero sub 
+                            <lb/>umbra nominis reddibit.</said>
+                    </p>
+                    <p>
+                        <milestone rend="paraph" unit="undefined"/><said>Succedet leo iusticie. ad cuius ru
+                            <lb break="no"/>gitum <placeName>gallicane</placeName> turres. et insulani dracones tremebunt. In 
+                            <lb/>diebus eius aurum ex lilio. et urtica extorquebitur. et argentum 
+                            <lb/>ex<reg> </reg>ungulis mugiencium manabit. Calamistrati uaria 
+                            <lb/>uellera uestient. et exterior habitus interiora signabit. 
+                            <lb/>Pedes latrantum truncabuntur. pacem habebunt fere. huma
+                            <lb break="no"/>nitas supplicium dolebit. findetur forma commercii dimidium 
+                            <lb/>rotundum erit. Peribit miluorum rapacitas, et dentes luporum 
+                            <lb/>hebetabuntur. Catuli leonis in<reg> </reg>equoreos pisces transformabun
+                            <lb break="no"/>tur. et aquila eius super montem <placeName>arauium</placeName> nidificabit. <placeName>Venedocia</placeName> 
+                            <lb/>rubebit materno sanguine. et domus <persName>corinei</persName> <num>.vi.</num> fratres interficiet. 
+                            <lb/>Nocturnis lacrimis madebit insula. unde omnes ad omnia prouoca
+                            <lb break="no"/>buntur. Nitentur posteri transuolare superna. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> fauor nouorum 
+                            <lb/>sullimabitur. Nocebit possidenti ex<reg> </reg>impiis pietas. donec 
+                            <lb/>sese genitore induerit.</said>
+                    </p>
+                    <p>
+                        <milestone rend="paraph" unit="undefined"/><said>Aper igitur dentibus accinctus ca
+                            <lb break="no"/>cumina moncium. et umbram galeati transcendet. Indig
+                            <lb break="no"/>nabitur <placeName>albania</placeName>. et conuocatis translateralibus sanguinem 
+                            <lb/>effundere uacabit. Dabitur maxillis eius frenum quod in <placeName>armorico</placeName> 
+                            <pb n="216v"/>
+                            <lb/>sinu fabrica<add place="above">bi</add>tur. Deaurabit illud aquila rupti federis. et tercia nidi
+                            <lb break="no"/>ficacione gaudebit.</said>
+                    </p>
+                    <p>
+                        <milestone rend="paraph" unit="undefined"/><said>Euigilabunt regentis catuli. et postposi
+                            <lb break="no"/>tis nemoribus infra menia ciutatis uenabuntur. Stragem non 
+                            <lb/>minimam ex<reg> </reg>obstantibus facient. et linguas taurorum abscident. 
+                            <lb/>Colla rugiencium onerabunt catenis. et auita tempora renouabunt. 
+                            <lb/>Exin de<reg> </reg>primo <surplus>.<!-- was scribe interpreting this as 'tres'? --></surplus>in <num>.iiii.<hi rend="superscript">tum</hi></num> de quarto in tercium. de tercio in secundum. rotabitur 
+                            <lb/>pollex in<reg> </reg>oleo. Sextus <placeName>hibernie</placeName> menia sub<surplus> </surplus>uertet. et nemora in 
+                            <lb/>planiciem mutabit. Diuersas porciones in<reg> </reg>unum r<add place="overstrike">e</add>ducet. et ca
+                            <lb break="no"/>pite leonis coronabitur. Principium eius uago affectui succumbet. 
+                            <lb/><expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> finis eius ad superos conuolabit. Renouabit namque beatorum sedes 
+                            <lb/>per<reg> </reg>patrias<g ref="#f161">;</g> et pastores in<reg> </reg>congruis locis locabit. Duas urbes duobus 
+                            <lb/>palliis induet. et uirginea munera uirginibus donabit. Promere
+                            <lb break="no"/>bitur inde fauorem <persName>tonantis</persName>. et inter beatos collocabitur.</said>
+                    </p>
+                    <p>
+                        <milestone rend="paraph" unit="undefined"/><said>Egredietur 
+                            <lb/>ex<reg> </reg>eo linx penetrans omnia. que ruina proprie gentis imminebit. 
+                            <lb/>Per<reg> </reg>illam enim utramque insulam amittet <placeName>neustria</placeName>. et pristina dignitate 
+                            <lb/>spoliabitur. Deinde reuertentur ciues in<reg> </reg>insulam. nam discidium alieni
+                            <lb break="no"/>genarum orietur. Niueus quoque senex in<reg> </reg>niueo equo fluuium <placeName>perironis</placeName> 
+                            <lb/>diuertet. et cum candida uirga molendinum super ipsum metabitur.</said>
+                    </p>
+                    <p>
+                        <milestone rend="paraph" unit="undefined"/><said><persName>Cadvaladrus</persName> <persName>conanum</persName> uocabit. et <placeName>albaniam</placeName> in<reg> </reg>societatem accipi
+                            <lb break="no"/>et. Tunc erit strages alienigenarum. tunc flumina sanguine 
+                            <pb n="217r"/>
+                            <lb/>manabunt. Tunc erumpent <placeName>armorici</placeName> montes. et diademate <persName>bruti</persName> 
+                            <lb/>coronabuntur. Replebitur <placeName>cambria</placeName> leticia. et robora <placeName>cornubie</placeName> 
+                            <lb/>uirescent. Nomine <persName>bruti</persName> uocabitur insula. et nuncupatio extra
+                            <lb break="no"/>neorum peribit.</said>
+                    </p>
+                    <p>
+                        <milestone rend="paraph" unit="undefined"/><said>Ex<reg> </reg><placeName>conano</placeName> procedet aper bellicosus qui infra <placeName>gallica
+                                <lb break="no"/>na</placeName> nemora acumen dencium suorum exacuet. Truncabit namque 
+                            <lb/>queque maiora robora. minoribus uero tutelam prestabit. Tremebunt 
+                            <lb/>illum <orgName>arabes</orgName> et <orgName>affricani</orgName>. nam impetum cursus sui in<reg> </reg>ulteriorem <placeName>hispa
+                                <lb break="no"/>niam</placeName> protendet.</said>
+                    </p>
+                    <p>
+                        <milestone rend="paraph" unit="undefined"/><said><seg>Succedet</seg> uero hircus <placeName>uenerii castri</placeName>. aurea 
+                            <lb/>habens cornua. et argenteam barbam. qui ex<reg> </reg>naribus suis tantam 
+                            <lb/>efflabit nebulam<g ref="#f161">;</g> quanta tota superficies insule obumbrabitur. pax 
+                            <lb/>erit in<reg> </reg>tempore suo. et ubertate glebe multiplicabuntur segetes. 
+                            <lb/>Mulieres incessu serpentes fient. et omnis gressus earum superbia 
+                            <lb/>replebitur. Renouabuntur <placeName>castra <persName>ueneris</persName></placeName>. nec cessabunt sagitte 
+                            <lb/><persName>cupidinis</persName> uulnerare. Fons <persName>anne</persName> uertetur in<reg> </reg>sanguinem. et duo 
+                            <lb/>reges duellum propter leenam de<reg> </reg><placeName>uado baculi</placeName> committent. Omnis 
+                            <lb/>humus luxuriabit. et humanitas fornicari non desinet.</said>
+                    </p>
+                    <p>
+                        <milestone rend="paraph" unit="undefined"/><said>Omnia 
+                            <lb/>hec tria secula uidebunt. donec sepulti reges in urbe <placeName>lundonia</placeName> propa
+                            <lb break="no"/>labuntur. Redibit iterum fames. redibit mortalitas. et desola
+                            <lb break="no"/>cionem urbium dolebunt ciues.</said>
+                    </p>
+                    <p>
+                        <milestone rend="paraph" unit="undefined"/><said>Superueniet <seg>aper</seg> commercii. 
+                            <lb/>qui dispersos greges ad<reg> </reg>amissa pascua reuocabit. Pectus eius cibus 
+                            <pb n="217v"/>
+                            <lb/>erit egentibus. et lingua eius sedabit sicientes. Ex ore eius pro
+                            <lb break="no"/>cedent flumina que are<del rend="expunct">s</del>ntes hominum fauces rigabunt.</said>
+                    </p>
+                    <p>
+                        <lb/><milestone rend="paraph" unit="undefined"/><said>Exin super turrim <placeName>lundoniarum</placeName> procreabitur arbor. que tribus 
+                            <lb/>solum<surplus> </surplus>modo ramis contenta superficiem tocius insule lati
+                            <lb break="no"/>tudine foliorum obumbrabit. Huic aduersarius <persName>boreas</persName> 
+                            <lb/>superueniet. atque iniquo flatu suo tercium illi ramum eripi
+                            <lb break="no"/>et. Duo uero residui locum extirpati occupabunt<g ref="#f161">;</g> donec alter 
+                            <lb/>alterum foliorum multitudine adnichilabit. Deinde uero locum 
+                            <lb/>duorum obtinebit ipse<g ref="#f161">;</g> et uolucres excerarum regionum sus
+                            <lb break="no"/>tentabit. Patriis uolatilibus nociuus habebitur. nam timo
+                            <lb break="no"/>re umbre eius liberos uolatus amittent.</said>
+                    </p>
+                    <p>
+                        <milestone rend="paraph" unit="undefined"/><said><seg>Succedet 
+                                <lb/>asinus</seg> nequicie. in<reg> </reg>fabricatores auri uelox. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> in<reg> </reg>rapacita
+                            <lb break="no"/>tem luporum piger. In<reg> </reg>diebus illis ardebunt quercus per 
+                            <lb/>nemora. et in<reg> </reg>ramis tiliarum nascentur glandes. Sabri
+                            <lb break="no"/>num mare per <num>.vii.</num> ostia discurret. et fluuius <placeName>osce</placeName> per septem 
+                            <lb/>menses feruebit. Pisces illius calore morientur. et ex 
+                            <lb/>eis <handShift/>serpentes procreabuntur. Frigebunt balnea <placeName>badonis</placeName>. et sa
+                            <lb break="no"/>lubres aque eorum mortem generabunt. <placeName>Lundonia</placeName> necem <num>.xx.<hi rend="superscript">ti</hi></num> 
+                            <lb/>miliorum lugebit. et <placeName>tamesis</placeName> fluuius in<reg> </reg>sanguinem mutabitur. 
+                            <lb/>Cucullati ad nupcias prouocabuntur. et clamor eorum in<reg> </reg>montibus 
+                            <pb n="218r"/>
+                            <lb/><placeName>alpium</placeName> audietur. Tres fontes in<reg> </reg>urbe <placeName>wintonia</placeName> erumpent quorum 
+                            <lb/>riuuli insulam in<reg> </reg>tres portiones secabunt. Qui bibet de<reg> </reg>uno diu
+                            <lb break="no"/>turniori uita fruetur. nec superueniente languore grauabitur. 
+                            <lb/>Qui biberit de<reg> </reg>altero indeficiente fame peribit. et in<reg> </reg>facie eius pal
+                            <lb break="no"/>lor et <seg>error</seg> sedebit. Qui biberit de<reg> </reg><add place="overstrike">terc</add>io subita morte periclita
+                            <lb break="no"/>bitur. nec corpus ipsius poterit subire sepulchrum. Tantam ingluuiem 
+                            <lb/>uitare uolentes diuersis tegumentis eam occultare nitentur. 
+                            <lb/>Quecunque ergo moles superposita fueri<add place="above" resp="PMcorr1">n</add>t<g ref="#f161">;</g> formam alterius corporis re
+                            <lb break="no"/>cipiet. Terra namque in<reg> </reg>lapides. lapides in<reg> </reg>limpham. lignum in 
+                            <lb/>cineres. cinis <add place="above">in </add>aquam. si superiecta fueri<add place="above" resp="PMcorr1">n</add>t<g ref="#f161">;</g> uertetur.</said>
+                    </p>
+                    <p>
+                        <milestone rend="paraph" unit="undefined"/><said>Ad<reg> </reg>hec ex<reg> </reg>ur
+                            <lb break="no"/>be canuti nemoris eliminabitur puella. ut medele curam 
+                            <lb/>adhibeat. Que ut omnes artes inierit<g ref="#f161">;</g> solo anhelitu suo 
+                            <lb/>fontes nociuos siccabit. Exin ut sese salubri liquore 
+                            <lb/>refecerit<g ref="#f161">;</g> gestabit in<reg> </reg>dextera nemus <placeName>colidonis</placeName>. in<reg> </reg>sinistra <add place="right" resp="#PMcorr1">sua</add>
+                            <lb/>uero murorum <placeName>lundonie</placeName> propugnacula. Quacumque incedet passus 
+                            <lb/>sulphureos faciet. qui dupplici flamma fumabunt. Fumus <add place="right" resp="#PMcorr1">ille </add>exortus 
+                            <lb/>excitabit <orgName>ruthenos</orgName>. et cibum sub<surplus> </surplus>marinis conficiet. Lacrimis 
+                            <lb/>manabit miserandis puella. et clamore horrido replebit 
+                            <lb/>insulam. Interficiet eam ceruus <num>.x.</num> ramorum. quorum <num>.iiii.<hi rend="superscript">or</hi></num> aurea dia
+                            <lb break="no"/>demata gestabunt. Sex uero residui in cornua bubalorum uertentur<g ref="#f161">;</g> 
+                            <pb n="218v"/>
+                            <lb/>que nefando sonitu tres insulas <placeName>britannie</placeName> commouebunt.</said>
+                    </p>
+                    <p>
+                        <milestone rend="paraph" unit="undefined"/><said>Excitabitur <placeName>daneum</placeName> nemus. et in humanam uocem erumpens clamabit. 
+                            <lb/><said>Accede <placeName>cambria</placeName>. et iunge lateri tuo <placeName>cornubiam</placeName>. et dic <persName>winto
+                                    <lb break="no"/>nie.</persName> <said>absorbebit te tellus. Transfer sedem pastoris ubi naues 
+                                    <lb/>applicant. et cetera menbra capud sequantur. festinat namque dies 
+                                    <lb/>qua ciues ob scelera periurii peribunt. Candor lanarum nocuit atque tincture <add place="left" resp="#PMcorr1">ipsarum </add>diuersitas. Ue periure genti<g ref="#f161">;</g> quia urbs inclita 
+                                    <lb/>propter eam ruet.</said></said> Gaudebunt naues augmentatione tanta. et unum ex 
+                            <lb/>duobus fiet. Reedificabit eam hericius one<del rend="expunct">ne</del>ratus pomis. ad quorum 
+                            <lb/>odorem diuersor<subst><del>e</del><add place="inline">um</add></subst> nemorum conu<subst><del>a</del><add place="above">o</add></subst>labunt uolucres. Adiciet palacium 
+                            <lb/>ingens. et sexcentis turribus ipsum uallabit. In una quaque statuetur de
+                            <lb break="no"/>curio. qui leges subditis dabit.</said>
+                    </p>
+                    <p>
+                        <milestone rend="paraph" unit="undefined"/><said>Inuidebit ergo <placeName>lundonia</placeName>. et 
+                            <lb/>muros suos tripliciter augebit. Circuibit eam undique <placeName>tame
+                                <lb break="no"/>sis</placeName> fluuius. et rumor operis transcendet <placeName>alpes</placeName>. Occultabit infra illam 
+                            <lb/>hericius poma sua. et subterraneas uias machinabitur. In<reg> </reg>tempore 
+                            <lb/><subst><del>suo</del><add place="left" resp="#PMcorr1">illo</add></subst> loquentur lapides. et mare qui ad <placeName>galliam</placeName> nauigatur infra breui 
+                            <lb/>spaci<subst><del>o</del><add place="above" resp="#PMcorr1">um</add></subst> contrahetur. In<reg> </reg>utraque ripa audietur homo ab<reg> </reg>homine. et so
+                            <lb break="no"/>lidum insule dilatabitur. Reuelabuntur occulta submarinorum. et 
+                            <lb/><placeName>gallia</placeName> pre timore tremebit.</said>
+                    </p>
+                    <p>
+                        <milestone rend="paraph" unit="undefined"/><said>Post hec ex <placeName>chalatherio</placeName> nemore 
+                            <lb/>procedet ardea. que insulam per biennium circumuolabit. Nocturno 
+                            <pb n="219r"/>
+                            <lb/>clamore conuocabit uolatilia. et omne genus uolucrum associabit 
+                            <lb/>sibi. In<reg> </reg>culturas mortalium irruent. et omnia grana messium deuo
+                            <lb break="no"/>rabunt. Sequetur fames populum. atque dira mortalitas famem. 
+                            <lb/>Et cum calamitas tanta cessauerit. adibit detestabilis ales 
+                            <lb/>uallem <placeName>galahes</placeName>. atque eam in<reg> </reg>excelsum montem leuabit. In 
+                            <choice><sic><lb break="no"/></sic><reg><lb/></reg></choice>cacumine quoque ipsius plantabit quercum. atque infra ramos ni
+                            <lb break="no"/>dificabit. <seg>Quatuor</seg><note><unclear>alius</unclear> tria</note> oua procreabuntur in nido<g ref="#f161">;</g> ex quibus uulpis 
+                            <lb/>et lupus et ursus egredientur. Deuorabit uulpis matrem. et asininum 
+                            <lb/>capud gestabit. Monstro igitur assumpto terrebit fratres suos 
+                            <lb/>ipsosque in<reg> </reg><placeName>neustriam</placeName> fugabit. Et ipsi excitabunt aprum dentosum 
+                            <lb/>in illa<add place="above" resp="#PMcorr1">m</add>. et nauigio reuecti cum uulpe congredientur. Que cum 
+                            <lb/>certamen inierit<g ref="#f161">;</g> finget se defunctam. et aprum in<reg> </reg>pietatem 
+                            <lb/>mouebit. Mox adibit ipse cadauer. et dum superstabit anhe
+                            <lb break="no"/>labit in<reg> </reg>oculos eius et faciem. At ipsa non oblita preteriti doli mor
+                            <lb break="no"/>debit sinistrum pedem ipsius. totumque ex<reg> </reg>corpore euellet. Saltu 
+                            <lb/>quoque facto<g ref="#f161">;</g> eripiet ei dexteram aurem et caudam. et infra cauernas 
+                            <lb/>moncium delitebit. Aper ergo illusus requiret lupum et ursum 
+                            <lb/>ut ei amissa menbra <add place="right">restituant. Qui ut causam inierint<g ref="#f161">;</g> promittent ei duos pedes et manus et caudam et ex eis porcina membra </add>component. Acquiescet ipse promissamque res
+                            <lb break="no"/>tauracionem expectabit. Interim descendet uulpis de mon
+                            <lb break="no"/>tibus. et sese in <subst><del>aprum</del><add place="below" resp="#PMcorr1">lupum</add></subst> m<subst><del>ac</del><add place="above">u</add></subst>tabit. Et quasi colloquium habitura cum 
+                            <pb n="219v"/>
+                            <lb/>apro adibit illum. callide ipsum totum deuorabit. Exin transuer
+                            <lb break="no"/>tet sese in<reg> </reg>aprum. et quasi sine menbris expectabit germanos. 
+                            <lb/><expan><abbr>S<am>&#xA76B;</am></abbr><ex>et</ex></expan> et ipsos postquam aduenerint subito dente interficiet. atque ca
+                            <lb break="no"/>pite leonis coronabitur. In<reg> </reg>diebus eius nascetur serpens. qui neci mor
+                            <lb break="no"/>talium iminebit. Longitudine sua circuibit <placeName>lundoniam</placeName>. et 
+                            <lb/>quosque pretereuntes deuorabit. Bos montanus caput lupi assumet. 
+                            <lb/>dentesque suos in<reg> </reg>fabrica <placeName>sabrine</placeName> dealbabit. Associabit sibi gre<subst><del>s
+                                    <lb break="no"/>sus</del><add place="left" resp="#PMcorr1">ges</add></subst> <placeName>albanorum</placeName>. et <placeName>cambrie</placeName> qui <placeName>tamensem</placeName> potando siccabunt. Uo
+                            <lb break="no"/>cabit asinus hircum prolixe barbe. et formam ipsius mutuabit. In
+                            <lb break="no"/>dignabitur igitur montanus. uocatoque lupo cornu taurus in<reg> </reg>ipsos 
+                            <lb/>fiet. Vt autem seuicie indulsent. deuorabit carnes eorum 
+                            <lb/>et ossa. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> in cacumine <persName>urian<subst><del>e</del><add place="above">i</add></subst></persName> cremabitur. Fauille rogi<g ref="#f161">;</g> mu
+                            <lb break="no"/>tabuntur in cignos. qui in<reg> </reg>sicco quasi in<reg> </reg>flumine natabunt. Deuo
+                            <lb break="no"/>rabunt pisces in<reg> </reg>piscibus. et homines in hominibus deglucient. Superue
+                            <lb break="no"/>niente uero senectute<g ref="#f161">;</g> efficientur submarini luces. atque sub
+                            <lb break="no"/>marinas insidias machinabuntur. Submergent naualia 
+                            <lb/>et argentum non minimum congregabunt. Fluctuabit iterum <placeName>tamensis</placeName> 
+                            <lb/>fluuius. conuocatisque fluminibus ultra metas aluei procedet. Vr
+                            <lb break="no"/>bes uicinas occultabit. obsitosque montes subuertet. Adhi
+                            <lb break="no"/>bebit sibi mo<subst><del>r</del><add place="above">n</add></subst>tem <placeName>galaes</placeName>. dolo et nequicia repleti. Orientur ex<reg> </reg>eo 
+                            <pb n="220r"/>
+                            <lb/>sediciones prouocantes <orgName>uenedotos</orgName> ad prelia. Conuenient nemorum 
+                            <lb/>robora. et cum saxis <orgName>gewisseorum</orgName> congredientur. Aduolabit coruus cum 
+                            <lb/>miluis. et corpora peremptorum deuorabit. Super muros <placeName>claudioces
+                                <lb break="no"/>trie</placeName> nidificabit bubo. et in<reg> </reg>nido suo procreabitur asinus. Educabit 
+                            <lb/>illum serpens <placeName>maluernie</placeName>. et in<reg> </reg>plures dolos commouebit. Sumpto 
+                            <lb/>diademate<g ref="#f161">;</g> transcendet excelsa. et horrido rachatu populum 
+                            <lb/>patrie terrebit. In<reg> </reg>diebus eius titubabunt<g ref="#f161">;</g> montes <placeName>pacuuii</placeName>. et prouin
+                            <lb break="no"/>cie nemoribus suis spoliabuntur. Superueniet namque uermis ignei 
+                            <lb/>anhelitus. qui emisso uapore comburet arbores. egredientur ex 
+                            <lb/>eo septem leones capitibus hircorum turpati. Fetore narium 
+                            <lb/>mulieres corrumpent. et proprias communes facient. Nesciet pater proprium filium 
+                            <lb/>proprium. quia more pecudum lasciuient. Superueniet uero gigax ne
+                            <lb break="no"/>quicie qui oculorum acumine terrebit uniuersos. Exurget in illum draco 
+                            <lb/><placeName>wigornie</placeName>. et eum exterminare conabitur. Facto autem congressu<g ref="#f161">;</g> supera
+                            <lb break="no"/>bitur draco. et nequicia uictoris opprimetur. Ascendet namque gigax dra
+                            <lb break="no"/>conem. et exuta ueste insidebit nudus. Feret illum ad<reg> </reg>sublimia dra
+                            <lb break="no"/>co. erectaque cauda uerberabit nudatum. Resumpto iterum uigore 
+                            <lb/>gigax. fauces illius cum gladio confringet. Inplicabitur tandem sub 
+                            <lb/>cauda sua draco. et uenenatus interibit. Succedet post illum <placeName>toto
+                                <lb break="no"/>nensius</placeName> aper. et dira tirannide opprimet populum. Eliminabit 
+                            <pb n="220v"/>
+                            <lb/><placeName>claudiocestria</placeName> leonem. qui diuersis preliis inquietabit seuientem. Concul
+                            <lb break="no"/>cabit eum sub pedibus suis apertisque faucibus terrebit. Cum regno tandem 
+                            <lb/>litigabit leo et terga nobilium transcendet. Superueniet taurus litigio 
+                            <lb/>et leonem dextro pede percuciet. Expellet illum per regni diuersoria. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> cor
+                            <lb break="no"/>nua sua in muros <placeName>exonie</placeName> confringet. Uindicabit leonem uulpis 
+                            <lb/><placeName>caerdubalia<!-- var in margin? --></placeName>. et totum dentibus suis consumet. Circumcinget eam <placeName>lindo
+                                <lb break="no"/>colinus</placeName> coluber. presenciamque <subst><del>lux</del><add place="left" resp="#PMcorr1"><unclear>suam</unclear></add></subst> draconibus multis horribili si
+                            <lb break="no"/>bilo testabitur. Congredientur deinde dracones. et alter alterum 
+                            <lb/>dilaniet. Opprimet alatus carentem alis. et ungues in<reg> </reg>genas ue
+                            <lb break="no"/>nenatas configet. Ad<reg> </reg>certamen conuenient alii. et alius alium inter
+                            <lb break="no"/>ficiet. Succedet quintus interfectis. residuos diuersis machinacio
+                            <lb break="no"/>nibus confringet. Transcendet dorsum unius cum gladio. et capud a 
+                            <lb/>corpore sep<subst><del>e</del><add place="inline">a</add></subst>rabit. Exuta ueste ascendet alium. et dexteram cau
+                            <lb break="no"/>de. leuamque iniciet. Superabit eum nudus. cum nichil indutus proficeret. 
+                            <lb/>Ceteros tormentabit a<reg> </reg>dorso. et in<reg> </reg>rotunditatem regni compellet. Su
+                            <lb break="no"/>perueniet leo rugiens inmani feritate timendus. Ter quinque 
+                            <lb/>porciones in<reg> </reg>unum reducet. et solus possidebit populum. Splende
+                            <lb break="no"/>bit gigax colore niueo. ad<reg> </reg>candidum populum germinabit. De
+                            <lb break="no"/>licie principes eneruabunt. et subiti in<reg> </reg>beluas mutabuntur. 
+                            <lb/>Orietur in<reg> </reg>illis leo. humano cruore turgidus. <seg>Supponetur</seg><!-- uel supponitur (?) --> ei 
+                            <pb n="221r"/>
+                            <lb/><add place="left" resp="#PMcorr1">in </add>segete <seg>falcifer</seg><!-- uel fa -->. qui dum laborabit mente opprimetur ab<reg> </reg>illo. Sedabit illos 
+                            <lb/><placeName>eboracensis</placeName> auriga. expulso<surplus> </surplus>que <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">no</abbr></expan> in currum quem ducet ascen
+                            <lb break="no"/>d<subst><del>e</del><add place="left" resp="#PMcorr1">i</add></subst>t. Abstracto gladio minabitur <placeName>orienti</placeName>. et rotarum suarum uestigia 
+                            <lb/>replebit sanguine. Fiet de<surplus> </surplus>inde piscis in<reg> </reg>equore. qui sibilo serpentis 
+                            <lb/>reuocatus coibit cum illo. Nascentur inde tres tauri fulgurantes 
+                            <lb/>qui consumptis paschuis conuertentur in<reg> </reg>arbores. Gestabit primus fla
+                            <lb break="no"/>gellum uipereum. et a<reg> </reg>post genito dorsum suum diuertet. Nitetur 
+                            <lb/>ei flagellum ipse eripere. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> ab<reg> </reg>ultimo corripietur. Auertent mutuo 
+                            <lb/>a<reg> </reg>sese facies. donec uen<subst><del><unclear>a</unclear></del><add place="above">e</add></subst>natum ciffum proiecerint. Succedet eis 
+                            <lb/>colonus <placeName>albanie</placeName>. cui a<reg> </reg>dorso imminebit serpens. Uacabit ipse 
+                            <lb/>tellurem subuertere. ut patrie segetibus candeant. Laborabit 
+                            <lb/>serpens uenenum diffundere. ne herbe in<reg> </reg>messes proueniant. 
+                            <lb/>Letali clade deficiet populus. et menia urbium desolabuntur. 
+                            <lb/>Dabitur in<reg> </reg>remedium <placeName>urbs claudii</placeName>. que alumpnam flagellantis in
+                            <lb break="no"/>terponet. Statera<add place="above" resp="#PMcorr1">m</add> namque medicine gestabit. et in<reg> </reg>breui reno
+                            <lb break="no"/>uabitur insula. De<surplus> </surplus>inde duo subsequentur sceptrum. quibus cornutus 
+                            <lb/>draco ministrabit. Adueniet alter in<reg> </reg>ferro. et uolantem equita
+                            <lb break="no"/>bit serpentem. Nudato corpore insidebit dorso. et dexteram caude 
+                            <lb/>iniciet. clamore ipsius excitabuntur maria. et timorem secundo ini
+                            <lb break="no"/>ciet. Secundus itaque sociabitur leoni. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> exorta lite congressum facient. 
+                            <pb n="221v"/>
+                            <lb/>Mutuis cladibus succumbent mutuo. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> feritas belue preualebit<supplied reason="omitted">.</supplied> 
+                            <lb/>Superueniet quidam in<reg> </reg>timpano et cithara. et demulcebit leonis 
+                            <lb/>seuiciam. Pacificabuntur ergo naciones regni. et leones ad<reg> </reg>state
+                            <lb break="no"/>ram prouocabunt. Locata sede ad<reg> </reg>pensas studebit. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> palmas 
+                            <lb/>in<reg> </reg><placeName>albaniam</placeName> extendet. Tristabuntur ergo aquilones prouincie. et 
+                            <lb/>hostia templorum reserabunt. Signifer lupus conducet turmas 
+                            <lb/>et <placeName>cornubiam</placeName> cauda sua circumcinget. Resistet ei miles in 
+                            <lb/>curru. qui populum illum in<reg> </reg>aprum mutabit. Vastabit igitur aper 
+                            <lb/>prouincias. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> in<reg> </reg>profundo <placeName>sabrine</placeName> occultabit caput. Amplexa
+                            <lb break="no"/>bitur homo leonem in<reg> </reg>uino. et fulgor auri oculos intuen
+                            <lb break="no"/>cium excecabit. Candebit argentum in<reg> </reg>circuitu. et diuersa 
+                            <lb/>torcularia uexabit. Inposito uino inebriabuntur mortales. 
+                            <lb/>postposito<surplus> </surplus>que celo in<reg> </reg>terram prospicient. Ab eis uultus auertent 
+                            <lb/>sidera. et solitum confundent cursum. Arebunt segetes hiis in
+                            <lb break="no"/>dignantibus<g ref="#f161">;</g> et humor conuexi negabitur. Radices et rami 
+                            <lb/>uices mutabunt. nouitas<surplus> </surplus>que rei erit in<reg> </reg>miraculum. Splen
+                            <lb break="no"/>dor solis electro <persName>mercurii</persName> languebit. et erit horror in
+                            <lb break="no"/>spicientibus. Mutabit clipeum <persName>stilbon <placeName>archadie</placeName></persName>. uocabit 
+                            <lb/><persName>uenerem</persName> galea <persName>martis</persName>. Galea <persName>martis</persName> umbram conficiet. 
+                            <lb/>transibit terminos furor <persName>mercurii</persName>. Nudabit <persName>orion</persName> ensem 
+                            <pb n="222r"/>
+                            <lb/>fereus. uexabit nubes <persName>phebus</persName> equoreus. Exibit <persName>iupiter</persName> licitas se
+                            <lb break="no"/>mitas. et <persName>uenus</persName> deseret statutas lineas. <persName>saturni</persName> sideris liuido 
+                            <lb/>corruet. et falce recurua mortales perimet. Bis<surplus> </surplus>senus numerus do
+                            <lb break="no"/>morum siderum. deflebit hospites ita transcurrere. Obmittent <persName>ge
+                                <lb break="no"/>mini</persName> complex<subst><del>o</del><add place="above">u</add></subst>s solitos. et <persName>urnam</persName> in<reg> </reg>fontes prouocabunt. Pensa <persName>libre</persName> oblique 
+                            <lb/>pendebunt. donec <persName>aries</persName> recurua cornua sua supponat. Cauda <persName>scor
+                                <lb break="no"/>pionis</persName> procreabit fulgura. et <persName>cancer</persName> cum sole litigabit. Ascendet 
+                            <lb/><persName>uirgo</persName> deorsum <persName>sagittarii</persName>. et flores uirgineos obfuscabit. Currus 
+                            <lb/>lune turbabit zodiacum. et in<reg> </reg>fletum prorumpent <persName>pleiades</persName>. Officio 
+                            <lb/><persName>iani</persName> nulla redibunt. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> clausa ianua in<reg> </reg>crepidinibus <persName>adriane</persName> de
+                            <lb break="no"/>litebit. In<reg> </reg>ictu radii exurgent equora. et puluis ueterorum renoua
+                            <lb break="no"/>bitur. Confligent uenti diro sufflamine. et sonitum inter sidera 
+                            <lb/>conficient.</said>
+                    </p>
                 </div>
+                <pb n="222v"/>
             </div>
             <div n="3" type="textpart" subtype="work">
                 <pb n="223r"/>
@@ -13661,7 +14050,7 @@
                 </lg>
                 <lg>
                     <lb/><l>Per duo bis centum iungas nonagintaque mille</l>
-                    <lb/><l>Fraude sue gentis: gallus trimerabitur <unclear>ille</unclear></l>
+                    <lb/><l>Fraude sue gentis gallus trimerabitur <unclear>ille</unclear></l>
                 </lg>
                 <lg>
                     <lb/><l>Aquila consurget; aprum sibi consociabit</l>
