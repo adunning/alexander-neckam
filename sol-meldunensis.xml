@@ -45,19 +45,20 @@
             </p>
             <gb n="1"/>
             <pb n="3r"/>
+            <fw><del><unclear>Cyrencestrie</unclear></del></fw>
             <div n="1" type="textpart" subtype="work">
                 <div n="Epist" type="textpart" subtype="book">
                     <head rend="red margin-inner">Epistula.</head>
                     <ab>
                         <lg>
-                            <l><lb/>Sol meldunensis et cinthia lux monachorum.</l>
-                            <l><lb/>Suscipiat tua queso nouum dignatio carmen<g ref="#f161">;</g></l>
-                            <l><lb/>Quod tibi <persName>Galfridi</persName> deuotio <seg xml:id="FL0-a">simplicis</seg><g ref="#f161">;</g> offert.</l>
+                            <lb/><l>Sol meldunensis et cinthia lux monachorum.</l>
+                            <lb/><l>Suscipiat tua queso nouum dignatio carmen<g ref="#f161">;</g></l>
+                            <lb/><l>Quod tibi <persName>Galfridi</persName> deuotio <seg xml:id="FL0-a">simplicis</seg><g ref="#f161">;</g> offert.</l>
                             <note place="margin-outer" corresp="#FL0-a">Simplex uocatur claustralis. dicitur et simplex qui sine plica duplicitatis est.</note>
-                            <l><lb/>Te correctorem sicio pastor pie<g ref="#f1f9">~</g> limam<g ref="#f161">;</g></l>
-                            <l><lb/>Apponas operi. qui corrigis aspera claustri.</l>
-                            <l><lb/>Sis pius indultor culpe. Iudexque benignus<g ref="#f161">;</g></l>
-                            <l><lb/>Absoluas<g ref="#f1e2">,</g> quod deliqui<add place="overstrike">t</add> presumptio lingue.</l>
+                            <lb/><l>Te correctorem sicio pastor pie<g ref="#f1f9">~</g> limam<g ref="#f161">;</g></l>
+                            <lb/><l>Apponas operi. qui corrigis aspera claustri.</l>
+                            <lb/><l>Sis pius indultor culpe. Iudexque benignus<g ref="#f161">;</g></l>
+                            <lb/><l>Absoluas⸝ quod deliqui<add place="overstrike">t</add> presumptio lingue.</l>
                         </lg>
                     </ab>
                 </div>
