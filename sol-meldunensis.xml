@@ -14120,6 +14120,70 @@
                         <lb/><l><hi rend="fill-red">D</hi>onec subueniat morbo. <persName>frix</persName> siue <persName>lacena</persName>.</l>
                     </lg>
                 </div>
+                <div n="3" type="textpart" subtype="section">
+                    <head rend="margin-outer red">¶ Respontio <persName>magistri petri Blesensis</persName>.</head>
+                    <lg>
+                        <lb/><l><hi rend="dropcap2 blue trim-red">S</hi>cribo. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> inuitus. inuitat enim graue uitis<g ref="#f161">;</g></l>
+                        <lb/><l><hi rend="spaced fill-red">M</hi>e probum. grauius improbiusque loqui.</l>
+                        <lb/><l><hi rend="spaced fill-red">I</hi>mprobe quid reprobas. quod pagina sacraque<!-- sacra quod W --> usus<g ref="#f161">;</g></l>
+                        <lb/><l><hi rend="spaced fill-red">Q</hi>uod probat utilitas ipsa. quod ipse deus.</l>
+                        <lb/><l><hi rend="spaced fill-red">P</hi>er uerbi uerbum. de<reg> </reg>uitis munere. munus<g ref="#f161">;</g></l>
+                        <lb/><l><hi rend="spaced fill-red">C</hi>onficitur uite. sanctificante manu.</l>
+                        <lb/><l><hi rend="spaced fill-red">H</hi>inc ubi conficitur <expan><abbr><am>x&#x365;</am></abbr><ex>christi</ex></expan> cruor. hinc procul absit.</l>
+                        <lb/><l><hi rend="spaced fill-red">P</hi>otus furfureus. sulfureusque liquor.</l>
+                        <lb/><l><hi rend="spaced fill-red">I</hi>n<reg> </reg>uinum conuertit aquas prece matris. aquarum<g ref="#f161">;</g></l>
+                        <lb/><l><hi rend="spaced fill-red">C</hi>onditor. at numquam ceruisiauit eas.</l>
+                        <lb/><l><hi rend="spaced fill-red">C</hi>ur igitur uino prefertur simia uino?<!-- uini W --></l>
+                        <lb/><l><hi rend="spaced fill-red">H</hi>orrendumque genus deg<supplied reason="omitted">e</supplied>nerantis aque?</l>
+                        <lb/><l><hi rend="spaced fill-red">M</hi>utuat a<reg> </reg>uino quod inebriat et quod acessit.</l>
+                        <lb/><l><hi rend="spaced fill-red">I</hi>n<reg> </reg>solis uinum sic imitata malis.</l>
+                        <lb/><l><hi rend="spaced fill-red">O</hi> labor infelix dampnataque sollicitudo<g ref="#f161">;</g></l>
+                        <lb/><l><hi rend="spaced fill-red">Q</hi>ue studuit quod aquis ebrius esset homo.</l>
+                        <lb/><l><hi rend="spaced fill-red">O</hi>bicis<note type="new-hand" place="right">obijcis</note> incestum <persName>loth</persName> uino. non ibi uini<g ref="#f161">;</g></l>
+                        <lb/><l><hi rend="spaced fill-red">C</hi>ulpa. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> in<reg> </reg>uino<g ref="#f161">;</g> non habuisse modum.</l>
+                        <pb n="224r"/>
+                        <lb/><l><hi rend="spaced fill-red">P</hi>eccauit potor. non potus. ut in patre primo<g ref="#f161">;</g></l>
+                        <lb/><l><hi rend="spaced fill-red">N</hi>on cibus in<reg> </reg>culpa. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> gula sola fuit.</l>
+                        <lb/><l><hi rend="spaced fill-red">Q</hi>uicquid agis peccas nisi sis moderatus. et ipsam<g ref="#f161">;</g></l>
+                        <lb/><l><hi rend="spaced fill-red">I</hi>usticiam librat<g ref="#f1e2">,</g><!-- comma --> iustificat que modus.</l>
+                        <lb/><l><hi rend="spaced fill-red">M</hi>agna quidem cerebri est turbatio. quod cerebrose<g ref="#f161">;</g></l>
+                        <lb/><l><hi rend="spaced fill-red">C</hi>eruisiam laudat ceruisialis homo.</l>
+                        <lb/><l><hi rend="spaced fill-red">C</hi>ognata urine. fecis germana uidetur<g ref="#f161">;</g></l>
+                        <lb/><l><hi rend="spaced fill-red">N</hi>on hominis potus. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> cibus <expan><abbr rend="supraline">e</abbr><ex>ss</ex><abbr rend="supraline">e</abbr><am>.</am></expan> suis.</l>
+                        <lb/><l><hi rend="spaced fill-red">V</hi>t breuiter signes quid et unum<!-- unde W --> sit. aspice signum<g ref="#f161">;</g></l>
+                        <lb/><l><hi rend="spaced fill-red">C</hi>eruisie. factum stramine<g ref="#f1f9">~</g> fece litum.</l>
+                        <lb/><l><hi rend="spaced fill-red">D</hi>um sine felle iocor. quia te cognosco iocosum<g ref="#f161">;</g></l>
+                        <lb/><l><hi rend="spaced fill-red">I</hi>ocunde admittas. et sine felle iocum.</l>
+                    </lg>
+                </div>
+                <div n="4" type="textpart" subtype="section">
+                    <head rend="margin-outer red">
+                        <lb/>¶ Magister alexander 
+                        <lb/><expan><abbr>D</abbr><ex>omi</ex><abbr rend="supraline">no</abbr></expan>. <expan>T<am>.</am><ex>homae</ex></expan> abbati <placeName>claudie</placeName>.</head>
+                    <lg>
+                        <lb/><l><hi rend="enlarged fill-red">M</hi>unus. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> munusculum tibi mitto <persName>thoma</persName>.</l>
+                        <lb/><l><hi rend="enlarged fill-red">O</hi>ptans ut nec uideas <persName>romam</persName>. nec te <persName>roma</persName>.</l>
+                        <lb/><l><hi rend="enlarged fill-red">N</hi>ec <orgName>romanum</orgName> audias rursus <seg xml:id="FLM-4-1">ydioma</seg>.</l><note corresp="#FLM-4-1" place="right">¶ Ydioma. est in<reg> </reg>gallico<g ref="#f161">;</g> <foreign xml:lang="fr">language</foreign>.</note>
+                        <lb/><l><hi rend="enlarged fill-red">V</hi>ix minus<!-- munus H --> displiceat tibi uile scoma.</l>
+                        <lb/><l><orgName><hi rend="enlarged fill-red">R</hi>omanorum</orgName> oculos excecet <seg xml:id="FLM-4-2">glaucoma</seg>.</l><note corresp="#FLM-4-2" place="right">¶ Glaucoma. idem est quod macula oculi. gallice<g ref="#f161">;</g> <foreign xml:lang="fr">maele</foreign>.</note>
+                        <lb/><l><hi rend="enlarged fill-red">R</hi>euertentes felix nos reduxit duploma.</l>
+                        <lb/><l><persName><hi rend="enlarged fill-red">C</hi>laudie</persName> te teneat sancti claustri doma.</l>
+                        <lb/><l><hi rend="enlarged fill-red">I</hi>bi corpus maceres. ibi carnem doma.</l><note place="right" type="new-hand"><unclear>alicia</unclear></note>
+                        <lb/><l><hi rend="enlarged fill-red">P</hi>ugnantem cum uiciis te tegat<!-- teget H --> opploma.</l>
+                        <lb/><l><hi rend="enlarged fill-red">V</hi>t uirtutum segetes met<subst><del>e</del><add place="above">a</add></subst>s et ammoma.</l>
+                        <lb/><l><hi rend="enlarged fill-red">N</hi>ec de<!-- te H --> ficus foliis texas perizoma.</l>
+                        <lb/><l><hi rend="enlarged fill-red">N</hi>uces <persName>amarillidis</persName>. <persName>galatee</persName> poma<g ref="#f161">;</g></l>
+                        <lb/><l><hi rend="enlarged fill-red">C</hi>ontempnas. nec musice cures anxioma.</l>
+                        <lb/><l><hi rend="enlarged fill-red">N</hi>ec uerborum faleras. aut colon. aut coma.</l>
+                        <lb/><l><hi rend="enlarged fill-red">N</hi>ec te uincat <placeName>cipridis</placeName> facies uel coma.</l>
+                        <lb/><l><hi rend="enlarged fill-red">N</hi>ec sis bos inaniter missus ad ceroma.</l>
+                        <lb/><l><hi rend="enlarged fill-red">S</hi>et donorum gracie sequere sinthoma.</l>
+                        <lb/><l><hi rend="enlarged fill-red">A</hi>bsit ut sirenum te dulce uincat croma.</l>
+                        <lb/><l><hi rend="enlarged fill-red">V</hi>irtutum te cassia. gutta cinnamoma<g ref="#f161">;</g></l>
+                        <lb/><l><hi rend="enlarged fill-red">R</hi>ecreent. ut celicum sentias aroma.</l>
+                    </lg>
+                </div>
+                <pb n="224v"/>
             </div>
             <div n="4" type="textpart" subtype="work">
                 <pb n="236v"/><!-- This page needs some serious work. -->
