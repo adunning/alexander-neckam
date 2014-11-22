@@ -5154,7 +5154,7 @@
                                 <lb/><l>Tucior ut per te sit littera nostra precatur.</l>
                                 <lb/><l>Hic si forte tibi liber inconcinna loquatur<g ref="#f161">;</g></l>
                                 <lb/><l>Iudex parce sibi ne statim proiciatur.</l>
-                                <lb/><l>Sepe relegisse cartam iuuat et miminisse.</l>
+                                <lb/><l>Sepe relegisse cartam iuuat et meminisse.</l>
                                 <lb/><l>Sepius adde manum. quod habebis erit puto planum.</l></lg>
                         </ab>
                     </div>
@@ -13575,6 +13575,50 @@
                                 <pb n="186r"/>
                                 <fw place="top" type="new-hand">stultiloquium</fw>
                                 <lb/>potentissimi. Rapsaces malicie uenenum euomuit 
+                                <lb/>inpudenter. dum non solum <persName>ezechie</persName> contumelias<g ref="#f161">;</g> <sic>sed</sic> 
+                                <lb/>deo blasphemiam ausus est inferre. <expan><abbr>S<am>&#xA76B;</am></abbr><ex>et</ex></expan> protexit dominus 
+                                <lb/>urbem suam. et hostium numerosa strage<g ref="#f161">;</g> punita est 
+                                <lb/>rapsacis blasphemia. Labia igitur inspientis<g ref="#f161">;</g> ut 
+                                <lb/>dicit <persName>salomon</persName> precipitabunt eum. <quote source="Bible.Vul:Eccl.10.13">Initium uerborum 
+                                    <lb/>eius<g ref="#f161">;</g> stulticia. et nouissimum oris eius error pessimus.</quote> 
+                                <lb/><subst><del>p</del><add place="overstrike">P</add></subst>roponamus aliquem in<reg> </reg>exemplum cuius. uerborum inicium<g ref="#f161">;</g> 
+                                <lb/>fuerit stulticia. et nouissimum oris eius<g ref="#f161">;</g> error pessimus. 
+                                <lb/>lectio geneseos docet <persName>chaim</persName> conuenisse fratrem suum 
+                                <lb/><persName>abel</persName><g ref="#f161">;</g> sub hac forma uerborum. <quote source="Bible.Vul:Gen.4.8"><said>Egrediamur foras.</said></quote> O uerbum 
+                                <lb/>deceptionis. o uerbum plenum insidiis. Fratrem circumueniens 
+                                <lb/>frater<g ref="#f161">;</g> claustri causatur angustias. o<subst><del>c</del><add place="overstrike">t</add></subst>ium deridet 
+                                <lb/>quietis<g ref="#f161">;</g> monet ut foris egrediantur. Rident inquit 
+                                <lb/>prata. tellus uestitur gramine<g ref="#f161">;</g> silue contentu 
+                                <lb/>uolucrum resonant. Vultis ne finem uerborum 
+                                <lb/><persName>cain</persName> audire? Vultis. <quote source="Bible.Vul:Gen.4.13">Maior est inquit iniquitas 
+                                    <lb/>mea<g ref="#f161">;</g> quam ut ueniam merear.</quote> Sic sic a uoluptatum 
+                                <lb/>illecbris<g ref="#f161">;</g> perducitur quis in<reg> </reg>abyssum desperationis.
+                            </ab>
+                        </div>
+                    </div>
+                    <div n="42" subtype="chapter" type="textpart">
+                        <head rend="inline red">Narratiuncula De stutaloquio.</head>
+                        <div n="1" type="textpart" subtype="section">
+                            <head rend="margin-outer red frame-blue">Ex eodem tractatu.</head>
+                            <ab>
+                                <lb/><hi rend="dropcap2 red trim-blue">P</hi>etierunt rane⸝ 
+                                <lb/>ut natura regem eis perficeret. datus eis <expan><abbr rend="supraline">e</abbr><ex>st</ex><am>.</am></expan> malus<g ref="#f161">;</g> 
+                                <lb/>cursui nauis<g ref="#f161">;</g> ratione uetustatis multe<g ref="#f1f9">~</g> minus 
+                                <lb/>idoneus. Rane uero moleste tulerunt talem sibi 
+                                <lb/>datum esse rectorem<g ref="#f161">;</g> qui se pedibus earum con
+                                <lb break="no"/>culcari permitteret. Et naturam iterato conuenientes<g ref="#f161">;</g> quam ut ueniam merearciconiam que preesset eis acceperunt a natura. 
+                                <pb n="186v"/>
+                                <lb/>instancia petitionis crebre ipsarum<g ref="#f161">;</g> molestata. 
+                                <lb/>Salutant reg<subst><del>em</del><add place="above">inam</add></subst> no<subst><del>uam</del><add place="above">uum</add></subst><!-- What is going on here? -->. et salutantes<g ref="#f161">;</g> a salu
+                                <lb break="no"/>tata deglutiuntur. Penitencia ducitur plebecula 
+                                <lb/><seg xml:id="FL2-42-1-1">coaxantium ranarum</seg><note corresp="#FL2-42-1-1" place="left">¶ Ranarum proprium est<g ref="#f161">;</g> coaxare.</note>. nec factum suum misere<g ref="#f1f9">~</g> in 
+                                <lb/>irritum reuocare potuerunt. Hinc est quod mur
+                                <lb break="no"/>mure suo<g ref="#f161">;</g> coaxando querelas suas exponunt. 
+                                <lb/>set uenti murmur ipsarum<g ref="#f1f9">~</g> per aera dissipant. Con
+                                <lb break="no"/>sumitur ipsarum mutilis labor. et licet ieme acce
+                                <lb break="no"/>dente propter ciconie recessum paulisper respirent<g ref="#f161">;</g> 
+                                <lb/>estate tamen sequenti<g ref="#f1f9">~</g> augmentum miserie multipli
+                                <lb break="no"/>cis cum fenore incurrunt.
                             </ab>
                         </div>
                     </div>
