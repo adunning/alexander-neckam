@@ -10000,7 +10000,7 @@
                                 <lb break="no"/>ulatio respondit alter<g ref="#f161">;</g> si non deprehenditur. Vtri istorum
                                 <lb/>philosophorum assensum prebes? Reor te reum<g ref="#f161">;</g>
                                 <lb/>responsurum. <label place="margin" rend="red">.<expan><abbr>V</abbr><am>&#x33E;</am><ex>ersus</ex></expan>.</label><quote source="Publius Ovidius Naso, Ars Amatoria 2.313"><l>Si latet ars<g ref="#f161">;</g> prodest. confert de
-                                        <lb break="no"/>prensa pudorem.</l></quote> O acuta respons<subst><del>e</del><add place="above">i</add></subst>o hercule
+                                        <lb break="no"/>prensa pudorem.</l></quote> O acuta respons<subst><del>e</del><add place="above">i</add></subst>o <persName>hercule</persName>
                                 <lb/>nosti<g ref="#f1f9">~</g> quod turpia<del><g ref="#f161">;</g></del> operiri desiderant. Iussus est enim
                                 <lb/>alege<g ref="#f1f9">~</g> secendens adrequisita nature. palo humo
                                 <lb/>fossa<g ref="#f1f9">~</g> egesta recondere. <metamark function="flag" rend="nota"/>Facies rugis arata<g ref="#f161">;</g>
@@ -14186,50 +14186,116 @@
                 <pb n="224v"/>
                 <div n="5" type="textpart" subtype="section">
                     <head rend="margin-outer red frame-blue">¶ Versus magistri alexandri nequam. de Vino. liber primus.</head>
-                    <lg>
-                        <lb/><l><hi rend="dropcap2 red trim-blue">D</hi>um<!-- cum H --> corpus curas<subst><del>.</del><add place="overstrike"><g ref="#f161">;</g></add></subst> studeas subducere curas.</l>
-                        <lb/><l><hi rend="spaced fill-red">V</hi>exatus cur es curis? <hi rend="fill-red">C</hi>orpus bene cures.</l>
-                        <lb/><l><hi rend="spaced fill-red">S</hi>i corpus laute recreas<g ref="#f161">;</g> hoc dico <foreign xml:lang="fr">leaute</foreign>.</l>
-                        <lb/><l><hi rend="spaced fill-red">Q</hi>ui burse parcit<g ref="#f161">;</g> uentrem crebro male farcit.</l>
-                        <lb/><l><hi rend="spaced fill-red">Q</hi>ui parcit burse<g ref="#f161">;</g> fatis tradi patitur se.</l>
-                        <lb/><l><hi rend="spaced fill-red">D</hi>um iocundatur corpus<g ref="#f161">;</g> mens deliciatur.</l>
-                        <lb/><l><hi rend="spaced fill-red">F</hi>elix est hora qua rex lauat interiora.</l>
-                        <lb/><l><hi rend="spaced fill-red">N</hi>obilis ille deus<g ref="#f161">;</g> qui dicitur <expan><abbr rend="supraline">e</abbr><ex>ss</ex><abbr rend="supraline">e</abbr><am>.</am></expan> <persName>lieus</persName>.</l>
-                        <lb/><l><hi rend="spaced fill-red">Q</hi>ui cyatos<g ref="#f161">;</g> lutres amplos. uteros facit utres.</l>
-                        <lb/><l><hi rend="spaced fill-red">M</hi>ens sibi blanditur<g ref="#f161">;</g> quotiens caro sic sepelitur.</l>
-                        <lb/><l><hi rend="spaced fill-red">E</hi>bria sedatur mens. ebria philo<add place="above">so</add>phatur.</l>
-                        <lb/><l><hi rend="spaced fill-red">M</hi>ens est plena deo si<reg> </reg>sit<!-- fit H --> caro plena <persName>lyeo</persName>.</l>
-                        <lb/><l><hi rend="spaced fill-red">V</hi>ix bene stat stomacho nisi plena sit<!-- fit H --> amphora <persName>bacho</persName>.</l>
-                        <lb/><l><hi rend="spaced fill-red">C</hi>um stomacho bene stat<g ref="#f161">;</g> mox menbris gaudia prestat.</l>
-                        <lb/><l><hi rend="spaced fill-red">C</hi>um gaudet uenter<g ref="#f161">;</g> ludit natura potenter.</l>
-                        <lb/><l><hi rend="spaced fill-red">C</hi>um uenter gaudet<g ref="#f161">;</g> plus <persName>cesare</persName> <orgName>greculus</orgName> audet.</l>
-                        <lb/><l><hi rend="spaced fill-red">P</hi>hilosophis dispar tunc non es <orgName>grecule</orgName> diis par.</l>
-                        <lb/><l><hi rend="spaced fill-red">V</hi>entre renitente<g ref="#f161">;</g> regnabunt gaudia mente.</l>
-                        <lb/><l><hi rend="spaced fill-red">Q</hi>uis liquor absque mero pinguem sompnum dabit <persName xml:id="FLM-5-1">hero</persName>?</l><note corresp="#FLM-5-1" place="left"><expan><abbr><am>.</am>s<am>.</am></abbr><ex>cilicet</ex></expan> amice leandri.</note>
-                        <lb/><l><hi rend="spaced fill-red">V</hi>el quis <persName>alexandro</persName> merenti siue <persName>leandro</persName>?</l>
-                        <lb/><l><hi rend="spaced fill-red">S</hi>ompno repente ui <persName>bachi</persName><g ref="#f161">;</g> magna repente<g ref="#f161">;</g></l>
-                        <lb/><l><hi rend="spaced fill-red">P</hi>ax aderit. letus sopor hic est atque quietus.</l>
-                        <lb/><l><hi rend="spaced fill-red">C</hi>elesti rore perfundor. quando liquore<g ref="#f161">;</g></l>
-                        <lb/><l><hi rend="spaced fill-red">V</hi>tor diuino. certo uite duce <seg xml:id="FLM-5-2"><!-- assuming the 's' above is for 'Serlo'? -->uino</seg>.</l>
-                        <lb/><l><hi rend="spaced fill-red">N</hi>e desit uita, cum uinum sit tibi uita.</l>
-                        <lb/><l><hi rend="spaced fill-red">N</hi>ascitur ex uite communis gloria uite.</l>
-                    </lg>
-                    <note corresp="#FLM-5-2" place="left">
-                        <lb/>Serlo.
-                        <lb/><l>Et breue sit dedecus. et longum decus 
-                            <lb/>amicus.</l> <l>Hostibus eueniat 
-                            <lb/>dedecus atque decus.</l> 
-                        <lb/><l>In nobis amor. In reliquis sit amor.</l>
-                    </note>
-                    <lg>
-                        <lb/><l><hi rend="spaced fill-red">V</hi>ina libens libo tunc audax carmina scribo.</l>
-                        <lb/><l><hi rend="spaced fill-red">S</hi>umens uina bibo. producte deinde rebibo.<!-- relibo H --></l>
-                        <lb/><l><hi rend="spaced fill-red">V</hi>ix umquam rebibo. vix <persName>bachi</persName> pocula libo.</l>
-                        <lb/><l><hi rend="spaced fill-red">C</hi>um uinum poto<g ref="#f161">;</g> congaudeo corpore toto.</l>
-                        <pb n="225r"/>
-                        <lb/><l><hi rend="spaced fill-red">C</hi>um uinum poto<g ref="#f161">;</g> faciem lauo corpore loto.</l>
-                        <lb/><l><hi rend="spaced fill-red">T</hi>unc fundo lacrimas. tunc uersificor quasi <persName>primas</persName>.</l>
-                        <lb/><l><hi rend="spaced fill-red">T</hi>unc fundo lacrimas. tunc laudes uendico primas.</l>
+                    <div n="1" type="textpart" subtype="book">
+                        <lg>
+                            <lb/><l><hi rend="dropcap2 red trim-blue">D</hi>um<!-- cum H --> corpus curas<subst><del>.</del><add place="overstrike"><g ref="#f161">;</g></add></subst> studeas subducere curas.</l>
+                            <lb/><l><hi rend="spaced fill-red">V</hi>exatus cur es curis? <hi rend="fill-red">C</hi>orpus bene cures.</l>
+                            <lb/><l><hi rend="spaced fill-red">S</hi>i corpus laute recreas<g ref="#f161">;</g> hoc dico <foreign xml:lang="fr">leaute</foreign>.</l>
+                            <lb/><l><hi rend="spaced fill-red">Q</hi>ui burse parcit<g ref="#f161">;</g> uentrem crebro male farcit.</l>
+                            <lb/><l><hi rend="spaced fill-red">Q</hi>ui parcit burse<g ref="#f161">;</g> fatis tradi patitur se.</l>
+                            <lb/><l><hi rend="spaced fill-red">D</hi>um iocundatur corpus<g ref="#f161">;</g> mens deliciatur.</l>
+                            <lb/><l><hi rend="spaced fill-red">F</hi>elix est hora qua rex lauat interiora.</l>
+                            <lb/><l><hi rend="spaced fill-red">N</hi>obilis ille deus<g ref="#f161">;</g> qui dicitur <expan><abbr rend="supraline">e</abbr><ex>ss</ex><abbr rend="supraline">e</abbr><am>.</am></expan> <persName>lieus</persName>.</l>
+                            <lb/><l><hi rend="spaced fill-red">Q</hi>ui cyatos<g ref="#f161">;</g> lutres amplos. uteros facit utres.</l>
+                            <lb/><l><hi rend="spaced fill-red">M</hi>ens sibi blanditur<g ref="#f161">;</g> quotiens caro sic sepelitur.</l>
+                            <lb/><l><hi rend="spaced fill-red">E</hi>bria sedatur mens. ebria philo<add place="above">so</add>phatur.</l>
+                            <lb/><l><hi rend="spaced fill-red">M</hi>ens est plena deo si<reg> </reg>sit<!-- fit H --> caro plena <persName>lyeo</persName>.</l>
+                            <lb/><l><hi rend="spaced fill-red">V</hi>ix bene stat stomacho nisi plena sit<!-- fit H --> amphora <persName>bacho</persName>.</l>
+                            <lb/><l><hi rend="spaced fill-red">C</hi>um stomacho bene stat<g ref="#f161">;</g> mox menbris gaudia prestat.</l>
+                            <lb/><l><hi rend="spaced fill-red">C</hi>um gaudet uenter<g ref="#f161">;</g> ludit natura potenter.</l>
+                            <lb/><l><hi rend="spaced fill-red">C</hi>um uenter gaudet<g ref="#f161">;</g> plus <persName>cesare</persName> <orgName>greculus</orgName> audet.</l>
+                            <lb/><l><hi rend="spaced fill-red">P</hi>hilosophis dispar tunc non es <orgName>grecule</orgName> diis par.</l>
+                            <lb/><l><hi rend="spaced fill-red">V</hi>entre renitente<g ref="#f161">;</g> regnabunt gaudia mente.</l>
+                            <lb/><l><hi rend="spaced fill-red">Q</hi>uis liquor absque mero pinguem sompnum dabit <persName xml:id="FLM-5-1">hero</persName>?</l><note corresp="#FLM-5-1" place="left"><expan><abbr><am>.</am>s<am>.</am></abbr><ex>cilicet</ex></expan> amice leandri.</note>
+                            <lb/><l><hi rend="spaced fill-red">V</hi>el quis <persName>alexandro</persName> merenti siue <persName>leandro</persName>?</l>
+                            <lb/><l><hi rend="spaced fill-red">S</hi>ompno repente ui <persName>bachi</persName><g ref="#f161">;</g> magna repente<g ref="#f161">;</g></l>
+                            <lb/><l><hi rend="spaced fill-red">P</hi>ax aderit. letus sopor hic est atque quietus.</l>
+                            <lb/><l><hi rend="spaced fill-red">C</hi>elesti rore perfundor. quando liquore<g ref="#f161">;</g></l>
+                            <lb/><l><hi rend="spaced fill-red">V</hi>tor diuino. certo uite duce <seg xml:id="FLM-5-2"><!-- assuming the 's' above is for 'Serlo'? -->uino</seg>.</l>
+                            <lb/><l><hi rend="spaced fill-red">N</hi>e desit uita, cum uinum sit tibi uita.</l>
+                            <lb/><l><hi rend="spaced fill-red">N</hi>ascitur ex uite communis gloria uite.</l>
+                        </lg>
+                        <note corresp="#FLM-5-2" place="left">
+                            <lb/>Serlo.
+                            <lb/><l>Et breue sit dedecus. et longum decus 
+                                <lb/>amicus.</l> <l>Hostibus eueniat 
+                                <lb/>dedecus atque decus.</l> 
+                            <lb/><l>In nobis amor. In reliquis sit amor.</l>
+                        </note>
+                        <lg>
+                            <milestone unit="undefined" rend="paraph 4-line fill-red"/><lb/><l><hi rend="spaced fill-red">V</hi>ina libens libo tunc audax carmina scribo.</l>
+                            <lb/><l><hi rend="spaced fill-red">S</hi>umens uina bibo. producte deinde rebibo.<!-- relibo H --></l>
+                            <lb/><l><hi rend="spaced fill-red">V</hi>ix umquam rebibo. vix <persName>bachi</persName> pocula libo.</l>
+                            <lb/><l><hi rend="spaced fill-red">C</hi>um uinum poto<g ref="#f161">;</g> congaudeo corpore toto.</l>
+                            <pb n="225r"/>
+                            <lb/><l><hi rend="spaced fill-red">C</hi>um uinum poto<g ref="#f161">;</g> faciem lauo corpore loto.</l>
+                            <lb/><l><hi rend="spaced fill-red">T</hi>unc fundo lacrimas. tunc uersificor quasi <persName>primas</persName>.</l>
+                            <lb/><l><hi rend="spaced fill-red">T</hi>unc fundo lacrimas. tunc laudes uendico primas.</l>
+                            <lb/><l><hi rend="spaced fill-red">T</hi>unc fundo lacrimas. miserere precor deus ymas.</l>
+                            <lb/><l><hi rend="spaced fill-red">T</hi>unc fundo lacrimas. mens laudes respuit imas.</l>
+                            <lb/><l><hi rend="spaced fill-red">T</hi>unc lacrimas fundo. psallens loquor ore rotundo.</l>
+                            <lb/><l><hi rend="spaced fill-red">T</hi>unc lacrimas fundo ridens. ridensque<!-- ludensque H --> <seg xml:id="FLM-5-3">secundo</seg>.</l><note corresp="#FLM-5-3" place="above">aduerbialiter.</note>
+                            <lb/><l><hi rend="spaced fill-red">T</hi>unc lacrimas fundo ridens. ludensque<!-- ridensque H --> <seg xml:id="FLM-5-4">secundo</seg>.</l><note corresp="#FLM-5-4" place="above">uerbaliter.</note>
+                            <lb/><l><hi rend="spaced fill-red">T</hi>unc lacrimas fundo. guttas quas poto refundo.</l>
+                            <lb/><l><hi rend="spaced fill-red">T</hi>unc lacrimas fundo. tunc pungno. pectora tundo.</l>
+                            <lb/><l><hi rend="spaced fill-red">T</hi>unc lacrimas fundo. tunc do conuicia mundo.</l>
+                            <lb/><l><hi rend="spaced fill-red">T</hi>unc lacrimas fundo. lacrimis tunc crimina mundo.</l>
+                            <lb/><l><hi rend="spaced fill-red">T</hi>unc lacrimas fundo. munda est mens corpore mundo.</l>
+                            <lb/><l><hi rend="spaced fill-red">T</hi>unc lacrimas fundo. gemitus dans corde profundo.</l>
+                        </lg>
+                        <lg>
+                            <milestone unit="undefined" rend="paraph 4-line fill-red"/><lb/><l><hi rend="spaced fill-red">C</hi>ommendo uinum. commendet nauita pinum.</l>
+                            <lb/><l><hi rend="spaced fill-red">C</hi>ommendo uinum. commendet <placeName>kambria</placeName> <seg xml:id="FLM-5-5">sinum</seg>.</l><note corresp="#FLM-5-5" place="right">¶ Vas est simile mulctre. <handShift/><expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> <unclear>ee pygen</unclear></note>
+                            <lb/><l><hi rend="spaced fill-red">C</hi>ommendo uinum, commendet Grecia <seg xml:id="FLM-5-6">Linum</seg>.</l><note corresp="#FLM-5-6" place="right">¶ <persName>Io</persName> enim filia <persName>inachi</persName> regis <orgName>grecorum</orgName><g ref="#f161">;</g> in<reg> </reg>uentrix fuit lini.</note>
+                            <lb/><l><hi rend="spaced fill-red">V</hi>inum commendo. pro uino cetera uendo.</l>
+                            <lb/><l><hi rend="spaced fill-red">V</hi>inum commendo. maiorum uota sequendo.</l>
+                            <lb/><l><hi rend="spaced fill-red">V</hi>inum commendo? <hi rend="fill-red">S</hi>ic philosophorque bibendo.</l>
+                            <lb/><l><hi rend="spaced fill-red">V</hi>inum commendo. grates tibi <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>e</abbr></expan></persName> rependo.</l>
+                            <lb/><l><hi rend="spaced fill-red">V</hi>inum commendo. nec lene merum reprehendo.</l>
+                            <lb/><l><hi rend="spaced fill-red">V</hi>inum commendo. quo tendit mens<g ref="#f161">;</g> ego tendo.</l>
+                            <lb/><l><hi rend="spaced fill-red">E</hi>xoptatque caro. uinum non sumere raro.</l>
+                        </lg>
+                        <lg>
+                            <milestone unit="undefined" rend="paraph 4-line fill-red"/><lb/><l><hi rend="spaced fill-red">S</hi>i commendo merum<g ref="#f161">;</g> commendet gracia uerum.</l>
+                            <lb/><l><hi rend="spaced fill-red">Q</hi>uid commendo? Merum. Laus est et gloria rerum.</l><!-- good example for importance of punctuation -->
+                            <lb/><l><hi rend="spaced fill-red">H</hi>umano generi prebet solacia leta.</l>
+                            <lb/><l><hi rend="spaced fill-red">G</hi>rato successu dat tempora nostra quieta.</l>
+                            <lb/><l><persName><hi rend="spaced fill-red">B</hi>achus</persName> leticie pater est. dux philosophie.</l>
+                            <lb/><l><hi rend="spaced fill-red">E</hi>xacuit lumen. <hi rend="fill-red">G</hi>enio quoque prebet acumen.</l>
+                            <pb n="225v"/>
+                            <lb/><l><hi rend="spaced fill-red">S</hi>i desit mense <persName>bachus</persName><g ref="#f161">;</g> transuerberor ense.</l>
+                            <lb/><l><hi rend="spaced fill-red">T</hi>unc domus effulget cum uino mensa refulget.</l>
+                            <lb/><l><hi rend="spaced fill-red">Q</hi>uis domui presit si <persName>bachi</persName> gratia desit?</l>
+                            <lb/><l><hi rend="spaced fill-red">C</hi>uria celestis sine <persName>bacho</persName> sit tibi pestis.</l>
+                            <lb/><l><hi rend="spaced fill-red">A</hi>ulam pro<reg> </reg>caula reputes nisi ludat<!-- ludit H --> in<reg> </reg>aula<g ref="#f161">;</g></l>
+                            <lb/><l><hi rend="spaced fill-red">I</hi>lle puer sine quo <placeName>cypris</placeName> fit mestior equo.</l>
+                            <lb/><l><persName><hi rend="spaced fill-red">I</hi>upiter</persName> exultat cum <persName>bachum</persName> ludere cernit.</l>
+                            <lb/><l><hi rend="spaced fill-red">R</hi>eicit <persName>alcynoi</persName> <persName>cereris</persName> quoque pocula spernit.</l>
+                            <lb/><l><hi rend="spaced fill-red">C</hi>onqueritur mater pietatis. deficiente<g ref="#f161">;</g></l>
+                            <lb/><l><hi rend="spaced fill-red">V</hi>ino. <hi rend="fill-red">G</hi>audia mox ueniunt. uino ueniente.</l>
+                            <lb/><l><hi rend="spaced fill-red">G</hi>audia fugerunt nato <persName>iouis</persName> effugiente.</l>
+                            <lb/><l><hi rend="spaced fill-red">S</hi>et dolor aufugit<g ref="#f161">;</g> uino ueniente repente.</l>
+                            <lb/><l><persName><hi rend="spaced fill-red">I</hi>esus</persName> dans uinum letum facit architriclinum.</l>
+                            <lb/><l><hi rend="spaced fill-red">G</hi>audent conuiue. <hi rend="fill-red">V</hi>ini dator optime<g ref="#f161">;</g> uiue.</l>
+                            <lb/><l><hi rend="spaced fill-red">V</hi>ita diu uiuat. undam que fundere uinum<g ref="#f161">;</g></l>
+                            <lb/><l><hi rend="spaced fill-red">I</hi>ussit. quo letum subito scis architriclinum.</l>
+                            <lb/><l><hi rend="spaced fill-red">V</hi>ita quid est? <hi rend="fill-red">V</hi>itis. <hi rend="fill-red">Q</hi>uid uitis? <hi rend="fill-red">V</hi>ita. licebit.</l>
+                            <lb/><l><hi rend="spaced fill-red">E</hi>rgo merum fructum uite dare. nonne licebit?</l>
+                            <lb/><l><hi rend="spaced fill-red">A</hi>n liceat quero. respondens.<!-- respondes H --> immo licebit.</l>
+                            <lb/><l><hi rend="spaced fill-red">R</hi>ursum. <hi rend="fill-red">N</hi>onne deus uitis? Deus ergo <persName>lieus</persName>.</l>
+                            <lb/><l><hi rend="spaced fill-red">N</hi>amque dei natus deus est<g ref="#f1f9">~</g> liquor ergo beatus<g ref="#f161">;</g></l>
+                            <lb/><l><hi rend="spaced fill-red">E</hi>st uinum. <hi rend="fill-red">V</hi>ite fructus. quem do sine lite.</l>
+                            <lb/><l><hi rend="spaced fill-red">E</hi>rgo deum uite dare <persName>bachum</persName> censeo rite.</l>
+                            <lb/><l><hi rend="spaced fill-red">M</hi>unus diuinum nouerunt numina uinum.</l>
+                            <lb/><l><hi rend="spaced fill-red">S</hi>et uerum numen est mense. gloria⸝ lumen.</l>
+                            <lb/><l><hi rend="spaced fill-red">A</hi>gmine ferclorum ditetur mensa deorum.</l>
+                            <lb/><l><hi rend="spaced fill-red">C</hi>ultus pauper erit si <persName>bachi</persName> gloria deerit.</l>
+                            <lb/><l><hi rend="spaced fill-red">P</hi>ro <persName>bachi</persName> uultu de mense iudico cultu.</l>
+                            <lb/><l><persName><hi rend="spaced fill-red">B</hi>ache</persName> decus mundi terrarum mira potestas.</l>
+                            <lb/><l><hi rend="spaced fill-red">G</hi>entes das letas⸝ sub diro principe mestas.</l>
+<pb n="226r"/>
+                            <lb/><l><hi rend="spaced fill-red">V</hi>incis uictrices regum. uincisque tyrannos.</l>
+                            <lb/><l><hi rend="spaced fill-red">V</hi>incis pontifices. letos michi da precor annos.</l>
             </div>
             <div n="4" type="textpart" subtype="work">
                 <pb n="236v"/><!-- This page needs some serious work. -->
