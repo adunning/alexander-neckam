@@ -13625,7 +13625,7 @@
                     
                     
                     
-                    <gap reason="omittted" quantity="20" unit="folios"/>
+                    <gap reason="omitted" quantity="20" unit="folios"/>
                     <pb n="212v"/>
                     <div n="Envoi" subtype="chapter" type="textpart">
                         <lg><!-- Copied from Reginald of Canterbury: ed. Wright, *Anglo-Latin Satirical Poets and Epigrammatists*, 2:259–60 -->
@@ -14774,21 +14774,21 @@
                             <lb/><l><hi rend="spaced fill-red">T</hi>estudo cupiens ferri per inane<g ref="#f1f9">~</g> dolorem<g ref="#f161">;</g></l>
                             <pb n="233r"/>
                             <lb/><l><hi rend="spaced fill-red">E</hi>xponit uerbis talibus orsa suum.</l>
-                            <lb/><said><l><hi rend="spaced fill-red">I</hi>nuidisse <expan><abbr>m<am>&#x365;</am></abbr><ex>ichi</ex></expan> naturam sentio. uires<g ref="#f161">;</g></l>
-                                <lb/><l><hi rend="spaced fill-red">D</hi>esunt. nulla fuge spes datur. <hi rend="normal">H</hi>a <hi rend="fill-red">Q</hi>uid agam?</l>
-                                <lb/><l><hi rend="spaced fill-red">S</hi>i lateo<g ref="#f161">;</g> latebras manifestat semita squalens.</l>
-                                <lb/><l><hi rend="spaced fill-red">S</hi>i moueor<g ref="#f161">;</g> motus segnior esse nequit.</l>
-                                <lb/><l><hi rend="spaced fill-red">P</hi>ro clipeo<g ref="#f161">;</g> testam fragilem gero. lumina desunt.</l>
-                                <lb/><l><hi rend="spaced fill-red">T</hi>utior haut possum cornibus esse meis.</l>
-                                <lb/><l><hi rend="spaced fill-red">A</hi>litis auxilio <expan><abbr>m<am>&#x365;</am></abbr><ex>ichi</ex></expan> quod natura negauit<g ref="#f161">;</g></l>
-                                <lb/><l><hi rend="spaced fill-red">A</hi>ssequar. audaces sors iuuat. astra petam.</l>
-                                <lb/><l><hi rend="spaced fill-red">R</hi>egine uolucrum dabo munera. <hi rend="fill-red">N</hi>umina quamuis<g ref="#f161">;</g></l>
-                                <lb/><l><hi rend="spaced fill-red">S</hi>int irata<g ref="#f161">;</g> potest flectere gemma micans.</l>
-                                <lb/><l><hi rend="spaced fill-red">V</hi>rbes<g ref="#f1f9">~</g> cum uicis<g ref="#f1f9">~</g> campos. siluas. iuga. ualles<g ref="#f161">;</g></l>
-                                <lb/><l><hi rend="spaced fill-red">F</hi>lamina.<!-- extra m added by corrector? --> prata. lacus. cernere dulce puto.</l>
-                                <lb/><l><hi rend="spaced fill-red">C</hi>ernere tot rerum spe<add place="inline" resp="#FLMcorr-light">cie</add>s cupiet <persName>iouis</persName> ales.</l>
-                                <lb/><l><hi rend="spaced fill-red">A</hi>er tam purus me recreare potest.</l>
-                                <lb/><l><hi rend="spaced fill-red">O</hi>cia degeneres animos languentia reddunt.</l></said>
+                            <lb/><l><said><hi rend="spaced fill-red">I</hi>nuidisse <expan><abbr>m<am>&#x365;</am></abbr><ex>ichi</ex></expan> naturam sentio. uires<g ref="#f161">;</g></said></l>
+                            <lb/><l><said><hi rend="spaced fill-red">D</hi>esunt. nulla fuge spes datur. <hi rend="normal">H</hi>a <hi rend="fill-red">Q</hi>uid agam?</said></l>
+                            <lb/><l><said><hi rend="spaced fill-red">S</hi>i lateo<g ref="#f161">;</g> latebras manifestat semita squalens.</said></l>
+                            <lb/><l><said><hi rend="spaced fill-red">S</hi>i moueor<g ref="#f161">;</g> motus segnior esse nequit.</said></l>
+                            <lb/><l><said><hi rend="spaced fill-red">P</hi>ro clipeo<g ref="#f161">;</g> testam fragilem gero. lumina desunt.</said></l>
+                            <lb/><l><said><hi rend="spaced fill-red">T</hi>utior haut possum cornibus esse meis.</said></l>
+                            <lb/><l><said><hi rend="spaced fill-red">A</hi>litis auxilio <expan><abbr>m<am>&#x365;</am></abbr><ex>ichi</ex></expan> quod natura negauit<g ref="#f161">;</g></said></l>
+                            <lb/><l><said><hi rend="spaced fill-red">A</hi>ssequar. audaces sors iuuat. astra petam.</said></l>
+                            <lb/><l><said><hi rend="spaced fill-red">R</hi>egine uolucrum dabo munera. <hi rend="fill-red">N</hi>umina quamuis<g ref="#f161">;</g></said></l>
+                            <lb/><l><said><hi rend="spaced fill-red">S</hi>int irata<g ref="#f161">;</g> potest flectere gemma micans.</said></l>
+                            <lb/><l><said><hi rend="spaced fill-red">V</hi>rbes<g ref="#f1f9">~</g> cum uicis<g ref="#f1f9">~</g> campos. siluas. iuga. ualles<g ref="#f161">;</g></said></l>
+                            <lb/><l><said><hi rend="spaced fill-red">F</hi>lamina.<!-- extra m added by corrector? --> prata. lacus. cernere dulce puto.</said></l>
+                            <lb/><l><said><hi rend="spaced fill-red">C</hi>ernere tot rerum spe<add place="inline" resp="#FLMcorr-light">cie</add>s cupiet <persName>iouis</persName> ales.</said></l>
+                            <lb/><l><said><hi rend="spaced fill-red">A</hi>er tam purus me recreare potest.</said></l>
+                            <lb/><l><said><hi rend="spaced fill-red">O</hi>cia degeneres animos languentia reddunt.</said></l>
                             <lb/><l><hi rend="spaced fill-red">H</hi>is dictis<g ref="#f161">;</g> ales nobilis. ima petit.</l>
                             <lb/><l><hi rend="spaced fill-red">F</hi>it uoti compos. sublimis in aera fertur<g ref="#f161">;</g></l>
                             <lb/><l><hi rend="spaced fill-red">T</hi>estudo. terras linquere dulce putat.</l>
@@ -14801,7 +14801,7 @@
                         </lg>
                     </div>
                     <div n="2" type="textpart" subtype="subsection">
-                        <head rend="red" place="right">¶ De eodem compendiose.</head>
+                        <head rend="margin-outer red">¶ De eodem compendiose.</head>
                         <lg>
                             <lb/><l><hi rend="dropcap2 blue trim-red">S</hi>ollicitauit⸝ <hi rend="fill-red">A</hi>ues testudo <said>munere felix<g ref="#f161">;</g></said></l>
                             <lb/><l><said><hi rend="spaced fill-red">S</hi>i qua meis uotis annuat</said> inquit<g ref="#f161">;</g> <said>erit.</said></l>
@@ -14812,12 +14812,12 @@
                             <lb/><l><hi rend="spaced fill-red">D</hi>ulce solum celis tutius esset ei.</l>
                             <lb/><l><hi rend="spaced fill-red">V</hi>nguibus incluse fugiendi nulla potestas<g ref="#f161">;</g></l>
                             <lb/><l><hi rend="spaced fill-red">E</hi>st data. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> moriens<g ref="#f161">;</g> ultima uerba dedit.</l>
-                            <lb/><said><l><hi rend="spaced fill-red">H</hi>unc metuat quisquis suspirat ad ardua finem.</l>
-                                <lb/><l><hi rend="spaced fill-red">E</hi>n pereo. pereat exitialis honor.</l></said>
+                            <lb/><l><said><hi rend="spaced fill-red">H</hi>unc metuat quisquis suspirat ad ardua finem.</said></l>
+                            <lb/><l><said><hi rend="spaced fill-red">E</hi>n pereo. pereat exitialis honor.</said></l>
                         </lg>
                     </div>
                     <div n="3" type="textpart" subtype="subsection">
-                        <head rend="red" place="left">¶ Succincte.</head>
+                        <head rend="margin-outer red">¶ Succincte.</head>
                         <lg>
                             <lb/><l><hi rend="dropcap2 red trim-blue">C</hi>onuenit uolucrem testudo rogans ut in auras.</l>
                             <lb/><l><hi rend="spaced fill-red">F</hi>erret eam. precio<g ref="#f161">;</g> uincitur illa dato.</l>
@@ -14827,7 +14827,7 @@
                     </div>
                 </div>
                 <div n="3" type="textpart" subtype="section">
-                    <head rend="red" place="left">¶ De Cancro.</head>
+                    <head rend="margin-outer red">¶ De Cancro.</head>
                     <lg>
                         <lb/><l><hi rend="dropcap2 blue trim-red">N</hi>e uite cursus uariis amfractibus erret<g ref="#f161">;</g></l>
                         <lb/><l><hi rend="spaced fill-red">A</hi>d metam tendens regia strata patet.</l>
@@ -14846,7 +14846,7 @@
                     </lg>
                 </div>
                 <div n="4" type="textpart" subtype="section">
-                    <head rend="red" place="left">¶ De phebo et borea.</head>
+                    <head rend="margin-outer red">¶ De phebo et borea.</head>
                     <lg>
                         <lb/><l><hi rend="dropcap2 red trim-blue">P</hi>lus plenis terrore minis quandoque benignus<g ref="#f161">;</g></l>
                         <lb/><l><hi rend="spaced fill-red">S</hi>ermo potest. animos<g ref="#f161">;</g> dulcia uerba mouent.</l>
@@ -14872,7 +14872,7 @@
                     </lg>
                 </div>
                 <div n="5" type="textpart" subtype="section">
-                    <head rend="red" place="right">¶ De asello.</head>
+                    <head rend="margin-outer red">¶ De asello.</head>
                     <lg>
                         <lb/><l><hi rend="spaced fill-red">D</hi>e facili menti stulte surrepit inanis<g ref="#f161">;</g></l>
                         <lb/><l><hi rend="spaced fill-red">G</hi>loria. que miseros precipitare solet.</l>
@@ -14880,7 +14880,7 @@
                         <lb/><l><hi rend="spaced fill-red">M</hi>ens elata<g ref="#f161">;</g> sui uix memor <expan><abbr rend="supraline">e</abbr><ex>ss</ex><abbr rend="supraline">e</abbr><am>.</am></expan> potest.</l>
                         <lb/><l><hi rend="spaced fill-red">I</hi>ntumuisse ferunt pro pelle leonis asellum.</l>
                         <lb/><l><hi rend="spaced fill-red">Q</hi>uam uix aptarat artubus ille suis.</l>
-                        <lb/><l><hi rend="spaced fill-red">E</hi>x<hi rend="underline" resp="#FLMcorr-light">u<choice><sic>ir</sic><corr>u</corr></choice>iis</hi> gaudens alienis. arua pererrans<g ref="#f161">;</g></l>
+                        <lb/><l><hi rend="spaced fill-red">E</hi>x<hi rend="underline" style="#FLMcorr-light"><!-- find a way to notate this -->u<choice><sic>ir</sic><corr>u</corr></choice>iis</hi> gaudens alienis. arua pererrans<g ref="#f161">;</g></l>
                         <lb/><l><hi rend="spaced fill-red">I</hi>nuenta dominum terruit arte suum.</l>
                         <lb/><l><hi rend="spaced fill-red">Q</hi>uid moror. haut modicus pecudes. armenta. <hi rend="fill-red">M</hi>agistrum.</l>
                         <lb/><l><hi rend="spaced fill-red">T</hi>error uelocem iussit inire fugam.</l>
@@ -14893,7 +14893,7 @@
                     </lg>
                 </div>
                 <div n="6" type="textpart" subtype="section">
-                    <head rend="red" place="right">¶ De Rana.</head>
+                    <head rend="margin-outer red">¶ De Rana.</head>
                     <lg>
                         <lb/><l><hi rend="spaced fill-red">D</hi>um proprium medicus languorem curat. ab ipso<g ref="#f161">;</g></l>
                         <pb n="234v"/>
