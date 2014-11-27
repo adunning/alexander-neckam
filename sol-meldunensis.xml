@@ -13790,7 +13790,174 @@
                             <head rend="margin-outer red frame-blue">Super mulierem fortem.</head>
                             <ab>
                                 Lingue 
-                                <lb/>igitur petulantia.
+                                <lb/>igitur petulantia. conuicia. contumelie. obprobria. 
+                                <lb/>detractiones. adulationes. irrisiones. lites. uirgia. 
+                                <lb/>indignationes timide gestus indisciplinati. procul 
+                                <lb/>relegentur a sanctitate uestra.
+                            </ab>
+                        </div>
+                        <div n="8" type="textpart" subtype="section">
+                            <head rend="margin-outer red frame-blue"/>
+                            <ab>
+                                Multorum enim labores in
+                                <choice><sic><lb/></sic><corr><lb break="no"/></corr></choice>cliti et studia commendatione digna<g ref="#f161">;</g> decolorantur 
+                                <lb/>gest<choice><sic>i</sic><corr>u</corr></choice>um exteriorum irregulari<add place="above">ta</add>te. Molli lenique ductu 
+                                <lb/>obliquata ceruicis circumflexio<g ref="#f161">;</g> tipus est superbie. Vagus 
+                                <lb/>oculorum discursus<g ref="#f161">;</g> nuntius est leuitatis interne. Aspectus 
+                                <lb/>instar exploratoris singula perlustrans occurrentia 
+                                <lb/>uisui<g ref="#f161">;</g> index est suspitionis sinistre. Lingue di
+                                <lb break="no"/>catis petulantia<g ref="#f161">;</g> molestissima est tranquillitatis 
+                                <lb/>perturbatrix. Susurro<subst><del rend="expunct">r</del><add place="above">n</add></subst>em tanquam pestem deuita. 
+                                <lb/>adeo ut semper tibi suspecta sit lingua tercia<g ref="#f161">;</g> se
+                                <lb break="no"/>m<subst><del>u</del><add place="above">in</add></subst>atrix discordie. Digiti aut continua aut fre
+                                <lb break="no"/>quens extensio argumentum est arrogantie. Gressus 
+                                <lb/>concitatus maturitatem incessus excedens. adeo ut 
+                                <lb/>in<reg> </reg>cursum se precipitare uideatur<g ref="#f161">;</g> aut iudicium est 
+                                <lb/>indiscretionis aut assecla peruerse consuetudinis.
+                            </ab>
+                        </div>
+                    </div>
+                    <div n="44" subtype="chapter" type="textpart">
+                        <head rend="inline red">Narraciuncula. De stultiloquio.</head>
+                        <div n="1" type="textpart" subtype="section">
+                            <supplied reason="omitted"><head>Ex libro de naturis rerum.</head></supplied><!-- DNR 2.191 = Wright 348 -->
+                            <p>
+                                <lb/><seg xml:id="FL-2-44-1"><hi rend="dropcap2 red trim-blue">P</hi>arra</seg><note corresp="#FL-2-44-1" place="right">¶ Parra dicitur quasi parua <expan><abbr><am>.</am>s<am>.</am></abbr><ex>cilicet</ex></expan> auis.</note> ramo insidens calorem 
+                                <lb/>blandientis aure iam sentiens 
+                                <lb/>in<reg> </reg>primo die ditionis martis dediti februario 
+                                <lb/>conuicia inferre cepit. Indignans super hoc 
+                                <pb n="189v"/>
+                                <lb/>februarius<g ref="#f161">;</g> fratrem suum martium adiit. affectuose 
+                                <lb/>supplicans ei. ut sibi liceret aerem uel duobus diebus 
+                                <lb/>turbare. Quo concesso<g ref="#f161">;</g> mirata est parra<g ref="#f1f9">~</g> celum 
+                                <lb/>sagittas suas in<reg> </reg>terram mittere repentinas. Iaculis 
+                                <lb/>enim grandinis<g ref="#f161">;</g> terrena perterrita sunt. Regulus uero 
+                                <lb/>subita aeris mutatione consternatus<g ref="#f161">;</g> in<reg> </reg>garritus 
+                                <lb/>lacrimabiles prorupit<g ref="#f1f9">~</g> dicens. bene uenerit <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><ex>u</ex><abbr>s</abbr></expan> 
+                                <lb/>februarius. Sic sic degeneris animi inconstancie<g ref="#f161">;</g> uariis 
+                                <lb/>euentibus arguuntur.
+                            </p>
+                            <p>
+                                <milestone rend="paraph inline red enlarged" unit="p"/><label place="margin" rend="red frame-blue">.Contra iram.</label>Quam multos autem 
+                                <lb/>precipitauerit ira effrenis. quam perniciosos molita 
+                                <lb/>sit rerum exitus. quam lugubres euentus machi
+                                <lb break="no"/>nata<g ref="#f161">;</g> stili officio comprehendi non potest. <persName>Clitum</persName> fratrem 
+                                <lb/>suum collactaneum peremit <persName>macedo</persName><g ref="#f161">;</g> a conuiuio regio 
+                                <lb/>exeuntem. <persName>Theodosius</persName> atrocitate succensus<g ref="#f1f9">~</g> cum 
+                                <lb/><placeName>thessalonicam</placeName> seditione exorta<g ref="#f1f9">~</g> quidam uir 
+                                <lb/>ex militaribus<g ref="#f1f9">~</g> impetu fuisset populi furentis ex
+                                <lb break="no"/>stinctus<g ref="#f161">;</g> ad ludos <persName>circenses</persName> inuitari populum fecit. 
+                                <lb/>eique ex inprouiso circumfundi milites<g ref="#f1f9">~</g> atque obtruncare 
+                                <lb/>passim ut quisque occurrisset gladio<g ref="#f1f9">~</g> iubet<g ref="#f161">;</g> et uin
+                                <lb break="no"/>dictam dare non crimini<g ref="#f161">;</g> <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> furori. Superfluum est 
+                                <lb/>rabiem <persName>herodis</persName><g ref="#f1f9">~</g> hostis innocentie scripto commendare<g ref="#f161">;</g> 
+                                <lb/>quem etiam gentilis cinice irridens ait. Mallem esse 
+                                <lb/><persName>herodis</persName> porcus<subst><del>.</del><add place="inline"><g ref="#f161">;</g></add></subst> quam filius. <persName>Antonius</persName><g ref="#f161">;</g> <persName>ciceronis</persName> 
+                                <lb/>caput precidi iussit. Bellis intestinis<g ref="#f161">;</g> arma tam 
+                                <lb/>inuidia quam ira ministrauit.
+                            </p>
+                            <p>
+                                <milestone rend="paraph inline red enlarged" unit="p"/><label place="margin" rend="red frame-blue">Contra iram.</label><metamark function="flag" rend="nota"/><!-- span to end of paragraph -->Quociens 
+                                <lb/>ira cor inflammat aliquid sinistri more suo persuadere 
+                                <pb n="190r"/>
+                                <lb/>uolens<g ref="#f161">;</g> constitue pre<reg> </reg>oculis cordis <persName>dauid</persName><g ref="#f1f9">~</g> qui con<add place="overstrike">si</add>
+                                <lb break="no"/>lio <persName>abigail</persName> femime prudentissimse adquiescens<g ref="#f161">;</g> 
+                                <lb/><persName>nabal</persName> uiro stulto pepercit. <note place="right" type="new-hand">in turpi voto muta decretum</note>In<reg> </reg>turpi enim uoto<g ref="#f161">;</g> mu
+                                <lb break="no"/>tandum est decretum. Non est effectui mancipandum<g ref="#f161">;</g> 
+                                <lb/>quod indicit affectus perturbationis.<!-- end DNR quotation: rest added? --> ut subicienda do
+                                <lb break="no"/>cebit relaciuncula. 
+                            </p>
+                        </div>
+                        <div n="2" type="textpart" subtype="section">
+                            <head rend="margin-outer red frame-blue">Ex libro de naturis rerum.</head><!-- DNR 2.123 = Wright 201 -->
+                            <ab>
+                                <milestone rend="paraph inline red enlarged" unit="p"/>Accidit igitur uetulam <!-- what is that to the right? -->
+                                <lb/>pauperculam in<reg> </reg>casa sua catulos mustele absentis 
+                                <lb/><seg xml:id="FL-2-44-2">clamdestina</seg> manu surripuisse⸝ et eos in<reg> </reg>loco se
+                                <lb break="no"/>creto ad quem mater licet ingeniosa accessum habere 
+                                <lb/>non potuit l<add place="overstrike">e</add>niter reposuisse. Iter autem solitum le
+                                <lb break="no"/>gens mater fetus desiderates non reperit<g ref="#f161">;</g> multiplici<del rend="erased"><unclear>t</unclear></del> 
+                                <lb/>circuitu loca plurima materna sollicitudine perlustrans 
+                                <lb/>anxia⸝ <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> dum labore multo incassum uexata esset 
+                                <lb/>sui inpaciens effecta ad<reg> </reg>artem consuetam furibunda 
+                                <lb/>confugit. urnam postmo<add place="overstrike">d</add>um lacte repletam ueneno 
+                                <lb/>euomito ab<reg> </reg>ore suo infecit<g ref="#f161">;</g> ut penas persolueret 
+                                <lb/>quicumque lac dictum gustaturus esset. Vetula prudens 
+                                <lb/>rem tacita considerauit. Et latenter fctus ad locum 
+                                <lb/>pristinum reportauit. Quibus repertis mater leta factum 
+                                <lb/>proprium in<reg> </reg>irritum reuocare uoluit. Vrnam predictam a
+                                <lb break="no"/>gilitate sua sponte perturbans<g ref="#f161">;</g> ne uenenum infusum 
+                                <lb/>alicui conferret nocumentum. Erubescat inuidus ran
+                                <lb break="no"/>corem. indignationis animo fouens<g ref="#f161">;</g> adeo ut nulla satis
+                                <lb break="no"/>factione a<reg> </reg>proposito suo resilire uelit. Mitigatur 
+                                <lb/>mustela et uincitur blandiciis. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> homo prodolor in mali
+                                <lb break="no"/>cia concepta procaciter per<add place="overstrike">s</add>istit. Serpens ut refert 
+                                <note correp="#FL-2-44-2" place="bottom" rend="triangles grotesque">
+                                    <lb/>Licet dicendum sit mediastinus⸝ dicendum <expan><abbr rend="supraline">e</abbr><ex>st</ex><am>.</am></expan>
+                                    <lb/>tamen clamdestinus. Vnde Alexander tercius. Rite 
+                                    <lb/>corripuit <persName><expan><abbr rend="overline">Ep</abbr><ex>iscopu</ex><abbr>m</abbr></expan> Gilbertum <placeName>londini
+                                            <lb break="no"/>ensem</placeName></persName>. accusantem beatum 
+                                    <lb/>Thomam et dicentem. 
+                                    <lb/>clamdestinam 
+                                    <lb/>fugam ar
+                                    <lb break="no"/>ri 
+                                    <lb/>puit. 
+                                    <lb/>Deberet 
+                                    <lb/>enim dixisse 
+                                    <lb/>clamdestina<subst><del>n</del><add place="inline">m</add></subst>.
+                                </note>
+                                <pb n="190v"/>
+                                <lb/><persName>beda</persName> diligentia industrie humane efficitur man
+                                <lb break="no"/>suetus. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> homo non nunquam etsi sit animal mansuetum 
+                                <lb/>natura mansuescere non nouit.
+                            </ab>
+                        </div>
+                        <div n="3" type="textpart" subtype="section">
+                            <head rend="margin-outer red frame-blue">Ex libro de naturis rerum.</head><!-- DNR 2.121 = Wright 199 -->
+                            <ab>
+                                <metamark function="flag" rend="nota"/>O nobilis creatura homo 
+                                <lb/>qui cunctis <del rend="erased">de </del><del rend="expunct">dignate </del>dignitate nature prees ani
+                                <lb break="no"/>matis erubesce dum uenenosis animalibus uilior 
+                                <lb/>efficeris ueneno non materiali <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> spirituali. Habet <add place="above">enim </add>in
+                                <choice><sic><lb/></sic><corr><lb break="no"/></corr></choice>uidia suum uenenum<g ref="#f161">;</g> uenen<add place="overstrike">o</add> materiali longe de
+                                <lb break="no"/>testabilius. Lesus bufo ueneno alterius uenenosi 
+                                <lb/>animalis<g ref="#f161">;</g> confugit ad herbam que uulgo plantago 
+                                <lb/>dicitur que sub nomine quinquineruie equiuocatur alii 
+                                <lb/>herbe et sibi nescio quo instinctu nature medetur. 
+                                <lb/>Quid igitur o homo qui ueneno antiqui serpen
+                                <lb break="no"/>tis infectus es ad herbam medicinalem et salu
+                                <lb break="no"/>tiferam non fugis? Paratus est tibi summus medicus 
+                                <lb/>opem <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> et salutem conferre. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> prodolor uulnus 
+                                <lb/>letale occultas. 
+                            </ab>
+                        </div>
+                    </div>
+                    <div n="45" subtype="chapter" type="textpart">
+                        <head rend="inline red">De In<surplus> </surplus>uidia <orgName>Iudeorum</orgName>.</head>
+                        <div n="1" type="textpart" subtype="section">
+                            <head rend="margin-outer red frame-blue">Ex libro de naturis rerum.</head>
+                            <ab>
+                                <lb/><hi rend="dropcap2 blue trim-red">S</hi>et iam tempus est ut inuidiam <orgName>iudeorum</orgName> subgille
+                                <lb break="no"/>mus. quia ut dicit poeta. <quote source="Quintus Horatius Flaccus, Epistulae 1.2.58–59"><label place="margin" rend="red">.<expan><abbr>V</abbr><am>&#x33E;</am><ex>ersus</ex></expan>.</label><l><placeName><sic>Sciuli</sic></placeName> non inuenere tyranni<g ref="#f161">;</g></l>	
+                                    <lb/><l>maius tormentum.</l></quote> Infelices igitur <orgName>iudei</orgName> sapientia patris inuiden
+                                <lb break="no"/>tes excecari meruerunt. Extra ciuitatem suam liberta
+                                <lb break="no"/>tem eiecerunt. Vnde et postea serui effecti sunt. Summe 
+                                <lb/>utilitatis oleum abiecte effuderunt. <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> enim 
+                                <lb/>quasi aqua effusus est extra ciuitatem<g ref="#f161">;</g> et eiectus 
+                                <lb/>est abeiciendis. 
+                            </ab>
+                        </div>
+                        <div n="2" type="textpart" subtype="section">
+                            <head rend="margin-outer red frame-blue">Super mulierem fortem.</head>
+                            <ab>
+                                Qui extra portas ab<reg> </reg>impiis eiectus 
+                                <lb/>est<g ref="#f161">;</g> sedebit in portis cum senatoribus terre. iudicaturus 
+                                <lb/>uiuos et mortuos. Eicientur in<reg> </reg>tenebras exteriores<g ref="#f161">;</g> 
+                                <pb n="191r"/>
+                                <lb/>qui uerum lumen gracie extra portas eiecerunt.<!-- leaving out 'o pia magdalene' --> 
+                                <lb/><metamark function="flag" rend="nota"/><!-- span to end of page -->Eternis punientur cruciatibus in<reg> </reg>eternum dampnandi<g ref="#f161">;</g> 
+                                <lb/>qui presumserunt innocentiam ipsam condemp
+                                <lb break="no"/>nare.
                             </ab>
                         </div>
                     </div>
