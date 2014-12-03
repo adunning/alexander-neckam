@@ -14673,7 +14673,102 @@
                                 <lb break="no"/>danter diuicias confert temporales. Habent enim materiam 
                                 <lb/>exercende uirtutis<g ref="#f161">;</g> dum multorum medias subleuari 
                                 <lb/>possunt usu diuiciarum suarum. Iste est bonorum temporalium 
-                                <lb/>fructus <del rend="expunct"><expan><am>&#x204A;</am><ex>et</ex></expan></del> 
+                                <lb/>fructus <del rend="expunct"><expan><am>&#x204A;</am><ex>et</ex></expan></del> <seg xml:id="FL-2-45-7-tr1">hylariter</seg> <seg xml:id="FL-2-45-7-tr2">cum</seg><listTranspose><transpose><ptr target="#FL-2-45-7-tr2"/><ptr target="#FL-2-45-7-tr1"/></transpose></listTranspose> egentibus conferuntur. Ag
+                                <lb break="no"/>noscere debent diuiciarum possessores. quia <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><ex>u</ex><abbr>s</abbr></expan> bona 
+                                <lb/>pauperum. fidei ipso<add place="inline">rum</add> seruanda tradit<g ref="#f161">;</g> ut pauperibus 
+                                <lb/>sua fideliter <unclear>erogentur</unclear> manu ipsorum. <expan><abbr>D</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><ex>u</ex><abbr>s</abbr></expan> autem res illius 
+                                <lb/>fliciter multiplicat. qui bona sua <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> dei fideliter pau
+                                <lb break="no"/>peribus distribuit. Accidit autem non nunquam ut qui bonis 
+                                <lb/>sibi concessis frui non audent<g ref="#f161">;</g> repentina callamitate 
+                                <lb/>opprimantur. Monet ergo ecclesiastes<g ref="#f161">;</g> ut diuites in<reg> </reg>die 
+                                <lb/><expan><am>&#xA753;</am><ex>pro</ex></expan>s<expan><am>&#xA751;</am><ex>per</ex></expan>itatis recte utantur re<expan><abbr>b<am>&#xA76B;</am></abbr><ex>us</ex></expan> suis et sic sibi <expan><am>&#xA753;</am><ex>pro</ex></expan>uideant<g ref="#f161">;</g> 
+                                <lb/>ne adu<expan><am>&#x33E;</am><ex>er</ex></expan>sitatem in<expan><am>&#x1DD1;</am><ex>ur</ex></expan>rant. Lectorem ergo conuenit 
+                                <lb/>auctor dicens. In<reg> </reg>die bona <expan><abbr><am>.</am>s<am>.</am></abbr><ex>cilicet</ex></expan> in<reg> </reg>die <expan><am>&#xA753;</am><ex>pro</ex></expan>s<expan><am>&#xA751;</am><ex>per</ex></expan>itatis fru
+                                <lb break="no"/>ere bonis <expan><abbr>t<am>&#x365;</am></abbr><ex>ibi</ex></expan> concessi et mal<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> diem <expan><abbr><am>.</am>s<am>.</am></abbr><ex>cilicet</ex></expan> diem ad
+                                <lb break="no"/>u<expan><am>&#x33E;</am><ex>er</ex></expan>sitatis<g ref="#f161">;</g> precaue. Sicut enim hanc<g ref="#f161">;</g> sic et illam 
+                                <lb/>fecit <expan><abbr>d</abbr><ex>eu</ex><abbr rend="supraline">s</abbr></expan>. Prosperis enim nutrim<expan><am>&#x1DD1;</am><ex>ur</ex></expan>. adu<expan><am>&#x33E;</am><ex>er</ex></expan>sis<g ref="#f161">;</g> ex<expan><am>&#x33E;</am><ex>er</ex></expan>cem<expan><am>&#x1DD1;</am><ex>ur</ex></expan>. 
+                                <lb/>Vnde nec diues nec pau<expan><am>&#xA751;</am><ex>per</ex></expan><g ref="#f161">;</g> contra deum iustas inuenire 
+                                <lb/>potest querimonias. aut enim homo bonus est<g ref="#f161">;</g> aut 
+                                <lb/>lamus. Si bonus est<g ref="#f1f9">~</g> et arridet et prosperitas<g ref="#f161">;</g> non est 
+                                <lb/>locus querele. quia materiam habet bene agendi. Si autem 
+                                <lb/>bonus est. et aduersis uexatur<g ref="#f161">;</g> nonne uexatio dat in
+                                <lb break="no"/>tellectum?<!-- 'auditus' written below? --> Nonne item omnia iustis cooper<del rend="expunct">i</del>antur 
+                                <pb n="201r"/>
+                                <fw place="top" type="new-hand">opera <unclear>u</unclear>anitatis</fw>
+                                <lb/>in<reg> </reg>bonum? <metamark function="flag" rend="nota"/><!-- span to 'prelatus igitur' -->Pret<expan><am>&#x33E;</am><ex>er</ex></expan>ea<g ref="#f161">;</g> uidens uir honestus. bona 
+                                <lb/>temporalia malis adesse<g ref="#f161">;</g> aduertit ea contempn<subst><del>a</del><add place="above">e</add></subst>nda <expan><abbr rend="supraline">e</abbr><ex>ss</ex><abbr rend="supraline">e</abbr></expan>. 
+                                <lb/><metamark function="flag" rend="nota"/>Si malus est⸝ homo et felices habet ad uota sucessus 
+                                <lb/>in<reg> </reg>usu temporalium<g ref="#f161">;</g> non potest conqueri. Cum <subst><del>enim</del><add place="right"><expan><am rend="supraline">&#x204A;</am><ex>etiam</ex></expan></add></subst> 
+                                <lb/>indignus sit non solum rebus temporalibus<g ref="#f161">;</g> <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> <expan><am rend="supraline">&#x204A;</am><ex>etiam</ex></expan> uita. Si 
+                                <lb/>autem malus est<g ref="#f161">;</g> et aduersis premit<expan><am>&#x1DD1;</am><ex>ur</ex></expan>. nonne <expan><am rend="supraline">&#x204A;</am><ex>etiam</ex></expan> pena eterna 
+                                <lb/>dignus est? Multa item materia peccandi ei sub
+                                <lb break="no"/>tracta est<g ref="#f161">;</g> cum diuiciis careat. 
+                            </ab>
+                        </div>
+                        <div n="8" type="textpart" subtype="section">
+                            <head rend="margin-outer red"/>
+                            <ab>
+                                Hec de operibus 
+                                <lb/>misericordie et pietatis edisser<add place="above">u</add>imus ut ad ipsa qui prom<add place="inline">pti</add> 
+                                <lb/>estis<g ref="#f161">;</g> promptiores de certero esse uelitis. Fax accensa 
+                                <lb/>amplius elucessit. Nec nocet ad misso subdere cal
+                                <lb break="no"/>car equo. Equis enim licet incursum pronus sit<g ref="#f161">;</g> 
+                                <lb/>stimulis tamen urgetur hortatoriis.
+                            </ab>
+                        </div>
+                        <div n="9" type="textpart" subtype="section">
+                            <head rend="margin-outer red">Super cantica.</head>
+                            <ab>
+                                <lb/>Predict<add place="overstrike">is</add> item 
+                                <lb/>adicere decreuimus quia opera misericordie<g ref="#f161">;</g> preminent aliis 
+                                <lb/>operibus. Etiam in<reg> </reg>altissimo tam commendabilis est misericordia<g ref="#f161">;</g> 
+                                <lb/>ut miserationes eius sint super omnia opera eius. Mater deuo
+                                <lb break="no"/>tionis<g ref="#f161">;</g> est misericordia. et nutrix sedula. Deuotio<g ref="#f161">;</g> mentem 
+                                <lb/>illuminat. quia caritatis ignis eam inflammat. 
+                            </ab>
+                        </div>
+                        <div n="10" type="textpart" subtype="section">
+                            <head rend="margin-outer red">Ex sermone qui sic incipit. Inpulsus euersus sum.</head>
+                            <ab>
+                                Ne 
+                                <lb/>tepescat in uobis uirtus ignea<g ref="#f161">;</g> nobile domi<add place="overstrike">c</add>ilium lari
+                                <lb break="no"/>tatis semper accendens et illuminans. 
+                            </ab>
+                        </div>
+                        <div n="11" type="textpart" subtype="section">
+                            <head rend="margin-outer red">Super cantica.</head>
+                            <ab>
+                                Operibus misericordie ui
+                                <lb break="no"/>gilantissimam inpendite curam compacientes proxi
+                                <lb break="no"/>mis<g ref="#f161">;</g> pro quibus preciosum sanguinem suum effundere dignatus 
+                                <lb/>est copiose saluator mundi. 
+                            </ab>
+                        </div>
+                        <div n="12" type="textpart" subtype="section">
+                            <head rend="margin-outer red">Ex sermone qui sic incipit. Dixit <persName><expan><abbr>i<am>ħc</am></abbr><ex>esus</ex></expan></persName> petro. sequere me.</head>
+                            <ab>
+                                <metamark function="flag" rend="nota"/><!-- span to end of pg -->Prelatus igitur uolens sequi 
+                                <lb/>uestigia <persName><expan><abbr>i<am>ħ</am></abbr><ex>es</ex><abbr>u</abbr></expan></persName> <expan><abbr><am>x&#x365;</am></abbr><ex>christi</ex></expan><g ref="#f161">;</g> habeat in artcha pectoris sui tabulas 
+                                <lb/>legis scriptas interius et exterius. habeat et uirgam <persName>aaron</persName><g ref="#f161">;</g> 
+                                <lb/>quo ad discretionem regiminis. habeat et urnam auream 
+                                <pb n="201v"/>
+                                <lb/>plenam manna<g ref="#f161">;</g> quo ad dulcedinem mansuetudinis. Ha
+                                <lb break="no"/>beat pro tempore uirgam f<expan><am>&#x33E;</am><ex>er</ex></expan>ream<g ref="#f161">;</g> quo ad rigorem iusticie in
+                                <choice><sic><lb/></sic><corr><lb break="no"/></corr></choice>flexibilis. 
+                            </ab>
+                        </div>
+                        <div n="13" type="textpart" subtype="section">
+                            <head rend="margin-outer red">Ex sermone qui sic incpit. <expan><abbr>Sp<am>c</am></abbr><ex>iritus</ex></expan> domini.</head>
+                            <ab>
+                                <metamark function="flag" rend="nota"/>Perit enim domus indisciplinata. Virga enim 
+                                <lb/>tua et baculus tuus<g ref="#f161">;</g> ipsa me consolata sunt<g ref="#f1e2">,</g> ut uirga refe
+                                <lb break="no"/>ratur ad minorem correptionem. baculus ad maiorem. quamuis 
+                                <lb/>nomine <mentioned>baculi</mentioned> sustentamentum possit designari<g ref="#f1e2">,</g> iuxta illud. 
+                                <lb/><hi rend="regular">A</hi>lter alterius onera portate. Et basis erat tabule tabernaculi 
+                                <lb/>supposita<g ref="#f1e2">,</g> immo bases. et labium sua base potiebatur<g ref="#f161">;</g> et ex
+                                <lb break="no"/>tremitates cortinarum paxillis sustentabantur. Sustineat 
+                                <lb/>igitur fortis debilem<g ref="#f161">;</g> ne casum paciatur <expan><ex>ul</ex><am>ꝉ</am></expan> ruinam frater 
+                                <lb/>noster <add place="left">pro quo saluator noster </add>pati dignatus est. 
                             </ab>
                         </div>
                     </div>
