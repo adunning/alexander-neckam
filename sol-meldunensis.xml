@@ -53,12 +53,12 @@
                         <lg>
                             <lb/><l>Sol meldunensis et cinthia lux monachorum.</l>
                             <lb/><l>Suscipiat tua queso nouum dignatio carmen<g ref="#f161">;</g></l>
-                            <lb/><l>Quod tibi <persName>Galfridi</persName> deuotio <seg xml:id="FL0-a">simplicis</seg><g ref="#f161">;</g> offert.</l>
+                            <lb/><l>Quod <expan><abbr>t<am>&#x365;</am></abbr><ex>ibi</ex></expan> <persName>Galfridi</persName> deuotio <seg xml:id="FL0-a">simplicis</seg><g ref="#f161">;</g> offert.</l>
                             <note place="margin-outer" corresp="#FL0-a">Simplex uocatur claustralis. dicitur et simplex qui sine plica duplicitatis est.</note>
                             <lb/><l>Te correctorem sicio pastor pie<g ref="#f1f9">~</g> limam<g ref="#f161">;</g></l>
                             <lb/><l>Apponas operi. qui corrigis aspera claustri.</l>
-                            <lb/><l>Sis pius indultor culpe. Iudexque benignus<g ref="#f161">;</g></l>
-                            <lb/><l>Absoluas⸝ quod deliqui<add place="overstrike">t</add> presumptio lingue.</l>
+                            <lb/><l>Sis pius indultor culpe. <expan>Iudexq<ex>ue</ex></expan> benignus<g ref="#f161">;</g></l>
+                            <lb/><l>Absoluas⸝ <expan><abbr>q</abbr><ex>uo</ex><abbr>d<am>&#x315;</am></abbr></expan> deliqui<subst><del rend="erased">d</del><add place="overstrike">t</add></subst> presumptio lingue.</l>
                         </lg>
                     </ab>
                 </div>
