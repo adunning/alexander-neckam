@@ -14529,7 +14529,7 @@
                             </ab>
                         </div>
                     </div>
-                    <div n="45" subtype="chapter" type="textpart">
+                    <div n="46" subtype="chapter" type="textpart">
                         <div n="1" type="textpart" subtype="section">
                             <head rend="margin-outer red frame-blue">Ex sermone qui sic incipit. omnia tempus habent.</head>
                             <ab>
@@ -14771,12 +14771,28 @@
                                 <lb/>noster <add place="left">pro quo saluator noster </add>pati dignatus est. 
                             </ab>
                         </div>
+                        
+                        
+                        
+                        <gap reason="omitted" quantity="15" unit="folios"/>
+                        <pb n="212v"/>
+                        dissimulitudinis.
+                        
+                        <div n="36" type="textpart" subtype="section">
+                            <head rend="margin-outer red">Ex sermone qui sic incipit. filii hominum.</head>
+                            <ab>
+                                Sequere illum qui est uia ueritas et 
+                                <lb/>uita. uia in<reg> </reg>exemplo<g ref="#f161">;</g> ueritas in<reg> </reg>promisso. uita in<reg> </reg>premio. 
+                                <lb/>In<reg> </reg>cuiusmodi premio? Non temporali<g ref="#f1f9">~</g> non terreno<g ref="#f1f9">~</g> non transi
+                                <lb break="no"/>torio<g ref="#f1f9">~</g> <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> uero iocundo<g ref="#f1f9">~</g> eterno<g ref="#f161">;</g> quod nec oculus uidit⸝ nec auris 
+                                <lb/>audiuit⸝ nec in cor hominis ascendit. quod nobis precare dign
+                                <lb break="no"/>netur⸝ creator noster⸝ redemptor noster⸝ saluator noster⸝ refu
+                                <lb break="no"/>gium nostrum⸝ adiutor noster<g ref="#f1f9">~</g> spes nostra<g ref="#f1f9">~</g> <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> <persName><expan><abbr>i<am>ħc</am></abbr><ex>esus</ex></expan></persName><g ref="#f161">;</g> qui 
+                                <lb/>cum patre et <expan><abbr>sp</abbr><ex>irit</ex><abbr>u</abbr></expan> <expan><abbr>s</abbr><ex>an</ex><abbr rend="overline">c</abbr><ex>t</ex><abbr>o</abbr></expan> uiuit et regnat <expan><abbr>d</abbr><ex>eu</ex><abbr rend="supraline">s</abbr></expan><g ref="#f161">;</g> per infinita 
+                                <lb/>seculorum secula. ame<hi rend="fill-red smallcaps lengthened">n</hi>.
+                            </ab>
+                        </div>
                     </div>
-                    
-                    
-                    
-                    <gap reason="omitted" quantity="15" unit="folios"/>
-                    <pb n="212v"/>
                     <div n="Envoi" subtype="chapter" type="textpart">
                         <lg><!-- Copied from Reginald of Canterbury: ed. Wright, *Anglo-Latin Satirical Poets and Epigrammatists*, 2:259–60 -->
                             <lb/><milestone rend="paraph red" unit="lg"/><l><hi rend="spaced fill-red">N</hi>unc pater et domne tu uideris hic liber omne<g ref="#f161">;</g></l>
