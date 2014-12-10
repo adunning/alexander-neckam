@@ -269,7 +269,7 @@
                             </ab>
                         </div>
                         <div n="15" type="textpart" subtype="section">
-                            <head rend="outer red frame">Super cantica. libro .vº. capitulo xiº.</head>
+                            <head rend="outer red frame">Super cantica. libro <num>.v&#x0366;.</num> capitulo <num>xi&#x0366;.</num></head>
                             <ab>
                                 Felices erunt transeuntes ad frugem tucioris uite. pauperta
                                 <lb break="no"/>tem eligendo uoluntariam. qui dignitatis flores
@@ -583,7 +583,7 @@
                             <head rend="outer red frame">Eo sermone qui sic incipit. Absterget deus.</head>
                             <ab>
                                 O homo ad<reg> </reg>celestem ierusalem suspira.
-                                <lb/>transi. tona. cane. ad illam tende uia regia in
+                                <lb/>transi. tona. cane. ad illam tende uia regia in
                                 <lb break="no"/>cede<g ref="#f161">;</g> ut ad illam possis peruenire.
                             </ab>
                         </div>
@@ -734,7 +734,7 @@
                                 <lb break="no"/>na delictum<g ref="#f161">;</g> misericordia occulta partes suas
                                 <lb/>interponit. licet grauis sit manus dei ad susti
                                 <lb break="no"/>nendum. Set hec actenus. Reuertamur ergo ad uiros
-                                <lb/>misericordie. et utinam ab ipsis nunquam recedamus.
+                                <lb/>misericordie. et utinam ab ipsis nunquam recedamus.
                             </ab>
                         </div>
                         <div n="40" type="textpart" subtype="section">
@@ -1241,7 +1241,7 @@
                         <div n="4" type="textpart" subtype="section">
                             <head rend="margin-outer red frame-blue">Ex eodem libro.</head>
                             <ab>
-                                Si igitur o peccator maiestatem deitatis in <persName><expan><abbr><am>xͦ</am></abbr><ex>christo</ex></expan></persName>.
+                                Si igitur o peccator maiestatem deitatis in <persName><expan><abbr><am>x&#x0366;</am></abbr><ex>christo</ex></expan></persName>.
                                 <lb/>perhorrescis<g ref="#f1f9">~</g> accede securus ad humanitatem<g ref="#f161">;</g> accede
                                 <lb/>ad salutem. Mitissimus est saluator tuus<g ref="#f161">;</g> accede.
                                 <lb/>Quid salutem tuam subterfugis? Vulneratus es<g ref="#f161">;</g> pa
@@ -2721,7 +2721,7 @@
                                 <lb/>ascendit<g ref="#f161">;</g> descensurus est e celo<g ref="#f1f9">~</g> iudicaturus tam
                                 <lb/>uiuos quam mortuos. Hec iteaque preuidens in spiritu
                                 <lb/>baptista iohannis et exultans spirituali iocunditate
-                                <lb/>in apothe<add place="above">o</add>sim mentis raptus<g ref="#f161">;</g> exultans in <expan><abbr>d</abbr><ex>omi</ex><abbr>n<am>̄</am>o</abbr></expan><subst><del><g ref="#f161">;</g></del><add><g ref="#f1f9">~</g></add></subst> pro
+                                <lb/>in apothe<add place="above">o</add>sim mentis raptus<g ref="#f161">;</g> exultans in <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><abbr>o</abbr></expan><subst><del><g ref="#f161">;</g></del><add><g ref="#f1f9">~</g></add></subst> pro
                                 <lb break="no"/>rupit in uocem laudis attestantis gaudio di
                                 <lb break="no"/>latanti cor ipsius. Tu ne es inquit qui uenturus es
                                 <lb/>an alium expectamus? Verba sunt laudis<g ref="#f1f9">~</g> uerba
@@ -2847,7 +2847,7 @@
                                 <lb/>omnis creatura quodammodo incsripta fuerat. in fine
                                 <lb/>temporum inscripta est nouo modo<g ref="#f1f9">~</g> caro assumpta
                                 <lb/>de uirgine in mense nouorum<g ref="#f161">;</g> adeo ut legi
-                                <lb/>posset<g ref="#f1f9">~</g> et uideri et manifeste discer\nit. Ver
+                                <lb/>posset<g ref="#f1f9">~</g> et uideri et manifeste discernit. Ver
                                 <lb break="no"/>bum igitur quod ab eterno cor eructauit patris<g ref="#f1f9">~</g>
                                 <lb/>factum est cor nostrum. et datum est nobis cor carneum<g ref="#f161">;</g>
                                 <lb/>ut molle sit cor nostrum et idoneum ad<reg> </reg>susci
@@ -3957,7 +3957,7 @@
                             </ab>
                         </div>
                         <div n="39" type="textpart" subtype="section">
-                            <head rend="margin-outer red frame-blue">Super cantica. libro secundo. capitulo .Viiiº.</head>
+                            <head rend="margin-outer red frame-blue">Super cantica. libro secundo. capitulo <num>.Viii&#x0366;.</num></head>
                             <ab>
                                 Benedicta tu inter mulieres
                                 <lb/>gloriosa dei genitrix<g ref="#f1f9">~</g> que <persName><expan><abbr>i<am>ħ</am></abbr><ex>esu</ex><abbr>m</abbr></expan></persName> concepisti<g ref="#f1f9">~</g> lactasti<g ref="#f1f9">~</g>
@@ -5694,7 +5694,7 @@
                                 <lb/>aut saltem proprium hospicium? Nonne tempus quod pauperi
                                 <lb/>est benignius? Cur ergo omnia hec? <unclear>Proter</unclear> te non propter se.
                                 <lb/>Exemplum quidem reliquit paupertatis uoluntarie.
-                                <lb/>O sancta paupertas ab ipso <expan><abbr><am>x̊</am></abbr><ex>christo</ex></expan>. deo sacrata. Beatus qui te
+                                <lb/>O sancta paupertas ab ipso <expan><abbr><am>x&#x030A;</am></abbr><ex>christo</ex></expan>. deo sacrata. Beatus qui te
                                 <lb/>amauerit. Beatus saltem qui te in pacientia portauerit.
                                 <lb/>Paupertatem alii amant. alii tolerant<g ref="#f161">;</g> alii consolantur.
                                 <lb/>Beatus etiam qui te non condempersit.
@@ -5842,7 +5842,7 @@
                             <ab>
                                 Quo
                                 <lb/>nam ergo modo pauperibus cibum corporalem negare possumus.
-                                <lb/>cum ipsi <expan><abbr><am>x̊</am></abbr><ex>christo</ex></expan>. per<add place="inline"> </add>consequens negemus. qui nos non solum cibo
+                                <lb/>cum ipsi <expan><abbr><am>x&#x030A;</am></abbr><ex>christo</ex></expan>. per<add place="inline"> </add>consequens negemus. qui nos non solum cibo
                                 <lb/>pascit corporali<g ref="#f161">;</g> <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> etiam se ipsum nobis dat in cibo spirituali?
                                 <lb/>Corpus suum dat nobis in<reg> </reg>cibum. sanguinem suum preciosum<g ref="#f161">;</g> in
                                 <lb/>potum. Qua fronte igitur cibum communem uel hastum
@@ -6097,7 +6097,7 @@
                                 <lb/>tua a te. que autem parasti⸝ cuius erunt? Cui tot et tanta
                                 <lb/>preparasti? Respondeo pro<reg> </reg>te. Tam gule quam inani
                                 <choice><sic><lb break="no"/></sic><corr><lb/></corr></choice>glorie<g ref="#f1f9">~</g> tot preparasti. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> o miser. nichil tibi reseruasti.
-                                <lb/>Nichil igitur reseruat<g ref="#f161">;</g> qui <expan><abbr><am>x̊</am></abbr><ex>christo</ex></expan>. nichil reseruat. Vita<!-- what is that add. to right in the later hand? same symbol used on 83r --> 
+                                <lb/>Nichil igitur reseruat<g ref="#f161">;</g> qui <expan><abbr><am>x&#x030A;</am></abbr><ex>christo</ex></expan>. nichil reseruat. Vita<!-- what is that add. to right in the later hand? same symbol used on 83r --> 
                                 <lb/>presens<g ref="#f161">;</g> dies est preparationis. ut nunc ea preparentur<g ref="#f161">;</g> que
                                 <lb/>necessaria sunt ad quietem sabbati futuri. Sexta feria passus
                                 <lb/>est <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><ex>u</ex><abbr>s</abbr></expan>. et hac sexta etate<g ref="#f161">;</g> patitur <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><ex>u</ex><abbr>s</abbr></expan> in m<expan><abbr rend="supraline">e</abbr><ex>n</ex></expan>bris suis.
@@ -6269,7 +6269,7 @@
                                 <lb/>autem conceptum interius dolorem<g ref="#f161">;</g> obreuerentiam mense et in ui
                                 <lb break="no"/>tatorum gratiam dissimulauit. Summo diei sequentis di
                                 <lb break="no"/>luculo<g ref="#f161">;</g> amicos fideles conuocat. exponens eis animi secretum.
-                                <lb/>Et cum omnia pro <expan><abbr><am>x̊.</am></abbr><ex>christo</ex></expan> distriuisset<g ref="#f161">;</g> regem frachorum<g ref="#f1f9">~</g> here
+                                <lb/>Et cum omnia pro <expan><abbr><am>x&#x030A;.</am></abbr><ex>christo</ex></expan> distriuisset<g ref="#f161">;</g> regem frachorum<g ref="#f1f9">~</g> here
                                 <lb break="no"/>dem suum constituit. et urbem ierosolomitanam adiens<g ref="#f161">;</g>
                                 <lb/>pauperibus <expan><abbr><am>x&#x365;.</am></abbr><ex>christi</ex></expan> humiliter et affectuose seruiuit toto
                                 <lb/>tempore uite sue.
@@ -7283,7 +7283,7 @@
                                 <lb/>est⸝ cuius etas uiridis est<g ref="#f161">;</g> et opera matura. Commendandus
                                 <lb/>est ille<g ref="#f161">;</g> cuius operum grauitatem etas tenella miratur.
                                 <lb/>qui <expan><abbr><am>.</am>s<am>.</am></abbr><ex>cilicet</ex></expan> etate est adolescens<g ref="#f161">;</g> constantia operum uir.
-                                <lb/><label place="margin" rend="red frame-blue">.Lucanus. <expan><abbr>V</abbr><am>̾</am><ex>ersus</ex></expan>.</label>Cesaribus uirtus contigit ante diem.
+                                <lb/><label place="margin" rend="red frame-blue">.Lucanus. <expan><abbr>V</abbr><am>&#x033E;</am><ex>ersus</ex></expan>.</label>Cesaribus uirtus contigit ante diem.
                             </ab>
                         </div>
                         <div n="46" type="textpart" subtype="section">
@@ -7355,7 +7355,7 @@
                                 <lb/>quodammodo remunerabuntur. Quia ut <expan><abbr>d</abbr><ex>icitu</ex><abbr rend="supraline">r</abbr></expan> in ecclesiastico<g ref="#f161">;</g> ele
                                 <lb break="no"/>mosina uiri resurget cum ipso. Operamini igitur opus
                                 <lb/>uestrum ante tempus. non <expan><abbr>d</abbr><ex>icitu</ex><abbr rend="supraline">r</abbr></expan> ociosi sitis. dsides sitis<g ref="#f161">;</g>
-                                <lb/>sompnolenti sitis. <label place="margin" rend="red">.Ouidius. <expan><abbr>V</abbr><am>̾</am><ex>ersus</ex></expan>.</label>Ocia si tollas<g ref="#f161">;</g> perire cupi
+                                <lb/>sompnolenti sitis. <label place="margin" rend="red">.Ouidius. <expan><abbr>V</abbr><am>&#x033E;</am><ex>ersus</ex></expan>.</label>Ocia si tollas<g ref="#f161">;</g> perire cupi
                                 <lb/>dinis artus. Opera animum consolidant<g ref="#f161">;</g> ocia
                                 <lb/>dissoluunt. Et quid accidet? Opus uestrum<g ref="#f161">;</g> dabit
                                 <lb/>mercedem uestram. Vel sub intelligtur articulus more
@@ -8208,7 +8208,7 @@
                                 <lb/><persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> stans ad hostium esurit. nec ei buccella panis
                                 <lb/>datur<g ref="#f161">;</g> qui coruos pascit. qui lilia uestit. Quid? 
                                 <lb/>Tu intus es<g ref="#f161">;</g> <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> foris. Accidet accidet<g ref="#f1f9">~</g> quod <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> intus
-                                <lb/>erit in regno celorum<g ref="#f161">;</g> tu foris. Pulsabis. Dicetque <expan><abbr><am>xͨ</am></abbr><ex>christus</ex></expan>.
+                                <lb/>erit in regno celorum<g ref="#f161">;</g> tu foris. Pulsabis. Dicetque <expan><abbr><am>x&#x0368;</am></abbr><ex>christus</ex></expan>.
                                 <fw place="bottom" type="catch">.Non noui te.</fw>
                                 <gb n="12"/>
                                 <pb n="113r"/>
@@ -9314,7 +9314,7 @@
                                 <note place="top" resp="new-hand">Elemosina.</note>
                                 <lb/>disperus distribuatur pauperibus. sic nempe aperientur<g ref="#f1f9">~</g>
                                 <lb/>ratio et intellectus<g ref="#f161">;</g> oculi <expan><abbr><am>.</am>s<am>.</am></abbr><ex>cilicet</ex></expan> mentis. In<reg> </reg>fractione panis<g ref="#f1f9">~</g>
-                                <lb/>in munifica elemosinarum largitione<g ref="#f161">;</g> cognoscitur <persName><expan><abbr><am>xͨ</am></abbr><ex>christus</ex></expan></persName>.
+                                <lb/>in munifica elemosinarum largitione<g ref="#f161">;</g> cognoscitur <persName><expan><abbr><am>x&#x0368;</am></abbr><ex>christus</ex></expan></persName>.
                                 <lb/>deprehenditur amor <expan><abbr><am>x&#x365;</am></abbr><ex>christi</ex></expan><g ref="#f161">;</g> declaratur quis sit fidus⸝ assecla
                                 <lb/><persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>i</abbr></expan></persName>.
                             </p>
@@ -12201,7 +12201,7 @@
                         <div n="3" type="textpart" subtype="section">
                             <head rend="margin-outer red frame-blue">De eodem.</head><!-- = Wright 284 -->
                             <ab>
-                                Pretaxatus item philosophus primus. <expan><abbr>sil</abbr><am>ł</am><ex>logism</ex><am>os</am></expan> dis
+                                Pretaxatus item philosophus primus. <expan><abbr>sill</abbr><am>&#xF1C7;</am><ex>ogism</ex><am>os</am></expan> dis
                                 <lb break="no"/>tinxit et rationibus adiutus geometricis artificiosam 
                                 <lb/>medii terminii inuentionem tradidit. Idem <persName>aristotiles<!-- though abbr is used for '-is' elsewhere; scribe might have taken it as 'Aristotilis Theoremata' --></persName> 
                                 <lb/>theoremata decimi libri <persName>eucludis</persName> inuenit. et primus 
@@ -13146,7 +13146,7 @@
                                     <lb/><l><hi rend="spaced fill-red">I</hi>ussa facit. pectusque manu ferrugine tincta.</l>
                                     <lb/><l><hi rend="spaced fill-red">T</hi>angit et <seg xml:id="FL2-32-1-5">hamatis</seg><note corresp="#FL2-32-1-5" place="right">¶ <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> curuis uel acutis.</note> precordia sentibus implet.</l>
                                     <lb/><l><hi rend="spaced fill-red">I</hi>nspiratque nocens<del rend="erased">.</del> uiris piceumque per<reg> </reg>ossa.</l>
-                                    <lb/><l><hi rend="spaced fill-red">D</hi>iscipat. et medio spargit pulmone uenenum.</l>	
+                                    <lb/><l><hi rend="spaced fill-red">D</hi>iscipat. et medio spargit pulmone uenenum.</l> 
                                 </quote>
                                 <lb/><milestone rend="paraph fill-red" unit="undefined"/><hi rend="spaced fill-red">A</hi>liquot demum intersertis<g ref="#f161">;</g> mutari refert poeta 
                                 <lb/>puellam dictam in<reg> </reg>lapidem. et inquit. 
@@ -13938,7 +13938,7 @@
                             <head rend="margin-outer red frame-blue">Ex libro de naturis rerum.</head>
                             <ab>
                                 <lb/><hi rend="dropcap2 blue trim-red">S</hi>et iam tempus est ut inuidiam <orgName>iudeorum</orgName> subgille
-                                <lb break="no"/>mus. quia ut dicit poeta. <quote source="Quintus Horatius Flaccus, Epistulae 1.2.58–59"><label place="margin" rend="red">.<expan><abbr>V</abbr><am>&#x33E;</am><ex>ersus</ex></expan>.</label><l><placeName><sic>Sciuli</sic></placeName> non inuenere tyranni<g ref="#f161">;</g></l>	
+                                <lb break="no"/>mus. quia ut dicit poeta. <quote source="Quintus Horatius Flaccus, Epistulae 1.2.58–59"><label place="margin" rend="red">.<expan><abbr>V</abbr><am>&#x33E;</am><ex>ersus</ex></expan>.</label><l><placeName><sic>Sciuli</sic></placeName> non inuenere tyranni<g ref="#f161">;</g></l> 
                                     <lb/><l>maius tormentum.</l></quote> Infelices igitur <orgName>iudei</orgName> sapientia patris inuiden
                                 <lb break="no"/>tes excecari meruerunt. Extra ciuitatem suam liberta
                                 <lb break="no"/>tem eiecerunt. Vnde et postea serui effecti sunt. Summe 
@@ -14993,7 +14993,7 @@
                                 <lb/>tam <expan><am>&#xA76F;</am><ex>con</ex></expan>m<expan><abbr rend="supraline">e</abbr><ex>n</ex></expan>dabili<g ref="#f161">;</g> tam optabili. Caritas<g ref="#f161">;</g> mors <expan><am>∻</am><ex>est</ex></expan> uit<expan><ex>i</ex><abbr rend="supraline">o</abbr></expan><expan><am>&#xA75D;</am><ex>rum</ex></expan>. 
                                 <lb/><expan><am>&#x204A;</am><ex>et</ex></expan> dum <expan><abbr>i</abbr><abbr rend="supraline">p</abbr><ex>s</ex><abbr>a</abbr></expan> <expan><am>∻</am><ex>est</ex></expan> mors carnis<g ref="#f161">;</g> <expan><abbr>a</abbr><ex>n</ex><abbr rend="supraline">i</abbr><ex>m</ex><abbr>e</abbr></expan> uita est. Mors ista<g ref="#f161">;</g> m<expan><abbr rend="supraline">e</abbr><ex>n</ex></expan>b<expan><am>&#xF1C1;</am><ex>ra</ex></expan> 
                                 <lb/>mortificat. <expan>s<abbr rend="supraline">p</abbr><ex>iritu</ex>m</expan> uiuificat. <hi rend="normal">M</hi>ortui estit inq<expan><am>&#x365;</am><ex>ui</ex></expan>t <expan>ap<ex>osto</ex>l<am>&#xF1C7;</am><ex>u</ex>s</expan><g ref="#f161">;</g> 
-                                <lb/><expan><am>&#x204A;</am><ex>et</ex></expan> uita <expan>u<ex>est</ex><abbr rend="supraline">r</abbr>a</expan> c<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> <expan><abbr><am>x̊</am></abbr><ex>christo</ex></expan>. abscondita <expan><am>∻</am><ex>est</ex></expan> in<reg> </reg>deo. Mira res. Dum 
+                                <lb/><expan><am>&#x204A;</am><ex>et</ex></expan> uita <expan>u<ex>est</ex><abbr rend="supraline">r</abbr>a</expan> c<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> <expan><abbr><am>x&#x030A;</am></abbr><ex>christo</ex></expan>. abscondita <expan><am>∻</am><ex>est</ex></expan> in<reg> </reg>deo. Mira res. Dum 
                                 <lb/>dilect<expan><ex>i</ex><abbr rend="supraline">o</abbr></expan> m<expan><abbr rend="supraline">e</abbr><ex>n</ex></expan>b<expan><am>&#xF1C1;</am><ex>ra</ex></expan> mortificat<g ref="#f161">;</g> eadem m<expan><abbr rend="supraline">e</abbr><ex>n</ex></expan>b<expan><am>&#xF1C1;</am><ex>ra</ex></expan> uiuificat. Io
                                 <lb break="no"/>cundis en<expan><abbr>i<am>&#x305;</am></abbr><ex>m</ex></expan> <expan>s<abbr rend="supraline">p</abbr><ex>irit</ex>u</expan>ali<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> studio<expan><am>&#xA75D;</am><ex>rum</ex></expan> ex<expan><am>&#x33E;</am><ex>er</ex></expan>ciciis <add place="above"><expan>t<ex>un</ex><abbr rend="supraline">c</abbr></expan> </add>dem<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> art<expan><am>&#xA770;</am><ex>us</ex></expan> s<expan><abbr rend="supraline">u</abbr><ex>n</ex></expan>t 
                                 <lb/>idonei<g ref="#f161">;</g> cum carnales affectus sopiti sunt. Lampa
@@ -15026,7 +15026,7 @@
                                 <lb/>licet <expan><abbr rend="supaline">n</abbr><ex>on</ex></expan> <expan><am>&#xA751;</am><ex>per</ex></expan>seu<expan><am>&#x33E;</am><ex>er</ex></expan>ant<expan><am>&#x33E;</am><ex>er</ex></expan>⸝ fundat<expan><am>&#x1DD1;</am><ex>ur</ex></expan> sup<expan><am>&#xF1C1;</am><ex>ra</ex></expan> petram que est <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName>. 
                                 <lb/><expan><am>&#x204A;</am><ex>et</ex></expan> <expan><abbr>t</abbr><ex>ame</ex><abbr rend="supraline">n</abbr></expan> <expan>p<am>&#x366;</am><ex>ost</ex></expan>ea cadit? <expan><abbr>S<am>&#xA76B;</am></abbr><ex>et</ex></expan> dom<expan><am>&#xA770;</am><ex>us</ex></expan> illa <expan><abbr rend="supaline">n</abbr><ex>on</ex></expan> cecidit<g ref="#f161">;</g> <expan><abbr>q<am>&#x305;</am></abbr><ex>ue</ex></expan> mansit 
                                 <lb/>fundata sup<expan><am>&#xF1C1;</am><ex>ra</ex></expan> petram. <expan><abbr>Q</abbr><ex>uo</ex><abbr>d<am>&#x315;</am></abbr></expan> <expan><abbr>au<am>&#x305;</am></abbr><ex>tem</ex></expan> fundata est<g ref="#f1f9">~</g> <expan><abbr>q</abbr><ex>uo</ex><abbr>d<am>&#x315;</am></abbr></expan> eti<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan> 
-                                <lb/>stetit<g ref="#f161">;</g> att<expan><am>&#x365;</am><ex>ri</ex></expan>buendum <expan><am>∻</am><ex>est</ex></expan> <expan><abbr><am>x̊</am></abbr><ex>christo</ex></expan>. Notandum <expan><am>∻</am><ex>est</ex></expan> <expan><ex>i</ex><abbr>g<am>&#x365;</am></abbr><ex>itur</ex></expan> quia 
+                                <lb/>stetit<g ref="#f161">;</g> att<expan><am>&#x365;</am><ex>ri</ex></expan>buendum <expan><am>∻</am><ex>est</ex></expan> <expan><abbr><am>x&#x030A;</am></abbr><ex>christo</ex></expan>. Notandum <expan><am>∻</am><ex>est</ex></expan> <expan><ex>i</ex><abbr>g<am>&#x365;</am></abbr><ex>itur</ex></expan> quia 
                                 <lb/><expan>s<ex>e</ex>c<ex>un</ex>d<am>&#x315;</am><ex>u</ex>m</expan> q<expan><ex>uo</ex><am>&#x366;</am></expan>sdam <expan>o<ex>mn</ex><abbr rend="supraline">i</abbr></expan>s caritas q<expan><am>&#x1DD3;</am><ex>ua</ex></expan>nt<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> est <expan><am>&#x204A;</am><ex>et</ex></expan> in se <expan><am>&#x204A;</am><ex>et</ex></expan> <expan><abbr>i<am>&#x305;</am></abbr><ex>n</ex></expan> lar
                                 <lb break="no"/>gitore <expan><abbr>i</abbr><abbr rend="supraline">p</abbr><ex>s</ex><abbr>i</abbr></expan><expan><am>&#xA770;</am><ex>us</ex></expan><g ref="#f161">;</g> <expan><am>&#xA751;</am><ex>per</ex></expan>petua est. <expan><abbr>S<am>&#xA76B;</am></abbr><ex>et</ex></expan> homo miser<g ref="#f161">;</g> caritat<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> 
                                 <lb/><expan>s<am>&#x365;</am><ex>ibi</ex></expan> datam reicit. Ing<expan><am>&#x33E;</am><ex>re</ex></expan>ssus en<expan><abbr>i<am>&#x305;</am></abbr><ex>m</ex></expan> uit<expan><ex>i</ex><abbr rend="supraline">o</abbr></expan><expan><am>&#xA75D;</am><ex>rum</ex></expan><g ref="#f161">;</g> o<expan><am>&#xA751;</am><ex>per</ex></expan>at<expan><am>&#x1DD1;</am><ex>ur</ex></expan> eg<expan><am>&#x33E;</am><ex>re</ex></expan>ssum 
@@ -15363,14 +15363,14 @@
                                 Intueam<expan><am>&#x1DD1;</am><ex>ur</ex></expan> oc<expan><ex>u</ex>l<am>&#xF1C7;</am></expan>is pietatis <expan><am>&#x204A;</am><ex>et</ex></expan> deuo
                                 <lb break="no"/>t<expan><ex>i</ex><abbr rend="supraline">o</abbr></expan>nis salutem <expan>n<ex>ost</ex><abbr rend="supraline">r</abbr>a</expan>m in l<expan><abbr>i<am>&#x305;</am></abbr><ex>n</ex></expan>gno uite suspensam <expan><am>&#xA753;</am><ex>pro</ex></expan> <expan>no<abbr rend="stroke">b</abbr><ex>is</ex></expan><g ref="#f1f9">~</g> 
                                 <lb/><expan>n<am>&#x368;</am><ex>ec</ex></expan> molestas sensebim<expan><am>&#xA770;</am><ex>us</ex></expan> momentaneas t<expan><am>&#x365;</am><ex>ri</ex></expan>bulat<expan><ex>i</ex><abbr rend="supraline">o</abbr></expan>nes q<expan><am>&#x1DD3;</am><ex>ua</ex></expan>s 
-                                <lb/><expan><am>&#xA753;</am><ex>pro</ex></expan> <expan><abbr><am>x̊</am></abbr><ex>christo</ex><am>.</am></expan> sustinem<expan><am>&#xA770;</am><ex>us</ex></expan>. Adde q<expan><am>&#x365;</am><ex>ui</ex></expan>a crucifixi memoria<g ref="#f161">;</g> crucifigit 
+                                <lb/><expan><am>&#xA753;</am><ex>pro</ex></expan> <expan><abbr><am>x&#x030A;</am></abbr><ex>christo</ex><am>.</am></expan> sustinem<expan><am>&#xA770;</am><ex>us</ex></expan>. Adde q<expan><am>&#x365;</am><ex>ui</ex></expan>a crucifixi memoria<g ref="#f161">;</g> crucifigit 
                                 <lb/>uicia.
                             </ab>
                         </div>
                         <div n="29" type="textpart" subtype="section">
                             <head rend="margin-outer red">Ex s<expan><am>&#x33E;</am><ex>er</ex></expan>mone q<expan><am>&#x365;</am><ex>ui</ex></expan> sic inci<expan><abbr rend="supraline">p</abbr><ex>it</ex></expan>. <expan>Di<abbr rend="supraline">x</abbr><ex>it</ex></expan> <persName><expan><abbr>i<am>ħc</am></abbr><ex>esus</ex></expan></persName> pet<expan><ex>ro</ex><am>&#x366;</am></expan>. Se<expan><abbr>q<am>&#x305;</am></abbr><ex>ue</ex></expan>re me.</head>
                             <ab>
-                                <hi rend="enlarged fill-red">F</hi>erat p<expan><am>&#x33E;</am><ex>re</ex></expan>lat<expan><am>&#xA770;</am><ex>us</ex></expan> crucem cum <expan><abbr><am>x̊</am></abbr><ex>christo</ex></expan>. non in<reg> </reg>angaria c<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> 
+                                <hi rend="enlarged fill-red">F</hi>erat p<expan><am>&#x33E;</am><ex>re</ex></expan>lat<expan><am>&#xA770;</am><ex>us</ex></expan> crucem cum <expan><abbr><am>x&#x030A;</am></abbr><ex>christo</ex></expan>. non in<reg> </reg>angaria c<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> 
                                 <lb/><persName>symone cyreneo</persName>. <hi rend="normal">P</hi><expan><ex>ri</ex>n<am>&#x365;</am></expan>cipat<expan><am>&#xA770;</am><ex>us</ex></expan> ei<expan><am>&#xA770;</am><ex>us</ex></expan> sit su<expan><am>&#xA751;</am><ex>per</ex></expan> hum<expan><am>&#x33E;</am><ex>er</ex></expan>os ei<expan><am>&#xA770;</am><ex>us</ex></expan>. ut <expan><abbr>q</abbr><ex>uo</ex><abbr>d<am>&#x315;</am></abbr></expan> 
                                 <lb/>aliis in<surplus> </surplus>iungit<g ref="#f161">;</g> o<expan><am>&#xA751;</am><ex>per</ex></expan>e exequat<expan><am>&#x1DD1;</am><ex>ur</ex></expan>.
                             </ab>
@@ -15458,7 +15458,7 @@
                             <head rend="margin-outer red">Ex s<expan><am>&#x33E;</am><ex>er</ex></expan>m<expan><abbr rend="supraline">o</abbr><ex>n</ex></expan>e q<expan><am>&#x365;</am><ex>ui</ex></expan> sic inci<expan><abbr rend="supraline">p</abbr><ex>it</ex></expan>. <expan>Di<abbr rend="supraline">x</abbr><ex>it</ex></expan> <persName><expan><abbr>i<am>ħc</am></abbr><ex>esus</ex></expan></persName> <persName>pet<expan><ex>ro</ex><am>&#x366;</am></expan></persName>. Se<expan><abbr>q<am>&#x305;</am></abbr><ex>ue</ex></expan>re me.</head>
                             <ab>
                                 <lb/>ut m<expan><am>&#x33E;</am><ex>er</ex></expan>eat<expan><am>&#x1DD1;</am><ex>ur</ex></expan> audire uocem illam sponsi. Se<expan><abbr>q<am>&#x305;</am></abbr><ex>ue</ex></expan>re me<g ref="#f161">;</g> q<expan><am>&#x1DD3;</am><ex>ua</ex></expan>m 
-                                <lb/><expan><am>&#xA753;</am><ex>pro</ex></expan>posit<expan><am>&#x1DD1;</am><ex>ur</ex></expan>us <expan><am>∻</am><ex>est</ex></expan> <persName><expan><abbr><am>xͨ</am></abbr><ex>christus</ex></expan></persName>. <expan>ecc<am>&#xF1C1;</am><ex>lesi</ex>e</expan> in<reg> </reg>die iudicii<g ref="#f161">;</g> duct<expan><am>&#x1DD1;</am><ex>ur</ex></expan>us eam ad fruit<expan><ex>i</ex><abbr rend="supraline">o</abbr></expan>
+                                <lb/><expan><am>&#xA753;</am><ex>pro</ex></expan>posit<expan><am>&#x1DD1;</am><ex>ur</ex></expan>us <expan><am>∻</am><ex>est</ex></expan> <persName><expan><abbr><am>x&#x0368;</am></abbr><ex>christus</ex></expan></persName>. <expan>ecc<am>&#xF1C1;</am><ex>lesi</ex>e</expan> in<reg> </reg>die iudicii<g ref="#f161">;</g> duct<expan><am>&#x1DD1;</am><ex>ur</ex></expan>us eam ad fruit<expan><ex>i</ex><abbr rend="supraline">o</abbr></expan>
                                 <lb break="no"/>nem delicia<expan><am>&#xA75D;</am><ex>rum</ex></expan> et<expan><am>&#x33E;</am><ex>er</ex></expan>ne iocunditatis. 
                             </ab>
                         </div>
