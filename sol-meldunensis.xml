@@ -36,22 +36,22 @@
             <pb n="2r"/>
             <pb n="2v"/>
             <p xml:lang="en"><!-- In a later hand. -->
-                <lb/>To Cirencester &amp; bid them pray for me.
-                <lb/>He that prayeth for me Jesu have merci on hym.
+                <lb/>To <placeName>Cirencester</placeName> &amp; bid them pray for me.
+                <lb/>He that prayeth for me <persName>Jesu</persName> have merci on hym.
             </p>
             <p>
-                <lb/>Iste liber constat moritio
-                <lb/>gyffardi testante iesu
+                <lb/>Iste liber constat <persName>moritio
+                <lb/>gyffardi</persName> testante <persName>iesu</persName>
             </p>
             <gb n="1"/>
             <pb n="3r"/>
-            <fw><del><unclear>Cyrencestrie</unclear></del></fw>
+            <fw><del><placeName><unclear>Cyrencestrie</unclear></placeName></del></fw>
             <div n="1" type="textpart" subtype="work">
                 <div n="Epist" type="textpart" subtype="book">
                     <head rend="red margin-inner">Epistula.</head>
                     <ab>
                         <lg>
-                            <lb/><l>Sol meldunensis et cinthia lux monachorum.</l>
+                            <lb/><l>Sol <placeName>meldunensis</placeName> et cinthia lux monachorum.</l>
                             <lb/><l>Suscipiat tua queso nouum dignatio carmen<g ref="#f161">;</g></l>
                             <lb/><l>Quod <expan><abbr>t<am>&#x365;</am></abbr><ex>ibi</ex></expan> <persName>Galfridi</persName> deuotio <seg xml:id="FL0-a">simplicis</seg><g ref="#f161">;</g> offert.</l>
                             <note place="margin-outer" corresp="#FL0-a">Simplex uocatur claustralis. dicitur et simplex qui sine plica duplicitatis est.</note>
@@ -70,7 +70,7 @@
                             <lb/>dominatori uniuerse terre.
                         </ab>
                         <div n="1" type="textpart" subtype="section">
-                            <head rend="outer red frame">Ex sermone de sancto iohanne. qui sic incipit. Fuit homo.</head>
+                            <head rend="margin-outer red frame-blue">Ex sermone de <persName>sancto iohanne</persName>. qui sic incipit. Fuit homo.</head>
                             <ab>
                                 Festiua solempnitas lucis 
                                 <lb/>hodierne in honorem sanctorum quorum 
