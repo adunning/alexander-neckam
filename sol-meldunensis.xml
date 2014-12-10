@@ -16811,16 +16811,174 @@
             </div>
             <pb n="235r"/>
             <div n="6" type="textpart" subtype="work">
-                
+                <div n="1" subtype="section" type="textpart">
+                    <head rend="red margin-outer">¶ Diuisio <expan>h<am>&#xA770;</am><ex>uius</ex></expan> <expan>no<ex>min</ex><abbr rend="supraline">i</abbr>s</expan> <placeName>roma</placeName>.</head>
+                    <lg>
+                        <lb/><l><hi rend="dropcap2 blue trim-red">E</hi>n dabit abs<expan><am>&#xE8BF;</am><ex>que</ex></expan> mora<g ref="#f161">;</g> celsus <placeName>rome</placeName> <expan><abbr>t<am>&#x365;</am></abbr><ex>ibi</ex></expan> mora.</l>
+                        <lb/><l><persName><hi rend="spaced fill-red">P</hi>irame</persName><g ref="#f161">;</g> dulcor<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> p<expan><am>&#x33E;</am><ex>re</ex></expan>bes his. at<expan><am>&#xE8BF;</am><ex>que</ex></expan> colorem.</l>
+                        <lb/><l><hi rend="spaced fill-red">C</hi>erno <expan><abbr>q</abbr><ex>uo</ex><abbr>d<am>&#x315;</am></abbr></expan> in moris letat<expan><am>&#x1DD1;</am><ex>ur</ex></expan> fruct<expan><am>&#xA770;</am><ex>us</ex></expan> amoris.</l>
+                        <lb/><l><hi rend="spaced fill-red">H</hi>ec ego let<expan><am>&#xA770;</am><ex>us</ex></expan> amo pendentia sum<expan><am>&#x33E;</am><ex>er</ex></expan>e ramo.</l>
+                        <lb/><l><hi rend="spaced fill-red">D</hi>um spaciatur amor sub ramo<g ref="#f161">;</g> lenit<expan><am>&#x33E;</am><ex>er</ex></expan> hamor.</l>
+                        <lb/><l><hi rend="spaced fill-red">H</hi>ic maro uix oram clamidis c<expan><am>&#x33E;</am><ex>er</ex></expan>nit <expan>u<ex>e</ex>l<am>&#xF1C7;</am></expan> ad horam.</l>
+                        <lb/><l><hi rend="spaced fill-red">H</hi>ic<expan><am>&#xE8BF;</am><ex>que</ex></expan> b<expan><am>&#x364;</am><ex>re</ex></expan>ui forma<g ref="#f161">;</g> mund<expan><am>&#xA770;</am><ex>us</ex></expan> signat<expan><am>&#x1DD1;</am><ex>ur</ex></expan> in <placeName>orma</placeName>.</l>
+                        <lb/><l><hi rend="spaced fill-red">S</hi>ic<expan><am>&#xE8BF;</am><ex>que</ex></expan> legat<expan><am>&#x1DD1;</am><ex>ur</ex></expan> <mentioned>o<reg> </reg>mar<!-- check --></mentioned><g ref="#f161">;</g> gemi<expan>t<am>&#x33E;</am><ex>um</ex></expan> dat si sapis<g ref="#f161">;</g> <persName>omar</persName>.</l>
+                        <lb/><l><hi rend="spaced fill-red">O</hi>ccurrat maior. q<expan><am>&#x1DD3;</am><ex>ua</ex></expan>m dicit sincopa<g ref="#f161">;</g> maor.</l>
+                        <lb/><l><hi rend="spaced fill-red">V</hi>t sic signet<expan><am>&#x1DD1;</am><ex>ur</ex></expan> quod cunctis maior habet<expan><am>&#x1DD1;</am><ex>ur</ex></expan>.</l>
+                        <lb/><l><hi rend="spaced fill-red">S</hi>ermo fit ad <persName>mart<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan></persName>. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> demit apocopa <expan><am>&#xA751;</am><ex>par</ex></expan>tem.</l>
+                    </lg>
+                    <lg>
+                        <lb/><milestone rend="paraph 3-line fill-red" unit="lg"/><l><hi rend="spaced fill-red">Q</hi><expan><am>&#x1DD3;</am><ex>ua</ex></expan>m <persName>mars</persName> armauit<g ref="#f161">;</g> <persName>martis</persName> <expan>g<ex>e</ex><abbr rend="supraline">n</abbr></expan>s nobilitauit.</l>
+                        <lb/><l><hi rend="spaced fill-red">I</hi>us<expan><am>&#xE8BF;</am><ex>que</ex></expan> sac<expan><am>&#x33E;</am><ex>er</ex></expan>dotii c<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> <persName>martis</persName> lege feroci.</l>
+                        <lb/><l><hi rend="spaced fill-red">A</hi>rmo signant<expan><am>&#x1DD1;</am><ex>ur</ex></expan>. <expan><abbr>q<am>&#xA75B;</am></abbr><ex>uia</ex></expan> sic duo significant<expan><am>&#x1DD1;</am><ex>ur</ex></expan>.</l>
+                    </lg>
+                    <lg>
+                        <lb/><milestone rend="paraph 3-line fill-red" unit="lg"/><l><expan><abbr rend="spaced fill-red">N</abbr>o<ex>m</ex><abbr rend="supraline">i</abbr><ex>n</ex>e</expan>. signat<expan><am>&#x1DD1;</am><ex>ur</ex></expan> <placeName>rome</placeName> p<expan><am>&#x33E;</am><ex>re</ex></expan>clara potestas.</l>
+                        <lb/><l><hi rend="spaced fill-red">M</hi>ora<expan><am>&#xE8BF;</am><ex>que</ex></expan> lect<expan><am>&#x1DD1;</am><ex>ur</ex></expan>o<g ref="#f161">;</g> pacis <expan><am>&#xA753;</am><ex>pro</ex></expan>mittit<expan><am>&#x1DD1;</am><ex>ur</ex></expan> estas.</l>
+                        <lb/><l><hi rend="spaced fill-red">S</hi>ic<expan><am>&#xE8BF;</am><ex>que</ex></expan> relegat<expan><am>&#x1DD1;</am><ex>ur</ex></expan> a<reg> </reg>meni<expan><abbr>b<am>&#xA76B;</am></abbr><ex>us</ex></expan> urbis egestas.</l>
+                        <lb/><l><hi rend="spaced fill-red">S</hi>i mora dicat<expan><am>&#x1DD1;</am><ex>ur</ex></expan> includi uoce<g ref="#f161">;</g> notat<expan><am>&#x1DD1;</am><ex>ur</ex></expan>.</l>
+                        <lb/><l><hi rend="spaced fill-red">P</hi>ost curas mestas<g ref="#f161">;</g> urbis mansura potestas.</l>
+                        <lb/><l><hi rend="spaced fill-red">S</hi>ub ramo ludit amor. <expan><am>&#x204A;</am><ex>et</ex></expan> sec<expan><am>&#x364;</am><ex>re</ex></expan>ta recludit.</l>
+                        <lb/><l><hi rend="spaced fill-red">L</hi>etant<expan><am>&#x1DD1;</am><ex>ur</ex></expan> turbe <expan><abbr>q</abbr><ex>uo</ex><abbr>d<am>&#x315;</am></abbr></expan> amor <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><abbr>a</abbr></expan>t<expan><am>&#x1DD1;</am><ex>ur</ex></expan> in urbe.</l>
+                    </lg>
+                    <lg>
+                        <lb/><milestone rend="paraph 2-line fill-red" unit="lg"/><l><hi rend="spaced fill-red">D</hi>icta uoce lates<g ref="#f161">;</g> genuit <expan><am rend="supraline">ꝙ</am><ex>quem</ex></expan> <placeName>mantua</placeName> uates<!-- is that an 'o' above the line? -->.</l>
+                        <lb/><l><hi rend="spaced fill-red">C</hi>ui deb<expan><am>&#x204A;</am><ex>et</ex></expan> mund<expan><am>&#xA770;</am><ex>us</ex></expan>. m<expan><ex>u</ex>l<am>&#xF1C7;</am></expan>tas <expan><am>&#xA751;</am><ex>per</ex></expan>solu<expan><am>&#x33E;</am><ex>er</ex></expan>e grates.</l>
+                    </lg>
+                    <lg>
+                        <lb/><milestone rend="paraph 2-line fill-red" unit="lg"/><l><hi rend="spaced fill-red">E</hi>rgo <placeName>roma</placeName> potens<g ref="#f161">;</g> amor <expan><abbr>i<am>&#x305;</am></abbr><ex>n</ex></expan>clit<expan><am>&#xA770;</am><ex>us</ex></expan> <expan><abbr rend="supraline">e</abbr><ex>ss</ex><abbr rend="supraline">e</abbr><am>.</am></expan> benignam<g ref="#f161">;</g></l>
+                        <lb/><l><hi rend="spaced fill-red">T</hi>e facit. insignis<g ref="#f161">;</g> cultu <expan>sap<abbr rend="supraline">i</abbr><ex>enti</ex>a</expan> dignam.</l>
+                    </lg>
+                </div>
+                <div n="2" subtype="section" type="textpart">
+                    <head rend="red margin-outer">¶ De Vase aureo <expan><abbr>i<am>&#x305;</am></abbr><ex>n</ex></expan><reg> </reg>quo <expan><am>&#xA76F;</am><ex>con</ex></expan>tinet<expan><am>&#x1DD1;</am><ex>ur</ex></expan> eucharistia.</head>
+                    <lg>
+                        <lb/><l><hi rend="dropcap2 red trim-blue">N</hi>on man<expan><am>&#xA770;</am><ex>us</ex></expan> artificis. n<expan><abbr rend="supraline">o</abbr><ex>n</ex></expan> auri <expan>gl<am>&#xF1C7;</am><ex>ori</ex>a</expan>. dignum<g ref="#f161">;</g></l>
+                        <lb/><l><hi rend="spaced fill-red">M</hi>e c<expan><abbr rend="supraline">o</abbr><ex>m</ex></expan>mendari <seg xml:id="FLM6-2-1">methonomia</seg> facit.</l>
+                        <note place="bottom" rend="frame-black" corresp="#FLM6-2-1">Methonomia<g ref="#f161">;</g> est fig<expan><am>&#x1DD1;</am><ex>ur</ex></expan>a locut<expan><ex>i</ex><abbr rend="supraline">o</abbr></expan>nis. q<expan><am>&#x1DD3;</am><ex>ua</ex></expan>ndo c<expan><abbr rend="supraline">o</abbr><ex>n</ex></expan>tent<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> ponit<expan><am>&#x1DD1;</am><ex>ur</ex></expan> <expan><am>&#xA753;</am><ex>pro</ex></expan> <expan><am>&#xA76F;</am><ex>con</ex></expan>tente<g ref="#f161">;</g> aut <expan><am>&#xA76F;</am><ex>con</ex></expan>tin<expan><abbr rend="supraline">e</abbr><ex>n</ex></expan>s <expan><am>&#xA753;</am><ex>pro</ex></expan> <expan><am>&#xA76F;</am><ex>con</ex></expan>t<expan><abbr rend="supraline">e</abbr><ex>n</ex></expan>to</note>
+                        <lb/><l><hi rend="spaced fill-red">H</hi>umani gen<expan><am>&#x33E;</am><ex>er</ex></expan>is p<expan><am>&#x33E;</am><ex>re</ex></expan>cium. <hi rend="round">m</hi>undi<expan><am>&#xE8BF;</am><ex>que</ex></expan> <seg xml:id="FLM6-2-2">salutem</seg><g ref="#f161">;</g></l><note corresp="#FLM6-2-2" place="right"><expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> corp<expan><am>&#xA770;</am><ex>us</ex></expan> <expan><abbr><am>x&#x365;</am></abbr><ex>christi</ex></expan>.</note>
+                        <lb/><l><hi rend="spaced fill-red">C</hi>ontineo. verum manna. <expan><am>&#xA751;</am><ex>per</ex></expan>henne dec<expan><am>&#xA770;</am><ex>us</ex></expan>.</l>
+                        <lb/><l><hi rend="spaced fill-red">E</hi>t<expan><am>&#x33E;</am><ex>er</ex></expan>ne uite pign<expan><am>&#xA770;</am><ex>us</ex></expan>. p<expan><am>&#x33E;</am><ex>re</ex></expan><surplus> </surplus>dulce reseruo.</l>
+                        <pb n="235v"/>
+                        <lb/><l><hi rend="spaced fill-red">V</hi>t sit languenti prompta parata salus.</l>
+                        <lb/><l><hi rend="spaced fill-red">V</hi>sibus addici c<expan><abbr rend="supraline">o</abbr><ex>m</ex></expan>muni<expan><abbr>b<am>&#xA76B;</am></abbr><ex>us</ex></expan> abnuo. sacris<g ref="#f161">;</g></l>
+                        <lb/><l><hi rend="spaced fill-red">V</hi>tens illicite<g ref="#f161">;</g> <persName><hi rend="fill-red">B</hi>althasar</persName> <expan><abbr rend="supraline">e</abbr><ex>ss</ex><abbr rend="supraline">e</abbr><am>.</am></expan> cupit.</l>
+                        <lb/><l><hi rend="spaced fill-red">V</hi>t pat<expan><am>&#x365;</am><ex>ri</ex></expan>am <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>o</abbr></expan></persName> duce possit<add place="overstrike"> a</add>dire uiator.</l>
+                        <lb/><l><hi rend="spaced fill-red">S</hi>eruor. Languenti spes. medicina. salus.</l>
+                        <lb/><l><hi rend="spaced fill-red">S</hi>u<expan><abbr>m<am>&#x305;</am></abbr><ex>en</ex></expan>tem <expan><abbr>s</abbr><ex>an</ex><abbr rend="supraline">c</abbr><ex>tu</ex><abbr>m</abbr></expan> corp<expan><am>&#xA770;</am><ex>us</ex></expan>. de u<expan><am>&#x365;</am><ex>ir</ex></expan>gine sumptum<g ref="#f161">;</g></l>
+                        <lb/><l><hi rend="spaced fill-red">M</hi>undum cor. castum corp<expan><am>&#xA770;</am><ex>us</ex></expan>. <expan>h<ex>abe</ex><abbr rend="supraline">r</abbr>e</expan> decet.</l>
+                        <lb/><l><hi rend="spaced fill-red">M</hi>undo cara caro mundissima. u<expan><am>&#x365;</am><ex>ir</ex></expan>gin<choice><sic><del rend="erased">i</del><!-- Really? --></sic><corr>i</corr></choice>s alme<g ref="#f161">;</g></l>
+                        <lb/><l><hi rend="spaced fill-red">F</hi>ruct<expan><am>&#xA770;</am><ex>us</ex></expan>. mundans sum <expan><abbr>g</abbr><abbr rend="supraline">r</abbr><ex>ati</ex><abbr>a</abbr></expan>. Vita salus.</l>
+                    </lg>
+                </div>
+                <div n="3" subtype="section" type="textpart">
+                    <lg>
+                        <lb/><l><hi rend="spaced fill-red">D</hi><hi rend="capitals fill-red">u</hi>lcessit crebro fructus radicis amare.</l>
+                        <lb/><l><hi rend="spaced fill-red">S</hi>i labor <expan><am>∻</am><ex>est</ex></expan> radix. ars <expan><abbr>t<am>&#x365;</am></abbr><ex>ibi</ex></expan> fructus erit.</l>
+                        <lb/><l><hi rend="spaced fill-red">S</hi>pes fructus iubet arua coli. <expan><abbr rend="supraline">p</abbr><ex>re</ex></expan>lud<expan><am>&#x33E;</am><ex>er</ex></expan>e bellum<g ref="#f161">;</g></l>
+                        <lb/><l><hi rend="spaced fill-red">L</hi>aurea≥ pluris sunt parta labore graui.</l>
+                        <lb/><l><hi rend="spaced fill-red">S</hi>i <expan><am>&#xA76F;</am><ex>con</ex></expan>sultius <expan><am>∻</am><ex>est</ex></expan> q<expan><am>&#x1DD3;</am><ex>ua</ex></expan>m n<expan><abbr rend="supraline">u</abbr><ex>n</ex></expan>q<expan><ex>ua</ex>m<am>&#x1DD3;</am></expan> disc<am>&#x1DD3;</am>e sero<am>&#x1DD3;</am></l>
+                        <lb/><l><hi rend="spaced fill-red">I</hi>ncipe. n<expan><abbr rend="supraline">o</abbr><ex>n</ex></expan>ne uoles tu didicisse? Voles.</l>
+                        <lb/><l><hi rend="spaced fill-red">I</hi>nsta. mors instat. etas mat<expan><am>&#x1DD1;</am><ex>ur</ex></expan>a negabit<g ref="#f161">;</g></l>
+                        <lb/><l><hi rend="spaced fill-red">V</hi>ires q<expan><am>&#x1DD3;</am><ex>ua</ex></expan>s iuueni g<expan><am>&#xF1C1;</am><ex>ra</ex></expan>ta iuuenta dabit.</l>
+                        <lb/><l><hi rend="spaced fill-red">D</hi>isce uelut s<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan><expan><am>&#xA751;</am><ex>per</ex></expan> uict<expan><am>&#x1DD1;</am><ex>ur</ex></expan>us. <expan><am>&#x204A;</am><ex>et</ex></expan> ut morit<expan><am>&#x1DD1;</am><ex>ur</ex></expan>us<g ref="#f161">;</g></l>
+                        <lb/><l><hi rend="spaced fill-red">C</hi>onfestim<g ref="#f161">;</g> <hi rend="fill-red">v</hi>iuas<g ref="#f1f9">~</g> <hi rend="fill-red">¶</hi> Expedit ista sequi.</l>
+                    </lg>
+                </div>
+                <div n="4" subtype="section" type="textpart">
+                    <head rend="margin-outer red" xml:lang="fr">¶ Entre dous uertes<g ref="#f161">;</g> la terce meure.</head>
+                    <lg>
+                        <lb/><milestone rend="paraph fill-red" unit="line"/><l><hi rend="dropcap2 blue fill-red">M</hi>at<expan><am>&#x1DD1;</am><ex>ur</ex></expan>um medium cingit ut<subst><del rend="erased"><expan><am>&#x365;</am><ex>ri</ex></expan></del><add place="right" resp="#FLMcorr-light"><unclear>rum</unclear></add></subst>m<expan><am>&#xE8BF;</am><ex>que</ex></expan> uiror.</l>
+                        <lb/><milestone rend="paraph fill-red" unit="line"/><l><hi rend="spaced fill-red">G</hi>ratior <expan><am>∻</am><ex>est</ex></expan> int<expan><am>&#x33E;</am><ex>er</ex></expan> iuuenes mat<expan><am>&#x1DD1;</am><ex>ur</ex></expan>a senectus.</l>
+                        <lb/><milestone rend="paraph fill-red" unit="line"/><l><hi rend="spaced fill-red">D</hi>ulcedo rara. dulcesc<expan><am>&#x33E;</am><ex>er</ex></expan>e cogit amara.</l>
+                        <lb/><milestone rend="paraph fill-red" unit="line"/><l><hi rend="spaced fill-red">V</hi>nica dulcedo condit amara duo.</l>
+                        <lb/><milestone rend="paraph fill-red" unit="line"/><l><hi rend="spaced fill-red">I</hi>nt<expan><am>&#x33E;</am><ex>er</ex></expan> serta sales excusant seria tristes.</l>
+                        <lb/><milestone rend="paraph fill-red" unit="line"/><l><hi rend="spaced fill-red">G</hi>rata q<expan><am>&#x365;</am><ex>ui</ex></expan>es solet alt<expan><am>&#x33E;</am><ex>er</ex></expan>nos lenire labores.</l>
+                        <lb/><milestone rend="paraph fill-red" unit="line"/><l><hi rend="spaced fill-red">V</hi>nica mat<expan><am>&#x1DD1;</am><ex>ur</ex></expan>at gemin<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> mat<expan><am>&#x1DD1;</am><ex>ur</ex></expan>a uirorem.</l>
+                        <lb/><milestone rend="paraph fill-red" unit="line"/><l><hi rend="spaced fill-red">V</hi>nica sepe duas uirides excusat honestas.</l>
+                    </lg>
+                </div>
+                <div n="5" subtype="section" type="textpart">
+                    <lg>
+                        <head rend="margin-outer red">¶ Cont<expan><am>&#xF1C1;</am><ex>ra</ex></expan> auarum.</head>
+                        <lb/><l><hi rend="dropcap2 red frame-blue">C</hi><hi rend="fill-red capitals">u</hi>r homo qui cinis es. <expan><am>&#xA751;</am><ex>per</ex></expan> auariti<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan> sepelis es?</l>
+                        <lb/><l><hi rend="spaced fill-red">E</hi>ri cur heres eris q<expan><am>&#x365;</am><ex>ui</ex></expan> non eris heres?</l>
+                        <lb/><l><hi rend="spaced fill-red">Q</hi><expan><ex>ua</ex>n<am>&#x1DD3;</am></expan>do sepultus eris. q<expan><am>&#x365;</am><ex>ui</ex></expan>c<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan><expan><am>&#xE8BF;</am><ex>que</ex></expan> sepultor es eris?</l>
+                        <pb n="236r"/>
+                        <lb/><l><hi rend="spaced fill-red">N</hi>on hodie <expan><abbr>q</abbr><ex>uo</ex><abbr>d<am>&#x315;</am></abbr></expan> heri. nouus heres im<expan><am>&#xA751;</am><ex>per</ex></expan>at eri.</l>
+                    </lg>
+                    <lg>
+                        <head rend="margin-outer red">¶ Diuisio <expan>h<am>&#xA770;</am><ex>uius</ex></expan> <expan>no<ex>min</ex><abbr rend="supraline">i</abbr>s</expan> <mentioned>uires</mentioned>.</head>
+                        <lb/><milestone rend="paraph 2-line fill-red" unit="lg"/><l><hi rend="spaced fill-red">R</hi>edde <expan><abbr>m<am>&#x365;</am></abbr><ex>ichi</ex></expan> uires. sum debilis. <expan><am>&#x204A;</am><ex>et</ex></expan> sine ui res.</l>
+                        <lb/><l><hi rend="spaced fill-red">C</hi>or<expan><am>&#xA751;</am><ex>por</ex></expan>e <expan><abbr>m<am>&#x305;</am></abbr><ex>en</ex></expan>te uires. cor<expan><am>&#xA751;</am><ex>por</ex></expan>e <expan><abbr>m<am>&#x305;</am></abbr><ex>en</ex></expan>te uir es.</l>
+                    </lg>
+                    <lg>
+                        <head rend="margin-outer red">¶ Diuisio <expan>h<am>&#xA770;</am><ex>uius</ex></expan> u<expan><am>&#x33E;</am><ex>er</ex></expan>bi <mentioned>laboraui</mentioned>.</head>
+                        <lb/><milestone rend="paraph 2-line fill-red" unit="lg"/><l><hi rend="spaced fill-red">C</hi>asu labor aui. uisu subito labo<surplus> </surplus>raui.</l>
+                        <lb/><l><hi rend="spaced fill-red">S</hi>urge labora ui bonus <expan><am>∻</am><ex>est</ex></expan> ueniens labor aui.</l>
+                    </lg>
+                    <lg>
+                        <lb/><milestone rend="paraph 3-line fill-red" unit="lg"/><l><hi rend="spaced fill-red">M</hi>ulta deus de te dicunt <expan><am>&#xA751;</am><ex>per</ex></expan> signa <expan><abbr><am>&#xA753;</am></abbr><ex>pro</ex><abbr>ph<am>&#x315;</am></abbr><ex>et</ex><abbr>e</abbr></expan>.</l>
+                        <lb/><l><hi rend="spaced fill-red">E</hi>t dicunt <expan><am>&#xA751;</am><ex>per</ex></expan><reg> </reg>te que dicunt <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> <expan>n<am>&#x368;</am><ex>ec</ex></expan> a<expan><am>&#xA751;</am><ex>per</ex></expan>te.</l>
+                        <lb/><l><hi rend="spaced fill-red">L</hi>oquunt<expan><am>&#x1DD1;</am><ex>ur</ex></expan> deus multa de te <expan><abbr><am>&#xA753;</am></abbr><ex>pro</ex><abbr>ph<am>&#x315;</am></abbr><ex>et</ex><abbr>e</abbr></expan> figuralit<expan><am>&#x33E;</am><ex>er</ex></expan>.</l>
+                    </lg>
+                </div>
+                <div n="6" subtype="section" type="textpart">
+                    <lg>
+                        <head rend="red margin-outer">¶ Uers<expan><am>&#xA770;</am><ex>us</ex></expan> ret<expan><ex>ro</ex><am>&#x366;</am></expan>gredi.</head>
+                        <lb/><l><hi rend="dropcap2 blue trim-red">U</hi><hi rend="smallcaps fill-red">r</hi>be licet mesta. faciunt turbe <expan>s<am>&#x365;</am><ex>ibi</ex></expan> festa.</l>
+                        <lb/><l><hi rend="spaced fill-red">A</hi>la teget messem sedes sanas tenet ara.</l>
+                    </lg>
+                    <lg>
+                        <head rend="red margin-outer">¶ De absconsa.</head>
+                        <lg>
+                            <head rend="red margin-outer">¶ C<expan><abbr rend="supraline">o</abbr><ex>m</ex></expan>pendioso.</head>
+                            <lb/><milestone rend="paraph 2-line fill-red" unit="lg"/><l><hi rend="spaced fill-red">L</hi>umine <expan><abbr rend="supraline">p</abbr><ex>re</ex></expan>tendor. ne ledat lumina splendor.</l>
+                            <lb/><l><hi rend="spaced fill-red">E</hi>t <expan><abbr>m<am>&#x365;</am></abbr><ex>ichi</ex></expan> debet<expan><am>&#x1DD1;</am><ex>ur</ex></expan><g ref="#f161">;</g> <expan><abbr>q</abbr><ex>uo</ex><abbr>d<am>&#x315;</am></abbr></expan> pagina munda tenet<expan><am>&#x1DD1;</am><ex>ur</ex></expan>.</l>
+                        </lg>
+                        <lg>
+                            <head rend="red margin-outer">¶ Subcincte.</head>
+                            <lb/><milestone rend="paraph fill-red" unit="lg"/><l><hi rend="spaced fill-red">S</hi>um. ne lux lu<expan><abbr>m<am>&#x305;</am></abbr><ex>en</ex></expan> ledat. <expan>n<am>&#x368;</am><ex>ec</ex></expan> cera uolu<expan><abbr>m<am>&#x305;</am></abbr><ex>en</ex></expan>.</l>
+                        </lg>
+                    </lg>
+                    <lg>
+                        <head rend="margin-outer red">¶ De lat<expan><am>&#x33E;</am><ex>er</ex></expan>na.</head>
+                        <lb/><milestone rend="paraph 2-line fill-red" unit="lg"/><l><hi rend="spaced fill-red">L</hi>ucida lat<expan><am>&#x33E;</am><ex>er</ex></expan>ne facies <expan><am>∻</am><ex>est</ex></expan> grata luc<expan><am>&#x33E;</am><ex>er</ex></expan>ne.</l>
+                        <lb/><l><hi rend="spaced fill-red">G</hi>audet lat<expan><am>&#x33E;</am><ex>er</ex></expan>na. latitans lucere luc<expan><am>&#x33E;</am><ex>er</ex></expan>na.</l>
+                        <lb/><l><hi rend="spaced fill-red">S</hi>ic <mentioned>rego</mentioned><g ref="#f161">;</g> dat <mentioned>reges</mentioned>. dat <mentioned>duco</mentioned><g ref="#f161">;</g> <mentioned>duces</mentioned>. <mentioned>lego</mentioned><g ref="#f161">;</g> <mentioned>leges</mentioned>.</l>
+                    </lg>
+                    <lg>
+                        <head rend="margin-outer red" xml:lang="fr">¶ Ieo tute uail cink mars de or.</head>
+                        <lb/><milestone rend="paraph fill-red" unit="lg"/><l><hi rend="spaced fill-red">V</hi>i ualeo tota marcas <seg xml:lang="fr">dor</seg>. subtrahe io<unclear>t</unclear>a.</l>
+                    </lg>
+                    <lg>
+                        <head rend="margin-outer red" xml:lang="fr">Beau Gwerre chastete.</head>
+                        <lb/><milestone rend="paraph fill-red" unit="lg"/><l><hi rend="spaced fill-red">F</hi>orma decens oris<g ref="#f161">;</g> expugnat castra pudoris.</l><!-- There is a correction to the right from the light hand, 'ite'(?); what is this doing? -->
+                    </lg>                    
+                    <lg>
+                        <head rend="margin-outer red" xml:lang="fr">¶ Apres peyre. vin ou proueyre.</head>
+                        <lb/><milestone rend="paraph fill-red" unit="lg"/><l><hi rend="spaced fill-red">P</hi>ost pira presbit<expan><am>&#x33E;</am><ex>er</ex></expan>um <expan><abbr>q<am>&#x305;</am></abbr><ex>ue</ex></expan>re <expan>u<ex>e</ex>l<am>&#xF1C7;</am></expan> adde merum.</l>
+                    </lg>
+                    <lg>
+                        <lb/><milestone rend="paraph 2-line fill-red" unit="lg"/><l><hi rend="spaced fill-red">G</hi>audeo legatus niueum <expan><abbr>m<am>&#x365;</am></abbr><ex>ichi</ex></expan> misit olorem.</l>
+                        <lb/><l><hi rend="spaced fill-red">H</hi>unc <expan><abbr>m<am>&#x365;</am></abbr><ex>ichi</ex></expan> liuor edax n<expan><abbr rend="supraline">u</abbr><ex>n</ex></expan>q<expan><ex>ua</ex>m<am>&#x1DD3;</am></expan> sub<surplus> </surplus>ducet honorem.</l>
+                    </lg>
+                    <lg>
+                        <lb/><milestone rend="paraph 3-line fill-red" unit="lg"/><l><hi rend="spaced fill-red">O</hi> stupor. anguillas martyr mutauit in<reg> </reg><seg xml:id="FLM-3584">hillas</seg>.</l>
+                        <note corresp="#FLM-3584">
+                            <lb/>Hec <mentioned>hila. le.</mentioned> <expan><abbr>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> andoile. Hec <mentioned>hinnula. le.</mentioned> <expan><abbr>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> <del rend="erased">o</del>sca
+                            <lb break="no"/>loma. Hic <mentioned>hinnulus. li.</mentioned> est fet<expan><am>&#xA770;</am><ex>us</ex></expan> c<expan><am>&#x33E;</am><ex>er</ex></expan>ue. In gallico <seg xml:lang="fr"><unclear>fouii</unclear></seg>.
+                        </note>
+                    </lg>
+                </div>
             </div>
             <div n="7" type="textpart" subtype="work">
                 <pb n="236v"/><!-- This page needs some serious work. -->
                 <lg>
-                    <lb/><milestone rend="paraph" unit="undefined"/><l><handShift/><!-- is the hand the same as the annotations found earlier? -->Cesaris imperium per tempora longa latebit</l>
-                    <lb/><l>Et binum gladium delonge papa papa tenebit</l>
+                    <lb/><milestone rend="paraph" unit="lg"/><l><handShift/><!-- is the hand the same as the annotations found earlier? -->Cesaris in<expan><am>&#xA751;</am><ex>per</ex></expan>i<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> <expan><am>&#xA751;</am><ex>per</ex></expan> tem<expan><am>&#xA751;</am><ex>por</ex></expan>a longa latebit</l>
+                    <lb/><l>Et bin<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> gladi<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> delonge papa tene<expan>b<ex>i</ex><abbr rend="superscript">t</abbr></expan></l>
                 </lg>
                 <lg>
-                    <lb/><l>Inprobitas <placeName>galli</placeName> confines subpeditabit</l>
+                    <lb/><l>In<expan><am>&#xA753;</am><ex>pro</ex></expan>bitas <placeName>galli</placeName> confines subpeditabit</l>
                     <lb/><l>Asperitas a<unclear>pri</unclear> per <placeName>galli</placeName> strepa meabit</l>
                 </lg>
                 <lg>
@@ -16838,21 +16996,22 @@
                     <lb/><l>Gens contra gentem faciam troiam <unclear>v</unclear>ia dura</l>
                     <lb/><l>Quid dicam <unclear>plerique nec erit quam pauit egentem</unclear></l>
                     <lb/><l>Clerus taxatus <unclear>minimos</unclear> dabit et monachatus</l>
-                    <lb/><l>Prodolor hoc <add place="above">minimus </add>non spernet episcopus unus</l><l><unclear>Qui</unclear> placeant regi facient contraria legi.</l>
+                    <lb/><l>Prodolor hoc <add place="above">minimus </add>non spernet episcopus unus</l>
+                    <lb/><l><unclear>Qui</unclear> placeant regi facient contraria legi.</l>
                     <lb/><l>Funere detectus <unclear>petri</unclear> successor abibit</l>
                     <lb/><l>Et lapis erectus ad terram funditus ibit</l>
                     <lb/><l><unclear>Soranis cum pica milno</unclear> figurat</l>
                     <lb/><l><unclear>Signis erit pica cordis erunt</unclear> inimica</l>
                 </lg>
                 <p>
-                    <lb/>Guigo illumaro uersun quia venit himine tantum hoc scribo proter istam draconem 
-                    <lb/>iesum tamen quod ierusalem historialis est amittas vnde ierusalem ergo edificatus est 
-                    <lb/>allegorice est ideo quod sancta ecclesia tropoligica est idem quod anina <expan><abbr><am>x&#x365;</am></abbr><ex>christi</ex></expan>ana 
+                    <lb/>Guigo illumaro uersun quia venit himine tantum hoc scribo propter istam draconem 
+                    <lb/>iesum tamen quod ierusalem historialiter est amitas vnde ierusalem ergo edificatus est 
+                    <lb/>allegorice est ideo quod sancta ecclesia tropologica est idem quod anima <expan><abbr><am>x&#x365;</am></abbr><ex>christi</ex></expan>ana 
                     <lb/>anagogice est idem condita celestis amphibologico <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> contra ambobus 
                     <lb/>propter accipi sicut pet omnia <add place="above">iam </add>peccat in rota sancte
                 </p>
                 <p>
-                    <lb/>Vercont a nobis for etiam ani deus peccat regnat in secretus canernis gradia frectra presente
+                    <lb/>Vercont a nobis for etiam ani deus peccat regnat in secretus canernis gratia frater presente
                 </p>
             </div>
             <div n="8" type="textpart" subtype="work"><!-- It appears from the style that this is by Alexander Neckam. -->
