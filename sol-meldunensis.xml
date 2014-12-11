@@ -41,7 +41,7 @@
             </p>
             <p>
                 <lb/>Iste liber constat <persName>moritio
-                <lb/>gyffardi</persName> testante <persName>iesu</persName>
+                    <lb/>gyffardi</persName> testante <persName>iesu</persName>
             </p>
             <gb n="1"/>
             <pb n="3r"/>
@@ -6617,8 +6617,8 @@
                                 <lb/>Factus obediens patri usque ad mortem<g ref="#f161">;</g> mortem autem crucis.
                             </ab>
                         </div>
-                        <pb n="91r"/>
                         <div n="19" type="textpart" subtype="section">
+                            <pb n="91r"/>
                             <head rend="margin-outer red frame-blue">Ex libro de naturis rerum.</head>
                             <ab>
                                 <lb/><metamark function="flag" rend="nota"/>Nutritur etiam humilitas in homine si attendat se natum
@@ -14854,6 +14854,7 @@
                                 <lb break="no"/>seros refouet solaciis. fructuosis iuuat <expan>o<abbr rend="supraline">r</abbr><ex>ati</ex>o</expan>ni<expan><abbr>b<am>&#xA76B;</am></abbr><ex>us</ex></expan>. 
                                 <lb/>Cum <expan>nich<am>&#xF1C7;</am><ex>il</ex></expan> <expan>h<ex>abe</ex><abbr rend="supraline">r</abbr>e</expan> putat<expan><am>&#x1DD1;</am><ex>ur</ex></expan><g ref="#f1f9">~</g> <expan><abbr>q</abbr><ex>uo</ex><abbr>d<am>&#x315;</am></abbr></expan> dare queat<g ref="#f161">;</g> se <expan><ex>i</ex><abbr rend="supraline">p</abbr><ex>s</ex>am</expan> dat. 
                                 <fw place="bottom" type="catch">Sol<g ref="#f161">;</g> solacium.</fw>
+                                <gb n="21"/>
                                 <pb n="203r"/>
                                 <lb/>Sol<g ref="#f161">;</g> solacium lucis sue nulli sub<expan><am>&#xF1C1;</am><ex>ra</ex></expan>hit. caritas<g ref="#f161">;</g> sua 
                                 <lb/><expan>b<ex>e</ex><abbr resp="supraline">n</abbr><ex>e</ex></expan>ficia cunctis hylarit<expan><am>&#x33E;</am><ex>er</ex></expan> im<expan><am>&#xA751;</am><ex>per</ex></expan>tit. Ad inimicos sese ex
@@ -15542,8 +15543,9 @@
                     </ab>
                 </div>
             </div>
-            <pb n="213r"/>
             <div n="2" type="textpart" subtype="work">
+                <gb n="22"/>
+                <pb n="213r"/>
                 <pb n="213v"/>
                 <div n="1" type="textpart" subtype="section">
                     <head rend="red">
@@ -15645,7 +15647,7 @@
                             <lb/>incolis mansiones. et ruina alienigenarum patebit. 
                             <lb/>Germen ipsius ex ortulis nostris abradetur. et reliquie generacionis 
                             <lb/>eius decimabuntur. Iugum perpetue seruitutis ferent. matremque 
-                            <pb n="215r"/>
+                            <pb n="216r"/>
                             <lb/>suam ligonibus et aratris uulnerabunt.</said>
                     </p>
                     <p>
@@ -15960,6 +15962,7 @@
                 <pb n="222v"/>
             </div>
             <div n="3" type="textpart" subtype="work">
+                <gb n="23"/>
                 <pb n="223r"/>
                 <div n="1" type="textpart" subtype="section">
                     <head rend="margin-outer red frame-blue">¶ Versus <persName>magistri petri Flesensis</persName>. De commendatione uini.</head>
@@ -16626,6 +16629,7 @@
                 </div>
             </div>
             <div n="5" type="textpart" subtype="work">
+                <pb n="232v"/>
                 <head rend="red inline">¶ Incipit nouus <persName>auianus</persName>.</head>
                 <div n="1" type="textpart" subtype="section">
                     <head rend="margin-outer red frame-blue">¶ De lupo.</head>
@@ -16666,6 +16670,7 @@
                             <lb/><l><hi rend="spaced fill-red">E</hi>xiguis rebus indignus ad arrua tendit<g ref="#f161">;</g></l>
                             <lb/><l><hi rend="spaced fill-red">D</hi>auus. muneribus cuncta licere putans.</l>
                             <lb/><l><hi rend="spaced fill-red">T</hi>estudo cupiens ferri per inane<g ref="#f1f9">~</g> dolorem<g ref="#f161">;</g></l>
+                            <gb n="24"/>
                             <pb n="233r"/>
                             <lb/><l><hi rend="spaced fill-red">E</hi>xponit uerbis talibus orsa suum.</l>
                             <lb/><l><said><hi rend="spaced fill-red">I</hi>nuidisse <expan><abbr>m<am>&#x365;</am></abbr><ex>ichi</ex></expan> naturam sentio. uires<g ref="#f161">;</g></said></l>
@@ -16809,8 +16814,8 @@
                     </lg>
                 </div>
             </div>
-            <pb n="235r"/>
             <div n="6" type="textpart" subtype="work">
+                <pb n="235r"/>
                 <div n="1" subtype="section" type="textpart">
                     <head rend="red margin-outer">¶ Diuisio <expan>h<am>&#xA770;</am><ex>uius</ex></expan> <expan>no<ex>min</ex><abbr rend="supraline">i</abbr>s</expan> <placeName>roma</placeName>.</head>
                     <lg>
