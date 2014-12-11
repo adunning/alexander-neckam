@@ -36,12 +36,16 @@
             <pb n="2r"/>
             <pb n="2v"/>
             <p xml:lang="en"><!-- In a later hand. -->
-                <lb/>To <placeName>Cirencester</placeName> &amp; bid them pray for me.
-                <lb/>He that prayeth for me <persName>Jesu</persName> have merci on hym.
+                <add>
+                    <lb/>To <placeName>Cirencester</placeName> &amp; bid them pray for me.
+                    <lb/>He that prayeth for me <persName>Jesu</persName> have merci on hym.
+                </add>
             </p>
-            <p>
-                <lb/>Iste liber constat <persName>moritio
-                    <lb/>gyffardi</persName> testante <persName>iesu</persName>
+            <p>            
+                <add hand="#Moritius">
+                    <lb/>Iste liber constat <persName>moritio
+                        <lb/>gyffardi</persName> testante <persName>iesu</persName>
+                </add>
             </p>
             <gb n="1"/>
             <pb n="3r"/>
@@ -16977,6 +16981,7 @@
                 </div>
             </div>
             <div n="7" type="textpart" subtype="work">
+                <addSpan spanTo="#proph" hand="#Moritius"/>
                 <pb n="236v"/><!-- This page needs some serious work. -->
                 <lg>
                     <lb/><milestone rend="paraph" unit="lg"/><l><handShift/><!-- is the hand the same as the annotations found earlier? -->Cesaris in<expan><am>&#xA751;</am><ex>per</ex></expan>i<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> <expan><am>&#xA751;</am><ex>per</ex></expan> tem<expan><am>&#xA751;</am><ex>por</ex></expan>a longa latebit</l>
@@ -17018,6 +17023,7 @@
                 <p>
                     <lb/>Vercont a nobis for etiam ani deus peccat regnat in secretus canernis gratia frater presente
                 </p>
+                <anchor xml:id="proph"/>
             </div>
             <div n="8" type="textpart" subtype="work"><!-- It appears from the style that this is by Alexander Neckam. -->
                 <pb n="237r"/>
