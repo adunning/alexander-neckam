@@ -59,7 +59,7 @@
                             <lb/><l>Sol <placeName>meldunensis</placeName> et cinthia lux monachorum.</l>
                             <lb/><l>Suscipiat tua queso nouum dignatio carmen<g ref="#f161">;</g></l>
                             <lb/><l>Quod <expan><abbr>t<am>&#x365;</am></abbr><ex>ibi</ex></expan> <persName>Galfridi</persName> deuotio <seg xml:id="FL0-a">simplicis</seg><g ref="#f161">;</g> offert.</l>
-                            <note place="margin-outer" corresp="#FL0-a">Simplex uocatur claustralis. dicitur et simplex qui sine plica duplicitatis est.</note>
+                            <note place="right" corresp="#FL0-a">Simplex uocatur claustralis. dicitur et simplex qui sine plica duplicitatis est.</note>
                             <lb/><l>Te correctorem sicio pastor pie<g ref="#f1f9">~</g> limam<g ref="#f161">;</g></l>
                             <lb/><l>Apponas operi. qui corrigis aspera claustri.</l>
                             <lb/><l>Sis pius indultor culpe. <expan>Iudexq<ex>ue</ex></expan> benignus<g ref="#f161">;</g></l>
@@ -166,7 +166,7 @@
                                 
                                 Quid scipionibus<g ref="#f1f9">~</g>
                                 <lb/>quid <metamark function="gloss" target="#FL1.7-a"/><seg xml:id="FL1.7-a">cesaribus</seg><g ref="#f1f9">~</g> quid tholomeis<g ref="#f1f9">~</g> fame preconia
-                                <note place="below"><lb/><ref>Ysidorus</ref>. <persName>Cesarum</persName> nomen a <persName>iulio</persName> cepit<g ref="#f161">;</g> qui bello ciuili commoto. primus
+                                <note place="bottom"><lb/><ref>Ysidorus</ref>. <persName>Cesarum</persName> nomen a <persName>iulio</persName> cepit<g ref="#f161">;</g> qui bello ciuili commoto. primus
                                     <lb/>romanorum singularem obtinuit principatum. Cesar autem dictus<g ref="#f161">;</g>
                                     <lb/>eo quod ceso mortue matris utero. prolatus eductusque fuerit
                                     <lb/>uel quod cum cesarie natus sit<g ref="#f161">;</g> a quo et imperatores sequen
@@ -204,7 +204,7 @@
                             <pb n="4v"/>
                             <head rend="inner red">Super cantica.</head>
                             <ab>
-                                <lb/>Qui etiam nunc esuriunt<g ref="#f161">;</g> infuturo saciabuntur.
+                                <lb/>Qui etiam nunc esuriunt<g ref="#f161">;</g> in<reg> </reg>futuro saciabuntur.
                             </ab>
                         </div>
                         <div n="10" type="textpart" subtype="section">
@@ -394,7 +394,8 @@
                             <ab>
                                 <lb/>Mira res. Qui
                                 numquam sese prius conspexerunt<g ref="#f161">;</g> agnoscent
-                                <pb n="7v"/>se statim mutuo. Immo tantum erunt notio
+                                <pb n="7v"/>
+                                <lb/>se statim mutuo. Immo tantum erunt notio
                                 <lb break="no"/>res<g ref="#f161">;</g> quanto sanctiores. Tanto item erit noticia
                                 <lb/>mutua familiarior<g ref="#f161">;</g> quanto gloria maior. Fami
                                 <lb break="no"/>liarius sese agnoscent in patria <persName>paulus</persName> et <persName>he
@@ -412,7 +413,7 @@
                                 <lb/>est<g ref="#f1f9">~</g> quod licet dixerimus et uerum sit post iudicium super
                                 <lb break="no"/>nos ciues cogitationes singulorum oculis spiritualibus
                                 <lb/>uisuros esse<g ref="#f161">;</g> <metamark function="gloss" target="#FL1.23-a"/><seg xml:id="FL1.23-a">sciendum</seg> tamen quod nullis electorum<g ref="#f1f9">~</g> peccata
-                                <note place="outer" corresp="#FL1.23-a">
+                                <note place="left" corresp="#FL1.23-a">
                                     Anselmus cantuariensis<g ref="#f161">;</g> contrarium sentit.
                                 </note>
                                 <lb/>in<reg> </reg>hac ualle miserie commisssa<g ref="#f1f9">~</g> que electus quis alius
@@ -558,7 +559,7 @@
                                 <lb/>animum ad cogitandum de deo. set illuc dirigunt
                                 <lb/>impetum cogitationis<g ref="#f161">;</g> ubi sentient uim doloris.
                                 <lb/><metamark function="gloss" target="#FL1.31-a"/><seg xml:id="FL1.31-a">In<reg> </reg>gehennalibus</seg> autem suppliciis tria precipue sunt
-                                <note place="outer" corresp="#FL1.31-a">
+                                <note place="right" corresp="#FL1.31-a">
                                     Ennnon. proprium est nomen hominis. Vnde et locus extra ierusalem situs<g ref="#f161">;</g> dictus cum gehenna. quasi terra ennon. et quoniam ibi illicita perpetrantes penas meruerunt eternas. ideo transumptum est uocabulum<g ref="#f161">;</g> ut locus infernalis hoc nomen <unclear>e</unclear> censeatur.
                                     <!-- From a later corrector -->                      
                                     <add>Nomen igitur iehenne in ueteri testamento non inuenitur<g ref="#f161">;</g> set primum a saluatore ponitur.</add>
@@ -909,7 +910,7 @@
                                 <!-- Again, D is not rubricated. -->
                                 <lb/>igitur cum sugillatione quorumdam uitiorum
                                 <lb/>compendiosum instituere tractatum <seg xml:id="FL1.54-a">inpre
-                                    <lb break="no"/>sentiarum</seg><note place="outer" corresp="#FL1.54-a">Inpresentiarum est aduerbium. pro modo. sicut euestigio<g ref="#f161">;</g> pro cito. uel ilico.</note> decreui<g ref="#f1f9">~</g> instruere uolens potius
+                                    <lb break="no"/>sentiarum</seg><note place="left" corresp="#FL1.54-a">Inpresentiarum est aduerbium. pro modo. sicut euestigio<g ref="#f161">;</g> pro cito. uel ilico.</note> decreui<g ref="#f1f9">~</g> instruere uolens potius
                                 <lb/>agnos quam oues.
                             </ab>
                         </div>
@@ -1266,26 +1267,26 @@
                                 <lb/>surripuerat<g ref="#f161">;</g> incidit in constitutionem<g ref="#f1f9">~</g> siquis in
                                 <lb/>tantam. Immo quoniam et in ipsum dominum suum manus
                                 <lb/>inicere <unclear>uiolentes</unclear><surplus>s</surplus> ausus est<g ref="#f161">;</g> siquid etiam uiris in ser
-                                <lb break="no"/>uum habuisse uisus est de iure amisit. <del><label place="margin-outer" rend="red">.Alia.</label></del><!-- Seems a bit odd that it's not erased very thoroughly, but I'm still fairly sure that was on purpose. -->Nonne <metamark function="flag" rend="nota"/>
+                                <lb break="no"/>uum habuisse uisus est de iure amisit. <del><label place="right" rend="red">.Alia.</label></del><!-- Seems a bit odd that it's not erased very thoroughly, but I'm still fairly sure that was on purpose. -->Nonne <metamark function="flag" rend="nota"/>
                                 <lb/>enim priuilegium sue dignitatis meretur amittere<g ref="#f1f9">~</g> qui
-                                <lb/>permissa sibi abutitur potestate? <label place="margin-outer" rend="red">.Alia.</label>Venit igitur sapientia sub
+                                <lb/>permissa sibi abutitur potestate? <label place="right" rend="red">.Alia.</label>Venit igitur sapientia sub
                                 <lb/>humilitatis latens habitu. ut que potenter su
                                 <lb break="no"/>perbiam eiecerat e celo<g ref="#f161">;</g> sapienter eam a terris eli
-                                <lb break="no"/>minaret. <label place="margin-outer" rend="red">.Alia.</label>Venit humilis sapientia<g ref="#f161">;</g> ut elata as
-                                <lb break="no"/>tucia circumueniretur. <label place="margin-outer" rend="red">.Alia.</label>Venit misericordia<g ref="#f161">;</g> ut miserum<g ref="#f1f9">~</g>
-                                <lb/>iusticie reconciliaret. <label place="margin-outer" rend="red">.Alia.</label>Venit lux<g ref="#f161">;</g> ut tenebras
-                                <lb/>nostras illuminaret. <label place="margin-outer" rend="red">.Alia.</label>Venit pax<g ref="#f161">;</g> ut una summis
-                                <lb/>reconciliaret. <label place="margin-outer" rend="red">.Alia.</label>Venit medicus cui natura seruit<g ref="#f161">;</g>
+                                <lb break="no"/>minaret. <label place="right" rend="red">.Alia.</label>Venit humilis sapientia<g ref="#f161">;</g> ut elata as
+                                <lb break="no"/>tucia circumueniretur. <label place="right" rend="red">.Alia.</label>Venit misericordia<g ref="#f161">;</g> ut miserum<g ref="#f1f9">~</g>
+                                <lb/>iusticie reconciliaret. <label place="right" rend="red">.Alia.</label>Venit lux<g ref="#f161">;</g> ut tenebras
+                                <lb/>nostras illuminaret. <label place="right" rend="red">.Alia.</label>Venit pax<g ref="#f161">;</g> ut una summis
+                                <lb/>reconciliaret. <label place="right" rend="red">.Alia.</label>Venit medicus cui natura seruit<g ref="#f161">;</g>
                                 <pb n="17v"/>
-                                <lb/>ut egrotum sanaret. <label place="margin-outer" rend="red">.Alia.</label>Venit salus<g ref="#f1f9">~</g> ga<add place="above">u<!-- A later corrector. --></add>dium<g ref="#f1f9">~</g> uita<g ref="#f1f9">~</g>
+                                <lb/>ut egrotum sanaret. <label place="left" rend="red">.Alia.</label>Venit salus<g ref="#f1f9">~</g> ga<add place="above">u<!-- A later corrector. --></add>dium<g ref="#f1f9">~</g> uita<g ref="#f1f9">~</g>
                                 <lb/>uia<g ref="#f1f9">~</g> ueritas<g ref="#f161">;</g> ut periculum<g ref="#f1f9">~</g> dolor<g ref="#f1f9">~</g> mors<g ref="#f1f9">~</g> error<g ref="#f1f9">~</g>
-                                <lb/>mendatium<g ref="#f1f9">~</g> exterminaretur. <label place="margin-outer" rend="red">.Alia.</label>Voluit dux esse
+                                <lb/>mendatium<g ref="#f1f9">~</g> exterminaretur. <label place="left" rend="red">.Alia.</label>Voluit dux esse
                                 <lb/>uia<g ref="#f161">;</g> ut uiatorem ase uitam reduceret. et ad
-                                <lb/>patriam perduceret. <label place="margin-outer" rend="red">.Alia.</label>Venit panis integer<g ref="#f161">;</g> ut
+                                <lb/>patriam perduceret. <label place="left" rend="red">.Alia.</label>Venit panis integer<g ref="#f161">;</g> ut
                                 <lb/>frangeretur. thesaurus<g ref="#f161">;</g> ut communicaretur. sapientia<g ref="#f161">;</g>
                                 <lb/>ut manifestaretur. Vnde et sapiens ait. Panis
                                 <lb/>integer<g ref="#f1f9">~</g> thesaurus absconditus<g ref="#f1f9">~</g> sapientia occulta
-                                <lb/>que utilitas in utrisque? <label place="margin-outer" rend="red">.Alia.</label>Venit panis angelorum
+                                <lb/>que utilitas in utrisque? <label place="left" rend="red">.Alia.</label>Venit panis angelorum
                                 <lb/>integer<g ref="#f1f9">~</g> <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> fractus est in cruce<g ref="#f161">;</g> et post resurrectionem
                                 <lb/>agnitus est in fractione panis. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> et suos in hylari
                                 <lb/>fractione panis agnoscit.
@@ -1316,10 +1317,10 @@
                         <div n="7" type="textpart" subtype="section">
                             <head rend="margin-outer red frame-blue">Ex libro edito in laudem gloriose uirginis.</head>
                             <ab>                       
-                                <lb/><label place="margin-outer" rend="red">.Alia.</label>Preterea. Apud dominum misericordia<g ref="#f161">;</g> et copiosa apud eum
+                                <lb/><label place="right" rend="red">.Alia.</label>Preterea. Apud dominum misericordia<g ref="#f161">;</g> et copiosa apud eum
                                 <lb/>redemptio. Quis igitur melius mundum mundaret<g ref="#f1f9">~</g>
                                 <lb/>quam ille qui fons est misericordie? Quidnam mundius ipsa
-                                <lb/>muncidia⸝ mundum mundaret? <label place="margin-outer" rend="red">.Alia.</label>Adde. quia ut
+                                <lb/>muncidia⸝ mundum mundaret? <label place="right" rend="red">.Alia.</label>Adde. quia ut
                                 <lb/>docent sancti. tantam oportuit esse humilitatem ad
                                 <lb/>restaurationem hominis<g ref="#f161">;</g> quanta fuit superbia ipsius.
                                 <lb/>Cum igitur tanta esset. elatio hominis⸝ ut sine dominio esse.
@@ -1460,7 +1461,7 @@
                                 <lb/>ponendi animam suam<g ref="#f161">;</g> et iterum sumendi eam. Vnde
                                 <lb/>quidam ait. <quote><l><label place="margin" rend="red">.<expan><abbr>V</abbr><am>&#x33E;</am><ex>ersus</ex></expan>.</label><metamark function="flag" rend="nota"/>Vita eterna deus⸝ mortem gustauit ad
                                         <lb/>horam<g ref="#f161">;</g></l> <l><label place="margin" rend="red">.<expan><abbr>V</abbr><am>&#x33E;</am><ex>ersus</ex></expan>.</label>Vt miser eternum uiuere posset homo.</l><!-- Also quoted in *DNR*. --></quote>
-                                <lb/><metamark function="flag" rend="nota"/><label place="margin-outer" rend="red">.Alia.</label>Predictis adiciendum est. quod si uenisset potentia
+                                <lb/><metamark function="flag" rend="nota"/><label place="right" rend="red">.Alia.</label>Predictis adiciendum est. quod si uenisset potentia
                                 <lb/>liberare genus humanum<g ref="#f161">;</g> uidetur benignitati <expan><abbr>n<am>&#x365;</am></abbr><ex>ichi</ex><abbr>l</abbr></expan>
                                 <lb/>reseruatum esse. Si uero uenisset benignitas<g ref="#f161">;</g> uid<del>e</del><!-- Otiose abbreviation. -->
                                 <lb break="no"/>etur ptentia⸝ effectu suo destituta. Venit igitur
@@ -1497,7 +1498,7 @@
                         <div n="14" type="textpart" subtype="section">
                             <head rend="margin-outer red frame-blue">Quod peccatum hominis fuit remediabile. peccatum autem diaboli. irremediabile.</head>
                             <ab>
-                                <label place="margin-outer" rend="red">.Alia.</label><!-- Not totally sure if this belongs here. --> <metamark function="flag" rend="nota"/> Remediabile item fuit
+                                <label place="left" rend="red">.Alia.</label><!-- Not totally sure if this belongs here. --> <metamark function="flag" rend="nota"/> Remediabile item fuit
                                 <lb/>peccatum hominis<g ref="#f161">;</g> quia cecidit un pulsus uiolenter. irre
                                 <lb/>mediabile uero fuit peccatum angeli<g ref="#f161">;</g> quem non in pul
                                 <lb break="no"/>sio extrinseca. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> pripria presumptio in creatorem suum
@@ -1912,7 +1913,7 @@
                                 <lb/>scire desiderat<g ref="#f161">;</g> nobile opus agustini de trinitate
                                 <lb/>legat. Set ad propositum reuertamur. flores purpureos
                                 <lb/>in prato sacre scripture legentes<g ref="#f161">;</g> ut mellificaturi<g ref="#f1f9">~</g>
-                                <lb/>esum deliciosum <note corresp="FL1-26-1" place="margin-outer" rend="red frame-blue">Ab ape sedula dicitur. apiscor <unclear>apiscaris</unclear>. quod componitur adipiscor adeptus sum.</note><seg xml:id="FL1-26-1">apiscamur</seg> dulce sapiente, pa
+                                <lb/>esum deliciosum <note corresp="FL1-26-1" place="right" rend="red frame-blue">Ab ape sedula dicitur. apiscor <unclear>apiscaris</unclear>. quod componitur adipiscor adeptus sum.</note><seg xml:id="FL1-26-1">apiscamur</seg> dulce sapiente, pa
                                 <lb break="no"/>lato<g ref="#f1f9">~</g> fidelis anime. 
                             </ab>
                         </div>
@@ -2032,7 +2033,7 @@
                                 <lb/>uoluntatis sue⸝ ingenium suum dirigunt. nec
                                 <lb/>errorem suum reprehensi corrigunt<g ref="#f161">;</g> <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> contra ueri
                                 <lb break="no"/>tatem⸝ erectam ceruicem impudenter tanquam
-                                <lb/>hostes ueritatis erigunt. <note place="margin-outer" rend="frame-blue"><seg rend="red">Lucanus.</seg> Tigris et eufrates uno se fonte resoluunt.<!-- Can this tell us anything about order of rubrication/frames added? --></note>Fluuius autem quartus<g ref="#f161">;</g>
+                                <lb/>hostes ueritatis erigunt. <note place="right" rend="frame-blue"><seg rend="red">Lucanus.</seg> Tigris et eufrates uno se fonte resoluunt.<!-- Can this tell us anything about order of rubrication/frames added? --></note>Fluuius autem quartus<g ref="#f161">;</g>
                                 <lb/>ipse est eufrates. Per hunc<g ref="#f161">;</g> eterna fruitio intelli
                                 <lb break="no"/>gitur. in<reg> </reg>qua<g ref="#f161">;</g> fructum laboris nostri percipie
                                 <lb break="no"/>mus. Eufrates enim<g ref="#f161">;</g> frugifer interpretatur. Per 
@@ -2429,7 +2430,7 @@
                         <div n="39" type="textpart" subtype="section">
                             <head rend="margin-outer red frame-blue">Ex eodem sermone.</head>
                             <ab>
-                                <label place="margin-outer" rend="red frame-blue">.Alia.</label>Occurrit etiam animo meo uod ait
+                                <label place="right" rend="red frame-blue">.Alia.</label>Occurrit etiam animo meo uod ait
                                 <lb/>iohannes in<reg> </reg>apocalipsi. Exiuit uincens<g ref="#f161">;</g> ut uinceret.
                                 <lb/>Exiuit inquam<g ref="#f161">;</g> de sinu patris<g ref="#f1f9">~</g> uincens<g ref="#f1f9">~</g> <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> uictor
                                 <lb/>ille<g ref="#f161">;</g> qui luciferum in celo deuicerat. Exuit in
@@ -9294,7 +9295,7 @@
                                 <lb break="no"/>tior cultus<g ref="#f1f9">~</g> aut appartus lautior mense. ubi aut
                                 <lb/>parum aut nichil erogatur fratribus <expan><abbr><am>x&#x365;</am></abbr><ex>christi</ex></expan>? O dolor<g ref="#f1f9">~</g> o ge
                                 <lb break="no"/>mitus. Longe operiosior diligentia datur refectioni 
-                                <lb/><note place="margin-outer frame-blue trim-red"><!-- Presumably the frame was added after the rubricated nota below. -->Molosi sunt canes magni. Gallice<g ref="#f161">;</g> zeus.</note>molosorum<g ref="#f161">;</g> quam misellorum. <expan><abbr>S<am>&#xA76B;</am></abbr><ex>et</ex></expan> quid? Non est bonum 
+                                <lb/><note place="right" rend="frame-blue trim-red"><!-- Presumably the frame was added after the rubricated nota below. -->Molosi sunt canes magni. Gallice<g ref="#f161">;</g> zeus.</note>molosorum<g ref="#f161">;</g> quam misellorum. <expan><abbr>S<am>&#xA76B;</am></abbr><ex>et</ex></expan> quid? Non est bonum 
                                 <lb/>sumere panem filiorum<g ref="#f161">;</g> et mittere canibus. Mensarum 
                                 <lb/>reliquie pauperibus debentur. <metamark function="flag" rend="nota red"/><!-- Also a guide here for rubricator. -->Exilem reputare ui
                                 <lb break="no"/>dentur uirtutem benedictionis<g ref="#f1f9">~</g> qui panem in mensa bene
@@ -9394,7 +9395,7 @@
                                 <lb/>prodolor<g ref="#f1f9">~</g> cum hac peste fedus inierunt. Magnatum
                                 <lb/>palacia frequentat familiariter hec lues letifera<g ref="#f161">;</g>
                                 <lb/>et secretioribus interest consiliis. Libentius adquescitur eius
-                                <lb/>consilio<g ref="#f161">;</g> quam <note corresp="#FL2-8-1-1" place="margin-outer" rend="frame-circle-red">Pragma est idem quod causa. Vnde pragamatici dicuntur uiri consulti iuris.</note><seg xml:id="FL2-8-1-1">pragmaticis</seg> sanxionibus aut iuri pub
+                                <lb/>consilio<g ref="#f161">;</g> quam <note corresp="#FL2-8-1-1" place="left" rend="frame-circle-red">Pragma est idem quod causa. Vnde pragamatici dicuntur uiri consulti iuris.</note><seg xml:id="FL2-8-1-1">pragmaticis</seg> sanxionibus aut iuri pub
                                 <lb break="no"/>lico. Quid? Leges audet euertere<g ref="#f161">;</g> et rapinam licitam
                                 <lb/>esse. docere presumit. Iudices hortatur inhiare lucro<g ref="#f161">;</g>
                                 <lb/>et questum constituit finem actionum.
