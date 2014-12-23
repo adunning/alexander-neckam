@@ -12,17 +12,15 @@ Full text available, but still needing verification to varying degrees.
 
 - *Meditatio de Magdalena*, from Hereford, Cathedral Library, O.i.2 (incorporating corrections from [Bestul 1999](http://dx.doi.org/10.1484/J.JML.2.304112))
 - *Tractatus super Mulierem fortem*, a commentary on Prov. 31:10–31 (Oxford, Jesus College, 94)
+- Commentary on Proverbs (Oxford, Jesus College, 94)
 - *Questiones*, from London, Lambeth Palace Library, 421
 - *Sol meldunensis*, the florilegium of Alexander Neckam's works in Cambridge, University Library, Gg.6.42. Also includes:
     - Geoffrey of Monmouth, *Prophetia Merlini* (first part, with glosses)
-    - Peter of Blois, *De commendatione uini*; Robertus de Bellafago, *De commendatione ceruisiae*; Peter of Blois, *Responsio*
-    - Alexander Neckam, *Domino Thomae abbati Claudie*
-    - Alexander Neckam, *De uino*
+    - Verses on wine: Peter of Blois, *De commendatione uini*; Robertus de Bellafago, *De commendatione ceruisiae*; Peter of Blois, *Responsio*; Alexander Neckam, *De uino*
     - Alexander Neckam, *Nouus Auianus*
     - Alexander Neckam, *De passione saluatoris* (not previously attributed to Alexander, but stylistically it seems a safe assumption)
     - (other miscellaneous poetical material)
 
 ## In Progress
 
-- Commentary on Proverbs (Oxford, Jesus College, 94)
 - Commentary on the Song of Songs
