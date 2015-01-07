@@ -2585,21 +2585,128 @@
                         <lb/>abissum laceratissime opinionis. Li<expan>b<am>&#x315;</am><ex>er</ex></expan>at<expan><am>&#xA770;</am><ex>us</ex></expan> <expan><am>∻</am><ex>est</ex></expan> <expan><abbr>t</abbr><ex>ame</ex><abbr rend="supraline">n</abbr></expan> 
                         <pb n="90r"/>
                         <cb n="a"/>
-                        <lb/><persName>ioseph</persName>, in excellentissime potestatis apicem postea <unclear>sublimiatus</unclear>. Quid ni? Mutata ueste, oblatus est regi qui postea decentissimis ipsum decorauit cultibus. Mutatur uestis quotiens expulso caliginis infamie nubilo gloria serenitatis fame restituitur innocenti. Filii uero <placeName>israel</placeName> iussi sunt lauare uestimenta sua, audituri precepta legis diuine. Corpus uestimentum est anime. Lauantur ergo uestimenta quotiens inundantur corpora. Hec preterire uolumus sub silentio, quia <persName>noemi</persName> iniunxit <persName>ruth</persName> nurui sue ut lauaretur et ungueretur <app to="#w14017"><rdg wit="#M2"> cultioribus </rdg></app>cultioribusque indueretur uestimentis, accessura ad <persName>booz</persName>. <persName>Booz</persName> interpretatur <mentioned>fortitudo</mentioned>. Non est fortis ut dominus. Si uis amplexibus ueri <persName>booz</persName> gaudere, <unclear>orneris</unclear> cultu spirituali. Ornatus <persName>hester</persName> regine splendidior <persName>assueri</persName> regis compescuit indignationem.<!-- ref to Esth 2.17? --> Regis summi gratiam specialem promeretur anima cultu uirtutum ornata. Non esset <persName>olofernes</persName> peremptus nisi <persName>iudith</persName> induta fuisset uestimentis iocunditatis sue. Succumbit hostis <app to="#w14070"><rdg wit="#M2"> antiqus </rdg></app>antiquus quotiens anima, <unclear>autem</unclear> confessione peccati demulcens creatorem aut confessione laudis ipsum uenerans, decenter ornata est uestimentis gratie.
+                        <lb/><persName>ioseph</persName><g ref="#f161">;</g> in excellentissime potestatis api
+<lb break="no"/>cem postea sublimat<expan><am>&#xA770;</am><ex>us</ex></expan>. Quid ni? Mutata 
+<lb/>ueste<g ref="#f161">;</g> oblatus <expan><am>∻</am><ex>est</ex></expan> regi. qui postea decentissi
+<lb break="no"/>mis <expan><abbr>i</abbr><abbr rend="supraline">p</abbr><ex>su</ex><abbr>m</abbr></expan> decorauit culti<expan><abbr>b<am>&#xA76B;</am></abbr><ex>us</ex></expan>. Mutat<expan><am>&#x1DD1;</am><ex>ur</ex></expan> uesti<hi rend="superscript">s</hi>. 
+<lb/>quociens expulso caliginis infamie nubi
+<lb break="no"/>lo<g ref="#f161">;</g> <expan>gl<am>&#xF1C7;</am><ex>or</ex>ia</expan> serenitatis fame restituit<expan><am>&#x1DD1;</am><ex>ur</ex></expan> inno
+<lb break="no"/>centi.
+                        </p>
+                    <p>
+                        <milestone unit="paragraph" rend="paraph enlarged green"/>Filii uero <placeName><placeName><expan>isr<ex>ae</ex>l<am>&#xF1C7;</am></expan></placeName></placeName> iussi sunt laua
+<lb break="no"/>re uestimenta sua. audituri <expan><abbr rend="supraline">p</abbr><ex>re</ex></expan>cepta le
+<lb break="no"/>gis diuine. Corp<expan><am>&#xA770;</am><ex>us</ex></expan><g ref="#f161">;</g> uestimentum <expan><am>∻</am><ex>est</ex></expan> <expan><abbr>a</abbr><ex>n</ex><abbr rend="supraline">i</abbr><ex>m</ex><abbr>e</abbr></expan>. 
+<lb/>Lauant<expan><am>&#x1DD1;</am><ex>ur</ex></expan> <expan><ex>er</ex>g<am>&#x0366;</am><ex>o</ex></expan> uestimenta<g ref="#f161">;</g> quo<subst resp="#AN"><del>c</del><add place="overstrike"><!-- Not sure about this. -->t</add></subst>iens mun
+<lb break="no"/>dant<expan><am>&#x1DD1;</am><ex>ur</ex></expan> corpora. 
+                        </p>
+                    <p>
+                        <milestone unit="paragraph" rend="paraph enlarged red"/>Nec <expan><abbr rend="supraline">p</abbr><ex>re</ex></expan>terire uolumus 
+<lb/>sub silentio. <expan><abbr>q<am>&#xA75B;</am></abbr><ex>uia</ex></expan> <persName>noemi</persName> iniunxit <persName>ruth</persName><del rend="erased"><g ref="#f161">;</g></del> 
+<lb/>nurui su<subst resp="#AN"><del rend="erased"><unclear>a</unclear></del><add place="overstrike">e</add></subst> ut lauaret<expan><am>&#x1DD1;</am><ex>ur</ex></expan> <expan><am>&#x204a;</am><ex>et</ex></expan> ungu<expan><am>&#x033E;</am><ex>er</ex></expan>et<expan><am>&#x1DD1;</am><ex>ur</ex></expan>. cultio
+<lb break="no"/>ri<expan><abbr>b<am>&#xA76B;</am></abbr><ex>us</ex></expan><expan><am>&#xE8BF;</am><ex>que</ex></expan> indueret<expan><am>&#x1DD1;</am><ex>ur</ex></expan> uestimentis<g ref="#f161">;</g> accessura 
+<lb/>ad <persName>booz</persName>. <persName>Booz</persName> in<expan><abbr rend="supraline">t</abbr><ex>er</ex></expan>pretat<expan><am>&#x1DD1;</am><ex>ur</ex></expan> <mentioned>fortitudo</mentioned>. Non 
+<lb/>est fortis ut <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><ex>u</ex><abbr>s</abbr></expan>. Si<add place="inline"> </add>uis amplexi<expan><abbr>b<am>&#xA76B;</am></abbr><ex>us</ex></expan> ueri <persName>booz</persName> 
+<lb/>gaudere<g ref="#f161">;</g> orneris cultu <expan>s<abbr>p</abbr><ex>irit</ex><abbr rend="supraline">u</abbr></expan>ali.
+</p>
+                    <p>                       
+                        <milestone unit="paragraph" rend="paraph enlarged green"/>Ornatus 
+<lb/><persName>hester</persName> regine splendidior<g ref="#f161">;</g> <persName>assueri</persName> regis c<expan><abbr rend="supraline">o</abbr><ex>m</ex></expan>pes
+<lb break="no"/>cuit indignation<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan>.<!-- ref to Esth 2.17? --> Regis s<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan>mi <expan><abbr>g</abbr><abbr rend="supraline">r</abbr><ex>ati</ex><abbr>a</abbr></expan>m specia
+<lb break="no"/>lem <expan><am>&#xA753;</am><ex>pro</ex></expan>meret<expan><am>&#x1DD1;</am><ex>ur</ex></expan><g ref="#f161">;</g> anima<g ref="#f161">;</g> cultu u<expan><am>&#x365;</am><ex>ir</ex></expan>tut<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> ornata. 
+<lb/>Non <expan><abbr rend="supraline">e</abbr><ex>ss</ex><abbr rend="supraline">e</abbr></expan>t <persName>olofernes</persName> <expan><am>&#xA751;</am><ex>per</ex></expan>empt<expan><am>&#xA770;</am><ex>us</ex></expan><g ref="#f161">;</g> nisi <persName>iudith</persName><g ref="#f1f9">~</g> in
+<lb break="no"/>duta fuisset uestimentis iocunditatis sue. 
+<lb/>Succumbit hostis antiquus. quotiens <expan><abbr>a</abbr><ex>n</ex><abbr rend="supraline">i</abbr><ex>m</ex><abbr>a</abbr></expan> <expan>au<am>&#x307;</am><ex>t</ex></expan> 
+<lb/><expan><am>&#xA76F;</am><ex>con</ex></expan>fessione <expan>pec<abbr rend="supraline">c</abbr><ex>at</ex>i</expan> demulcens creatorem aut c<expan><abbr rend="supraline">o</abbr><ex>n</ex></expan>
+<lb break="no"/>fessione laudis <expan><abbr>i</abbr><abbr rend="supraline">p</abbr><ex>su</ex><abbr>m</abbr></expan> uenerans<g ref="#f161">;</g> decenter or
+<lb break="no"/>nata est uestimentis <expan><abbr>g</abbr><abbr rend="supraline">r</abbr><ex>ati</ex><abbr>e</abbr></expan>.
                     </p>
                     <p>
-                        Anime igitur uere creatorem amantis, bissus et purpura non immerito dicuntur esse indumentum cum ipse dilectus bisso et purpura uestitus fuisse legatur. Illusum est saluatori coram Herode in uestibus albis. Adde quia sindonis officium candida bissus habet. Per sindonem ergo qua inuolutum est illud predulce corpus, designata est bissus in qua reponitur hostia, et per bissum in hoc loco, ad sindonem pretaxatam transmittimur. Indutus est et saluator noster purpura antequam crucem ascenderet. Putasne, pie lector, pontificem legalem sine causa ornatum fuisse bisso et purpura? Consule item et aliam editionem in qua legitur quod mulier fortis dupplicia pallia fecerit uiro suo, cum deinde sequatur sicut et hic legitur, quia bissus et purpura indumentum eius, et intelliges hec commode referri posse ad saluatorem. Sponsus enim anime Christus est. Vt tamen <unclear>satisfiat</unclear> translationi nostre, referamus istud ad animam ulnis amoris casti dilectum amplexantem.
+                        <hi rend="enlarged red">A</hi>nime igit<expan><am>&#x1DD1;</am><ex>ur</ex></expan> ue
+<lb break="no"/>re creatorem amantis. <quote source="Bible.Vul:Prov.31.22">bissus <expan><am>&#x204a;</am><ex>et</ex></expan> p<expan><am>&#x1DD1;</am><ex>ur</ex></expan>pura</quote> non 
+<lb/>inmerito dicunt<expan><am>&#x1DD1;</am><ex>ur</ex></expan> <expan><abbr rend="supraline">e</abbr><ex>ss</ex><abbr rend="supraline">e</abbr></expan> indumentum<g ref="#f161">;</g> c<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> <expan><abbr>i</abbr><abbr rend="supraline">p</abbr><ex>s</ex><abbr>e</abbr></expan> 
+<lb/>dilectus bisso <expan><am>&#x204a;</am><ex>et</ex></expan> p<expan><am>&#x1DD1;</am><ex>ur</ex></expan>pura uestit<expan><am>&#xA770;</am><ex>us</ex></expan> fuisse legatur. 
+<lb/>Illusum <expan><am>∻</am><ex>est</ex></expan> saluatori coram <persName>herode</persName><g ref="#f161">;</g> in uesti
+<lb break="no"/>bus albis. Adde quia sindonis officium<add place="inline"><g ref="#f161">;</g></add> can
+<lb break="no"/>dida bissus habet. <expan><am>&#xA750;</am><ex>Per</ex></expan> sindonem <expan><ex>er</ex>g<am>&#x0366;</am><ex>o</ex></expan> qua inuo
+<lb break="no"/>lutum est illud predulce corpus<g ref="#f161">;</g> designa
+<lb break="no"/>ta est bissus in qua reponit<expan><am>&#x1DD1;</am><ex>ur</ex></expan> hostia. <expan><am>&#x204a;</am><ex>et</ex></expan> <expan><am>&#xA751;</am><ex>per</ex></expan> bis
+<lb break="no"/>sum in hoc loco<g ref="#f161">;</g> ad sindonem <expan><abbr rend="supraline">p</abbr><ex>re</ex></expan>taxatam tr<expan><abbr rend="supraline">a</abbr><ex>n</ex></expan><hi rend="superscript">s</hi>
+<lb break="no"/>mittim<expan><am>&#x1DD1;</am><ex>ur</ex></expan>. Indutus est <expan><am>&#x204a;</am><ex>et</ex></expan> saluator <expan>n<ex>oste</ex><abbr rend="supraline">r</abbr></expan> p<expan><am>&#x1DD1;</am><ex>ur</ex></expan>pura<g ref="#f161">;</g> 
+<lb/>anteq<expan><ex>ua</ex>m<am>&#x1DD3;</am></expan> crucem ascenderet. Putasne pie 
+<lb/>lector. pontificem legalem sine causa or
+<lb break="no"/>natum fuisse bisso <expan><am>&#x204a;</am><ex>et</ex></expan> p<expan><am>&#x1DD1;</am><ex>ur</ex></expan>pura?<!-- ref --> Consule it<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> 
+<lb/><expan><am>&#x204a;</am><ex>et</ex></expan> aliam editionem in qua legit<expan><am>&#x1DD1;</am><ex>ur</ex></expan> quod mu
+<lb break="no"/>lier fortis dupplicia pallia fecerit uiro suo.<!-- ref --> 
+<lb/>cum deinde sequat<expan><am>&#x1DD1;</am><ex>ur</ex></expan> sicut <expan><am>&#x204a;</am><ex>et</ex></expan> hic legit<expan><am>&#x1DD1;</am><ex>ur</ex></expan>⸝ quia 
+<lb/><quote source="Bible.Vul:Prov.31.22">bissus <expan><am>&#x204a;</am><ex>et</ex></expan> p<expan><am>&#x1DD1;</am><ex>ur</ex></expan>pura in<del rend="underline"> </del>dument<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> ei<expan><am>&#xA770;</am><ex>us</ex></expan></quote><g ref="#f161">;</g> <expan><am>&#x204a;</am><ex>et</ex></expan> intelliges 
+<lb/>hec c<expan><abbr rend="supraline">o</abbr><ex>m</ex></expan>mode referri posse ad saluatorem. 
+<lb/>Sponsus <expan>e<abbr rend="supraline">n</abbr>i<ex>m</ex></expan> anime<g ref="#f161">;</g> <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> est. Vt <expan><abbr>t</abbr><ex>ame</ex><abbr rend="supraline">n</abbr></expan> satis
+<lb break="no"/>fiat translation<subst><del rend="erased">e</del><add place="overstrike">i</add></subst> <expan>n<ex>ost</ex><abbr rend="supraline">r</abbr>e</expan><g ref="#f161">;</g> ref<expan><am>&#x033E;</am><ex>er</ex></expan>amus istud ad 
+<lb/>anim<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan>⸝ ulnis amoris casti dilectum am
+<lb break="no"/>plexant<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan>.
                     </p>
                     <p>
-                        Circumspecte igitur ad beatam <persName><unclear>magdalenen</unclear></persName> refertur istorum intelligentia 
+                        <hi rend="enlarged green">C</hi>ircumspecte igit<expan><am>&#x1DD1;</am><ex>ur</ex></expan> ad <expan>b<am>&#x315;</am><ex>e</ex></expan>at<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan> 
+<lb/><persName>magdalene<subst><del rend="erased">m</del><add place="overstrike">n</add></subst></persName> refert<expan><am>&#x1DD1;</am><ex>ur</ex></expan> isto<expan><am>&#xA75D;</am><ex>rum</ex></expan> intelligentia<g ref="#f161">;</g> 
                         <cb n="b"/>
-                        <lb/>ut bissus et purpura fuisse dicantur indumentum ipsius. Per bissum quidem iuxta predictorum seriem sepultura dominica. Per purpuram passio designatur tum quia purpura indutus fuit dominus, tum quia crux sancta purpurata fuit roseo cruore agni innocentie. His induta fuit <persName>magdalene</persName> propter assiduam recordationem dominice sepulture et beate passionis. His uestibus exui non potuit tam feruenter amans. Semper presens est dilectus piis meditationibus amantis. Per bissum item designari solet mortificatio carnis quam beata <persName>magdalene</persName> studiis discipline seuerioris macerauit. Bissus enim crebris exponitur tunsionibus antequam ad niuei candoris fulgorem perueniat. Sic et caro multis attenuatur ieiuniis antequam palme uictoriam consequatur lex spiritus aduersus legem membrorum. Per purpuram feruor amoris priuilegiati designatur. Languit uirtus amoris etiam in apostolis, <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> in celo mentis <persName>magdalenes</persName> ornato stellis meditationum pietatis, nesciuit eclipsim pati sol amoris. Mira res. Sol ipse passus est eclipsim; defectum tamen non sustinuit dilectionis luna lucens in pectore <persName>marie</persName>. Verus amor est qui crescit in aduersis. Purpura item indumentum fuit <persName>magdalenes</persName>, cum roseo rubore suffusa, primitus ad dilectum accessit uerecundie titulis insignis.
+                        <lb/>ut bissus et p<expan><am>&#x1DD1;</am><ex>ur</ex></expan>pura fuisse dicant<expan><am>&#x1DD1;</am><ex>ur</ex></expan> indu<expan><abbr>m<am>&#x0305;</am></abbr><ex>en</ex></expan>t<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> 
+<lb/><expan><abbr>i</abbr><abbr rend="supraline">p</abbr><ex>s</ex><abbr>i</abbr></expan><expan><am>&#xA770;</am><ex>us</ex></expan>. <expan><am>&#xA750;</am><ex>Per</ex></expan> bissum quidem iuxta <expan><abbr rend="supraline">p</abbr><ex>re</ex></expan>dicto<expan><am>&#xA75D;</am><ex>rum</ex></expan> seriem<g ref="#f161">;</g> 
+<lb/>sepultura <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><abbr>i</abbr></expan>ca. <expan><am>&#xA750;</am><ex>Per</ex></expan> p<expan><am>&#x1DD1;</am><ex>ur</ex></expan>puram<g ref="#f161">;</g> passio designat<expan><am>&#x1DD1;</am><ex>ur</ex></expan>. 
+<lb/>tum <expan><abbr>q<am>&#xA75B;</am></abbr><ex>uia</ex></expan> p<expan><am>&#x1DD1;</am><ex>ur</ex></expan>pura indutus fuit <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><ex>u</ex><abbr>s</abbr></expan><g ref="#f161">;</g> t<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> <expan><abbr>q<am>&#xA75B;</am></abbr><ex>uia</ex></expan> crux 
+<lb/><expan><abbr>s</abbr><ex>an</ex><abbr rend="supraline">c</abbr><ex>t</ex><abbr>a</abbr></expan> p<expan><am>&#x1DD1;</am><ex>ur</ex></expan>purata fuit roseo cruore agni in<del rend="underline"> </del>no
+<lb break="no"/>centie. His induta fuit <persName>magdalene</persName><g ref="#f161">;</g> <expan><am>&#xA753;</am><ex>pro</ex>p<abbr rend="supraline">t</abbr><ex>er</ex></expan> as
+<lb break="no"/>siduam recordationem <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><abbr>i</abbr></expan>ce sepulture <expan><am>&#x204a;</am><ex>et</ex></expan> be
+<lb break="no"/>ate passionis. His uesti<expan><abbr>b<am>&#xA76B;</am></abbr><ex>us</ex></expan><g ref="#f161">;</g> exui non potuit 
+<lb/>tam feruen<expan><abbr rend="supraline">t</abbr><ex>er</ex></expan> amans. Sem<expan><am>&#xA751;</am><ex>per</ex></expan> <expan><abbr rend="supraline">p</abbr><ex>re</ex></expan>sens <expan><am>∻</am><ex>est</ex></expan> dilect<expan><am>&#xA770;</am><ex>us</ex></expan><g ref="#f161">;</g> 
+<lb/>piis meditationi<expan><abbr>b<am>&#xA76B;</am></abbr><ex>us</ex></expan> amantis.
+                        </p>
+                    <p>
+                        <hi rend="enlarged green">P</hi>er bissum 
+<lb/>item designari solet mortificatio carnis. q<expan><ex>ua</ex>m<am>&#x1DD3;</am></expan> 
+<lb/><expan>b<am>&#x315;</am><ex>e</ex></expan>ata <persName>magdalene</persName> studiis discipline seuerioris 
+<lb/>macerauit. Bissus <expan>e<abbr rend="supraline">n</abbr>i<ex>m</ex></expan> creb<add place="above">r</add>is exponit<expan><am>&#x1DD1;</am><ex>ur</ex></expan> tunsio
+<lb break="no"/>ni<expan><abbr>b<am>&#xA76B;</am></abbr><ex>us</ex></expan><g ref="#f161">;</g> anteq<expan><ex>ua</ex>m<am>&#x1DD3;</am></expan> ad niuei candoris fulgorem <expan><am>&#xA751;</am><ex>per</ex></expan>ue
+<lb break="no"/>niat. Sic <expan><am>&#x204a;</am><ex>et</ex></expan> caro multis attenuat<expan><am>&#x1DD1;</am><ex>ur</ex></expan> ieiuniis. an
+<lb break="no"/>teq<expan><ex>ua</ex>m<am>&#x1DD3;</am></expan> palme uictoriam consequat<expan><am>&#x1DD1;</am><ex>ur</ex></expan> lex <expan>s<abbr rend="supraline">p</abbr><ex>iritu</ex>s</expan> adu<expan><am>&#x033E;</am><ex>er</ex></expan>
+<lb break="no"/>sus legem menbro<expan><am>&#xA75D;</am><ex>rum</ex></expan>. <expan><am>&#xA750;</am><ex>Per</ex></expan> p<expan><am>&#x1DD1;</am><ex>ur</ex></expan>puram<g ref="#f161">;</g> feruor amoris 
+<lb/>p<expan><am>&#x365;</am><ex>ri</ex></expan>uilegiati designat<expan><am>&#x1DD1;</am><ex>ur</ex></expan>. Languit u<expan><am>&#x365;</am><ex>ir</ex></expan>tus amoris 
+<lb/>etiam in <expan>ap<ex>osto</ex>l<am>&#xF1C7;</am>is</expan>. set in celo mentis <persName>magdalenes</persName><g ref="#f1f9">~</g> 
+<lb/>ornato stellis meditat<expan><ex>i</ex><abbr rend="supraline">o</abbr></expan>num pietatis<g ref="#f161">;</g> nesciuit 
+<lb/>eclipsim pati sol amoris. Mira res. Sol ipse 
+<lb/>passus <expan><am>∻</am><ex>est</ex></expan> eclipsim. defectum <expan><abbr>t</abbr><ex>ame</ex><abbr rend="supraline">n</abbr></expan> non sustinuit 
+<lb/>dilectionis luna lucens in pectore <persName>marie</persName>. Ver<expan><am>&#xA770;</am><ex>us</ex></expan> 
+<lb/>amor est<g ref="#f161">;</g> qui crescit in<add place="inline"> </add>aduersis. Purpura it<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> 
+<lb/>indument<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> fuit <persName>magdalenes</persName><g ref="#f161">;</g> cum roseo ru
+<lb break="no"/>b<add place="overstrike">o</add>re suffusa<g ref="#f1f9">~</g> primit<expan><am>&#xA770;</am><ex>us</ex></expan> ad dilectum accessit. uere
+<lb break="no"/>cundie titulis insignis.
                     </p>
                     <p>
-                        <quote>Stragulum</quote>, ut dicit Ysidorus, <quote>est uestis discolor que manu <app to="#w14416"><rdg wit="#M1"> artitificis </rdg></app>artificis diuersa uarietate distinguitur.</quote> Dictum autem quod in stratu et in amictu aptum sit. Stragulam ergo uestem sibi fecit <persName>magdalena</persName> dum studiorum spiritualium uariis indulsit exercitiis. Honestorum uarietas operum decens est anime uestis. Ab exercitiis actiue, transeundum est ad studia contemplatiue. Immo etiam cum res desiderat a deliciis theorie gratus est <unclear>decensus</unclear> ad sudores <persName>marthee</persName>. <quote>Si oculus dexter contemplationis</quote>, scilicet otium, <quote>scandalizat te, erue eum ad tempus et proice eum abste.</quote> Si te uero stragule uestis <unclear>appelatio</unclear> sollicitat <app to="#w14494"><rdg wit="#M2"> curiosus </rdg></app>curiosius, scito quod in titulo de uerborum significationibus sic legitur. In <app to="#w14505"><rdg wit="#M2"> stratui </rdg></app>stratum, omne uestimentum <app to="#w14508"><rdg wit="#M2"> contine </rdg></app>continetur quod initiatur labeo ait.<!-- ref --> In uictu ergo uestem <app to="#w14517"><rdg wit="#M2">accipimus, contineri </rdg></app>accipimus, non stragulam, quod quidem a diuersis, diuersis modis exponitur. Quod enim dicitur, <quote>in uictu uestem accipi non stragulam</quote>, quidam exponunt dicentes non stragulam tantum. <mentioned>Vestis</mentioned> enim <mentioned>stragula</mentioned> dicitur, ut aiunt,<!-- ref --> non solum que stratum ornat, <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> quecumque iacendo sternitur. Hinc est quod plures in <orgName>hebreo</orgName> 
+                        <quote source="Isidorus Hispalensis, Etymologiae 19.26.1"><hi rend="enlarged red">S</hi>tragulum</quote> ut 
+<lb break="no"/>dicit <persName>ysidor<expan><am>&#xA770;</am><ex>us</ex></expan></persName>. <quote>est uestis discolor. que manu arti
+<lb break="no"/><surplus>ti</surplus>ficis<g ref="#f161">;</g> diuersa uarietate distinguit<expan><am>&#x1DD1;</am><ex>ur</ex></expan>. Dict<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> <expan><abbr>a<abbr rend="supraline">u</abbr>t</abbr><ex>em</ex></expan> 
+<lb/><expan><abbr>q</abbr><ex>uo</ex><abbr>d<am>&#x315;</am></abbr></expan> in stratu et in amictu aptum sit.</quote> Stragulam 
+<lb/>ergo uestem sibi fecit <persName>magdalena</persName> dum studio<expan><am>&#xA75D;</am><ex>rum</ex></expan> 
+<lb/><expan>s<abbr rend="supraline">p</abbr><ex>irit</ex>u</expan>alium uariis indulsit e<expan><abbr rend="supraline">x</abbr><ex>er</ex></expan>citiis. Honesto<expan><am>&#xA75D;</am><ex>rum</ex></expan> 
+<lb/>uarietas o<expan><am>&#xA751;</am><ex>per</ex></expan>um<g ref="#f161">;</g> decens <expan><am>∻</am><ex>est</ex></expan> anime uestis. Ab ex
+<lb break="no"/>cercitiis actiue, transeundum est ad studia c<expan><abbr rend="supraline">o</abbr><ex>n</ex></expan>
+<lb break="no"/>templatiue. Immo etiam cum res desiderat 
+<lb/>a deliciis theorie grat<expan><am>&#xA770;</am><ex>us</ex></expan> <expan><am>∻</am><ex>est</ex></expan> <unclear>decensus</unclear> ad sudores <persName>mar
+<lb break="no"/>the</persName>. <quote>Si oculus dexter contemplationis</quote>, scilicet oti
+<lb break="no"/>um, <quote>scandalizat te, erue eum ad tempus et proice 
+<lb/>eum abs te.</quote> Si te uero stragule uestis <unclear>appelatio</unclear> 
+<lb/>sollicitat <app to="#w14494"><rdg wit="#M2"> curiosus </rdg></app>curiosius, scito quod in titulo de uerborum 
+<lb/>significationibus sic legitur. In <app to="#w14505"><rdg wit="#M2"> stratui </rdg></app>stratum, omne 
+<lb/>uestimentum <app to="#w14508"><rdg wit="#M2"> contine </rdg></app>continetur quod initiatur labeo 
+<lb/>ait.<!-- ref --> In uictu ergo uestem <app to="#w14517"><rdg wit="#M2">accipimus, contineri </rdg></app>accipimus, non stragulam, 
+<lb/>quod quidem a diuersis, diuersis modis exponitur. Quod enim dicitur, <quote>in uictu uestem accipi non stra
+<lb break="no"/>gulam</quote>, quidam exponunt dicentes non stra
+<lb break="no"/>gulam tantum. <mentioned>Vestis</mentioned> enim <mentioned>stragula</mentioned> dicitur, ut 
+<lb/>aiunt,<!-- ref --> non solum que stratum ornat, <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> quecumque 
+<lb/>iacendo sternitur. Hinc est quod plures in <orgName>hebreo</orgName> 
                         <pb n="90v"/>
                         <cb n="a"/>
-                        <lb/>sermone doctissimi legunt <quote>tapetia</quote> ubi nos legimus <quote>stragulam uestem</quote>. <quote>Initiari autem est, tum consecrari, tum nouis usibus addici</quote>, secundum quod accipitur uerbum in predicta auctoritate <persName>ulpiani</persName>. Aliis uisum est stragulam dici quasi <unclear>transgulam</unclear>. Secundum opinionem istorum uestis initiatur, quecumque per caput humeris immittitur. Caput enim est initium hominis sicut uniuscuiusque rei principium potissima pars rei censetur ab iis qui instructi sunt in iure ciuili.<!-- ref --> <expan><abbr>S<am>;</am></abbr><ex>et</ex></expan> cum secundum iudicium istorum femoralia non includantur ambitu nuncupationis stragule uestis, uiderint ipsi utrum menti legis sedeat ipsorum opinio. Perspicuum est enim uerbo uictus contineri que <unclear>asui</unclear> potuique cultuique corporis queque ad uiuendum homini necessaria sunt. <persName>Beda</persName>, uir eruditissimus, <quote>stragulatam uestem</quote> dicit <quote>que uariante textura solet firmissima confici.</quote> <unclear>Examitum</unclear> ergo et queuis huiuscemodi uestis, secundum <persName>bedam</persName> stragulata dici potest. <persName>Ysidoro</persName> tamen placet<!-- ref --> ut in presenti transitu parabolarum<g ref="#f161">;</g> legamus <quote>stragulam uestem</quote>. ut autem predictum est, mulier fortis ad fortia misit <quote>manum uestem</quote>.
+                        <lb/>sermone doctissimi legunt <quote>tapetia</quote> ubi nos legimus <quote>stragulam uestem</quote>. <quote>Initiari autem est, tum consecrari, tum nouis usibus addici</quote>, secundum quod accipitur uerbum in predicta auctoritate <persName>ulpiani</persName>. Aliis uisum est stragulam dici quasi <unclear>transgulam</unclear>. Secundum opinionem istorum uestis initiatur, quecumque per caput humeris immittitur. Caput enim est initium hominis sicut uniuscuiusque rei principium potissima pars rei censetur ab iis qui instructi sunt in iure ciuili.<!-- ref --> <expan><abbr>S<am>;</am></abbr><ex>et</ex></expan> cum secundum iudicium istorum femoralia non includantur ambitu nuncupationis stragule uestis, uiderint ipsi utrum menti legis sedeat ipsorum opinio. Perspicuum est enim uerbo uictus contineri que <unclear>asui</unclear> potuique cultuique corporis queque ad uiuendum homini necessaria sunt. <persName>Beda</persName>, uir eruditissimus, <quote source="Beda, In prouerbia Salomonis 3.31 (line 382)">stragulatam uestem</quote> dicit <quote>que uariante textura solet firmissima confici.</quote> <unclear>Examitum</unclear> ergo et queuis huiuscemodi uestis, secundum <persName>bedam</persName> <quote>stragulata</quote> dici potest. <persName>Ysidoro</persName> tamen placet<!-- ref --> ut in presenti transitu <title>parabolarum</title><g ref="#f161">;</g> legamus <quote>stragulam uestem</quote>. ut autem predictum est, mulier fortis ad fortia misit <quote>manum uestem</quote>.
                     </p>
                 </div>
                 <div n="31:23" type="textpart" subtype="section">
