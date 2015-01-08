@@ -33,7 +33,7 @@
         <body>
             <gb n="a"/>
             <pb n="1r"/>
-            <p><add hand="modern"><expan>Galf<am>.</am><ex>ridus</ex></expan> de <expan>meldy<ex></ex></expan></add></p>
+            <p><add hand="modern"><expan>Galf<am>.</am><ex>ridus</ex></expan> de <expan>meldy<ex/></expan></add></p>
             <pb n="1v"/>
             <pb n="2r"/>
             <pb n="2v"/>
@@ -5152,16 +5152,16 @@
                         <head rend="margin-outer red frame-blue">.Epistola.</head>
                         <ab>
                             <lb/><lg><l><hi rend="dropcap2 red trim-blue">P</hi><hi rend="fill-red">a</hi>gina dulce putat c<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> te mea sp<expan><abbr rend="supraline">o</abbr><ex>n</ex></expan>te salutat<g ref="#f161">⸵</g></l>
-                                <lb/><l>O <hi rend="fill-red">G</hi>avfride pie pat<expan><am>&#x033E;</am><ex>er</ex></expan>. <expan>o<ex>mn</ex><abbr rend="supraline">i</abbr></expan>s papa sophie.</l>
-                                <lb/><l>Sit p<expan><am>&#x033E;</am><ex>re</ex></expan>cor ei<expan><am>&#xA770;</am><ex>us</ex></expan> <said>aue</said> <expan><abbr>t<am>&#x365;</am></abbr><ex>ibi</ex></expan> grat<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> dulce suaue.</l>
+                                <lb/><l>O <hi rend="fill-red">G</hi>avfride pie pat<expan><am>&#x33E;</am><ex>er</ex></expan>. <expan>o<ex>mn</ex><abbr rend="supraline">i</abbr></expan>s papa sophie.</l>
+                                <lb/><l>Sit p<expan><am>&#x33E;</am><ex>re</ex></expan>cor ei<expan><am>&#xA770;</am><ex>us</ex></expan> <said>aue</said> <expan><abbr>t<am>&#x365;</am></abbr><ex>ibi</ex></expan> grat<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> dulce suaue.</l>
                                 <lb/><l>Esse q<expan><am>&#x365;</am><ex>ui</ex></expan>dem gratum <expan><abbr>t<am>&#x365;</am></abbr><ex>ibi</ex></expan> wlt o uir <expan><am>&#xA753;</am><ex>pro</ex></expan>bitat<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan><g ref="#f161">⸵</g></l>
                                 <lb/><l><expan><abbr rend="fill-red">Q</abbr><ex>uo</ex><abbr>d<am>&#x315;</am></abbr></expan> te magnificat de te bona sing<expan><ex>u</ex>l<am>&#xF1C7;</am></expan>a dicat.</l>
                                 <lb/><l>Grates <expan><abbr rend="supraline">e</abbr><ex>ss</ex><abbr rend="supraline">e</abbr></expan>. putes <expan><abbr>t<am>&#x365;</am></abbr><ex>ibi</ex></expan> <expan>n<ex>ost</ex><abbr rend="supraline">r</abbr>a</expan>s ergo salutes.</l>
                                 <lb/><l>Nunc bone <hi rend="fill-red">G</hi>avfride laus cui<expan><am>&#xA770;</am><ex>us</ex></expan> <expan>u<am>&#x365;</am><ex>bi</ex></expan><expan><am>&#xE8BF;</am><ex>que</ex></expan> sonat<expan><am>&#x1DD1;</am><ex>ur</ex></expan>.</l>
-                                <lb/><l>Tucior ut <expan><am>&#xA751;</am><ex>per</ex></expan> te sit litt<expan><am>&#x033E;</am><ex>er</ex></expan>a <expan>n<ex>ost</ex><abbr rend="supraline">r</abbr>a</expan> p<expan><am>&#x033E;</am><ex>re</ex></expan>catur.</l>
+                                <lb/><l>Tucior ut <expan><am>&#xA751;</am><ex>per</ex></expan> te sit litt<expan><am>&#x33E;</am><ex>er</ex></expan>a <expan>n<ex>ost</ex><abbr rend="supraline">r</abbr>a</expan> p<expan><am>&#x33E;</am><ex>re</ex></expan>catur.</l>
                                 <lb/><l>Hic si forte <expan><abbr>t<am>&#x365;</am></abbr><ex>ibi</ex></expan> liber inconcinna loquat<expan><am>&#x1DD1;</am><ex>ur</ex></expan><g ref="#f161">⸵</g></l>
                                 <lb/><l>Iudex <expan><am>&#xA751;</am><ex>par</ex></expan>ce <expan>s<am>&#x365;</am><ex>ibi</ex></expan> ne statim <expan><am>&#xA753;</am><ex>pro</ex></expan>iciatur.</l>
-                                <lb/><l>Sepe relegisse cartam iuuat <expan><am rend="crossed">&#x204a;</am><ex>et</ex></expan> meminisse.</l>
+                                <lb/><l>Sepe relegisse cartam iuuat <expan><am rend="crossed">&#x204A;</am><ex>et</ex></expan> meminisse.</l>
                                 <lb/><l>Sepi<expan><am>&#xA770;</am><ex>us</ex></expan> adde man<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan>. <expan><abbr>q</abbr><ex>uo</ex><abbr>d<am>&#x315;</am></abbr></expan> habebis erit puto plan<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan>.</l></lg>
                         </ab>
                     </div>
@@ -6334,7 +6334,7 @@
                                 <lb/>Sicut legitur in <persName>zacharia</persName>. <quote source="Bible.Vul:Zach.12.2">Ponam <placeName>ierusalem</placeName> in superliminare
                                     <lb/>crapule</quote> <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> odiosam <quote>omnibus populis in circuitu</quote><g ref="#f161">⸵</g> sicut debet esse.
                                 <lb/>ebriosi et crapulati<add place="above" hand="dkbrown"> uixi</add>. Vel <quote>superliminare crapule</quote> <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> <expan>h<ex>abe</ex><abbr rend="supraline">n</abbr>s</expan> os
-                                <lb/>hians <expan><am>&#x204a;</am><ex>et</ex></expan> faciens uentr<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan><add place="below" hand="dkbrown"> tumescere</add>. crap<expan><ex>u</ex>l<am>&#xF1C7;</am></expan>at<expan><am>&#xA770;</am><ex>us</ex></expan> <expan>e<abbr rend="supraline">n</abbr>i<ex>m</ex></expan> <expan><abbr>h</abbr><ex>abe</ex><abbr rend="supraline">t</abbr></expan> os hians.
+                                <lb/>hians <expan><am>&#x204A;</am><ex>et</ex></expan> faciens uentr<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan><add place="below" hand="dkbrown"> tumescere</add>. crap<expan><ex>u</ex>l<am>&#xF1C7;</am></expan>at<expan><am>&#xA770;</am><ex>us</ex></expan> <expan>e<abbr rend="supraline">n</abbr>i<ex>m</ex></expan> <expan><abbr>h</abbr><ex>abe</ex><abbr rend="supraline">t</abbr></expan> os hians.
                             </ab>
                         </div>
                         <anchor xml:id="FL2-2-5add"/>
@@ -9801,8 +9801,8 @@
                                 <lb break="no"/>tissimus. rex nobilis<g ref="#f161">;</g> triumphator excellentis
                                 <lb break="no"/>simus. Maior occurrit <expan><abbr>m<am>&#x365;</am></abbr><ex>ichi</ex></expan> <persName>dauid</persName>. parcens <persName>semey</persName><g ref="#f161">;</g>
                                 <lb/>quam sternens <persName>goliam</persName>.
-                                </ab>
-                            </div>
+                            </ab>
+                        </div>
                         <div n="2" type="textpart" subtype="section"><!-- New passage from DNR, not marked. -->
                             <ab>
                                 Decet igitur maxime uirum
