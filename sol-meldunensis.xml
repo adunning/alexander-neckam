@@ -76,13 +76,13 @@
                             <lb/>dominatori uniuerse terre.
                         </ab>
                         <div n="1" type="textpart" subtype="section">
-                            <head rend="margin-outer red frame-blue">Ex sermone de <persName>sancto iohanne</persName>. qui sic incipit. Fuit homo.</head>
+                            <head rend="margin-outer red frame-blue">Ex sermone de sancto <persName>iohanne</persName>. qui sic incipit. <quote>Fuit homo.</quote></head>
                             <ab>
                                 Festiua solempnitas lucis 
-                                <lb/>hodierne in honorem sanctorum quorum 
-                                <lb/>relinquie in presenti ecclesia continentur in
+                                <lb/>hodierne in honorem <expan><abbr>s</abbr><ex>an</ex><abbr rend="supraline">c</abbr><ex>t</ex><abbr>o</abbr></expan><expan><am>&#xA75D;</am><ex>rum</ex></expan> quo<expan><am>&#xA75D;</am><ex>rum</ex></expan> 
+                                <lb/>reliquie in<reg> </reg><expan><abbr rend="supraline">p</abbr><ex>re</ex></expan>senti <expan>ecc<am>&#xF1C1;</am><ex>lesi</ex>a</expan> continent<expan><am>&#x1DD1;</am><ex>ur</ex></expan> in
                                 <lb break="no"/>staurata<g ref="#f161">;</g> ad solempnem fesiuitatem in
-                                <lb break="no"/>terioris hominis nos inuitat. Festiuus dies<g ref="#f161">;</g>
+                                <lb break="no"/>t<expan><am>&#x033E;</am><ex>er</ex></expan><surplus>r</surplus>ioris <expan>h<abbr rend="supraline">o</abbr><ex>min</ex>is</expan> nos inuitat. Festiuus dies<g ref="#f161">;</g>
                                 <lb/>diem animi festiuum desiderat. Festum exterius cele
                                 <lb break="no"/>bratum<g ref="#f161">;</g> ex interiori solempnitate ueram contrahit 
                                 <lb/>festiuitatem. Solempnizemus hodie uiri fratres 
@@ -4553,9 +4553,9 @@
                         <div n="8" type="textpart" subtype="section">
                             <head rend="margin-outer red frame-blue">Super ecclesiasten.</head>
                             <ab>
-                                De traiano
+                                De <persName>traiano</persName>
                                 <pb n="65r"/>
-                                <lb/>nulla fiat obiectio. quai miracula communi legi preiu
+                                <lb/>nulla fiat obiectio. quia miracula communi legi preiu
                                 <lb break="no"/>dicant.
                             </ab>
                         </div>
@@ -6384,7 +6384,7 @@
                         <div n="7" type="textpart" subtype="section">
                             <head rend="margin-outer red frame-blue">Ex eodem tractatu.</head>
                             <ab>
-                                Nabuzardan princeps <unclear>cocorum</unclear><g ref="#f161">;</g> muros
+                                <persName>Nabuzardan</persName> princeps <orgName><unclear>cocorum</unclear></orgName><g ref="#f161">;</g> muros
                                 <lb/>ierusalem subuertit. Naturalis calor hominis. licet igni materiali
                                 <lb/>similis<!-- a later reader felt the need to clarify '-is' abbreviation, here and for 'dissimilis' --> sit in multis<g ref="#f161">;</g> in multis tamen dissimilis. Ignis
                                 <lb/>quippe uisibilis nutritur materia supposita que accomoda
