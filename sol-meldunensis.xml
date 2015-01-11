@@ -82,7 +82,7 @@
                                 <lb/>hodierne in honorem <expan><abbr>s</abbr><ex>an</ex><abbr rend="supraline">c</abbr><ex>t</ex><abbr>o</abbr></expan><expan><am>&#xA75D;</am><ex>rum</ex></expan> quo<expan><am>&#xA75D;</am><ex>rum</ex></expan> 
                                 <lb/>reliquie in<reg> </reg><expan><abbr rend="supraline">p</abbr><ex>re</ex></expan>senti <expan>ecc<am>&#xF1C1;</am><ex>lesi</ex>a</expan> continent<expan><am>&#x1DD1;</am><ex>ur</ex></expan> in
                                 <lb break="no"/>staurata<g ref="#f161">;</g> ad solempnem fesiuitatem in
-                                <lb break="no"/>t<expan><am>&#x033E;</am><ex>er</ex></expan><surplus>r</surplus>ioris <expan>h<abbr rend="supraline">o</abbr><ex>min</ex>is</expan> nos inuitat. Festiuus dies<g ref="#f161">;</g>
+                                <lb break="no"/>t<expan><am>&#x33E;</am><ex>er</ex></expan><surplus>r</surplus>ioris <expan>h<abbr rend="supraline">o</abbr><ex>min</ex>is</expan> nos inuitat. Festiuus dies<g ref="#f161">;</g>
                                 <lb/>diem animi festiuum desiderat. Festum exterius cele
                                 <lb break="no"/>bratum<g ref="#f161">;</g> ex interiori solempnitate ueram contrahit 
                                 <lb/>festiuitatem. Solempnizemus hodie uiri fratres 
@@ -5130,7 +5130,7 @@
                         </ab>
                     </div>
                     <div n="9" type="textpart" subtype="section">
-                        <head rend="margin-outer red frame-blue">Ex edodem libro. Distinctione <num>.iiii.a</num></head>
+                        <head rend="margin-outer red frame-blue">Ex eodem libro. Distinctione <num>.iiii.a</num></head>
                         <ab>
                             <lb/><metamark function="div" rend="red">¶</metamark><lg><l>lg<hi rend="blue trim-red">C</hi>or<g ref="#f161">;</g> lux illustra. Rege res. Sapientia uero.</l>
                                 <lb/><l>Informa. Verbum<g ref="#f161">;</g> commodo uerba dato.</l>
@@ -5151,7 +5151,8 @@
                     <div n="10" type="textpart" subtype="section">
                         <head rend="margin-outer red frame-blue">.Epistola.</head>
                         <ab>
-                            <lb/><lg><l><hi rend="dropcap2 red trim-blue">P</hi><hi rend="fill-red">a</hi>gina dulce putat c<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> te mea sp<expan><abbr rend="supraline">o</abbr><ex>n</ex></expan>te salutat<g ref="#f161">⸵</g></l>
+                            <lg>
+                                <!-- Reginald of Canterbury, Vita Malachi 1.2–8 --><lb/><l><hi rend="dropcap2 red trim-blue">P</hi><hi rend="fill-red">a</hi>gina dulce putat c<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> te mea sp<expan><abbr rend="supraline">o</abbr><ex>n</ex></expan>te salutat<g ref="#f161">⸵</g></l>
                                 <lb/><l>O <hi rend="fill-red">G</hi>avfride pie pat<expan><am>&#x33E;</am><ex>er</ex></expan>. <expan>o<ex>mn</ex><abbr rend="supraline">i</abbr></expan>s papa sophie.</l>
                                 <lb/><l>Sit p<expan><am>&#x33E;</am><ex>re</ex></expan>cor ei<expan><am>&#xA770;</am><ex>us</ex></expan> <said>aue</said> <expan><abbr>t<am>&#x365;</am></abbr><ex>ibi</ex></expan> grat<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> dulce suaue.</l>
                                 <lb/><l>Esse q<expan><am>&#x365;</am><ex>ui</ex></expan>dem gratum <expan><abbr>t<am>&#x365;</am></abbr><ex>ibi</ex></expan> wlt o uir <expan><am>&#xA753;</am><ex>pro</ex></expan>bitat<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan><g ref="#f161">⸵</g></l>
@@ -5159,14 +5160,15 @@
                                 <lb/><l>Grates <expan><abbr rend="supraline">e</abbr><ex>ss</ex><abbr rend="supraline">e</abbr></expan>. putes <expan><abbr>t<am>&#x365;</am></abbr><ex>ibi</ex></expan> <expan>n<ex>ost</ex><abbr rend="supraline">r</abbr>a</expan>s ergo salutes.</l>
                                 <lb/><l>Nunc bone <hi rend="fill-red">G</hi>avfride laus cui<expan><am>&#xA770;</am><ex>us</ex></expan> <expan>u<am>&#x365;</am><ex>bi</ex></expan><expan><am>&#xE8BF;</am><ex>que</ex></expan> sonat<expan><am>&#x1DD1;</am><ex>ur</ex></expan>.</l>
                                 <lb/><l>Tucior ut <expan><am>&#xA751;</am><ex>per</ex></expan> te sit litt<expan><am>&#x33E;</am><ex>er</ex></expan>a <expan>n<ex>ost</ex><abbr rend="supraline">r</abbr>a</expan> p<expan><am>&#x33E;</am><ex>re</ex></expan>catur.</l>
-                                <lb/><l>Hic si forte <expan><abbr>t<am>&#x365;</am></abbr><ex>ibi</ex></expan> liber inconcinna loquat<expan><am>&#x1DD1;</am><ex>ur</ex></expan><g ref="#f161">⸵</g></l>
+                                <!-- Reginald of Canterbury, Vita Malachi 1.28–31 --><lb/><l>Hic si forte <expan><abbr>t<am>&#x365;</am></abbr><ex>ibi</ex></expan> liber inconcinna loquat<expan><am>&#x1DD1;</am><ex>ur</ex></expan><g ref="#f161">⸵</g></l>
                                 <lb/><l>Iudex <expan><am>&#xA751;</am><ex>par</ex></expan>ce <expan>s<am>&#x365;</am><ex>ibi</ex></expan> ne statim <expan><am>&#xA753;</am><ex>pro</ex></expan>iciatur.</l>
                                 <lb/><l>Sepe relegisse cartam iuuat <expan><am rend="crossed">&#x204A;</am><ex>et</ex></expan> meminisse.</l>
-                                <lb/><l>Sepi<expan><am>&#xA770;</am><ex>us</ex></expan> adde man<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan>. <expan><abbr>q</abbr><ex>uo</ex><abbr>d<am>&#x315;</am></abbr></expan> habebis erit puto plan<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan>.</l></lg>
+                                <lb/><l>Sepi<expan><am>&#xA770;</am><ex>us</ex></expan> adde man<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan>. <expan><abbr>q</abbr><ex>uo</ex><abbr>d<am>&#x315;</am></abbr></expan> habebis erit puto plan<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan>.</l>
+                            </lg>
                         </ab>
                     </div>
                 </div>
-                <gb n="8"/><!-- Judging from the appearance, but check this. Is anything to be inferred from the lack of a catchphrase? -->
+                <gb n="8"/>
                 <pb n="72r"/>
                 <div n="2" type="textpart" subtype="book">
                     <head rend="inline red"><metamark function="div" rend="red">¶</metamark>Incipit liber secundus. In quo agitur de misericordia<g ref="#f161">;</g> et de suggillatione quor<expan><abbr rend="supraline">u</abbr><ex>n</ex></expan>dam uitiorum.</head>
