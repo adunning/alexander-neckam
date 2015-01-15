@@ -15535,7 +15535,7 @@
                         <seg source="Reginald of Canterbury, Domno Gilleberto abbati Westmonasteriensi (ed. Wright, Anglo-Latin Satirical Poets and Epigrammatists, vol. 2, 259) 23–38">
                             <lg>
                                 <lb/><milestone rend="paraph fill-red" unit="lg"/><l met="hexameter"><hi rend="spaced fill-red">N</hi>unc pat<expan><am>&#x33E;</am><ex>er</ex></expan> <expan><am>&#x204A;</am><ex>et</ex></expan> domne tu uid<expan><am>&#x33E;</am><ex>er</ex></expan>is hic liber omne<g ref="#f161">;</g></l>
-                                <lb/><l met="pentameter"><hi rend="spaced fill-red">S</hi>eu punctum tulerit seu uiciosus erit.</l>
+                                <lb/><l met="pentameter"><hi rend="spaced fill-red">S</hi>eu punctum tulerit<!-- Cf. Horace, *De arte poetica* 343–44 --> seu uiciosus erit.</l>
                                 <lb/><l met="hexameter"><hi rend="spaced fill-red">S</hi>tare uelis<g ref="#f161">;</g> stabit. si non<g ref="#f161">;</g> <expan>h<ex>un</ex><abbr rend="supraline">c</abbr></expan> fl<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan>ma c<expan><am>&#x364;</am><ex>re</ex></expan>mabit.</l>
                                 <lb/><l met="pentameter"><hi rend="spaced fill-red">L</hi>aus sua sermo tuus int<expan><am>&#x33E;</am><ex>er</ex></expan>itus<surplus> </surplus>ue suus.</l>
                                 <lb/><l met="hexameter"><hi rend="spaced fill-red">S</hi>i posui partes uelud is qui ne<supplied reason="omitted">s</supplied>ciit artes.</l>
@@ -15544,7 +15544,7 @@
                                 <lb/><l met="pentameter"><hi rend="spaced fill-red">O</hi>b decus ingenue laudis ubi<expan><am>&#xE8BF;</am><ex>que</ex></expan> tue.</l>
                             </lg>
                         </seg>
-                        <lg><!-- See Du Méril, *Poésies inédites du moyen âge*, 170–171 -->
+                        <lg><!-- Neckam, carmina metrica, 16.17–18 -->
                             <lb/><milestone rend="paraph fill-red" unit="lg"/><l><hi rend="spaced fill-red">M</hi>utua disc<expan><am>&#x1DD1;</am><ex>ur</ex></expan>ra<del rend="expunct">n</del>t int<expan><am>&#x33E;</am><ex>er</ex></expan> nos pagina. nota<g ref="#f161">;</g></l>
                             <lb/><l><hi rend="spaced fill-red">M</hi>ens <seg xml:id="FL-2-ENV-tr1">mea</seg> mens<expan><am>&#xE8BF;</am><ex>que</ex></expan> <seg xml:id="FL-2-ENV-tr2">tua</seg><listTranspose><transpose><ptr target="#FL-2-ENV-tr2"/><ptr target="#FL-2-ENV-tr1"/></transpose></listTranspose><!-- Who is making this change? --> sit mediante nota.</l>
                         </lg>
