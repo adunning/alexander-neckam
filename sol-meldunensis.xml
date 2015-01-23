@@ -13801,7 +13801,7 @@
                             </ab>
                         </div>
                         <div n="7" type="textpart" subtype="section">
-                            <head rend="margin-outer red frame-blue">Super mulierem fortem.</head>
+                            <head rend="margin-outer red frame-blue">Su<expan><am>&#xA751;</am><ex>per</ex></expan> mulierem fortem.</head>
                             <ab>
                                 Lingue 
                                 <lb/>igitur petulantia. conuicia. contumelie. obprobria. 
@@ -13811,7 +13811,7 @@
                             </ab>
                         </div>
                         <div n="8" type="textpart" subtype="section">
-                            <head rend="margin-outer red frame-blue"/>
+                            <head rend="margin-outer red frame-blue">Su<expan><am>&#xA751;</am><ex>per</ex></expan> mulierem fortem.</head>
                             <ab>
                                 Multorum enim labores in
                                 <choice><sic><lb/></sic><corr><lb break="no"/></corr></choice>cliti et studia commendatione digna<g ref="#f161">;</g> decolorantur 
