@@ -327,7 +327,7 @@
                         <lb break="no"/>cellata<g ref="#f161">;</g> cemento humilitatis oblita. dono<expan><am>&#xA75D;</am><ex>rum</ex></expan> 
                         <lb/><expan><abbr>g</abbr><abbr rend="supraline">r</abbr><ex>ati</ex><abbr>e</abbr></expan>⸝ <expan><am>&amp;</am><ex>et</ex></expan> int<expan><am>&#xA770;</am><ex>us</ex></expan> <expan><am>&amp;</am><ex>et</ex></expan> exteri<expan><am>&#xA770;</am><ex>us</ex></expan>⸝ ornatu decent<expan><am>&#x33E;</am><ex>er</ex></expan><unclear><g ref="#f161">;</g></unclear> depicta.
                     </p>
-                    <addSpan spanTo="#SMF-31.10-add1" place="bottom" rend="frame-red-blue" resp="#AN-note"/><!-- the rough version from 'AN' is overleaf -->
+                    <addSpan spanTo="#SMF-1-31.10-add1" place="bottom" rend="frame-red-blue" resp="#AN-note"/><!-- the rough version from 'AN' is overleaf -->
                     <p>
                         <cb n="a"/>
                         <persName><hi rend="green enlarged">M</hi>agdalena</persName> item<g ref="#f161">;</g> inter<expan><abbr rend="supraline">p</abbr><ex>re</ex></expan>tatur <mentioned>magna</mentioned> uel <mentioned>mu
@@ -946,7 +946,7 @@
                         <lb/><expan><am>&amp;</am><ex>et</ex></expan> succidit nemus. Sic <expan><am>&amp;</am><ex>et</ex></expan> uir fortis inan<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> 
                         <lb/>glori<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan> que altare est <expan><am>&#xA76F;</am><ex>con</ex></expan>fusionis⸝ destruit. 
                         <lb/><expan><am>&amp;</am><ex>et</ex></expan> nem<expan><am>&#xA770;</am><ex>us</ex></expan> uoluptat<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> carnis⸝ in se succidit. 
-                        <lb/><metamark function="flag" rend="nota" spanTo="#SMF-31.13-a1"/>Viri⸝ manu ad os <expan><am>&#xA753;</am><ex>pro</ex></expan>icientes aq<expan><am>&#x1DD3;</am><ex>ua</ex></expan>s⸝ reseruati 
+                        <lb/><metamark function="flag" rend="nota" spanTo="#SMF-1-31.13-a1"/>Viri⸝ manu ad os <expan><am>&#xA753;</am><ex>pro</ex></expan>icientes aq<expan><am>&#x1DD3;</am><ex>ua</ex></expan>s⸝ reseruati 
                         <lb/>sunt ad confl<add place="overstrike">ict<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan></add> militar<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan>. reuertenti<expan><abbr>b<am>&#xA76B;</am></abbr><ex>us</ex></expan> 
                         <lb/>in loc<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> su<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan><subst><del rend="erased"><g ref="#f161">;</g></del><add place="overstrike">⸝</add></subst> flexo poplite bibenti<expan><abbr>b<am>&#xA76B;</am></abbr><ex>us</ex></expan>. Bona 
                         <lb/>nimir<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> t<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan>poralia nimio feruore desi<expan>d<add place="inline"><am>&#x315;</am><ex>er</ex></add></expan>ii sici
