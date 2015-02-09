@@ -16923,7 +16923,7 @@
                     <lg>
                         <head rend="margin-outer red">¶ Cont<expan><am>&#xF1C1;</am><ex>ra</ex></expan> auarum.</head>
                         <lb/><l><hi rend="dropcap2 red frame-blue">C</hi><hi rend="fill-red capitals">u</hi>r homo qui cinis es. <expan><am>&#xA751;</am><ex>per</ex></expan> auariti<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan> sepelis es?</l>
-                        <lb/><l><hi rend="spaced fill-red">E</hi>ri cur heres eris q<expan><am>&#x365;</am><ex>ui</ex></expan> non eris heres?</l>
+                        <lb/><l><hi rend="spaced fill-red">E</hi>ri cur heres eris q<expan><am>&#x365;</am><ex>ui</ex></expan> non eris heres?<!-- H punctuates this incorrectly: should be 'Aeri cur haeres, aeris qui non eris heres?' --></l>
                         <lb/><l><hi rend="spaced fill-red">Q</hi><expan><ex>ua</ex>n<am>&#x1DD3;</am></expan>do sepultus eris. q<expan><am>&#x365;</am><ex>ui</ex></expan>c<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan><expan><am>&#xE8BF;</am><ex>que</ex></expan> sepultor es eris?</l>
                         <pb n="236r"/>
                         <lb/><l><hi rend="spaced fill-red">N</hi>on hodie <expan><abbr>q</abbr><ex>uo</ex><abbr>d<am>&#x315;</am></abbr></expan> heri. nouus heres im<expan><am>&#xA751;</am><ex>per</ex></expan>at eri.</l>
