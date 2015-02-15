@@ -4823,112 +4823,506 @@
                         <lb break="no"/>ritatis uenerari<g ref="#f161">;</g> sollicitatur. cernens tot rebel
                         <pb n="100v" break="no"/>
                         <cb n="a" break="no"/>
-                        <lb break="no"/>lium insidias<g ref="#f1f9">~</g> decrationes cinicas<g ref="#f1f9">~</g> indignationis murmurationes<g ref="#f1f9">~</g> persecurionum pericula. <expan><abbr>S<am>;</am></abbr><ex>et</ex></expan> <app to="#w26285"><rdg wit="#M1ac."> </rdg></app>ne <unclear>mensa</unclear> felici desistat <app to="#w26289"><rdg wit="#M1ac."> comproposito </rdg></app>proposito<g ref="#f161">;</g> ab angelo deuotionis dulce suscipit solatium. dum subditur. <quote>Spiritus sanctus superueniet in te. et uirtus altissimi obumbrabit tibi.</quote> Quis enim estum persecutionis falsorum fratrum susineret. sine umraculo refrigerii spiritus sancti? Comtra iracundie flammas<g ref="#f1f9">~</g> libidinis incentiua<g ref="#f1f9">~</g> solem inanis glorie<g ref="#f1f9">~</g> estum tribulationis<g ref="#f161">;</g> utilissima nobis est sancti spiritus obumbratio. Cum ergo rectoribus ecclesiarum opem discipline<g ref="#f1f9">~</g> in rebelles animauertatur<g ref="#f161">;</g> nascitur ex nobis filius dei. O felice felicior anima. que mater Iesu dici meretur. O felix anima que Christum in proposito felici concipit parit in opera. pascit in predicatione. Et quia frequenter exempla a familiaribus sumpta. familiarius nos instuunt et feruentius accendunt<g ref="#f161">;</g> sumitur exemplum ab Elizabet cognata <persName>marie</persName><g ref="#f161">;</g> que filium concepit in senectute sua. Si flores <app to="#w26401"><rdg wit="#M1ac."> e etate </rdg></app>etate<g ref="#f1f9">~</g> si uirgo es per castitatis mundiciam. si theorie studiis feliciter indulges<g ref="#f161">;</g> <persName>marie</persName> nomen mereris. Elizabet cognata tua<g ref="#f161">;</g> dicetur anima quecumque saltem in etate maturiori felicibus insistens operibus. Si puericia uite remissioris illecebris se turpiter exposuit<g ref="#f161">;</g> si iuuentus effrenis per licentie campos nimis licenter oberrauit<g ref="#f161">;</g> saltem etas maturior maturiori se concedat consilio. O dolor o demitus . si nec senectus cana<g ref="#f161">;</g> moribus canescere studet. O miseria quotiens uita quanto est diuturnior. tanto est deterior. O inexhausta gratie supra celestis clementia. cum pro defectu nature senectus effecta<g ref="#f161">;</g> solobe spirituali fecundatur. O tot annorum sterilitas execrabilis. o tempora male perdita. <expan><abbr>S<am>;</am></abbr><ex>et</ex></expan> o res<g ref="#f161">;</g> semper admiratione dina. In uespera diei<g ref="#f161">;</g> sol oritur. In occasu uite<g ref="#f161">;</g> oriens sol iusticie diem gratie delo mentis adducit<g ref="#f161">;</g> expulsa nocturne calignis molestia. Mira rest. Annosa desiccate radicis arbor nunquam foliorum honore uestita nunquam frondium ornata decore<g ref="#f1f9">~</g> nunquam florum gratia uenustata<g ref="#f161">;</g> deliciis generosi fructus nobilitatur. Palma quidem non nisi completo centum annorum spatio<g ref="#f161">;</g> fructum facit. floris tamen uenusti gratia<g ref="#f161">;</g> deliciosi fructus ubertatem
+                        <lb break="no"/>lium insidias<g ref="#f1f9">~</g> detractiones cinicas<g ref="#f1f9">~</g> <!-- R: applicable here, with 'e' above n? -->indignati
+                        <lb break="no"/>onis murmurationes<g ref="#f1f9">~</g> persecutionum pericula. <expan><abbr>S<am>;</am></abbr><ex>et</ex></expan> 
+                        <lb/><add place="left">ne </add>mensa felici desistat <del rend="erased"><expan><am>&#xA76F;</am><ex>con</ex></expan></del><expan><am>&#xA753;</am><ex>pro</ex></expan>posito<g ref="#f161">;</g> ab angelo deuo
+                        <lb break="no"/>tionis dulce suscipit solatium. dum subditur. 
+                        <lb/><quote><expan>S<abbr rend="supraline">p</abbr><ex>iritu</ex><am>&#xA76B;</am></expan> sanctus superueniet in te. et uirtus altissimi ob
+                            <lb break="no"/>umbrabit <expan><abbr>t<am>&#x365;</am></abbr><ex>ibi</ex></expan>.</quote> Quis enim estum persecutionis 
+                        <lb/>falsorum fratrum sustin<hi rend="acute">e</hi>ret. sine umbraculo re
+                        <lb break="no"/>frigerii <expan>s<abbr rend="supraline">p</abbr><ex>iritu</ex><am>&#xA76B;</am></expan> <expan><abbr>s</abbr><ex>an</ex><abbr rend="supraline">c</abbr><ex>t</ex><abbr>i</abbr></expan>? Cont<expan><am>&#x1DD3;</am><ex>ra</ex></expan> iracundie flammas<g ref="#f1f9">~</g> 
+                        <lb/>libidinis incentiua<g ref="#f1f9">~</g> solem inanis glorie<g ref="#f1f9">~</g> es
+                        <lb break="no"/>tum tribulationis<g ref="#f161">;</g> utilissima nobis est <expan><abbr>s</abbr><ex>an</ex><abbr rend="supraline">c</abbr><ex>t</ex><abbr>i</abbr></expan> 
+                        <lb/><expan>s<abbr rend="supraline">p</abbr><ex>iritu</ex>s</expan> obumbratio. Cum ergo rectoribus ecclesiarum 
+                        <lb/>opem discipline<g ref="#f1f9">~</g> in<add place="inline"> </add>rebelles animauertatur<g ref="#f161">;</g> na<hi rend="superscript">s</hi>
+                        <lb break="no"/>citur ex nobis filius dei. O felice felicior anima. 
+                        <lb/>que mater <persName><expan><abbr>i<am>ħ</am></abbr><ex>es</ex><abbr>u</abbr></expan></persName> dici meretur. O felix anima que 
+                        <lb/><persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christu</ex><abbr>m</abbr></expan></persName> in proposito felici concipit parit in opere. 
+                        <lb/>pascit in predicatione. Et quia frequenter exem
+                        <lb break="no"/>pla <hi rend="acute">a</hi> familiaribus sumpta. familiarius nos 
+                        <lb/>instr<hi rend="acute">u</hi>unt et feruentius accendunt<subst><del rend="alt">.</del><add place="overstrike"><g ref="#f161">;</g></add></subst> sumitur 
+                        <lb/>exemplum ab <persName>elizabet</persName> cognata <persName>marie</persName><g ref="#f161">;</g> que 
+                        <lb/>filium concepit in senectute sua. Si flores <del rend="expunct erased">e</del>
+                        <lb/>etate<g ref="#f1f9">~</g> si uirgo es per castitatis mundiciam. si 
+                        <lb/>theorie studiis feliciter indulges<g ref="#f161">;</g> <persName>mar<hi rend="acute">i</hi>e</persName> nomen 
+                        <lb/>mer<hi rend="acute">e</hi>ris. Elizabet cognata tua<add place="inline"><g ref="#f161">;</g></add> dicetur anima quecumque⸝ 
+                        <lb/>saltem in etate maturiori felicibus insistens operibus. 
+                        <lb/>Si puericia<add place="inline">⸝</add> uite remissioris illecebris se turpiter 
+                        <lb/>exposuit<subst><del rend="alt">.</del><add place="overstrike"><g ref="#f161">;</g></add></subst> si iuuentus effrenis per licentie campos 
+                        <lb/>nimis licenter oberrauit<g ref="#f161">;</g> saltem etas maturior 
+                        <lb/>maturiori se concedat consilio. <hi rend="acute">O</hi> dolor o gemitus⸝ 
+                        <lb/><!-- R -->si nec senectus cana<g ref="#f161">;</g> moribus canescere studet. 
+                        <lb/>O miseria. quotiens uita quanto est diuturnior<add place="inline"><g ref="#f161">;</g></add> tan
+                        <lb break="no"/>to est deterior. <hi rend="acute">O</hi> inexhausta gratie supra celestis cle
+                        <lb break="no"/>mentia. cum pro defectu nature senectus effeta<g ref="#f161">;</g> 
+                        <lb/>sobole <expan>s<abbr rend="supraline">p</abbr><ex>irit</ex>u</expan>ali fecundatur. O tot annorum steri
+                        <lb break="no"/>litas execrabilis. o tempora male perdita. Set 
+                        <lb/>o res<g ref="#f161">;</g> semper admiratione dina. In uespera 
+                        <lb/>diei<add place="inline"><g ref="#f161">;</g></add> sol oritur. In occasu uite<g ref="#f161">;</g> oriens sol i<add place="above"><expan><am>&#xA770;</am><ex>us</ex></expan></add>ticie<g ref="#f1f9">~</g> 
+                        <lb/>diem <expan><abbr>g</abbr><abbr rend="supraline">r</abbr><ex>ati</ex><abbr>e</abbr></expan> celo mentis adducit<add place="inline"><g ref="#f161">;</g></add> expulsa noc
+                        <lb break="no"/>turne caliginis molestia. Mira res<subst><del rend="erased">:</del><add place="overstrike">.</add></subst> Annosa 
+                        <lb/>desiccate radicis arbor.<add place="inline">;</add> nunq<expan><ex>ua</ex>m<am>&#x1DD3;</am></expan> foliorum honore 
+                        <lb/>uestita⸝ nunquam frondium ornata dec<hi rend="acute">o</hi>re<subst><del rend="alt">.</del><add place="overstrike">⸝</add></subst> nunquam 
+                        <lb/>florum <expan><abbr>g</abbr><abbr rend="supraline">r</abbr><ex>ati</ex><abbr>a</abbr></expan> uenustata<g ref="#f161">;</g> deliciis generosi fruct<add place="overstrike"><expan><am>&#xA770;</am><ex>us</ex></expan></add> 
+                        <lb/>nobilitatur. Palma quidem non nisi compl<hi rend="acute">e</hi>to 
+                        <lb/>centum annorum spatio<g ref="#f161">;</g> fructum facit. Floris 
+                        <lb/>tamen uenusti gratia<g ref="#f161">;</g> deliciosi fructus ubertatem 
                         <cb n="b"/>
-                        <lb/>prenunciauit. O diuine benignitatis dulcedo. etas decrepita iuuenescit<g ref="#f161">;</g> dum senectutis iuuentus renouatur ut <app to="#w26578"><rdg wit="#M1ac."> aquile </rdg></app><unclear>aquilus</unclear>. Rex inclitus <persName>dauid</persName> uergens insensium<g ref="#f161">;</g> amplexibus sunamitis recreatus est. O ueneranda senectus<g ref="#f1f9">~</g> que sapientie castis amplexibus delectatur. Celestem percurre pagninam. et antiquos patres prole donatos esse reperies; <persName>ysaac</persName> concessus est <persName>sare</persName>. et <persName>elizabet</persName><g ref="#f161">;</g> <persName>iohannes</persName>. <persName>anne</persName><g ref="#f161">;</g> <persName>samuel</persName>.
+                        <lb/>prenunciauit. O diuine benignitatis dulce
+                        <lb break="no"/>do. etas decrepita iuuenescit<g ref="#f161">;</g> dum senectu
+                        <lb break="no"/>tis iuuentus renouatur ut aquil<subst><del rend="alt">e</del><add place="overstrike">a</add></subst>. Rex inclitus 
+                        <lb/><persName>dauid</persName> uergens in senium<g ref="#f161">;</g> amplexibus <orgName>suna
+                            <lb break="no"/>mitis</orgName> recreatus est. O ueneranda senectus<g ref="#f1f9">~</g> que 
+                        <lb/>sapientie castis amplexibus delectatur. Celestem 
+                        <lb/>percurre pagninam. et antiquos patres prole 
+                        <lb/>donatos esse reperies; <persName>Ysaac</persName> concessus est <persName>sare</persName>. et <persName>eli
+                            <lb break="no"/>zabet</persName><g ref="#f161">;</g> <persName><expan>ioh<am>&#x33E;</am><ex>anne</ex>s</expan></persName>. <persName>anne</persName><g ref="#f161">;</g> <persName>samuel</persName>.
                     </p>
                     <p>
-                        Quoniam uero in rebus feliciter agendis<g ref="#f1f9">~</g> manum consummationis apponit gumilitas<g ref="#f161">;</g> recte supponitur. <quote>Ecce ancilla domini.</quote> Si tam inclita uirgo<g ref="#f1f9">~</g> <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> uirgo uirginum<g ref="#f1f9">~</g> ancillam domini se uocat. dicamus nos quia serui inutiles sumus. Tunc primo mens dominatur in domicilo interiori<g ref="#f161">;</g> cum se agnoscit esse ancillam domini. Seruitus ista<g ref="#f161">;</g> uera libertas est.
+                        <hi rend="enlarged red">Q</hi><hi rend="smallcaps v">u</hi>oniam uero 
+                        <lb/>in rebus feliciter agendis<subst><del rend="erased"><g ref="#f161">;</g></del><add place="overstrike"><g ref="#f161">;</g></add></subst> manum consummatio
+                        <lb break="no"/>nis apponit humilitas<g ref="#f161">;</g> recte supponitur. 
+                        <lb/><quote>Ecce ancilla <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><abbr>i</abbr></expan>.</quote> Si tam inclita uirgo<g ref="#f1f9">~</g> 
+                        <lb/><expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> uirgo uirginum<g ref="#f1f9">~</g> ancillam domini se<add place="inline"> </add>uocat. 
+                        <lb/>dicamus nos quia serui inutiles sumus. 
+                        <lb/>Tunc primo mens dominatur in domicilio in
+                        <lb break="no"/>teriori<g ref="#f161">;</g> cum se agnoscit esse ancillam <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><abbr>i</abbr></expan>. 
+                        <lb/>Seruitus ista<add place="inline"><g ref="#f161">;</g></add> uera libertas est.
                     </p>
                     <p>
-                        Ad seriem expositionis in ladem gloriose uirginis iam inchoate<g ref="#f161">;</g> reuertamur.
+                        <hi rend="enlarged green">A</hi>d seriem 
+                        <lb/>expositionis in laudem gloriose uirginis iam 
+                        <lb/>inchoate<add place="inline"><g ref="#f161">;</g></add> reuertamur.
                     </p>
                     <p>
-                        Peracto igitur legationis officio<g ref="#f161">;</g> reuersus est angelus Gabriel a florenti ciuitate<g ref="#f161">;</g> ad amenitatis note delicias. Virginis itaque gloriose preconiis gratulanter deseruiens<g ref="#f161">;</g> dixisse michi uisus est.
+                        <hi rend="enlarged red">P</hi>eract<subst><del rend="erased"><unclear>e</unclear></del><add place="overstrike">o</add></subst> igitur legati
+                        <lb break="no"/>onis<add place="right"> officio</add><g ref="#f161">;</g> reuersus est angelus <persName>gabriel</persName> a florenti 
+                        <lb/>ciuitate<add place="inline"><g ref="#f161">;</g></add> ad amenitatis note delicias. Virgi
+                        <lb break="no"/>nis itaque gloriose preconiis gratulanter deseruiens<g ref="#f161">;</g> 
+                        <lb/>dixisse michi uisus est.
                     </p>
                     <p>
-                        <quote type="lemma">Procul et de ultimis finibus precium eius.</quote> Ac si diceret. <said>Ad uirginem inclitam missus sum<g ref="#f161">;</g> cuius laus preciosa etiam asupremis ordinibus angelorum procul est. <app to="#w26724"><rdg wit="#M1ac."> laue </rdg></app>laus nimirum angelica<g ref="#f161">;</g> illustribus gloriose uirginis meritis longe inferior est.</said> Ordines suppremi. <app to="#w26739"><rdg wit="#M1ac."> seraphim … cherubim </rdg></app>seraphin uidelicet et cherubin<g ref="#f161">;</g> gloriam uite ipsius assequi laudibus non poterunt. Reuera de stirpe <persName>dauid</persName> est regia uirgo procreata. ipsa enim manu fortis est<g ref="#f161">;</g> et aspectu desiderabilis.<!-- ref --> Sensuum desciplina<g ref="#f1f9">~</g> reuerentia uultus<g ref="#f1f9">~</g> tocius exterioris hominis ordinatissima compositio<g ref="#f1f9">~</g> et sermo circumspectus<g ref="#f161">;</g> uirtutibus attestantur interioribus. <expan><abbr>S<am>;</am></abbr><ex>et</ex></expan> quid? laudent illam celi et terra. per quam terrena celestibus confederata sunt. Laudet eam altissimus<g ref="#f161">;</g> qui eam <unclear>intronum</unclear> glorie sue ab etero preelegit.
+                        <quote type="lemma"><hi rend="enlarged green">P</hi><hi rend="smallcaps">r</hi>ocul et de ultimis 
+                            <lb/>finibus<g ref="#f161">;</g> precium eius.</quote> Ac si diceret. <said>Ad uirginem in
+                            <lb break="no"/>clitam missus sum<g ref="#f161">;</g> cuius laus preciosa etiam a<surplus><pc>-</pc></surplus> 
+                            <lb/>supremis ordinibus angelorum procul est. Lau<subst><del rend="erased">x</del><add place="inline"><hi rend="superscript">s</hi></add></subst> ni
+                            <lb break="no"/>mirum angelica<g ref="#f161">;</g> illustribus gloriose uirginis me
+                            <lb break="no"/>ritis longe inferior est.</said> Ordines suppremi. se
+                        <lb break="no"/>raphi<subst><del rend="erased">m</del><add place="overstrike">n</add></subst> uidelicet et cherubi<subst><del rend="erased">m</del><add place="overstrike">n</add></subst><g ref="#f161">;</g> gloriam uite 
+                        <lb/>ipsius assequi laudibus non poterunt. Reuera 
+                        <lb/>de stirpe <persName>dauid</persName> est regia uirgo procreata. ipsa 
+                        <lb/>enim <quote>manu fortis</quote> est<add place="inline"><g ref="#f161">;</g></add> et <quote>aspectu desiderabilis</quote>. Sen
+                        <lb break="no"/>suum disciplina<g ref="#f1f9">~</g> reuerentia uultus<g ref="#f1f9">~</g> tocius 
+                        <lb/>exterioris hominis ordinatissima compositio<g ref="#f1f9">~</g> 
+                        <lb/>et sermo circumspectus<g ref="#f161">;</g> uirtutibus attestantur 
+                        <lb/>interioribus. Set quid? Laudent illam celi 
+                        <lb/>et terra. per quam terrena celestibus confederata sunt. 
+                        <lb/>Laudet eam altissimus<g ref="#f161">;</g> qui eam in<reg> </reg>tronum 
+                        <lb/>glorie sue ab etero preelegit.
                     </p>
                     <p>
-                        <quote>Mulierem fortem quis inueniet?</quote> Mulierem fortem quis inueniet sibi propiciam? Immo matrem misericordie<g ref="#f1f9">~</g> patronam nostram<g ref="#f1f9">~</g> mediatricem<g ref="#f1f9">~</g> propiciatricem<g ref="#f1f9">~</g> quis non inueniet sibi propiciam? Fortis est mulier. cuius humilitas celos inclinauit<g ref="#f161">;</g> principemque mundi trium
+                        <quote><hi rend="enlarged red">M</hi><hi rend="smallcaps v">u</hi>lierem 
+                            <lb/>fortem quis inueniet?</quote> Mulierem fortem 
+                        <lb/>quis inueniet sibi propiciam? Immo ma
+                        <lb break="no"/>trem misericordie<g ref="#f1f9">~</g> patronam nostram<g ref="#f1f9">~</g> media
+                        <lb break="no"/>tricem<g ref="#f1f9">~</g> propiciatricem<g ref="#f1f9">~</g> quis non inueniet 
+                        <lb/>sibi propiciam? Fortis est mulier. cuius humi
+                        <lb break="no"/>litas celos inclinauit<g ref="#f161">;</g> principemque <add place="right">mundi </add>trium
+                        <fw place="bottom" type="sig">M</fw>
                         <pb n="101r" break="no"/>
                         <cb n="a" break="no"/>
-                        <lb break="no"/>phauit. Hec est mulier inter quam et serpentem antiquum posite sunt inimicitie. <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> ipsa caput serpentis<g ref="#f1f9">~</g> fastum uidelicet elationis<g ref="#f161">;</g> iam contriuit. Quid miri si mater fortitudinis<g ref="#f1f9">~</g> mulier est fortis? Non est fortis sicut deus noster. Confugiamus ad hanc mulierem. uelet enim nos tueri et poteris. Volet<g ref="#f161">;</g> quia misericors. poteris<g ref="#f161">;</g> quia fortis et potens est.
+                        <lb break="no"/>phauit. Hec est mulier inter quam et serpentem 
+                        <lb/>antiquum posite sunt inimicitie. <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> ipsa caput 
+                        <lb/>serpentis<g ref="#f1f9">~</g> fastum uidelicet elationis<g ref="#f161">;</g> iam con
+                        <lb break="no"/>triuit. Quid miri si mater fortitudinis<g ref="#f1f9">~</g> mulier 
+                        <lb/>est fortis? Non est fortis sicut deus noster. Confugiamus 
+                        <lb/>ad hanc mulierem. uolet enim nos tueri et po
+                        <lb break="no"/>terit. Volet<g ref="#f161">;</g> quia misericors. poterit<g ref="#f161">;</g> quia 
+                        <lb/>fortis et potens est.
                     </p>
                     <p>
-                        Procul et de ultimis finibus<g ref="#f161">;</g> precium eius. Procul et de ultimis finibus est gloria ipsius<g ref="#f161">;</g> quia ab eterno electa. et dilecta immo etiam preelecta et predilecta fuit. Non solum tam gestis patriarcharum prefigurata<g ref="#f161">;</g> quam prophetarum oraculis est prenunciata. <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> et ab initio mundi certis misteriis est presignata. De nube lucida factus est sol<g ref="#f161">;</g> et terra greminans produxit lignum uite. Germinauit tellus herbam uirentem. herbam salubrem<g ref="#f161">;</g> herbam salutiferam cuius uirtute mederi uoluit uulneribus nominis sauciati<g ref="#f161">;</g> medicus cui seruit natura. Tellus<g ref="#f161">;</g> non corrupta <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> uirginea<g ref="#f161">;</g> protulit herbam medicinalem. cuius succus<g ref="#f161">;</g> balsami uirtutem incomperabiliter excedit. Ex hoc succo confecta est potio saluberima. cuius uirtute liberatus est homo<g ref="#f161">;</g> corruptus ueneno serpentis antiqui. Hec est herba<g ref="#f161">;</g> de qua Iob ait. <quote source="Bible.Vul:Job.6.5">Numquid rugiet onager. cum habuerit herbam?</quote> Per onagrum agrestem. silicet asinum<g ref="#f161">;</g> gentilis populus figuratur. De orto uoluptatis emanauit fons peradisum irrigans. fons inquam<g ref="#f161">;</g> aquarum uiuentium et salientium in uitam eternam. De terra uirginea plasmatus est <persName>adam</persName><g ref="#f161">;</g> adeo ut dicere possimus. <quote>Ecce <persName>adam</persName><g ref="#f161">;</g> factus est quasi unus ex nobis.</quote> Ad ymaginem et similitudinem dei factus est <persName>adam</persName> primus. ad hoc uidelicet ut ille qui est <quote>ymago dei</quote> patris et expresse similis ei<g ref="#f161">;</g> de ipso secundum <app to="#w27077"><rdg wit="#M1ac."> carnem </rdg></app>carnem descenderet. In cruce crucifixus est uetus homo noster. <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> in gloria resurrexit nouus homo<g ref="#f1f9">~</g> uetustate deposita.
+                        <hi rend="enlarged green">P</hi><hi rend="smallcaps">r</hi>ocul et de ultimis fi
+                        <lb break="no"/>nibus<g ref="#f161">;</g> precium eius. Procul et de ultimis finibus est 
+                        <lb/>gloria ipsius<g ref="#f161">;</g> quia ab eterno electa. et dilecta immo 
+                        <lb/>etiam preelecta et predilecta fuit. Non solum tam 
+                        <lb/>gestis patriarcharum prefigurata<add place="inline"><g ref="#f161">;</g></add> quam prophetarum ora
+                        <lb break="no"/>culis est prenunciata. <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> et ab initio mundi cer
+                        <lb break="no"/>tis misteriis est presignata. De nube lucida 
+                        <lb/>factus est sol<g ref="#f161">;</g> et terra germinans produxit lig
+                        <lb break="no"/>num uite. Germinauit tellus herbam uiren
+                        <lb break="no"/>tem. Herbam salubrem<g ref="#f161">;</g> herbam salutiferam 
+                        <lb/>cuius uirtute med<hi rend="acute">e</hi>ri uoluit uulneribus hominis 
+                        <lb/>sauciati<g ref="#f161">;</g> medicus cui seruit natura. Tellus<g ref="#f161">;</g> 
+                        <lb/>non corrupta <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> uirginea<g ref="#f161">;</g> protulit herbam me
+                        <lb break="no"/>d<hi rend="acute">i</hi>cinalem. cuius succus<g ref="#f161">;</g> balsami uirtutem in
+                        <lb break="no"/>comparabiliter excedit. Ex hoc succo confecta est po
+                        <lb break="no"/>tio saluber<hi rend="acute">i</hi>ma. cuius uirtute liberatus est homo<g ref="#f161">;</g> cor
+                        <lb break="no"/>ruptus uen<hi rend="acute">e</hi>no serpentis antiqui. Hec est herba<g ref="#f161">;</g> 
+                        <lb/>de qua <persName>iob</persName> ait. <quote source="Bible.Vul:Job.6.5">Numquid rugiet onager. cum habu
+                            <lb break="no"/>erit herbam?</quote> Per onagrum<del rend="erased"><g ref="#f161">;</g></del> agrestem. silicet 
+                        <lb/>asinum<g ref="#f161">;</g> gentilis populus figuratur. <!-- paraph mark in left margin? -->De orto 
+                        <lb/>uoluptatis emanauit fons paradisum irri<del rend="erased">i</del>
+                        <lb break="no"/>gans. fons inquam<g ref="#f161">;</g> aquarum uiuentium et salien
+                        <lb break="no"/>tium in uitam eternam. De terra uirginea plas
+                        <lb break="no"/>matus est <persName>adam</persName><g ref="#f161">;</g> adeo ut dicere possimus. <quote>Ecce <persName>adam</persName><add place="inline"><g ref="#f161">;</g></add> 
+                            <lb/>factus est quasi unus ex nobis.</quote> Ad ymaginem et 
+                        <lb/>similitudinem dei factus est <persName>adam</persName> primus. ad hoc 
+                        <lb/>uidelicet ut ille qui est <quote>ymago dei</quote> patris et expresse 
+                        <lb/>similis ei<g ref="#f161">;</g> de ipso secundum carnem <del rend="expunct strikethrough">carnem </del>descen
+                        <lb break="no"/>deret. In cruce crucifixus est uetus homo noster. <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> in 
+                        <lb/>gloria resurrexit nouus homo<g ref="#f1f9">~</g> uetustate de
+                        <lb break="no"/>posita.
                     </p>
                     <p>
-                        Precium item gloriose uirginis. hoc est laus siue preciosus honor ipsius<g ref="#f161">;</g> procul extendetur et de ultimis finibus aderit. quia mundus per eam uirginibus ornatus est. Virginis matris uirginitatis fecunda<g ref="#f161">;</g> terram fecundauit uirginibus. celum ditauit. Adducte sunt per eam 
+                        <hi rend="enlarged red">P</hi><hi rend="smallcaps">r</hi>ecium item gloriose uirginis. hoc 
+                        <lb/>est laus siue preciosus honor ipsius<g ref="#f161">;</g> procul exten
+                        <lb break="no"/>detur et de ultimis finibus aderit. quia mundus 
+                        <lb/>per eam uirginibus ornatus est. Virginis matris 
+                        <lb/>uirginitatis fecunda<g ref="#f161">;</g> terram fecundauit uir
+                        <lb break="no"/>ginibus. celum ditauit. Adducte sunt per eam 
                         <cb n="b"/>
-                        <lb/>et tamen post eam<g ref="#f1f9">~</g> regi uirgines. et unica uirgo terram uirginibus beauit<g ref="#f161">;</g> celum ornauit. Venter eius<g ref="#f161">;</g> sicut aceruus tritici uallatus liliis. quia perfecunditatem eius ditatus est mundus granis martirum triticeis<g ref="#f161">;</g> et decoratus uirginum liliis. O quot uirginum lilia purpurata sunt rosa martirii<g ref="#f161">;</g> dum inclite uirgines. uite temporali preposuerunt gloriam uirginitatis.
+                        <lb/>et tamen post eam<g ref="#f1f9">~</g> regi uirgines. et unica uir
+                        <lb break="no"/>go terram uirginibus beauit<g ref="#f161">;</g> celum ornauit. 
+                        <lb/>Venter eius<g ref="#f161">;</g> sicut aceruus tritici uallatus liliis. 
+                        <lb/>quia per fecunditatem eius ditatus est mundus 
+                        <lb/>granis martirum triticeis<g ref="#f161">;</g> et decoratus uirginum 
+                        <lb/>liliis. O quo<subst><del rend="erased">d</del><add place="overstrike">t</add></subst> uirginum lilia purpurata sunt 
+                        <lb/>rosa martirii<g ref="#f161">;</g> dum inclite uirgines⸝ uite tem
+                        <lb break="no"/>porali preposuerunt gloriam uirginitatis.
                     </p>
                     <p>
-                        Procul item et de ultimis finibus est. precium gloriose uirginis. ex hoc enim quod altissimus respexit humilitatem ipsius<g ref="#f161">;</g> beatam predicabunt eam omnes generationes. O gloriosa gloriose humilitas. per quam adeo sublimata est humanitas<g ref="#f161">;</g> ut nuberet deitati. per quam. etiam terreni efficiuntur celestes.
+                        <lb/><hi rend="enlarged green">P</hi><hi rend="smallcaps">r</hi>ocul item et de ultimis finibus est precium 
+                        <lb/>gloriose uirginis. ex hoc enim quod altissimus <quote>res
+                            <lb break="no"/>pexit humilitatem</quote> ipsius<g ref="#f161">;</g> <quote>beatam</quote> predicabunt 
+                        <lb/>eam <quote>omnes generationes</quote>. O gloriosa gloriose hu
+                        <lb break="no"/>militas. per quam <hi rend="acute">a</hi>deo sublimata est humanitas<g ref="#f161">;</g> 
+                        <lb/>ut nuberet deitati. per quam⸝ etiam terreni efficiuntur 
+                        <lb/>celestes.
                     </p>
                     <p>
-                        Precium item uirginis matris. laus honor<g ref="#f1f9">~</g> gloria<g ref="#f1f9">~</g> uirtus<g ref="#f1f9">~</g> estimatio<g ref="#f1f9">~</g> remuneratio<g ref="#f161">;</g> est Christus. cuius egressio<g ref="#f161">;</g> a summo celo. Nomen enim patris<g ref="#f161">;</g> de longinquo uenit. Quid item quod agnus ab origine mundi occisus est? Felicissimi sunt illi<g ref="#f161">;</g> quorum remunerationis precium non consistit interrenis <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> incelesibus. Precium istorum<g ref="#f161">;</g> procul est et de ultimis finibus. Corrupti sunt codices qui habent de ultimis finibus terre. In alia translatione habetur. Procul a margaritis<g ref="#f161">;</g> uenditio eius.
+                        <hi rend="enlarged red">P</hi><hi rend="smallcaps">r</hi>ecium item uirginis matris<g ref="#f1f9">~</g> laus 
+                        <lb/>honor<g ref="#f1f9">~</g> gloria<g ref="#f1f9">~</g> uirtus<g ref="#f1f9">~</g> estimatio<g ref="#f1f9">~</g> remuneratio<g ref="#f161">;</g> 
+                        <lb/>est <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName>. cuius egressio<g ref="#f161">;</g> a summo celo. Nomen enim pa
+                        <lb break="no"/>tris<g ref="#f161">;</g> de longinquo uenit. Quid item quod 
+                        <lb/>agnus ab origine mundi occisus est? <!-- R -->Felicis
+                        <lb break="no"/>simi sunt illi<g ref="#f161">;</g> quorum remunerationis precium 
+                        <lb/>non consistit in<reg> </reg>terr<hi rend="acute">e</hi>nis <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> in<reg> </reg>celesibus. Precium 
+                        <lb/>istorum<g ref="#f161">;</g> procul est et de ultimis finibus. Corrupti sunt 
+                        <lb/>codices qui habent de ultimis finibus terre. 
+                        <lb/>In alia translatione habetur. Procul a margari
+                        <lb break="no"/>tis<g ref="#f161">;</g> uenditio eius.
                     </p>
                 </div>
                 <div n="31:11" type="textpart" subtype="section">
                     <p>
-                        <quote type="lemma">Confidit in ea cor uiri sui et spoliis non indigebit.</quote>
+                        <quote type="lemma" source="Bible.Vul:Prov.31.11"><hi rend="enlarged green">C</hi>onfidit in ea cor uiri sui 
+                            <lb/>et spoliis non indigebit.</quote>
                     </p>
                     <p>
-                        Ad laudes nati sumus. ut eum silicet laudemus<g ref="#f161">;</g> quem non cessant astra matutina laudare. Insistamus ergo laudibus uirginis. cuius laudes<g ref="#f161">;</g> et suas essefilius non diffitetur. Floriosum est preconiis illius deseruire<g ref="#f161">;</g> cuius <app to="#w27337"><rdg wit="#M1ac."> laudis </rdg></app>laudes promulgauerunt precones ueritatis. Vir igitur gloriose dei genitricis<g ref="#f161">;</g> dicitur Christus. quia tam animam ipsius quam carnem unitam deitati desponsauit. In ipsa<g ref="#f161">;</g> misericordia et ueritas. <app to="#w27362"><rdg wit="#M1ac."> occurrens </rdg></app>occurrentes sibi. et iusticia et pax sese sunt osculate. In aliis<g ref="#f161">;</g> fiduciam habuit Christus. <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> in beata uirgine configit. Delectatus est <unclear>nimirum</unclear> in niellea uerborum <app to="#w27388"><rdg wit="#M1ac."> </rdg></app>ipsius dulcedine. in deliciosa piarium meditationum iocunditate<g ref="#f161">;</g> in celebri uirtutum diem festum agentium domino solem nitate. in mira serene conscientie tranquillitate<g ref="#f161">;</g> inactionum felicium deuota hilaritate<g ref="#f161">;</g> in sancte conuersationis honestate. Per cor<g ref="#f161">;</g> amor
+                        <hi rend="enlarged red">A</hi>d laudes nati 
+                        <lb/>sumus. ut eum silicet laudemus<g ref="#f161">;</g> quem <add place="above">non </add>ces
+                        <lb break="no"/>sant astra matutina laudare. Insistamus 
+                        <lb/>ergo laudibus uirginis. cuius laudes<g ref="#f161">;</g> et suas esse 
+                        <lb/>filius non diffitetur. Gloriosum est preconiis il
+                        <lb break="no"/>lius deseruire<subst><del rend="alt">.</del><add place="overstrike"><g ref="#f161">;</g></add></subst> cuius laud<subst><del rend="alt">i</del><add place="opposite">e</add></subst>s promulgauerunt 
+                        <lb/>precones ueritatis. Vir igitur gloriose dei genitri
+                        <lb break="no"/>cis<g ref="#f161">;</g> dicitur <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName>. quia tam animam ipsius quam carnem 
+                        <lb/>unitam deitati desponsauit. In ipsa<g ref="#f161">;</g> misericordia 
+                        <lb/>et ueritas occurr<subst><del rend="alt">e</del><add place="overstrike"><expan><abbr rend="supraline">e</abbr><ex>n</ex></expan></add></subst><add place="above">te</add>s sibi. et iusticia et pax se se sunt 
+                        <lb/>osculate. In aliis<g ref="#f161">;</g> fiduciam habuit <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName>. set 
+                        <lb/>in beata uirgine configit. Delectatus est ni<choice><orig>n</orig><reg>m</reg></choice>irum 
+                        <lb/>in mellea uerborum <seg xml:id="SMF-2-31.11-tr1">dulcedine</seg> <seg xml:id="SMF-2-31.11-tr2">ipsius</seg><listTranspose><transpose><ptr target="#SMF-2-31.11-tr2"/><ptr target="#SMF-2-31.11-tr1"/></transpose></listTranspose>. in deliciosa 
+                        <lb/>piarium meditationum iocunditate<g ref="#f161">;</g> in cele
+                        <lb break="no"/>bri uirtutum diem festum agentium <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><abbr>o</abbr></expan> solem 
+                        <lb/>uitate. in mira serene conscientie tranquillita
+                        <lb break="no"/>te<g ref="#f161">;</g> in actionum felicium deuota hilaritate<subst><del rend="alt">.</del><add place="overstrike"><g ref="#f161">;</g></add></subst> 
+                        <lb/>in sancte conuersationis honestate. Per cor<g ref="#f161">;</g> amor <del rend="erased">in<pc>-</pc></del>
                         <pb n="101v"/>
                         <cb n="a"/>
-                        <lb/>intelligitur. eo quod cor est domicilium dilectionis. Possumus etiam cor <app to="#w27431"><rdg wit="#M1ac."> </rdg></app>Christi illos dicere<g ref="#f161">;</g> qui spirituali priuilegiate dilectionis gratia Christum colunt. Felice felicior est<g ref="#f161">;</g> qui cor cordis sui dici meretur. <app to="#w27450"><rdg wit="#M1ac."> confideramus </rdg></app>Confidamus in matre pietatis. quam suis in articulo necessitatis subuenire<g ref="#f161">;</g> certo nouimus experimento. In ipsam oculos mentis dirigamus. Ad pedes misericordie ipsius<g ref="#f161">;</g> prouoluti iaceamus. Ad hoc nata est<g ref="#f161">;</g> ut mundo ferat opera<g ref="#f161">;</g> piisima dei et hominum mediatrix. <app to="#w27489"><rdg wit="#M1ac."> </rdg></app>dulcissima peccatorum reconciliatrix.
+                        <fw place="top" type="header" rend="red">De gloriosa</fw>
+                        <lb/>intelligitur. eo quod cor est domicilium dilec
+                        <lb break="no"/>tionis. Possumus etiam cor <add place="left"><persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>i</abbr></expan></persName> </add>illos dicere<g ref="#f161">;</g> qui 
+                        <lb/>spirituali priuilegiate dilectionis gratia <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christu</ex><abbr>m</abbr></expan></persName> 
+                        <lb/>colunt. Felice felicior est<g ref="#f161">;</g> qui cor cordis sui di
+                        <lb break="no"/>ci meretur. Confi<subst><del rend="erased"><expan>d<am>&#x315;</am><ex>e</ex></expan></del><add place="overstrike">d</add></subst>amus in matre pietatis. quam 
+                        <lb/>suis in articulo necessitatis subuenire<g ref="#f161">;</g> cer
+                        <lb break="no"/>to nouimus experimento. In ipsam oculos men
+                        <lb break="no"/>tis dirigamus. Ad pedes misericordie ipsius<g ref="#f161">;</g> prouo
+                        <lb break="no"/>luti iaceamus. Ad hoc nata est<add place="inline"><g ref="#f161">;</g></add> ut mundo ferat 
+                        <lb/>opem<g ref="#f161">;</g> piisima dei et hominum mediatrix. 
+                        <add place="left">
+                            <lb/>dulcissima peccatorum re
+                            <lb break="no"/>conciliatrix.
+                        </add>
                     </p>
                     <p>
-                        <quote>Confidit in ea cor uiri sui. et spoliis non indigebit.</quote> Liptote est. <app to="#w27508"><rdg wit="#M1ac."> </rdg></app>Quod minuit uerbis. hoc sensu liptotes auget. Per gloriosam namque dei genitricem<g ref="#f161">;</g> Christus spoliis abundauit. que mulier fortie antiquo surripuit hosti. Humilitas enim ipsius arcem babel subuertit. uirginitas<g ref="#f161">;</g> castra cipridis extreminauit. sapientia<g ref="#f161">;</g> hereses extirpauit. humilitas<g ref="#f161">;</g> dixisse uisa est. Hi<g ref="#f161">;</g> in curribus et in equis. nos autem in nomine domini dei nostri inuocabimus. Florens uirgultum sanctitatis <app to="#w27558"><rdg wit="#M1ac."> </rdg></app>in florenti <placeName>nazaret</placeName><g ref="#f161">;</g> floridum uirginum produxit examen<g ref="#f1f9">~</g> suauitate floris illius<g ref="#f161">;</g> cuius odore reficiuntur superni ciues. Nostra igitur delbora<g ref="#f1f9">~</g> apis mellificans uirgineo amazduum uere Christum amantium exercitu munita<g ref="#f161">;</g> currus <persName>iabin</persName> subuertit. et <persName>iabel</persName> clauo fidei ligneo<g ref="#f1f9">~</g> tempora <persName>sisare</persName> transfixit. Vera <persName>iudith</persName> caput <persName>olofernis</persName> precidit. dum septem capitalia uitia desruxit. Vera <persName>hester</persName> summitatem auree <persName>assueri</persName> uirge deosculans<g ref="#f161">;</g> hostes filiorum <placeName>israel</placeName> interfici iussit. Quot a <unclear>persorbis</unclear> se non solum in hostias set in holocausta domino obtulit<g ref="#f161">;</g> nomen melius a filiis et filiabus sorte gratie celestis sortita? O quot enormibus deditos uitiis<g ref="#f161">;</g> hostis antiqui manibus eripuit beata uirgo. adeo ut spinea corona coronari glorietur filium suum. Egredimini ergo filie sion<g ref="#f161">;</g> et uidete regem solomonem in diademate quo coronauit eum mater sua. Reuere spinea corona coronauit eum mater sinagoga. set dissimiliter eum spineo diademate coronauit gloriosa mater ipsius uirgo uirginum. Set quid? lilium castitatis<g ref="#f161">;</g> spinas in lilia mutari fecit. O quot uasa contumlie<g ref="#f161">;</g> fecit uasa sanctitatis et honoris. quot lenocinorum <app to="#w27712"><rdg wit="#M1ac."> prostibua </rdg></app>prostibula<g ref="#f161">;</g> mutauit in spiritus sancti templa. O quot subhumilitatis 
+                        <quote><hi rend="enlarged red">C</hi>on
+                            <lb break="no"/>fidit in ea cor uiri sui. et spoliis non indigebit.</quote> 
+                        <lb/>Liptote est. <add place="bottom" hand="alt"><!-- Not indicated where this goes precisely. -->Quod minuit uerbis. hoc sensu liptotes auget. </add>Per gloriosam namque dei genitricem<g ref="#f161">;</g> 
+                        <lb/><persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> spoliis abundauit. que<add place="inline"><g ref="#f161">;</g></add> mulier fortis anti
+                        <lb break="no"/>quo surripuit hosti. Humilitas enim ipsius ar
+                        <lb break="no"/>cem <placeName>babel</placeName> subuertit. uirginitas<g ref="#f161">;</g> castra cipridis 
+                        <lb/>exterminauit. sapientia<g ref="#f161">;</g> hereses extirpauit. 
+                        <lb/>humilitas<g ref="#f161">;</g> dixisse uisa est. Hi<g ref="#f161">;</g> in curribus et in 
+                        <lb/>equis. nos autem in nomine domini dei nostri inuocabimus. 
+                        <lb/>Florens uirgultum sanctitatis <add place="left" hand="alt">in florenti </add><placeName>nazaret</placeName><add place="inline"><g ref="#f161">;</g></add> floridum 
+                        <lb/>uirginum produxit examen<g ref="#f1f9">~</g> suauitate floris il
+                        <lb break="no"/>lius<g ref="#f161">;</g> cuius odore reficiuntur superni ciues. Nostra 
+                        <lb/>igitur <persName>delbora</persName><g ref="#f1f9">~</g> apis mellificans uirgineo <placeName>ama
+                            <lb break="no"/>zonum</placeName> uere <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christu</ex><abbr>m</abbr></expan></persName> amantium exercitu muni
+                        <lb break="no"/>ta<g ref="#f161">;</g> currus <persName>iabin</persName> subuertit. et <persName>iabel</persName> clauo fidei 
+                        <lb/>ligneo<g ref="#f1f9">~</g> tempora <persName>sisare</persName> transfixit. Vera <persName>iu
+                            <lb break="no"/>dith</persName> caput <persName>olofernis</persName> precidit. dum septem ca
+                        <lb break="no"/>pitalia uitia destruxit. Vera <persName>hester</persName> summi
+                        <lb break="no"/>tatem auree <persName>assueri</persName> uirge deosculans<g ref="#f161">;</g> 
+                        <lb/>hostes filiorum <placeName>israel</placeName> interfici iussit. Quota pars 
+                        <lb/>orbis se non solum in hostias <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> in holocau
+                        <lb break="no"/>sta domino obtulit<g ref="#f161">;</g> nomen melius a filiis et filia
+                        <lb break="no"/>bus sorte gratie celestis sortita? O quot enor
+                        <lb break="no"/>mibus deditos uitiis<add place="inline"><g ref="#f161">;</g></add> hostis antiqui mani
+                        <lb break="no"/>bus eripuit beata uirgo. adeo ut spinea 
+                        <lb/>corona coronari glorietur filium suum. Egredimi
+                        <lb break="no"/>ni ergo filie <placeName>sion</placeName><g ref="#f161">;</g> et uidete regem <persName>salomonem</persName> 
+                        <lb/>in diademate quo coronauit eum mater sua. 
+                        <lb/>Reuera spinea corona coronauit eum mater 
+                        <lb/>sinagoga. set dissimiliter eum spineo diadema
+                        <lb break="no"/>te coronauit gloriosa mater ipsius uirgo uirgi
+                        <lb break="no"/>num. Set quid<choice><sic><g ref="#f161">;</g></sic><corr>?</corr></choice> Lilium castitatis<g ref="#f161">;</g> spinas 
+                        <lb/>in<add place="inline"> </add>lilia mutari fecit. O quot uasa contume
+                        <lb break="no"/>lie<g ref="#f161">;</g> fecit uasa sanctitatis et honoris. quot le
+                        <lb break="no"/>nocinorum prostibu<add place="above">l</add>a<g ref="#f161">;</g> mutauit in spiritus sancti 
+                        <lb/>templa. O quot sub humilitatis 
                         <cb n="b"/>
-                        <lb/>habitu Christo militant fideliter<g ref="#f161">;</g> quoa a regione dissimilitudinis reuocauit mater pietatis. O quot anime cum <persName>maria</persName> timpanum pulsantes<g ref="#f161">;</g> canticum exultationis domino persoluunt<g ref="#f161">;</g> <app to="#w27745"><rdg wit="#M1ac."> a ditione </rdg></app><unclear>additione</unclear> <roleName>pharaonis</roleName> erepte. Gratias tibi uirgo serenissima persoluimus uberrimas. quia per te<g ref="#f161">;</g> multi angelicam uitam ducunt interris. adeo ut homines uideantur <app to="#w27766"><rdg wit="#M1ac."> angeli </rdg></app>angelici<g ref="#f161">;</g> et angeli terrestres. Multi per te<g ref="#f1f9">~</g> <app to="#w27773"><rdg wit="#M1ac.">  dominio </rdg></app>diuino continente ceslestis munere prediti<g ref="#f161">;</g> non deflent uirginitatem suam cum iepte filia. <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> gloriantes in domino cum lucia et cecilia<g ref="#f161">;</g> lucent ut celi lilia. et cum agnete sequntur agnum innocentie quocumque ierit.
+                        <lb/>habitu <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>o</abbr></expan></persName> militant fideliter<subst><del rend="alt">.</del><add place="overstrike"><g ref="#f161">;</g></add></subst> quos a regione 
+                        <lb/>dissimilitudinis reuocauit mater pietatis. 
+                        <lb/>O quot anime cum <persName>maria</persName> timpanum pulsantes<g ref="#f161">;</g> 
+                        <lb/>canticum exultationis domino persoluunt<g ref="#f161">;</g> a<add place="inline"> </add>diti
+                        <lb break="no"/>one <roleName>pharaonis</roleName> erepte. Gratias tibi uirgo sere
+                        <lb break="no"/>nissima persoluimus uberrimas. quia per te<g ref="#f161">;</g> multi 
+                        <lb/>angelicam uitam ducunt in<reg> </reg>terris. adeo ut ho
+                        <lb break="no"/>mines uideantur angeli<add place="above">ci</add><g ref="#f161">;</g> et angeli terrestres. Multi 
+                        <lb/>per te<g ref="#f1f9">~</g> <subst><del rend="expunct"><expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><abbr>i</abbr></expan>o</del><add place="right">diuino</add></subst> continent<add place="above">i</add>e celestis munere prediti<g ref="#f161">;</g> 
+                        <lb/>non deflent uirginitatem suam cum <persName>iepte</persName> filia. 
+                        <lb/><expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> gloriantes in domino cum <persName>lucia</persName> et <persName>cecilia</persName><g ref="#f161">;</g> lucent 
+                        <lb/>ut celi lilia. et cum agnete <quote source="Bible.Vul:Rev.14.4">sequntur agnum</quote> inno
+                        <lb break="no"/>centie <quote>quocumque ierit</quote>.
                     </p>
                 </div>
                 <div n="31:12" type="textpart" subtype="section">
                     <p>
-                        <quote type="lemma">Reddet ei bonum et nonn malum<g ref="#f161">;</g> omnibus deibus uite sue.</quote>
+                        <quote type="lemma" source="Bible.Vul:Prov.31.12"><hi rend="enlarged green">R</hi>eddet ei bonum et non 
+                            <lb/>malum<subst><del rend="alt">.</del><add place="overstrike"><g ref="#f161">;</g></add></subst> omnibus diebus uite sue.</quote>
                     </p>
                     <p>
-                        Diligenter inspecto tenore tam familiaritatum specialis cultus. quam obsequiorum deuotionis impernsorum saluatori dum conuersaretur interris<g ref="#f161">;</g> cunctis liquebit esse preferendam affectuosam sedulitatem ministeriorum genitricis dei. Reuera commendatione dignus est <persName>magdalenes</persName> affectus in cultu obsequiorum pietatis<g ref="#f161">;</g> dum pedes dulcissimos lacrimis rigauit. dum regium caput unxit <unclear>unguento</unclear> precioso<g ref="#f161">;</g> dum aromata preparauit. dum sepulcrum uisitauit<g ref="#f161">;</g> dum disciplulis gloriam dominice resurrectionis apostola nunciauit. Susceperunt dominum in mensa <persName>mattheus</persName> et <persName>zacheus</persName> tam <persName>simon leprosus</persName> quam <orgName>phariseus</orgName><g ref="#f161">;</g> <persName>martha</persName> uero ministrauit. <persName>Discipulus</persName> ille quem diligebat Iesus<g ref="#f161">;</g> supra pectus domini recubuit in cena<g ref="#f1f9">~</g> hauriens de fonte uite. immo bibens tam dulcendinem contemplationis quam celestis doctrine delicias. Iniunctum est <persName>didimo</persName><g ref="#f161">;</g> ut digitos mitteret in latus domini. et locum fixure clauorum. <persName>Petrus</persName> et <persName>zebbe<del> </del>dei</persName> filii<g ref="#f161">;</g> admissi sunt ad gloriam transfigurationis dominice et ad puelle suscitationem. et ad orationis trine silentium. Set delicias uirginis matris quibus predita est et in familiaritate et in obsequiis unigenito dei filio tociens<g ref="#f1f9">~</g> tam dulciter<g ref="#f1f9">~</g> tam hilariter<g ref="#f1f9">~</g> tam diligenter exhibitis<g ref="#f1f9">~</g> quis aut comprehenderet aut <app to="#w27973"><rdg wit="#M1ac."> enucliare </rdg></app>enucleare sufficeret? O quotiens illis illis tenellis pedibus<g ref="#f1f9">~</g> fronti niuee<g ref="#f1f9">~</g> luminibus sidereis<g ref="#f1f9">~</g> solari uultui<g ref="#f1f9">~</g> orimelleo<g ref="#f1f9">~</g> oscula dulcissima<g ref="#f1f9">~</g> delibuta lacrimis pietatis<g ref="#f1f9">~</g> dulciter impressit. Quid cum sibi arridentem conspexit ipsam leticiam. cum illud
+                        <hi rend="enlarged red">D</hi>iligenter inspec
+                        <lb break="no"/>to tenore tam familiaritatum specialis cultus. 
+                        <lb/>quam obsequiorum deuotionis impensorum saluatori 
+                        <lb/>dum conuersaretur in terris<g ref="#f161">;</g> cunctis liquebit esse 
+                        <lb/>preferendam affectuosam sedulitatem mini
+                        <lb break="no"/>steriorum genitricis dei. Reuera commendatione dig
+                        <lb break="no"/>nus est <persName>magdalen<hi rend="acute">e</hi>s</persName> affectus in cultu obsequiorum 
+                        <lb/>pietatis<g ref="#f161">;</g> dum pedes dulcissimos <quote source="Bible.Vul:Luke.7.44">lacrimis riga
+                            <lb break="no"/>uit</quote>. dum regium caput unxit unguento 
+                        <lb/>precioso<g ref="#f161">;</g> dum aromata preparauit. dum sepulcrum uisitauit<g ref="#f161">;</g> dum discipulis gloriam dominice resur
+                        <lb break="no"/>rectionis apostola nunciauit. <!-- R -->Susceperunt 
+                        <lb/>dominum in mensa <persName>mattheus</persName> et <persName>zacheus</persName> tam <persName>simon 
+                            <lb/>leprosus</persName> quam <orgName>phariseus</orgName><subst><del rend="alt">.</del><add place="overstrike"><g ref="#f161">;</g></add></subst> <persName><hi rend="round">m</hi>artha</persName> uero ministrauit. 
+                        <lb/><persName>Discipulus</persName> ille quem diligebat <persName><expan><abbr>i<am>ħc</am></abbr><ex>esus</ex></expan></persName><g ref="#f161">;</g> <quote source="Bible.Vul:John.13.24">supra pectus</quote><del rend="erased">.</del> 
+                        <lb/>domini recubuit in cena<g ref="#f1f9">~</g> hauriens de fonte ui
+                        <lb break="no"/>te<add place="inline">⸝</add> immo bibens tam dulcedinem contempla
+                        <lb break="no"/>tionis quam celestis doctrine delicias. Iniunctum 
+                        <lb/>est <persName>didimo</persName><g ref="#f161">;</g> ut digitos mitteret in latus domini<subst><del rend="alt">.</del><add place="overstrike">⸝</add></subst> 
+                        <lb/>et locum fixure clauorum. <persName>Petrus</persName> et <persName>zebbe<del resp="#AN?"> </del>dei</persName> <del rend="erased">fi</del>
+                        <lb/>filii<g ref="#f161">;</g> admissi sunt ad gloriam transfigurationis 
+                        <lb/>dominice et ad puelle suscitationem. et ad oratio
+                        <lb break="no"/>nis trine silentium. Set delicias uirginis ma
+                        <lb break="no"/>tris quibus predita est et in familiaritate et in ob
+                        <lb break="no"/>sequiis unigenito dei filio tociens<g ref="#f1f9">~</g> tam dulciter<g ref="#f1f9">~</g> 
+                        <lb/>tam hilariter<g ref="#f1f9">~</g> tam diligenter exhibitis<g ref="#f1f9">~</g> quis 
+                        <lb/>aut comprehenderet aut enucl<subst><del rend="alt">i</del><add place="overstrike">e</add></subst>are sufficeret? <metamark function="flag" rend="nota"/>O 
+                        <lb/>quotiens illis illis tenellis pedibus<g ref="#f1f9">~</g> fronti ni
+                        <lb break="no"/>uee<g ref="#f1f9">~</g> luminibus sidereis<g ref="#f1f9">~</g> solari uultui⸝ ori 
+                        <lb/>melleo⸝ oscula dulcissima⸝ delibuta lacrimis 
+                        <lb/>pietatis<g ref="#f1f9">~</g> dulciter impressit.<!-- punct? --> Quid cum sibi ar
+                        <lb break="no"/>ridentem conspexit ipsam leticiam. cum illud 
                         <pb n="102r"/>
                         <cb n="a"/>
-                        <lb/>pectus inquo erant absconditi thesauri sapientie<g ref="#f1f9">~</g> admouit pectori uirgineo? Quid de se<g ref="#f1f9">~</g> quid de dei benignitate sentire potuit. dum uerbum patris. lumen incomprehensibile. mundi iudicem. manibus contrectauit? Solem uestiuit. panem confirmantem cor hominis cibauit<g ref="#f161">;</g> lucem calefecit. lauit munditiam. fontem uite lacauit. plenitudinem refecit. Subditus erat matri<g ref="#f161">;</g> cui totus subicitur orbis. qui nutu concutit orbem. O gemma uirginum. o matrum gloria. quam ineffabili exultationis materne gaudio<g ref="#f1f9">~</g> cor tuum dilatum est<g ref="#f1f9">~</g> cum ipsam sapientiam coram te ludentem contempla es? O delicie<g ref="#f1f9">~</g> o gaudia<g ref="#f1f9">~</g> o iocunditas mentis. dum salutem mundi<g ref="#f1f9">~</g> dum uitam tuam<g ref="#f1f9">~</g> dum cor tuum manibus maternis contrectas. Reddidisti creatori tuo bonum et non malum\ omnibus diebus uite tue. Nunquam reatum actualis culpe letalis incurristi. <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> nec macula uaniali infecta es<g ref="#f161">;</g> ex quo mater fuisti agni innocentie. in quo nec macula fuit corporis<g ref="#f161">;</g> nec macula uelleris. Quidam honestate sancte conuersationis in oculis altissimi pacent. set in uespera uite pro dolor. cum <persName>saule</persName> degenerant. Cernes alios uiciis enormibus diutius equo subiacere. set cum salomone et manasse rege iuda<g ref="#f1f9">~</g> fructuosam agunt penitentiam. Iusti etiam quandoque in puteum reatus mortalis decidunt. set demisso celitus fune gratie\ cum <persName>dauid</persName> et petro extrahuntur. Sunt non nulli<g ref="#f161">;</g> qui detoram. honestarum acrionum faciem\ uerbis indecentibus decolorant. Florent non nulli morbis egregiis pollentes. set quibusdam superciliosi fastus notis<g ref="#f161">;</g> serenitatem gratiarum obnubilant. Meritorum preclaris illustrium titulis commendari non nulli merentur. set dum uitium iactantie impudenter incurrunt<g ref="#f161">;</g> ostendtatrix gloria. fructum exercitiorum. in auras dissipat. Qi uentum actionum suarum constituit iudicem<g ref="#f161">;</g> turbinem habere meretur excecatorem. Popularis aure fauorem<g ref="#f161">;</g> uentum censeo. Qui totus fame preconiis in
+                        <fw rend="red capitals" place="top">Virgine.</fw>
+                        <lb/>pectus in quo erant absconditi thesauri sapi
+                        <lb break="no"/>entie<g ref="#f1f9">~</g> admouit pectori uirgineo? Quid 
+                        <lb/>de se<g ref="#f1f9">~</g> quid de dei benignitate sentire potuit. 
+                        <lb/>dum uerbum patris⸝ lumen incomprehensibile⸝ 
+                        <lb/>mundi iudicem⸝ manibus contrectauit? 
+                        <lb/>Solem uestiuit⸝ panem confirmantem cor 
+                        <lb/>hominis cibauit<subst><del rend="alt">.</del><add place="overstrike"><g ref="#f161">;</g></add></subst> lucem calefecit. lauit 
+                        <lb/>munditiam. fontem uite lactauit. ple
+                        <lb break="no"/>nitudinem refecit. Subditus erat matri<g ref="#f161">;</g> 
+                        <lb/>cui totus subicitur orbis. qui nutu concutit 
+                        <lb/>orbem. O gemma uirginum. o matrum gloria. 
+                        <lb/>quam ineffabili exultationis materne gau
+                        <lb break="no"/>dio<g ref="#f1f9">~</g> cor tuum dilatum est<g ref="#f1f9">~</g> cum ipsam sa
+                        <lb break="no"/>pientiam coram te ludentem contemplata 
+                        <lb/>es? O delicie<g ref="#f1f9">~</g> o gaudia<g ref="#f1f9">~</g> o iocunditas mentis. 
+                        <lb/>dum salutem mundi<g ref="#f1f9">~</g> dum uitam tuam<g ref="#f1f9">~</g> 
+                        <lb/>dum cor tuum manibus maternis contrectas. 
+                        <lb/>Reddidisti creatori tuo bonum et non malum<subst><del rend="alt">.</del><add place="overstrike"><g ref="#f161">;</g></add></subst> 
+                        <lb/>omnibus diebus uite tue. Nunquam reatum ac
+                        <lb break="no"/>tualis culpe letalis incurristi. <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> nec macu
+                        <lb break="no"/>la ueniali infecta es<g ref="#f161">;</g> ex quo mater fuisti 
+                        <lb/>agni innocentie. in quo nec macula fuit 
+                        <lb/>corporis<g ref="#f161">;</g> nec macula uelleris. Quidam ho
+                        <lb break="no"/>nestate sancte conuersationis in oculis altissimi 
+                        <lb/>placent. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> in uespera uite pro dolor⸝ cum <persName>saule</persName> 
+                        <lb/>degenerant. Cernes alios uiciis enormi
+                        <lb break="no"/>bus diutius equo subiacere. set cum <persName>salomo
+                            <lb break="no"/>ne</persName> et <persName>manasse</persName> rege <persName>iuda</persName><g ref="#f1f9">~</g> fructuosam a
+                        <lb break="no"/>gunt penitentiam. Iusti etiam quandoque in<del rend="erased"><pc>-</pc></del> 
+                        <lb/><!-- R -->puteum reatus mortalis decidunt. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> demis
+                        <lb break="no"/>so celitus fune gratie<subst><del rend="alt">.</del><add place="overstrike"><g ref="#f161">;</g></add></subst> cum <persName>dauid</persName> et <persName>petro</persName> extra<subst><del rend="alt">.</del><add place="overstrike"><g ref="#f161">;</g></add></subst>huntur. Sunt non nulli<g ref="#f161">;</g> qui decora<unclear>ns</unclear>. honesta
+                        <lb break="no"/>rum actionum faciem<add place="inline"><g ref="#f161">;</g></add> uerbis indecentibus 
+                        <lb/>decolorant; Florent non nulli⸝ morbis egregiis 
+                        <lb/>pollentes. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> quib<expan><am>&#xA770;</am><ex>us</ex></expan>dam superciliosi fastus 
+                        <lb/>notis<g ref="#f161">;</g> serenitatem gratiarum obnubilant. 
+                        <lb/>Meritorum preclaris illustrium titulis commen
+                        <lb break="no"/>dari non nulli merentur. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> dum uitium 
+                        <lb/>iactantie impudenter incurrunt<g ref="#f161">;</g> osten
+                        <lb break="no"/>tatrix gloria<add place="inline">⸝</add> fructum<del rend="erased">⸝</del> exercitiorum<add place="inline">⸝</add> in auras 
+                        <lb/>dissipat. <!-- what is mark to the left -->Qui uentum actionum suarum consti
+                        <lb break="no"/>tuit iudicem<g ref="#f161">;</g> turbinem habere meretur 
+                        <lb/>excec<unclear>a</unclear>torem. Popularis aure fauorem<g ref="#f161">;</g> 
+                        <lb/><!-- something at the bottom of column? -->uentum censeo; Qui totus fame preconiis in
                         <cb n="b" break="no"/>
-                        <lb break="no"/>nititur<g ref="#f161">;</g> similis est ei qui <app to="#w28264"><rdg wit="#M1ac."> infacie </rdg></app>in facie labentium aquarum<g ref="#f161">;</g> digito uel arundine pingere molitur. Set quid de illis sentiemus qui creatorem suum continue persequentes<g ref="#f1f9">~</g> nec ad horam ei dare susinent inducias? Felicissimam de iure tenetur eam orbis predicare\ que nunquam malum reddidit creatori suo.
+                        <lb break="no"/>nititur<g ref="#f161">;</g> similis est ei qui in<add place="inline"> </add>facie labentium aquarum<g ref="#f161">;</g> 
+                        <lb/>digito uel arundine pingere molitur. Set quid 
+                        <lb/>de illis sentiemus qui creatorem suum continue 
+                        <lb/>persequentes<g ref="#f1f9">~</g> nec ad horam ei dare sustinent 
+                        <lb/>inducias? Felicissimam de iure tenetur eam 
+                        <lb/>orbis predicare<add place="inline"><g ref="#f161">;</g></add> que nunquam malum reddidit 
+                        <lb/>creatori suo.
                     </p>
                     <p>
-                        Bonum item et non malum gloriose genitrici sue reddidit Christus<g ref="#f161">;</g> qui ipsam in laqueum culpe mortalis incidere nunquam permisit. Adde quod nec mortis nexibus deprimi potuit mater uite. nec caro matris integritatis<g ref="#f161">;</g> incinerem est redacta. In diebus item uite eterne<g ref="#f161">;</g> reddet suis bonum serenissimus iudex. relegata procul omni aduersitate. Beri gaudii serenitatem<g ref="#f161">;</g> nullus dolor obnubilabit. tranquillitatem summe pacis<g ref="#f161">;</g> bulle perturbare poterunt insidie. Signater dicitur sue<g ref="#f161">;</g> tanquam gratie uirtutum et gloriose uirginitatis fecunditati tantoque labori debite. Sue inquam<g ref="#f161">;</g> quia talis uita. uirginem uirginum. matrum decus. preclarum coniugatarum exemplar<g ref="#f1f9">~</g> feminei sexus apicem\ decet.
+                        <hi rend="enlarged green">B</hi>onum item et non malum 
+                        <lb/>gloriose genitrici sue reddidit <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName><g ref="#f161">;</g> qui ipsam 
+                        <lb/>in laqueum culpe mortalis incidere nunquam 
+                        <lb/>permisit. Adde quod nec mortis nexibus depri
+                        <lb break="no"/>mi potuit mater uite. nec caro matris inte
+                        <lb break="no"/>gritatis<g ref="#f161">;</g> in<add place="inline"> </add>cinerem est redacta. In diebus 
+                        <lb/>item uite eterne<g ref="#f161">;</g> reddet suis bonum serenis
+                        <lb break="no"/>simus iudex. relegata procul omni aduersitate. 
+                        <lb/>Veri gaudii serenitatem<g ref="#f161">;</g> nullus dolor ob
+                        <lb break="no"/>nubilabit. tranquillitatem summe pacis<g ref="#f161">;</g> 
+                        <lb/>nulle perturbare poterunt insidie. Signanter 
+                        <lb/>dicitur <quote>sue</quote><g ref="#f161">;</g> tanquam gratie uirtutum et gloriose 
+                        <lb/>uirginitatis fecunditati tantoque labori 
+                        <lb/>debite. <quote>Sue</quote> inquam<g ref="#f161">;</g> quia talis uita<add place="inline">⸝</add> uirginem 
+                        <lb/>uirginum<add place="inline">⸝</add> matrum decus<add place="inline">⸝</add> preclarum coniugata
+                        <lb break="no"/>rum exemplar<g ref="#f1f9">~</g> feminei sexus apicem<add place="above"><g ref="#f161">;</g></add> decet.
                     </p>
                 </div>
                 <div n="31:13" type="textpart" subtype="section">
                     <p>
-                        <quote type="lemma">Quesiuit lanam et linum. et operata est consilio manuum suarum.</quote>
+                        <lb/><handShift/><quote type="lemma"><hi rend="enlarged red">Q</hi><hi rend="smallcaps v">u</hi>esiuit lanam et linum<add place="inline">.</add> et operata est consilio 
+                            <lb/>manuum suarum.</quote>
                     </p>
                     <p>
-                        Me uoti compotem esse non diffiterer<g ref="#f161">;</g> si michi suppeteret facultas lane moralis intelligentie. cum lino considerationis anagogice. Operarer quidem et ego consilio manuum nostrarum<g ref="#f1f9">~</g> desiderii uidelicet et amoris. quibus et in nobis proficere et aliis <unclear>prodere</unclear> studemus. Ex huiusmodi lana et lino\ uestes sententiarum subtilium nobiles contexit sapientia. quibus decenter uestiuntur anime fideles.
+                        <hi rend="enlarged green">M</hi>e uoti compotem esse non 
+                        <lb/>diffit<hi rend="acute">e</hi>rer<g ref="#f161">;</g> si <expan><abbr>m<am>&#x365;</am></abbr><ex>ichi</ex></expan> suppeteret facultas lane 
+                        <lb/>moralis intelligentie. cum lino considerationis 
+                        <lb/><hi rend="acute">a</hi>nag<hi rend="acute">o</hi>gice. Operarer quidem et ego consilio <subst><del rend="alt">in</del><add place="overstrike">m</add></subst>a
+                        <lb break="no"/>nuum nostrarum⸝ desiderii uidelicet et amoris. quibus 
+                        <lb/>et in nobis proficere et aliis prodesse studemus. Ex 
+                        <lb/>huiusmodi lana et lino<add place="inline"><g ref="#f161">;</g></add> uestes sententiarum subti
+                        <lb break="no"/>lium nobiles contexit sapientia. quibus decenter 
+                        <lb/>uestiuntur anime fideles. <!-- R -->
                     </p>
                     <p>
-                        Mulierem ergo fortem dici posse recorem ecclesie<g ref="#f161">;</g> superiora docuere. Felix est qui sic preest regimini domus<g ref="#f1f9">~</g> fidei sue commisse<g ref="#f161">;</g> ut subditis non desint ea sine quorum amminiculo sustentari nequit status presentis militie. <app to="#w28489"><rdg wit="#M1mg."> [nota <hi rend="font-style:italic;">rub.</hi> </rdg></app>Querere debet lanam et linum\ non rapere. Operari tenetur. non pro uluntatis arbitrio proprie. set eorum fungi consilio<g ref="#f161">;</g> qui inpertem sollicitudinis uocati sunt. Moysen legimus acquieuisse consilio <unclear>ietro</unclear><g ref="#f161">;</g> quamquam ad ipsum referri maiora\ ordo iuris exposstulet. <placeName>Egiptus</placeName>. acerbitatem popularis mali. fantem loquor. non susinuisset<g ref="#f161">;</g> nisi consilio <persName>ioseph</persName> usa
+                        <hi rend="enlarged red">M</hi><hi rend="smallcaps v">u</hi>lierem ergo fortem 
+                        <lb/>dici posse rectorem ecclesie<g ref="#f161">;</g> superiora docuere. 
+                        <lb/>Felix est qui sic preest regimini domus⸝ fidei sue 
+                        <lb/>commisse<g ref="#f161">;</g> ut subditis non desint ea sine quorum 
+                        <lb/>amminiculo sustentari nequit status presen
+                        <lb break="no"/>tis militie. <metamark function="flag" rend="nota red"/>Querere debet lanam et linum<add place="inline"><g ref="#f161">;</g></add> 
+                        <lb/>non rapere. Operari tenetur⸝ non pro uoluntatis 
+                        <lb/>arbitrio proprie. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> eorum fungi consilio<g ref="#f161">;</g> qui in<add place="inline"> </add>partem 
+                        <lb/>sollicitudinis uocati sunt. <persName>Moysen</persName> legimus 
+                        <lb/>acquieuisse consilio <persName>ietr<hi rend="acute">o</hi></persName><g ref="#f161">;</g> quamquam ad ipsum refer
+                        <lb break="no"/>ri maiora<add place="inline"><g ref="#f161">;</g></add> ordo iuris expostulet. <placeName>Egiptus</placeName>⸝ 
+                        <lb/>acerbitatem popularis mali⸝ fantem loquor⸝ 
+                        <lb/>non sustinuisset<g ref="#f161">;</g> nisi consilio <persName>ioseph</persName> usa <del rend="strikethrough">fu</del>
                         <pb n="102v"/>
                         <cb n="a"/>
-                        <lb/><app to="#w28539"><rdg wit="#M1ac."> fufuisset </rdg></app>fuisset. <persName>Iacob</persName> consilio filiorum adquiescens. quos in<reg> </reg><placeName>egiptum</placeName> mitti cum <persName>beniamin</persName>. conpulit urgens necessitas<g ref="#f161">;</g> rei familiaris exclusit inopiam. Consilio <persName>ioab</persName> paruit rex inclitus <persName>dauid</persName><g ref="#f161">;</g> fletum conpescens et dulciter alloquens excercitum sedens inporta. <persName>Ioab</persName> tanti dux exercitus\ muliercule consilium non repudiauit in abela<g ref="#f161">;</g> dum caput sibe fili <unclear>bocri</unclear> proiectum est ad <persName>ioab</persName> per murum ciuitatis. Consilio abigail. <persName>dauid</persName> obtemperauit<g ref="#f161">;</g> dum benedictionem de manu eius accipiens<g ref="#f161">;</g> nabal uiro stulto pepercit. <persName>Dauid</persName> rex illustris. obsecutus est consilio nathan prophete<g ref="#f161">;</g> dum salomon iniunctus est in regem <unclear>ingion</unclear>. Roboam consilium senum contempnens\ maxima protione regni priuatus est. Mulieri sareptane obsecundanti consilio helye<g ref="#f161">;</g> non defecit ydria farine. nec diminutus est olei lechitus. Nisi consilio <persName>iudith</persName> acquieuisset betulia<g ref="#f161">;</g> uastata fuisset ab <persName>oloferne</persName> in ore gladii. Nisi <persName>hester</persName> negina exaudiuisset consilium mardochei<g ref="#f161">;</g> nimis obpressisset filios <placeName>israel</placeName> aman. qui erat de stirpe agag. Felicius in multis succesisset filiis <placeName>israel</placeName><g ref="#f161">;</g> si se consiliis <persName>ysaie</persName> et <persName>ieremie</persName> subdidissent. <unclear>Profuit</unclear> regi nabugodonosor in multis<g ref="#f161">;</g> consilium danielis. Pro dolor. consilium achitofel hilariter suscipium magnates<g ref="#f161">;</g> salubre consiliu. uenerabilis chusi detestantes. O dolor. O gemitus. querunt multi lanam et linum. set sibi non utilitati rei pubblice. Consilio manuum suarum operantur. habent enim conplices<g ref="#f161">;</g> fraudulentis quorum consiliis leti prebent assensum. Velleribus destituuntur oues. et dum lupi saciantur lacte<g ref="#f161">;</g> lana uestiuntur uulpecule. <unclear>Nonunquam</unclear> plures ecclesias in honorem gloriose uirginis consecratas<g ref="#f1f9">~</g> nobiliter dotatas<g ref="#f1f9">~</g> afundatione locupletas<g ref="#f1f9">~</g> prediis ditatas<g ref="#f161">;</g> consideratione transcurro. quibus beata uirgo adquisiuit lanam et linum<g ref="#f161">;</g> sufficientiam silicet bonorum temporalium. operata diutius consilio manuum suarum. Set pro dolor. bona patrimonii crucifixi et uenerande matris eius<g ref="#f161">;</g> consumunt ambubaiarum collegia. farmacapole. sponsi penolopes. 
+                        <lb/>fuisset. <persName>Iacob</persName> consilio filiorum adquiescens⸝ 
+                        <lb/>quos in<reg> </reg><placeName>egiptum</placeName> mitti<del rend="erased">⸝</del> cum <persName>beniamin</persName>⸝ con
+                        <lb break="no"/>pulit urgens necessitas<g ref="#f161">;</g> rei familiaris ex<supplied reason="omitted"><pc>-</pc></supplied>
+                        <lb break="no"/>clusit inopiam. Consilio <persName>ioab</persName> paruit rex 
+                        <lb/>inclitus <persName>dauid</persName><g ref="#f161">;</g> fletum <expan><am>&#xA76F;</am><ex>com</ex></expan>pescens et dulciter allo
+                        <lb break="no"/>quens exercitum sedens in port<subst><del rend="alt"><unclear>o</unclear></del><add place="overstrike">a</add></subst>. <persName>Ioab</persName> tanti 
+                        <lb/>dux exercitus<add place="inline"><g ref="#f161">;</g></add> muliercule consilium non repu
+                        <lb break="no"/>diauit in <persName>abela</persName><g ref="#f161">;</g> dum caput <persName>sibe</persName> fili <persName>boc<add place="above">h</add>ri</persName><add place="inline">⸝</add> 
+                        <lb/>proiectum est ad <persName>ioab</persName> per murum ciuitatis. Con
+                        <lb break="no"/>silio <persName>abigail</persName>⸝ <persName>dauid</persName> obtemperauit<g ref="#f161">;</g> dum bene
+                        <lb break="no"/>dictionem de manu eius accipiens<g ref="#f161">;</g> <persName>nabal</persName><add place="inline"> </add>ui
+                        <lb break="no"/>ro stulto pepercit. <persName>Dauid</persName> rex illustris<add place="inline">⸝</add> obsecutus 
+                        <lb/>est consilio <persName>nathan</persName> prophete<g ref="#f161">;</g> dum <persName>salomon</persName> iniunctus 
+                        <lb/>est in regem in <placeName>gion</placeName>. Robo<hi rend="acute">a</hi>m consilium senum 
+                        <lb/>contempnens<add place="inline"><g ref="#f161">;</g></add> maxima portione regni pri
+                        <lb break="no"/>uatus est. Mulieri <placeName>sareptane</placeName> obsecundanti 
+                        <lb/>consilio <persName>helye</persName><g ref="#f161">;</g> non defecit ydria farine. nec 
+                        <lb/>diminutus est olei lechitus. Nisi consilio <persName>iudith</persName> 
+                        <lb/>acquieuisset <persName>bet<add place="above">h</add>ulia</persName><g ref="#f161">;</g> uastata fuisset ab 
+                        <lb/><persName>oloferne</persName> in ore gladii. Nisi <persName>hester</persName> regina 
+                        <lb/>exaudiuisset consilium <persName>mardochei</persName><g ref="#f161">;</g> nimis 
+                        <lb/>obpressisset filios <placeName>israel</placeName> aman<add place="inline">⸝</add> qui erat de stir
+                        <lb break="no"/>pe <persName>ag<hi rend="acute">a</hi>g</persName>. Felicius in multis successisset filiis 
+                        <lb/><placeName>israel</placeName><g ref="#f161">;</g> si se consiliis <persName>ysaie</persName> et <persName>ieremie</persName> subdidis
+                        <lb break="no"/>sent. Profuit regi <persName>nabugodonosor</persName> in multis<g ref="#f161">;</g> 
+                        <lb/>consilium <persName>danielis</persName>. Pro dolor. consil<hi rend="acute">i</hi>um <persName>achito
+                            <lb break="no"/>fel</persName> hilariter suscip<hi rend="acute">i</hi>unt magnates<g ref="#f161">;</g> salu
+                        <lb break="no"/>bre <expan><am>&#xA76F;</am><ex>con</ex></expan>sili<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan>. uenerabilis <persName>chusi</persName> detestantes. 
+                        <lb/>O dolor<g ref="#f1f9">~</g> o gemitus. querunt multi lanam et linum. 
+                        <lb/><expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> sibi<subst><del rend="erased">. <expan><am>&#x204A;</am><ex>et</ex></expan></del><add place="overstrike"><g ref="#f161">;</g></add></subst> non utilitati rei publice. Consilio 
+                        <lb/>manuum suarum operantur. habent enim conplices<g ref="#f161">;</g> 
+                        <lb/>fraudulentis quorum consiliis leti prebent assen
+                        <lb break="no"/>sum. Velleribus destituuntur oues. et dum lupi 
+                        <lb/>saciantur lacte<g ref="#f161">;</g> lana uestiuntur uulpecule. Non
+                        <lb break="no"/>nunquam plures ecclesias in honorem gloriose uir
+                        <lb break="no"/>ginis consecratas<g ref="#f1f9">~</g> nobiliter dotatas<g ref="#f1f9">~</g> a fundati
+                        <lb break="no"/>one locupletas<g ref="#f1f9">~</g> prediis ditatas<g ref="#f161">;</g> consideratione 
+                        <lb/>transcurro. quibus beata uirgo adquisiuit la
+                        <lb break="no"/>nam et linum<g ref="#f161">;</g> <!-- R -->sufficientiam silicet bonorum tem
+                        <lb break="no"/>poralium. operata diutius consilio manuum suarum. 
+                        <lb/><!-- R -->Set pro dolor. bona patrimonii crucifixi et ue
+                        <lb break="no"/>nerande matris eius<g ref="#f161">;</g> consumunt <add place="overstrike" hand="#AN?">ambubaiarum</add> 
+                        <lb/>collegia. farmacapole. sponsi <persName>penolopes</persName>. <del rend="erased">ne</del>
                         <cb n="b"/>
-                        <lb/>nebulaones. alcinoique. Sathane fatellites. perseuuntur milites Christi. et <app to="#w28802"><rdg wit="#M1ac."> ininnocentiam </rdg></app>in innocentiam etiam filiorum <persName>rachelis</persName><g ref="#f161">;</g> degrassantur milites herodiani. Super uestem domini mittunt sortem milites milati. set et tunicam inconsutilem iam scindere presumunt. mini temerarii. O felicia tempora. dum dei genitrix quesiuit lanam et linum<g ref="#f161">;</g> uiros silicet exercentes opera misericordie<g ref="#f1f9">~</g> et <app to="#w28842"><rdg wit="#M1ac."> iniure </rdg></app>in iure diuino peritos<g ref="#f161">;</g> quorum gloriosis titulis adeo sublimata est sancta mater ecclesia<g ref="#f161">;</g> ut mamillis regum ablactaretur. Tunc dici potuit. Vox estis genus electum<g ref="#f1f9">~</g> regale sacerdotcium. gens sancta<g ref="#f161">;</g> populus adquisitionis. O felicia tempora<g ref="#f161">;</g> dum beata uirgo operata est consilio manuum suarum. Vbi sunt manus lenes. manus <persName>iacob</persName>? Multorum quidem uox<g ref="#f1f9">~</g> uox est <persName>iacob</persName>\ manus autem. manus<g ref="#f1f9">~</g> sunt <persName>esau</persName>.
+                        <lb/>nebulaones. alcinoique. <persName>Sathane</persName> satellites<add place="inline"><g ref="#f161">;</g></add> 
+                        <lb/>persequntur milites <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>i</abbr></expan></persName>. et in<add place="inline"> </add>innocentiam etiam 
+                        <lb/>filiorum <persName>rachelis</persName><g ref="#f161">;</g> degrassantur milites <persName>herodiani</persName>. Super uestem domini mittunt sortem milites milati. set et tunicam inconsutilem iam scindere presumunt. mini temerarii. O felicia tempora. dum dei genitrix quesiuit lanam et linum<g ref="#f161">;</g> uiros silicet exercentes opera misericordie<g ref="#f1f9">~</g> et in<add place="inline"> </add>iure diuino peritos<g ref="#f161">;</g> quorum gloriosis titulis adeo sublimata est sancta mater ecclesia<g ref="#f161">;</g> ut mamillis regum ablactaretur. Tunc dici potuit. Vox estis genus electum<g ref="#f1f9">~</g> regale sacerdotium. gens sancta<g ref="#f161">;</g> populus adquisitionis. O felicia tempora<g ref="#f161">;</g> dum beata uirgo operata est consilio manuum suarum. Vbi sunt manus lenes. manus <persName>iacob</persName>? Multorum quidem uox<g ref="#f1f9">~</g> uox est <persName>iacob</persName><subst><del rend="alt">.</del><add place="overstrike"><g ref="#f161">;</g></add></subst> manus autem. manus<g ref="#f1f9">~</g> sunt <persName>esau</persName>.
                     </p>
                     <p>
-                        Et ecce lanam moralis intelligentie. non solum leni contrectatione digitorum discretionis. carpsimus. uerum etiam ministerio ferreorum pectinum acute correptionis non personarum set uitiorum\ usi sumus. Superest ut linum subtilioris intellectus queramus. oeperaturi instinctu sancti spiritus<g ref="#f161">;</g> qui est consiliu honestarum actionum<g ref="#f1f9">~</g> per manus designatarum. Quesiuit ergo gloriosa dei genitrix lanam historialis intelligentie. cum lino spiritualis intellectus. et diligenter instruendo apostolos. operata est consilio manuum suarum<g ref="#f161">;</g> angelorum uidelicet qui matri sapientie celestia familiarius archana reuelabant. Quesiuit quod ad monum habuit. quesiuit<g ref="#f161">;</g> exempla rebus<g ref="#f1f9">~</g> umbras luci<g ref="#f161">;</g> ueritati figuras adaptando. Reor excellentissimam uirginem perseuerantem in proposito felici pudicitie uirginalis<g ref="#f161">;</g> sepius constituisse pre oculis cordis<g ref="#f1f9">~</g> abel et helyam. et iesum filium naue. Cum uero secum super incarnationis misterio disserebat<g ref="#f1f9">~</g> defecatis sese recreando meditationisubs<g ref="#f161">;</g> reduxisse ipsam ad memoriam reor protoplastum de terra uirginea formatum. Noui <persName>adam</persName> primum sexta feria plasmatum<g ref="#f161">;</g> presignare secundum
+                        Et ecce lanam moralis intelligentie. non solum leni contrectatione digitorum discretionis. carpsimus. uerum etiam ministerio ferreorum pectinum acute correptionis non personarum set uitiorum<subst><del rend="alt">.</del><add place="overstrike"><g ref="#f161">;</g></add></subst> usi sumus. Superest ut linum subtilioris intellectus queramus. operaturi instinctu sancti spiritus<g ref="#f161">;</g> qui est consilii honestarum actionum<g ref="#f1f9">~</g> per manus designatarum. Quesiuit ergo gloriosa dei genitrix lanam historialis intelligentie. cum lino spiritualis intellectus. et diligenter instruendo apostolos. operata est consilio manuum suarum<g ref="#f161">;</g> angelorum uidelicet qui matri sapientie celestia familiarius archana reuelabant. Quesiuit quod ad monum habuit. quesiuit<g ref="#f161">;</g> exempla rebus<g ref="#f1f9">~</g> umbras luci<g ref="#f161">;</g> ueritati figuras adaptando. Reor excellentissimam uirginem perseuerantem in proposito felici pudicitie uirginalis<g ref="#f161">;</g> sepius constituisse pre oculis cordis<g ref="#f1f9">~</g> abel et helyam. et iesum filium naue. Cum uero secum super incarnationis misterio disserebat<g ref="#f1f9">~</g> defecatis sese recreando meditationibus<g ref="#f161">;</g> reduxisse ipsam ad memoriam reor protoplastum de terra uirginea formatum. Noui <persName>adam</persName> primum sexta feria plasmatum<g ref="#f161">;</g> presignare secundum
+                        <fw place="bottom" type="catch"><persName>adam</persName> <expan><am>&#xA76F;</am><ex>con</ex></expan>ceptum</fw>
+                        <gb/>
                         <pb n="103r"/>
                         <cb n="a"/>
                         <lb/><persName>adam</persName> conceptum sexta feria et pallum. Ardentis rubi uirorem prorsum illibatum. uellus <persName>gedeonis</persName> madefactum pluuia deitatis. terra uirginali remanete sicca<g ref="#f1f9">~</g> uirgam <persName>aaron</persName> siccam<g ref="#f1f9">~</g> florentem<g ref="#f1f9">~</g> frondentem<g ref="#f1f9">~</g> dulcem amigdalorum fructum proferentem<g ref="#f1f9">~</g> lapillum derupe sine manibus uirilis operationis precisum<g ref="#f161">;</g> spiritualiter cenere sepius sibi uis est. Moysen typicum fiscella cirpea inclusum<g ref="#f1f9">~</g> super faciem aquarum natantem<g ref="#f1f9">~</g> et a filia <roleName>pharaonis</roleName> educatum<g ref="#f1f9">~</g> populi sui liberatorem<g ref="#f161">;</g> intellixit <app to="#w29097"><rdg wit="#M1ac.">prefigurare populum </rdg></app>prefigurare puerum uirginea cellula inclusum. qui uim regeneratiuam erat aquis collaturus. qui ab ecclesia de fentibus ad fidem uoata susceptus<g ref="#f161">;</g> populum suum a potestate antiqui <roleName>pharaonis</roleName> erepturus erat. Agnouit Iesum funiculo distributionis terram promissionis filiis <placeName>israel</placeName> diuidentem<g ref="#f161">;</g> illum prefigurasse sub cuius persona dictum est. Funes cecidernunt michi in preclaris. et enim herum. mea. pre. est. michi. Iste est Iesus<g ref="#f161">;</g> qui terram uiuentium suis distribuet.
                     </p>
                     <p>
-                        Natiuitatem uero saluatoris egredientis instar sponsi de thamo suo die dominica<g ref="#f1f9">~</g> secum considerans<g ref="#f161">;</g> recoluit manna dulcedinis die dominica de celo descendisse. Sol qui inuirine tanquam in sole posuit tabernaculum corporis sui <app to="#w29193"><rdg wit="#M1ac."> inconceptione </rdg></app>in conceptione<g ref="#f161">;</g> in natuiutate posuit tabernaculum suum insole<g ref="#f161">;</g> hoc est in euidenti. Sole existente inariete<g ref="#f161">;</g> sol fuit inuirgine. Recoluit etiam gloriosa uirgo semper esse clausam protam orientalem. per quam ortus est ille\ cui nomen oriens. Agnouit die dominica lucem esse factam que diuisa est a tenebris. per quam illustratus est orbis<g ref="#f161">;</g> super cuius faciem tenebre prius erant. Lux ab eterno de luce per generationem procedens<g ref="#f1f9">~</g> facta est in conceptione\ ratione gumanitatis assumpte. Facta est\ et innatiuitate; facta est inconceptione<g ref="#f161">;</g> secundum consistentiam ueritatis. Facta est innatiuitate<g ref="#f161">;</g> ratione manifestationis. Res enim dicitur fieri<g ref="#f161">;</g> quando manifestatur.
+                        Natiuitatem uero saluatoris egredientis instar sponsi de thamo suo die dominica<g ref="#f1f9">~</g> secum considerans<g ref="#f161">;</g> recoluit manna dulcedinis die dominica de celo descendisse. Sol qui inuirine tanquam in sole posuit tabernaculum corporis sui <app to="#w29193"><rdg wit="#M1ac."> inconceptione </rdg></app>in conceptione<g ref="#f161">;</g> in natuiutate posuit tabernaculum suum insole<g ref="#f161">;</g> hoc est in euidenti. Sole existente inariete<g ref="#f161">;</g> sol fuit inuirgine. Recoluit etiam gloriosa uirgo semper esse clausam protam orientalem. per quam ortus est ille<subst><del rend="alt">.</del><add place="overstrike"><g ref="#f161">;</g></add></subst> cui nomen oriens. Agnouit die dominica lucem esse factam que diuisa est a tenebris. per quam illustratus est orbis<g ref="#f161">;</g> super cuius faciem tenebre prius erant. Lux ab eterno de luce per generationem procedens<g ref="#f1f9">~</g> facta est in conceptione<subst><del rend="alt">.</del><add place="overstrike"><g ref="#f161">;</g></add></subst> ratione gumanitatis assumpte. Facta est<subst><del rend="alt">.</del><add place="overstrike"><g ref="#f161">;</g></add></subst> et innatiuitate; facta est inconceptione<g ref="#f161">;</g> secundum consistentiam ueritatis. Facta est innatiuitate<g ref="#f161">;</g> ratione manifestationis. Res enim dicitur fieri<g ref="#f161">;</g> quando manifestatur.
                     </p>
                     <p>
                         Cum uero gloriose uirginis consideratio se transtulit ad uim regeneratiuam collatam aquis tactu sacratissimi corporis lauantis aquas<g ref="#f161">;</g> constituit pre oculis mentis 
                         <cb n="b"/>
-                        <lb/>lucem primitiuam in aquis refulsisse. Expulsa iam tenedraru molestia a facie mundi nouelli facta est lux in aquis orbem illustrans. per quam designata est lux gratie\ que in aquis salutaribus fontis baptismalis illustrat micocrosmum<g ref="#f1f9">~</g> hominem loquor. Columba descendens super dominum influentis iordanis inuespera mundi<g ref="#f161">;</g> prefigurata est per columbam uenientem ad <persName>noe</persName> inuespera diei portanem ramen oliue uirentibus foliis in ore suo. Mundatus est mundus aquis diluuii. et in origine mundi ferebatur spiritus domini super aquas. Archa federis erat in aquis iordanis<g ref="#f161">;</g> dum Christus a <persName>iohanne</persName> baptizatus est. In aqua crassa latuis ignis acceptus de altari. quia in aqua baptismali. unctione spirituali sanctificata<g ref="#f161">;</g> adest ignis sancti spiritus hominem renouantis.
+                        <lb/>lucem primitiuam in aquis refulsisse. Expulsa iam tenedraru molestia a facie mundi nouelli facta est lux in aquis orbem illustrans. per quam designata est lux gratie<subst><del rend="alt">.</del><add place="overstrike"><g ref="#f161">;</g></add></subst> que in aquis salutaribus fontis baptismalis illustrat micocrosmum<g ref="#f1f9">~</g> hominem loquor. Columba descendens super dominum influentis iordanis inuespera mundi<g ref="#f161">;</g> prefigurata est per columbam uenientem ad <persName>noe</persName> inuespera diei portanem ramen oliue uirentibus foliis in ore suo. Mundatus est mundus aquis diluuii. et in origine mundi ferebatur spiritus domini super aquas. Archa federis erat in aquis iordanis<g ref="#f161">;</g> dum Christus a <persName>iohanne</persName> baptizatus est. In aqua crassa latuis ignis acceptus de altari. quia in aqua baptismali. unctione spirituali sanctificata<g ref="#f161">;</g> adest ignis sancti spiritus hominem renouantis.
                     </p>
                     <p>
                         Cum uero tristis leticia matris se transtulit ad beatam filii passionem<g ref="#f161">;</g> serpentem eneum erectum in palo conspexit. uirtute cuius liberatus est populus domini. ab ignitis serpentibus. Intellexit quia lgno inmisso dulcorate sunt aque <placeName>marath</placeName><g ref="#f161">;</g>. et in duobus lignis <app to="#w29454"><rdg wit="#M1ac."> </rdg></app>a sareptana collectis<g ref="#f161">;</g> agnouit curcis misterium. De petra percussa uirga <persName>moysi</persName> populum iudaicum prefigurantis<g ref="#f1f9">~</g> emanauerunt aque<g ref="#f161">;</g> quando de latere domin effluxit aqua mundum mundans. Tunica <persName>ioseph</persName> polimita. sanguine cruentata est<g ref="#f161">;</g> quando predulce corpus saluatoris purpuratum est cruore roseo. Tunc lilium conuallium<g ref="#f161">;</g> effectum est flos campi roseus. Plaustro superimposita est archa federis<g ref="#f161">;</g> quando ligno crucis suspensum est corpus saluatoris. O utinam uacce simus a fecunditate spirituali. plaustrum fidei portantes eundo indirectum per uiam que ducit <placeName>bethsames</placeName><g ref="#f161">;</g> ita quod graiamur itinere uno pergentes et mugientes. non declinantes ad dextram uel sinistram. Potest autem tropologice per plaustrum designari<g ref="#f161">;</g> labor discipline regularis. cui archa federis superponitur<g ref="#f161">;</g> dum instituta uite labori fructuoso superadduntur. <placeName>Bethsames</placeName><g ref="#f161">;</g> domus solis interpretatur. De passeribus quorum unus
                         <pb n="103v"/>
                         <cb n="a"/>
-                        <lb/>auolabat alter immolabatur. et de <app to="#w29577"><rdg wit="#M1ac."> hiro </rdg></app>hirco apopenio et de ueruece ab <placeName>abraam</placeName> immolato\ hac uice sponte subticemus.
+                        <lb/>auolabat alter immolabatur. et de <app to="#w29577"><rdg wit="#M1ac."> hiro </rdg></app>hirco apopenio et de ueruece ab <placeName>abraam</placeName> immolato<subst><del rend="alt">.</del><add place="overstrike"><g ref="#f161">;</g></add></subst> hac uice sponte subticemus.
                     </p>
                     <p>
-                        Considerans autem beata uirgo decensum Christi ad ingeros<g ref="#f161">;</g> recoluit <app to="#w29599"><rdg wit="#M1ac."> [one word </rdg></app>banayam descendentem <app to="#w29601"><rdg wit="#M1ac."> incisternam </rdg></app>in cisternam diebus niuis. leonem interfecisse. et <placeName>gaze</placeName> portas a sansone delatas esse. in supercilium montis. Ossa arida uisa spiritualiter. ab Ezechiele carnibus superuestiri recoluit mater sapientie\ cernens multa corpora sanctorum apparuisse in sancta ciuitate.
+                        Considerans autem beata uirgo decensum Christi ad ingeros<g ref="#f161">;</g> recoluit <app to="#w29599"><rdg wit="#M1ac."> [one word </rdg></app>banayam descendentem <app to="#w29601"><rdg wit="#M1ac."> incisternam </rdg></app>in cisternam diebus niuis. leonem interfecisse. et <placeName>gaze</placeName> portas a sansone delatas esse. in supercilium montis. Ossa arida uisa spiritualiter. ab Ezechiele carnibus superuestiri recoluit mater sapientie<subst><del rend="alt">.</del><add place="overstrike"><g ref="#f161">;</g></add></subst> cernens multa corpora sanctorum apparuisse in sancta ciuitate.
                     </p>
                     <p>
                         Translationem <persName>enoch</persName> et currum igneum <persName>helye</persName><g ref="#f161">;</g> mirabilem ascensionem domini noui presignasse.
@@ -4945,9 +5339,9 @@
                         <quote type="lemma">Facta est quasi nauis institoris<g ref="#f161">;</g> delonge portans panem suum.</quote>
                     </p>
                     <p>
-                        <label><unclear>Allegorice.</unclear></label>Mundus iste mare est spaciosum manibus. in quo tot sunt reptilia curarum et <app to="#w29778"><rdg wit="#M1ac."> sollicitudinem </rdg></app>sollicitudinum. In hoc mari uix suam sustinent molem\ grandia cete fastus elationis pompose. lucunt delfines inconstantie<g ref="#f161">;</g> demulcent aures nauigantium<g ref="#f1f9">~</g> syrenes luxurie. latrat scilla inuidie<g ref="#f1f9">~</g> absorbet miseros uorago caribdis auaricie. Nauis autem in cuius <unclear>prora</unclear> sedet ueneranda series patriacharum et prophetarum<g ref="#f1f9">~</g> in <app to="#w29819"><rdg wit="#M1ac."> </rdg><rdg wit="#M1mg.">  <hi rend="font-style:italic;">corr.</hi> </rdg></app>cuius rate disposita est reuerenda discipulorum saluatoris unitas<g ref="#f1f9">~</g> in <app to="#w29828"><rdg wit="#M1ac."> </rdg></app>cuius <app to="#w29829"><rdg wit="#M1ac.">puppi nec (?) </rdg></app>puppi residemus nos inquos fines seculorum deuenerunt<g ref="#f161">;</g> pestes predictas 
+                        <label><unclear>Allegorice.</unclear></label>Mundus iste mare est spaciosum manibus. in quo tot sunt reptilia curarum et <app to="#w29778"><rdg wit="#M1ac."> sollicitudinem </rdg></app>sollicitudinum. In hoc mari uix suam sustinent molem<subst><del rend="alt">.</del><add place="overstrike"><g ref="#f161">;</g></add></subst> grandia cete fastus elationis pompose. lucunt delfines inconstantie<g ref="#f161">;</g> demulcent aures nauigantium<g ref="#f1f9">~</g> syrenes luxurie. latrat scilla inuidie<g ref="#f1f9">~</g> absorbet miseros uorago caribdis auaricie. Nauis autem in cuius <unclear>prora</unclear> sedet ueneranda series patriacharum et prophetarum<g ref="#f1f9">~</g> in <app to="#w29819"><rdg wit="#M1ac."> </rdg><rdg wit="#M1mg.">  <hi rend="font-style:italic;">corr.</hi> </rdg></app>cuius rate disposita est reuerenda discipulorum saluatoris unitas<g ref="#f1f9">~</g> in <app to="#w29828"><rdg wit="#M1ac."> </rdg></app>cuius <app to="#w29829"><rdg wit="#M1ac.">puppi nec (?) </rdg></app>puppi residemus nos inquos fines seculorum deuenerunt<g ref="#f161">;</g> pestes predictas 
                         <cb n="b"/>
-                        <lb/>euitat prudenter<!-- corr. -->. rectoris confisa presidio. <quote>Non <!-- corr. -->declinat ad dextram uel ad sinistram</quote>. set in<del> </del>directum tendens<g ref="#f161">;</g> uentos temptationum paruipendit. elidit procellas persecutionum<g ref="#f161">;</g> sirtes et ceraunia et rupes latitantes periculorum instantium euadit. Vt autem <app to="#w29873"><rdg wit="#M1mg."> <hi rend="font-style:italic;">corr.</hi> </rdg><rdg wit="#M1ac.">  directus </rdg></app>directius iter legant ad portum salutis<g ref="#f161">;</g> ad stellam maris in celi cardine refulgentem\ leuant oculos frequenter<g ref="#f1f9">~</g> mare transeuntes. Et si celum aerium caligine tenebrosa sit obductum<g ref="#f161">;</g> uirginea tamen facies stelle serenissime<g ref="#f1f9">~</g> dulciter arridet mare legentibus<g ref="#f161">;</g> terrigenis semper propitia. Sancta ergo ecclesia <g ref="#f1f9">~</g> facta est quasi nauis institorum<g ref="#f1f9">~</g> de longe portans panem suum<g ref="#f161">;</g> ut pro consuetudine familiari ponatur singulare pro plurali. Institores ut ait <persName>gregorius</persName><g ref="#f161">;</g> <label><persName>gregorius</persName></label><quote>sunt omnes qui fidelium mores instituunt. qui dum predicationem auditoribus suis prebent<g ref="#f1f9">~</g> ut ab eis fidem et recta opera percipiant\ spirituale negocium gerunt.</quote> Vnde <persName>iob</persName> de <placeName>iudea</placeName> loquens<g ref="#f161">;</g> ait. <quote>Non calcauerunt eam filii institorum.</quote> Doctores namque sancti filii uidelibet apostorum<g ref="#f161">;</g> non <app to="#w29978"><rdg wit="#M1mg."> <hi rend="font-style:italic;">corr.</hi> </rdg></app>presserunt uirtutis calce<g ref="#f1f9">~</g> uitia synagoge. Sancta quidem primitiua ecclesia presertim facta est quasi nauis institorum. delonge portans panem suum. quia omne datum optimum<g ref="#f161">;</g> et omne donum desursum est descendens a patre luminum. Sicut <placeName>israelem</placeName> nostra<g ref="#f1f9">~</g> ciuitas sancta de celo descendum<g ref="#f161">;</g> sic et panis euangelice doctrine desursum est. Hinc est quod ueritas sub persona membrorum ait. Mea doctrina non est mea. set eius qui misit me patris. Panis iste\ habet in se omne oblectamentum saporis. si tamen firmiter credas<g ref="#f1f9">~</g> <app to="#w30056"><rdg wit="#M1ac."> inte </rdg></app><unclear>nte</unclear> speres<g ref="#f1f9">~</g> feruenter ames. Delonge item a <placeName>israelem</placeName> scilicet <unclear>adparces</unclear> remotissimas porauerunt panem suum apostoli. quia in omnem terram exiuit sonus eorum<g ref="#f161">;</g> et in f. o. tum. u. eorum. De syon exiuit lex euangelica. et uerbum domini de israelem. Potest et nomine panis<g ref="#f161">;</g> uirtus sacramentorum sacrosancte matris ecclesie significari. Merce egregias secum portauere nobiles institores. fidem uidelibet et sacramenta et honestos mores. et regnum celeste. O institores summa commendatione dignissimos<g ref="#f1f9">~</g> qui panem deliciosum gratis dedere famelicis et egentibus.
+                        <lb/>euitat prudenter<!-- corr. -->. rectoris confisa presidio. <quote>Non <!-- corr. -->declinat ad dextram uel ad sinistram</quote>. set in<del> </del>directum tendens<g ref="#f161">;</g> uentos temptationum paruipendit. elidit procellas persecutionum<g ref="#f161">;</g> sirtes et ceraunia et rupes latitantes periculorum instantium euadit. Vt autem <app to="#w29873"><rdg wit="#M1mg."> <hi rend="font-style:italic;">corr.</hi> </rdg><rdg wit="#M1ac.">  directus </rdg></app>directius iter legant ad portum salutis<g ref="#f161">;</g> ad stellam maris in celi cardine refulgentem<subst><del rend="alt">.</del><add place="overstrike"><g ref="#f161">;</g></add></subst> leuant oculos frequenter<g ref="#f1f9">~</g> mare transeuntes. Et si celum aerium caligine tenebrosa sit obductum<g ref="#f161">;</g> uirginea tamen facies stelle serenissime<g ref="#f1f9">~</g> dulciter arridet mare legentibus<g ref="#f161">;</g> terrigenis semper propitia. Sancta ergo ecclesia <g ref="#f1f9">~</g> facta est quasi nauis institorum<g ref="#f1f9">~</g> de longe portans panem suum<g ref="#f161">;</g> ut pro consuetudine familiari ponatur singulare pro plurali. Institores ut ait <persName>gregorius</persName><g ref="#f161">;</g> <label><persName>gregorius</persName></label><quote>sunt omnes qui fidelium mores instituunt. qui dum predicationem auditoribus suis prebent<g ref="#f1f9">~</g> ut ab eis fidem et recta opera percipiant<subst><del rend="alt">.</del><add place="overstrike"><g ref="#f161">;</g></add></subst> spirituale negocium gerunt.</quote> Vnde <persName>iob</persName> de <placeName>iudea</placeName> loquens<g ref="#f161">;</g> ait. <quote>Non calcauerunt eam filii institorum.</quote> Doctores namque sancti filii uidelibet apostorum<g ref="#f161">;</g> non <app to="#w29978"><rdg wit="#M1mg."> <hi rend="font-style:italic;">corr.</hi> </rdg></app>presserunt uirtutis calce<g ref="#f1f9">~</g> uitia synagoge. Sancta quidem primitiua ecclesia presertim facta est quasi nauis institorum. delonge portans panem suum. quia omne datum optimum<g ref="#f161">;</g> et omne donum desursum est descendens a patre luminum. Sicut <placeName>israelem</placeName> nostra<g ref="#f1f9">~</g> ciuitas sancta de celo descendum<g ref="#f161">;</g> sic et panis euangelice doctrine desursum est. Hinc est quod ueritas sub persona membrorum ait. Mea doctrina non est mea. set eius qui misit me patris. Panis iste<subst><del rend="alt">.</del><add place="overstrike"><g ref="#f161">;</g></add></subst> habet in se omne oblectamentum saporis. si tamen firmiter credas<g ref="#f1f9">~</g> <app to="#w30056"><rdg wit="#M1ac."> inte </rdg></app><unclear>nte</unclear> speres<g ref="#f1f9">~</g> feruenter ames. Delonge item a <placeName>israelem</placeName> scilicet <unclear>adparces</unclear> remotissimas porauerunt panem suum apostoli. quia in omnem terram exiuit sonus eorum<g ref="#f161">;</g> et in f. o. tum. u. eorum. De syon exiuit lex euangelica. et uerbum domini de israelem. Potest et nomine panis<g ref="#f161">;</g> uirtus sacramentorum sacrosancte matris ecclesie significari. Merce egregias secum portauere nobiles institores. fidem uidelibet et sacramenta et honestos mores. et regnum celeste. O institores summa commendatione dignissimos<g ref="#f1f9">~</g> qui panem deliciosum gratis dedere famelicis et egentibus.
                     </p>
                     <p>
                         Et ut
@@ -5174,10 +5568,10 @@
                         Sequitur.
                     </p>
                     <p>
-                        ʼBissus et purpura<g ref="#f161">;</g> indumentum eius.
+                        <quote>Bissus et purpura<g ref="#f161">;</g> indumentum eius.</quote>
                     </p>
                     <p>
-                        In bisso<g ref="#f161">;</g> candorem pudicitie. in purpura<g ref="#f161">;</g> intellige grammaticam uerecundie. Bissus<g ref="#f161">;</g> ad nitorem refertur lilii castitatis. purpura<g ref="#f161">;</g> ad ruborem rose uerecunde simplicitatis. <app to="#w36802"><rdg wit="#M1ac."> inornatum </rdg></app>In ornatum quidem tabernaculi federis<g ref="#f161">;</g> conuenerunt bissus et purpura. Tabernaculum
+                        In <mentioned>bisso</mentioned><g ref="#f161">;</g> candorem pudicitie. in <mentioned>purpura</mentioned><g ref="#f161">;</g> intellige grammaticam uerecundie. Bissus<g ref="#f161">;</g> ad nitorem refertur lilii castitatis. purpura<g ref="#f161">;</g> ad ruborem rose uerecunde simplicitatis. <app to="#w36802"><rdg wit="#M1ac."> inornatum </rdg></app>In ornatum quidem tabernaculi federis<g ref="#f161">;</g> conuenerunt bissus et purpura. Tabernaculum
                         <pb n="110v"/>
                         <cb n="a"/>
                         <lb/>federis est beatissima dei genitrix. que dei et hominum est mediatrix. Sicut autem tabernaculum diuidebatur in sancta et sancta sanctorum<g ref="#f161">;</g> sic et uita gloriose uirginis<g ref="#f1f9">~</g> duobus se concessit statibus. Alter<g ref="#f161">;</g> benignissimam incarnationis dominice dispensationem precessit. reliquus<g ref="#f161">;</g> subsecutus est. Sancta sanctorum semel introiuit summus sacerdos. qui est sacerdos ineternum secundum ordinem Melchisedech.
@@ -5210,10 +5604,10 @@
                         <lb/>mirre<g ref="#f161">;</g> ratione deliciose suauitatis et odoris iocundissime fragrantie. Fortasse autem licet cor amantis tantam sentiret delectationem mire dulcedinis<g ref="#f161">;</g> affuit tamen uel aliqua amaritudinis stilla. dum intellexit sibi non esse celitus concessum ut gloriosam domini cerneret resurrectionem. O quam letis respexit oculis. gloriam amantium. solatium merentium<g ref="#f161">;</g> mundi salutem<g ref="#f1f9">~</g> quietem laborantium<g ref="#f1f9">~</g> uiam peregrinantium<g ref="#f1f9">~</g> ueritatem promissionum<g ref="#f1f9">~</g> uitam perseuerantium. brauium currentium. coronam uincentium. In hunc tendebant uenerande seriei patrum antiquorum desideria. huic se debere fatentur uera prophetarum preconia. Transfert se ergo cum ceteris spiritus sancti uatibus ad misterium incarnationis Salomon noster<g ref="#f1f9">~</g> in laudes gloriose uirginis exurgens<g ref="#f161">;</g> cum dicit.
                     </p>
                     <p>
-                        Sindonem fecit et uendidit.
+                        <quote>Sindonem fecit et uendidit.</quote>
                     </p>
                     <p>
-                        Nomine sindonis<g ref="#f161">;</g> designatur mundissima caro saluatoris sumpta de uirgine. qua mater filium coronauit et ornauit<g ref="#f161">;</g> iuxta id quod ait salomon in epithalamio amoris. Egredimini filie syon<g ref="#f161">;</g> et uidete regem salomonem in diademate quo coronauit eum mater sua in die desponsationis illius et in die leticie cordis eius. <unclear>Iua</unclear> dulcissima caro que propter sui mundiciam. nomine sindonis in hoc loco censetur. diadema nuncupatur<g ref="#f161">;</g> propter celsitudinem regie dignitatis. Descendit namque Christus secundum carnem de regia stirpe. qui et inhumanitate rex fuit et sacerdos. Gloriosa igitur dei genitrix sindonem fecit filio suo<g ref="#f161">;</g> dum ipsum de spiritu sancto concepit. Vendidisse autem perhibetur hanc syndonem filio. <app to="#w37648"><rdg wit="#M1ac."> quiadum </rdg></app>quia dum nostram suscepit dei filius humanitatem<g ref="#f161">;</g> suam nobis largitus est deitatem. O admirabile commercium<g ref="#f161">;</g> o felix contractus. Potest item et sita mire nouitatis uenditio<g ref="#f161">;</g> referri ad amorem et gratiam tocius mundi. Ex eo enim quod benignissima uirgo prospexit utilitati pubblice<g ref="#f161">;</g> gratiam et fauorem tocius orbis sibi conciliauit. Prebuit assensum arbitrio dispositionis diuine<g ref="#f161">;</g> et amorem mundi quasi in recompensationem meriti suscepit. Respexit inquit dominus humilitatem ancille sue. <quote>ecce enim ex hoc beatam 
+                        Nomine <mentioned>sindonis</mentioned><g ref="#f161">;</g> designatur mundissima caro saluatoris sumpta de uirgine. qua mater filium coronauit et ornauit<g ref="#f161">;</g> iuxta id quod ait salomon in epithalamio amoris. Egredimini filie syon<g ref="#f161">;</g> et uidete regem salomonem in diademate quo coronauit eum mater sua in die desponsationis illius et in die leticie cordis eius. <unclear>Iua</unclear> dulcissima caro que propter sui mundiciam. nomine sindonis in hoc loco censetur. diadema nuncupatur<g ref="#f161">;</g> propter celsitudinem regie dignitatis. Descendit namque Christus secundum carnem de regia stirpe. qui et inhumanitate rex fuit et sacerdos. Gloriosa igitur dei genitrix sindonem fecit filio suo<g ref="#f161">;</g> dum ipsum de spiritu sancto concepit. Vendidisse autem perhibetur hanc syndonem filio. <app to="#w37648"><rdg wit="#M1ac."> quiadum </rdg></app>quia dum nostram suscepit dei filius humanitatem<g ref="#f161">;</g> suam nobis largitus est deitatem. O admirabile commercium<g ref="#f161">;</g> o felix contractus. Potest item et sita mire nouitatis uenditio<g ref="#f161">;</g> referri ad amorem et gratiam tocius mundi. Ex eo enim quod benignissima uirgo prospexit utilitati pubblice<g ref="#f161">;</g> gratiam et fauorem tocius orbis sibi conciliauit. Prebuit assensum arbitrio dispositionis diuine<g ref="#f161">;</g> et amorem mundi quasi in recompensationem meriti suscepit. Respexit inquit dominus humilitatem ancille sue. <quote>ecce enim ex hoc beatam 
                             <cb n="b"/>
                             <lb/>me dicent omnes generationes.</quote> Quid quod non solum exaltari surpra choros angelorum<g ref="#f1f9">~</g> <expan><abbr>s<am>;</am></abbr><ex>et</ex></expan> etiam <app to="#w37738"><rdg wit="#M1ac."> inreginam </rdg></app>in reginam angelorum et hominum sublimari <unclear>meruit</unclear>. eo quod se <app to="#w37747"><rdg wit="#M1ac."> mutui </rdg></app>nutui diuine uoluntatis concessit et subdidit? Superaddita est gratia gratie. et eximie excellentia glorie<g ref="#f161">;</g> consecuta est gratiam. Sic quidem gratiam adepta est pro gratia. nam et ipsa gloria<g ref="#f161">;</g> gratia est.
                     </p>
@@ -5303,7 +5697,7 @@
                     <p>
                         Surrexerunt ergo filii adoptiui gloriose uirginis. et beatissimam eam predicauerunt. Mulier illa euangelica<g ref="#f1f9">~</g> tipum gerens ecclesie<g ref="#f1f9">~</g> audiens Iesum loquentem<g ref="#f161">;</g> ait. <quote>Beatus uenter qui te portauit<g ref="#f161">;</g> et ubera que suxisti.</quote> Exultans eciam ecclesia<g ref="#f161">;</g> decantat in laudem beate uirginis. beata uiscera <persName>marie</persName> uirginis<g ref="#f161">;</g> que portauerunt eterni patris fil<supplied reason="omitted">i</supplied>um. <app to="#w39873"><rdg wit="#M1ac."> inadmirabili </rdg></app>In admirabili item assumptione gloriose uirginis. que concrepuisse mire iocunditatis cantica<g ref="#f1f9">~</g> inter supernos ciues existimas? Ad celebrium sollmnitatem 
                         <cb n="b"/>
-                        <lb/>tripudiorum gabrielem choros angelorum inuitasse<g ref="#f161">;</g> amanti facile persuadebitur. In consueta uirginis excellentissime preconia. immo et in multo excellentiora prophetas exurrexisse dubitas?
+                        <lb/>tripudiorum <persName>gabrielem</persName> choros angelorum inuitasse<g ref="#f161">;</g> amanti facile persuadebitur. In consueta uirginis excellentissime preconia. immo et in multo excellentiora prophetas exurrexisse dubitas?
                     </p>
                     <p>
                         Sequitur. Et uir eius<g ref="#f161">;</g> laudauit eam. Deus qui sponsus est anime fidelis<g ref="#f161">;</g> laudibus dignissimam esse beatam uirginem. certis declarauit inditiis. <expan><abbr>S<am>;</am></abbr><ex>et</ex></expan> et in futuro beatissimam predicabimus reginam angelorum et hominum. <app to="#w39946"><rdg wit="#M1ac."> inquam </rdg></app>in quam prospicere<g ref="#f161">;</g> magna portio erit glorie. Tunc laudabit eam rex regum. et quanta fuerint beneficia gloriose dei genitricis que contulit humano generi<g ref="#f161">;</g> <app to="#w39968"><rdg wit="#M1mg."> <hi rend="font-style:italic;">corr.</hi> </rdg></app>dilucide cognoscemus.
