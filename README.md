@@ -14,9 +14,8 @@ Full text available, but still needing verification to varying degrees.
 - *Meditatio de Magdalena* (or *Tractatus super admirabili conuersione beatissime Magdalenes*), from Hereford, Cathedral Library, O.i.2 (incorporating corrections from [Bestul's 1999 edition](http://dx.doi.org/10.1484/J.JML.2.304112))
 - *Questiones*, from London, Lambeth Palace Library, 421
 - *Tractatus super Mulierem fortem*, a commentary on Prov. 31:10–31 (Oxford, Jesus College, 94)
-
 - Cambridge, University Library, Gg.6.42:
-    - *Sol meldunensis*, a florilegium of Alexander Neckam's prose works
+    - *Sol meldunensis*, a florilegium of Alexander Neckam's prose works by 'Galfridus' addressed to 'Gaufridus' (abbot of Malmesbury from 1246–60)
     - Geoffrey of Monmouth, *Prophetia Merlini* (first part, with glosses)
     - A florilegium of Alexander Neckam's poetry, consisting of verses on wine (Peter of Blois, *De commendatione uini*; Robertus de Bellafago, *De commendatione ceruisiae*; Peter of Blois, *Responsio*; Alexander Neckam, *De uino*); *Nouus Auianus*; other miscellaneous material; *De passione saluatoris* (which it seems safe to ascribe to Alexander)
 
