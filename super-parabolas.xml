@@ -26,6 +26,34 @@
                         <idno>94</idno>
                     </msIdentifier>
                 </msDesc>
+                <listBibl>
+                    <biblStruct type="bookSection" xml:id="Hurst1983">
+                        <analytic>
+                            <title level="a" xml:lang="la">In prouerbia</title>
+                            <author>
+                                <name>Beda</name>
+                            </author>
+                        </analytic>
+                        <monogr>
+                            <title level="m">Opera exegetica</title>
+                            <editor>
+                                <forename>David</forename>
+                                <surname>Hurst</surname>
+                            </editor>
+                            <imprint>
+                                <pubPlace>Turnhout</pubPlace>
+                                <biblScope type="vol">2.2b</biblScope>
+                                <publisher>Brepols</publisher>
+                                <date>1983</date>
+                            </imprint>
+                        </monogr>
+                        <series>
+                            <title level="s">CCSL</title>
+                            <biblScope type="vol">119b</biblScope>
+                        </series>
+                        <idno type="ISBN">2503011950 9782503011950 2503011969 9782503011967</idno>
+                    </biblStruct>
+                </listBibl>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
@@ -35,7 +63,7 @@
             <fw>Sancti spiritus assit nobis gratia.</fw>
             <cb n="a"/>
             <div n="Title" type="textpart">
-                <head rend="red inline"><lb/>Incipit tractatus <persName>magistri alexandri abbatis <expan><abbr>cyrenc<am>’</am></abbr><ex>estrie</ex></expan></persName><lb/>super parabolas <persName>salomonis</persName>.</head>
+                <head rend="red inline"><lb/>Incipit tractatus <persName>magistri alexandri abbatis <expan><abbr>cyrenc<am>’</am></abbr><ex>estrie</ex></expan></persName><lb/>super <title>parabolas</title> <persName>salomonis</persName>.</head>
             </div>
             <div n="Proem" type="textpart" subtype="book">
                 <!-- Current organization is strictly an attempt to reflect the MS, and may be revised:
@@ -4014,7 +4042,7 @@
                     </div>
                     <div n="43" type="textpart" subtype="section">
                         <p>
-                            <quote><quote><hi rend="red enlarged">N</hi>oli <expan><am>&#xA753;</am><ex>pro</ex></expan>
+                            <quote><quote source="Bible.Vul:Prov.3.27"><hi rend="red enlarged">N</hi>oli <expan><am>&#xA753;</am><ex>pro</ex></expan>
                                     <lb break="no"/>hibere e<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> benefacere qui potest. si uales<g ref="#f161">;</g> 
                                     <lb/><expan><am>&#x204A;</am><ex>et</ex></expan> ipse benefac.</quote></quote> Beda.<!-- Bede also used that quotation --> <quote><expan><abbr>Q<am>&#xA75B;</am></abbr><ex>uia</ex></expan> supra diligen<expan><abbr rend="supraline">t</abbr><ex>er</ex></expan> leg<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> 
                                 <lb/><expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><abbr>i</abbr></expan> <expan><am>&#x204A;</am><ex>et</ex></expan> consili<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> obseruare<!-- -ari? --> monuit. <expan><am>&#x204A;</am><ex>et</ex></expan> e<expan><abbr rend="supraline">t</abbr><ex>er</ex></expan>nam 

@@ -30,11 +30,11 @@
                 <listBibl>
                     <biblStruct type="journalArticle" xml:id="Bestul1999">
                         <analytic>
-                            <editor>
+                            <title level="a">The Meditation on Mary Magdalene of Alexander Nequam</title>
+                            <author>
                                 <forename>Thomas H.</forename>
                                 <surname>Bestul</surname>
-                            </editor>
-                            <title level="a">The Meditation on Mary Magdalene of Alexander Nequam</title>
+                            </author>
                         </analytic>
                         <monogr>
                             <title level="j">The Journal of Medieval Latin</title>
@@ -42,6 +42,7 @@
                                 <biblScope type="vol">9</biblScope>
                                 <biblScope type="pp">1-40</biblScope>
                                 <date>1999</date>
+                                <note type="url">http://dx.doi.org/10.1484/J.JML.2.304112</note>
                             </imprint>
                         </monogr>
                         <idno type="DOI">10.1484/J.JML.2.304112</idno>

@@ -26,6 +26,23 @@
                         <idno>94</idno>
                     </msIdentifier>
                 </msDesc>
+                <listBibl>
+                    <biblStruct type="thesis" xml:id="Mahoney1971">
+                        <monogr>
+                            <title level="m">A Critical Edition of Alexander Nequam's <title>Tractatus super mulierem fortem</title>, Section One</title>
+                            <author>
+                                <forename>Denis Gerard</forename>
+                                <surname>Mahoney</surname>
+                            </author>
+                            <imprint>
+                                <publisher>University of Illinois at Urbana-Champaign</publisher>
+                                <date>1971</date>
+                                <note type="url">http://search.proquest.com/docview/302621665</note>
+                                <note type="thesisType">PhD diss.</note>
+                            </imprint>
+                        </monogr>
+                    </biblStruct>
+                </listBibl>
             </sourceDesc>
         </fileDesc>
     </teiHeader>

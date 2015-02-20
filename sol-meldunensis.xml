@@ -26,6 +26,189 @@
                         <idno>Gg.6.42</idno>
                     </msIdentifier>
                 </msDesc>
+                <listBibl>
+                    <biblStruct type="book" xml:id="Wollin1998">
+                        <monogr>
+                            <title level="m">Carmina</title>
+                            <author>
+                                <name>Peter of Blois</name>
+                            </author>
+                            <editor>
+                                <forename>Carsten</forename>
+                                <surname>Wollin</surname>
+                            </editor>
+                            <imprint>
+                                <pubPlace>Turnhout</pubPlace>
+                                <publisher>Brepols</publisher>
+                                <date>1998</date>
+                            </imprint>
+                        </monogr>
+                        <series>
+                            <title level="s">CCCM</title>
+                            <biblScope type="vol">128</biblScope>
+                        </series>
+                        <idno type="ISBN">2503032818  9782503032818  2503032826  9782503032825</idno>
+                    </biblStruct>
+                    <biblStruct type="journalArticle" xml:id="McDonough2005">
+                        <analytic>
+                            <title level="a">Cambridge, University Library, Gg. 6.42, Alexander Neckam and the <title>Sacerdos ad altare</title></title>
+                            <author>
+                                <forename>Christopher J.</forename>
+                                <surname>McDonough</surname>
+                            </author>
+                        </analytic>
+                        <monogr>
+                            <title level="j">Studi medievali</title>
+                            <imprint>
+                                <biblScope type="vol">46</biblScope>
+                                <biblScope type="issue">2</biblScope>
+                                <biblScope type="pp">783-809</biblScope>
+                                <date>2005</date>
+                            </imprint>
+                        </monogr>
+                        <series>
+                            <title level="s">3rd ser.</title>
+                        </series>
+                    </biblStruct>
+                    <biblStruct type="journalArticle" xml:id="McDonough2004">
+                        <analytic>
+                            <title level="a">The <title>Laus Beatissime Virginis</title> and the canon of Alexander Neckam</title>
+                            <author>
+                                <forename>Christopher J.</forename>
+                                <surname>McDonough</surname>
+                            </author>
+                        </analytic>
+                        <monogr>
+                            <title level="j">Mediaeval Studies</title>
+                            <imprint>
+                                <biblScope type="vol">66</biblScope>
+                                <biblScope type="pp">99-128</biblScope>
+                                <date>2004</date>
+                            </imprint>
+                        </monogr>
+                        <idno type="ISSN">00765872</idno>
+                        <idno type="DOI">10.1484/J.MS.2.306508</idno>
+                    </biblStruct>
+                    <biblStruct type="book" xml:id="Reeve2007">
+                        <monogr>
+                            <title level="m">The history of the kings of Britain: an edition and translation of <title>De gestis Britonum</title> (<title>Historia regum Britanniae</title>)</title>
+                            <author>
+                                <name>Geoffrey of Monmouth</name>
+                            </author>
+                            <editor>
+                                <forename>Michael D.</forename>
+                                <surname>Reeve</surname>
+                            </editor>
+                            <respStmt>
+                                <resp>translator</resp>
+                                <persName>
+                                    <forename>Neil</forename>
+                                    <surname>Wright</surname>
+                                </persName>
+                            </respStmt>
+                            <imprint>
+                                <pubPlace>Woodbridge, Suffolk</pubPlace>
+                                <publisher>Boydell Press</publisher>
+                                <date>2007</date>
+                            </imprint>
+                        </monogr>
+                        <series>
+                            <title level="s">Arthurian studies</title>
+                            <biblScope type="vol">69</biblScope>
+                        </series>
+                        <idno type="ISBN">9781843832065</idno>
+                    </biblStruct>
+                    <biblStruct type="journalArticle" xml:id="Esposito1915">
+                        <analytic>
+                            <title level="a">On some unpublished poems attributed to Alexander Neckam</title>
+                            <author>
+                                <forename>M.</forename>
+                                <surname>Esposito</surname>
+                            </author>
+                        </analytic>
+                        <monogr>
+                            <title level="j">The English Historical Review</title>
+                            <imprint>
+                                <biblScope type="vol">30</biblScope>
+                                <biblScope type="issue">119</biblScope>
+                                <biblScope type="pp">450-471</biblScope>
+                                <date>1915</date>
+                                <note type="accessed">2013-04-20 02:24:42</note>
+                                <note type="url">http://ehr.oxfordjournals.org/content/XXX/CXIX/450</note>
+                            </imprint>
+                        </monogr>
+                        <idno type="ISSN">0013-8266, 1477-4534</idno>
+                        <idno type="DOI">10.1093/ehr/XXX.CXIX.450</idno>
+                    </biblStruct>
+                    <biblStruct type="book" xml:id="Binski2011">
+                        <monogr>
+                            <title level="m">Western illuminated manuscripts: a catalogue of the collection in Cambridge University Library</title>
+                            <author>
+                                <forename>Paul</forename>
+                                <surname>Binski</surname>
+                            </author>
+                            <author>
+                                <forename>P.N.R.</forename>
+                                <surname>Zutshi</surname>
+                            </author>
+                            <respStmt>
+                                <resp>contributor</resp>
+                                <persName>
+                                    <forename>Stella</forename>
+                                    <surname>Panayotova</surname>
+                                </persName>
+                            </respStmt>
+                            <imprint>
+                                <pubPlace>Cambridge</pubPlace>
+                                <publisher>Cambridge University Press</publisher>
+                                <date>2011</date>
+                            </imprint>
+                        </monogr>
+                        <idno type="ISBN">9780521848923</idno>
+                    </biblStruct>
+                    <biblStruct type="book" xml:id="Hochgürtel2008">
+                        <monogr>
+                            <title level="m">Suppletio defectuum. Carmina minora</title>
+                            <editor>
+                                <forename>Peter</forename>
+                                <surname>Hochgürtel</surname>
+                            </editor>
+                            <author>
+                                <name>Alexander Neckam</name>
+                            </author>
+                            <imprint>
+                                <pubPlace>Turnhout</pubPlace>
+                                <publisher>Brepols</publisher>
+                                <date>2008</date>
+                            </imprint>
+                        </monogr>
+                        <series>
+                            <title level="s">CCCM</title>
+                            <biblScope type="vol">221</biblScope>
+                        </series>
+                        <idno type="ISBN">9782503052113</idno>
+                    </biblStruct>
+                    <biblStruct type="journalArticle" xml:id="Klein1998">
+                        <analytic>
+                            <title level="a">Nouus Auianus</title>
+                            <author>
+                                <name>Alexander Neckam</name>
+                            </author>
+                        </analytic>
+                        <monogr>
+                            <title level="j">Favolisti latini medievali e umanistici</title>
+                            <editor>
+                                <forename>Thomas A.-P.</forename>
+                                <surname>Klein</surname>
+                            </editor>
+                            <imprint>
+                                <biblScope type="vol">7</biblScope>
+                                <biblScope type="pp">99-136</biblScope>
+                                <date>1998</date>
+                            </imprint>
+                        </monogr>
+                    </biblStruct>
+                </listBibl>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
