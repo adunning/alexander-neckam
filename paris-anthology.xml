@@ -269,9 +269,9 @@
                         <lb/><l met="pentameter"><hi rend="versal">L</hi>eua fugat<pc type="m">.</pc> prestat dextera dextra Patris<pc type="f">.</pc></l>
                     </lg>
                     <lg>
-                        <lb/><metamark rend="paraph"/><l met="hexameter"><hi rend="versal">I</hi>nstruat ergo suos re uerbo doctor<pc type="m">.</pc> ab oris</l>
+                        <lb/><metamark rend="paraph"/><l met="hexameter"><hi rend="versal">I</hi>nstruat ergo suos. re. uerbo. doctor<pc type="m">.</pc> ab oris<g ref="#f161">;</g></l>
                         <lb/><l met="pentameter"><hi rend="versal">E</hi>ius procedant mellea<!-- mellica a --> uerba fauo<!-- faue a --><pc type="f">.</pc></l>
-                        <lb/><l met="hexameter"><hi rend="versal">V</hi>tilitas uerbis subsit<pc type="s">.</pc> doctrina fidelis</l>
+                        <lb/><l met="hexameter"><hi rend="versal">V</hi>tilitas uerbis subsit<pc type="s">.</pc> doctrina fidelis<surplus>.</surplus></l>
                         <lb/><l met="pentameter"><hi rend="versal">D</hi>electat<pc type="m">.</pc> set plus utilitate iuuat<pc type="f">.</pc></l>
                         <lb/><l met="hexameter"><hi rend="versal">P</hi>artem uirgarum <persName>iacob</persName> decorticet alter<pc type="l">.</pc></l>
                         <lb/><l met="pentameter"><hi rend="versal">F</hi>ulgens subducto cortice candor erit<pc type="f">.</pc></l>
@@ -299,7 +299,7 @@
                         <lb/><l met="pentameter"><hi rend="versal">L</hi>ingua nociua prius post medicamen erit<pc type="f">.</pc></l>
                         <lb/><l met="hexameter"><hi rend="versal">V</hi>ulnus <persName>achilleo</persName> que quondam fecerat hosti<pc type="m">.</pc><note place="margin">Ouidius</note></l>
                         <lb/><l met="pentameter"><hi rend="versal">V</hi>ulneris auxilium <persName>pel<choice><sic>e</sic><corr resp="#Cropp1991">i</corr></choice>as</persName> hasta tulit<pc type="f">.</pc></l>
-                        <lb/><l met="hexameter"><hi rend="versal">S</hi>it pastor speculum<pc type="m">.</pc> liber<pc type="m">.</pc> ars<pc type="m">.</pc> exemplar honesti<pc type="m">.</pc></l>
+                        <lb/><l met="hexameter"><hi rend="versal">S</hi>it pastor<g ref="#f161">;</g> speculum<pc type="m">.</pc> liber<pc type="m">.</pc> ars<pc type="m">.</pc> exemplar honesti<pc type="m"><g ref="#f1f9">~</g></pc></l>
                         <lb/><l met="pentameter"><hi rend="versal">F</hi>orma<pc type="m">.</pc> modus<pc type="m">.</pc> regimen<pc type="m">.</pc> regula<pc type="m">.</pc> uita suis<pc type="f">.</pc></l>
                         <lb/><l met="hexameter"><hi rend="versal">H</hi>a<pc type="m">.</pc> quociens mors est aliorum uita potentis<pc type="exc">.</pc></l>
                         <lb/><l met="pentameter"><hi rend="versal">N</hi>am plebs conformis regibus esse solet<pc type="f">.</pc></l>

@@ -5212,7 +5212,7 @@
                                 <lb/><l>Semper eris populi derisio. ludibriumque.</l>
                                 <lb/><l>O furis ut magni nominis esse queas.</l>
                                 <lb/><l>Sic se nox confert splendori tocius orbis.</l>
-                                <lb/><l>Sic ad conflictum numina rana<!-- uana Cropp --> uocat.</l>
+                                <lb/><l>Sic ad conflictum numina rana<!-- uana P --> uocat.</l>
                                 <lb/><l>Ecce rubus libanum cedri,<!-- Libani cedrum Cropp --> scintillula solem.</l>
                                 <lb/><l>Mus elephantem uult uincere. gutta<g ref="#f161">;</g> mare.</l>
                                 <lb/><l>Ecce ioui faunus. aquile se musca. leoni<g ref="#f161">;</g></l>
@@ -5419,21 +5419,21 @@
                             <head rend="margin-outer red frame-blue">Ex libro qui intitulatur corrogationes noui promethei.<!-- Is it really? Cf. Cropp p. 81. --></head>
                             <ab>
                                 Scripsit ergo
-                                <lb/><persName><expan><abbr>i<am>ħc</am></abbr><ex>esus</ex></expan></persName> in<reg> </reg>terra hoc. terra terra absorbe hos uiros abdicatos.
+                                <lb/><persName><expan><abbr>i<am>ħc</am></abbr><ex>esus</ex></expan></persName> in<reg> </reg>terra hoc. <quote>terra terra absorbe hos uiros abdicatos.</quote>
                                 <lb/>Vide quod <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><ex>u</ex><abbr>s</abbr></expan> bis scripsit in<reg> </reg>terra cum iudicaturus esse in<reg> </reg>quo
                                 <lb/>instruimur⸝ quia nos iudicaturi debemus digito discretionis
                                 <lb/>in<reg> </reg>terra cordis nostri scribere ut iam dictum est. et sentenciam
                                 <lb/>formare secundum ius scriptum. Item quia pluries de
                                 <lb break="no"/>bemus reuoluere sentientiam diffinitiuam quam dare
                                 <lb/>uolumus<g ref="#f161">;</g> ideo pluries <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><ex>u</ex><abbr>s</abbr></expan> in<reg> </reg>terra scripsit. Secundum quos
-                                <lb break="no"/>dam scriptis <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><ex>u</ex><abbr>s</abbr></expan> hoc. Qui uestrum sine peccato est <expan><abbr><am>.</am>s<am>.</am></abbr><ex>cilicet</ex></expan>
+                                <lb break="no"/>dam scriptis <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><ex>u</ex><abbr>s</abbr></expan> hoc. <quote source="Bible.Vul:John.8.7">Qui uestrum sine peccato est</quote> <expan><abbr><am>.</am>s<am>.</am></abbr><ex>cilicet</ex></expan>
                                 <pb n="73r"/>
                                 <lb/>mortali. Hinc potest sumi argumentum quod iudex
-                                <lb/>mortali irretitus non debet interim sedere protribu
+                                <lb/>mortali irretitus non debet interim sedere pro<reg> </reg>tribu
                                 <lb break="no"/>nali. Multo fortius nec sacerdos in mortali existens debet
-                                <lb/>aliis in iungere penitentiam. <metamark function="flag" rend="nota"/><!-- corresp to span marked above to end: figure out how to mark this properly -->Dauid non sedit protribu
-                                <lb break="no"/>nali post patratum peccatum ad ulterii ante<add place="inline"> </add>quam audi
-                                <lb break="no"/>ret a propheta transtulit <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><ex>u</ex><abbr>s</abbr></expan> a te peccatum tuum. <metamark function="div" rend="fill-red">¶</metamark>Glosa.
+                                <lb/>aliis in iungere penitentiam. <metamark function="flag" rend="nota"/><!-- corresp to span marked above to end: figure out how to mark this properly -->Dauid non sedit pro<reg> </reg>tribu
+                                <lb break="no"/>nali post patratum peccatum adulterii ante<add place="inline"> </add>quam audi
+                                <lb break="no"/>ret a propheta <quote>transtulit <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><ex>u</ex><abbr>s</abbr></expan> a te peccatum tuum</quote>. <metamark function="div" rend="fill-red">¶</metamark>Glosa.
                                 <lb/>Scripsit peccata eorum.
                             </ab>
                         </div>
@@ -10954,8 +10954,8 @@
                             <ab>
                                 Ad litteram. quia opus laboriosum est et 
                                 <pb n="148r"/>
-                                <lb/>necessarium et perutile. uel secundum hebreos suppo
-                                <lb break="no"/>suerunt ei philistei uxores ingenuas ut ex
+                                <lb/>necessarium et perutile. uel secundum <orgName>hebreos</orgName> suppo
+                                <lb break="no"/>suerunt ei <orgName>philistei</orgName> uxores ingenuas ut ex
                                 <choice><sic><lb break="no"/></sic><reg><lb/></reg></choice>eis procrearentur uiri fortes. secundum quod dicit <persName>horatius</persName>.
                                 <lb/><quote source="Quintus Horatius Flaccus, Sermones 1.2.33"><label place="margin" rend="red">.<expan><abbr>V</abbr><am>&#x33E;</am><ex>ersus</ex></expan>.</label><l>Nam simul ac uenas conflauit tetra libido.</l></quote> huc 
                                 <lb/>iuuenes equum est descendere non alienas permolere 
@@ -17252,7 +17252,7 @@
                     <lb/><l><hi rend="enlarged red trim-blue">C</hi>erno portantem dolores.</l>
                     <lb/><l><hi rend="spaced">C</hi>orui per quem in olores<g ref="#f161">;</g></l>
                     <lb/><l><hi rend="spaced">M</hi>utantur. nobis dolor es.</l>
-                    <lb/><l><hi rend="spaced">N</hi>ostra salus. uostrum cor es.</l>
+                    <lb/><l><hi rend="spaced">N</hi>ostra salus. nostrum cor es.</l>
                     <lb/><l><hi rend="spaced">H</hi>omo miser quid dolo res<g ref="#f161">;</g></l>
                     <lb/><l><hi rend="spaced">Q</hi>ueris. tui proditor es.</l>
                     <lb/><l><hi rend="spaced">E</hi>st iactura grauis preclaros perdere mores.</l>
