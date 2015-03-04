@@ -158,7 +158,7 @@
                         <lb/><l met="pentameter"><hi rend="versal">Q</hi>uam metui<choice><sic>.</sic><corr>?</corr></choice> Regnet hinc amor<pc>.</pc> Inde metus<pc type="f">.</pc></l>
                         <lb/><l met="hexameter"><hi rend="versal">I</hi>mmo regnet amor<pc type="m">.</pc> cuius timor assecla fidus<g ref="#f161">;</g></l>
                         <lb/><l met="pentameter"><hi rend="versal">Q</hi>uo precedit<!-- precedet a --> amor tramite carp<choice><sic>i</sic><corr resp="#Cropp1991" source="#CNP-a">a</corr></choice>t iter<pc type="f">.</pc></l>
-                        <lb/><l met="hexameter"><hi rend="versal">P</hi>redominetur amor<pc type="m">.</pc> uestigia cuius adoret<g ref="#f161">;</g><!-- adheret a --></l>
+                        <lb/><l met="hexameter"><hi rend="versal">P</hi>redominetur amor<pc type="m">.</pc> <seg source="Statius, Thebais, 12.817">uestigia cuius adoret</seg><g ref="#f161">;</g><!-- adheret a --></l>
                         <lb/><l met="pentameter"><hi rend="versal">E</hi>xpers horroris. inuidieque timor<pc type="f">.</pc></l>
                         <lb/><l met="hexameter"><hi rend="versal">E</hi>rgo relegetur procul indignacio<pc type="l">.</pc> leui<!-- leni Cropp (not in apparatus) --><g ref="#f161">;</g></l>
                         <lb/><l met="pentameter"><hi rend="versal">S</hi>ubditus affatu<!-- affata a --> conueniendus erit<pc type="f">.</pc></l>
@@ -2279,9 +2279,9 @@
                     <lb/>sit uotatur ex <unclear>cintate</unclear> forsita<gap reason="illegible" quantity="5" unit="character"/> pri<gap reason="illegible" quantity="4" unit="character"/> iuuenta est. uel
                     <lb/>ex auctore qui eam inuenit. et ex <unclear>auro oe tempit.</unclear> Ista uero 
                     <lb/>nostra <persName>alexandrina</persName> et melior est et dignior nomine tali. tamen au
-                    <lb break="no"/>ctore qui condidit cum confect<gap reason="illegible" quantity="3" unit="character"/> quam continet. Non <unclear>n.</unclear> solummodo aurum 
+                    <lb break="no"/>ctore qui condidit cum confect<gap reason="illegible" quantity="3" unit="character"/> quam continet. Non enim solummodo aurum 
                     <lb/>recipit<g ref="#f161">;</g> sed et auro tota uestitur. et eo melior<g ref="#f161">;</g> quo anima plus <unclear>est</unclear>
-                    <lb/>quam esca et corpus plus quam uestimenta. hec mea sententia. est de <unclear>qui.</unclear>
+                    <lb/>quam esca et corpus plus quam uestimenta. Hec mea sententia. est de <unclear>qui.</unclear>
                     <lb/>et <unclear>opinor</unclear>. Vos uideritis utrum bene et plene. Mea michi mens fide
                     <lb break="no"/>li testimonio suggerit<g ref="#f161">;</g> non <unclear>extasse</unclear> in uerbo. Vtinam hec <unclear>uobis</unclear>
                     <lb/>placeant. sin autem. michi primum notificare quid displiceat. Vale
