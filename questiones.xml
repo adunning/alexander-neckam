@@ -52,16 +52,14 @@
         </encodingDesc>
     </teiHeader>
     <text xml:lang="la">
+        <pb n="124v"/>
+        <cb n="a"/>
+        <gap reason="omitted" quantity="13" unit="line"/>
         <body>
-            <pb n="124v"/>
-            <cb n="a"/>
-            <gap reason="omitted" quantity="13" unit="line"/>
-            <div n="Title" type="textpart">
-                <head rend="red enlarged">Incipiunt 
-                    <lb/>Questiones secundum magistrum 
-                    <lb/>Alexandrum De Sancto Albano.</head>
-                <milestone rend="line-fill" unit="undefined"/>
-            </div>
+            <head rend="red enlarged">Incipiunt 
+                <lb/>Questiones secundum magistrum 
+                <lb/>Alexandrum De Sancto Albano.</head>
+            <metamark rend="line-fill"/>
             <div n="1" type="textpart" subtype="questio">
                 <ab>
                     <lb/><hi rend="dropcap2 red">Q</hi>ueritur utrum <persName>abraam</persName> alio modo posset 
@@ -95,7 +93,7 @@
                         <lb/>esse asinus.
                     </ab>
                 </div>
-                <milestone rend="line-fill" unit="undefined"/>
+                <metamark rend="line-fill"/>
             </div>
             <div n="2" type="textpart" subtype="questio">
                 <ab> 
@@ -129,7 +127,7 @@
                         <lb/>quia falsum est ipsum uelle<g ref="#f161">⸵</g> quia permittit.
                     </ab>
                 </div>
-                <milestone rend="line-fill" unit="undefined"/>
+                <metamark rend="line-fill"/>
             </div>
             <div n="3" type="textpart" subtype="questio">
                 <ab>
@@ -190,7 +188,7 @@
                         <lb/>post baptismum grauiora sunt et cetera.
                     </ab>
                 </div>
-                <milestone rend="line-fill" unit="undefined"/>
+                <metamark rend="line-fill"/>
             </div>
             <div n="5" type="textpart" subtype="questio">
                 <ab> 
@@ -218,7 +216,7 @@
                         <lb/>ad perfectum. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> secundum quod ad litteram non.
                     </ab>
                 </div>
-                <milestone rend="line-fill" unit="undefined"/>
+                <metamark rend="line-fill"/>
             </div>
             <div n="6" type="textpart" subtype="questio">
                 <ab> 
@@ -246,7 +244,7 @@
                         <lb/>deus propter deum<g ref="#f161">⸵</g> <hi rend="fill-red">S</hi>ic proximus propter deum.
                     </ab>
                 </div>
-                <milestone rend="line-fill" unit="undefined"/>
+                <metamark rend="line-fill"/>
             </div>
             <div n="7" type="textpart" subtype="questio">
                 <ab> 
@@ -279,7 +277,7 @@
                         <lb/>refertur.
                     </ab>
                 </div>
-                <milestone rend="line-fill" unit="undefined"/>
+                <metamark rend="line-fill"/>
             </div>
             <div n="8" type="textpart" subtype="questio">
                 <ab> 
@@ -298,7 +296,7 @@
                         <lb/>potestati eius.
                     </ab>
                 </div>
-                <milestone rend="line-fill" unit="undefined"/>
+                <metamark rend="line-fill"/>
             </div>
             <div n="9" type="textpart" subtype="questio">
                 <ab> 
@@ -317,7 +315,7 @@
                         <lb/>set ut post diem iudicii.
                     </ab>
                 </div>
-                <milestone rend="line-fill" unit="undefined"/>
+                <metamark rend="line-fill"/>
             </div>
             <div n="10" type="textpart" subtype="questio">
                 <ab> 
@@ -337,7 +335,7 @@
                         <cb n="b"/>
                     </ab>
                 </div>
-                <milestone rend="line-fill" unit="undefined"/>
+                <metamark rend="line-fill"/>
             </div>
             <div n="11" type="textpart" subtype="questio">
                 <ab> 
@@ -352,7 +350,7 @@
                         <lb break="no"/>tia. nec actu<g ref="#f161">⸵</g> set scientia.
                     </ab>
                 </div>
-                <milestone rend="line-fill" unit="undefined"/>
+                <metamark rend="line-fill"/>
             </div>
             <div n="12" type="textpart" subtype="questio">
                 <ab> 
@@ -374,7 +372,7 @@
                     <lb/><persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> sit aliquod factum. uel creatum. uel creatu
                     <lb break="no"/>ra<g ref="#f161">⸵</g> non debet concedi.
                 </ab>
-                <milestone rend="line-fill" unit="undefined"/>
+                <metamark rend="line-fill"/>
             </div>
             <div n="13" type="textpart" subtype="questio">
                 <ab> 
@@ -401,7 +399,7 @@
                     <lb break="no"/>gium separetur. <hi rend="fill-red">D</hi>icitur enim sacramentum sacre 
                     <lb/>rei signum.
                 </ab>
-                <milestone rend="line-fill" unit="undefined"/>
+                <metamark rend="line-fill"/>
             </div>
             <div n="14" type="textpart" subtype="questio">
                 <ab> 
@@ -418,7 +416,7 @@
                         <lb/>scit esse adulteram<g ref="#f161">⸵</g> stultus est et iniquus.
                     </ab>
                 </div>
-                <milestone rend="line-fill" unit="undefined"/>
+                <metamark rend="line-fill"/>
             </div>
             <div n="15" type="textpart" subtype="questio">
                 <ab> 
@@ -433,7 +431,7 @@
                         <lb break="no"/>bitrium<g ref="#f161">⸵</g> non potest quantum ad gratiam.
                     </ab>
                 </div>
-                <milestone rend="line-fill" unit="undefined"/>
+                <metamark rend="line-fill"/>
             </div>
             <div n="16" type="textpart" subtype="questio">
                 <ab> 
@@ -452,7 +450,7 @@
                     <lb/>et non peccare. cum uellet non posse peccare. in
                     <lb break="no"/>flictum est ei non posse peccare.
                 </ab>
-                <milestone rend="line-fill" unit="undefined"/>
+                <metamark rend="line-fill"/>
             </div>
             <div n="17" type="textpart" subtype="questio">
                 <ab> 
@@ -494,7 +492,7 @@
                         <lb break="no"/>sitate et ita diminutum.
                     </ab>
                 </div>
-                <milestone rend="line-fill" unit="undefined"/>
+                <metamark rend="line-fill"/>
             </div>
             <div n="18" type="textpart" subtype="questio">
                 <ab> 
@@ -525,7 +523,7 @@
                     <lb/>per gratiam<g ref="#f161">⸵</g> in bonis. <hi rend="fill-red">P</hi>er existentiam et per gratiam 
                     <lb/>et per unionem<g ref="#f161">⸵</g> in filio uirginis.
                 </ab>
-                <milestone rend="line-fill" unit="undefined"/>
+                <metamark rend="line-fill"/>
             </div>
             <div n="19" type="textpart" subtype="questio">
                 <ab> 
@@ -543,7 +541,7 @@
                         <lb/>uerum est.
                     </ab>
                 </div>
-                <milestone rend="line-fill" unit="undefined"/>
+                <metamark rend="line-fill"/>
             </div>
             <div n="20" type="textpart" subtype="questio">
                 <ab> 
@@ -560,7 +558,7 @@
                         <lb/>per<reg> </reg>apostolos<g ref="#f161">⸵</g> ad omnes gentes.
                     </ab>
                 </div>
-                <milestone rend="line-fill" unit="undefined"/>
+                <metamark rend="line-fill"/>
             </div>
             <div n="21" type="textpart" subtype="questio">
                 <ab> 
@@ -604,7 +602,7 @@
                         <lb/>diabolus ad inuidia ad dampnationem.
                     </ab>
                 </div>
-                <milestone rend="line-fill" unit="undefined"/>
+                <metamark rend="line-fill"/>
             </div>
             <div n="23" type="textpart" subtype="questio">
                 <ab> 
@@ -621,7 +619,7 @@
                         <lb/>que notificanda erant uobis<g ref="#f161">⸵</g> <quote source="Bible.Vul:John.15.15">nota feci uobis</quote>.
                     </ab>
                 </div>
-                <milestone rend="line-fill" unit="undefined"/>
+                <metamark rend="line-fill"/>
             </div>
             <div n="24" type="textpart" subtype="questio">
                 <ab> 
@@ -642,7 +640,7 @@
                         <lb/>pater. et sic deus filius sapientior est et cetera.
                     </ab>
                 </div>
-                <milestone rend="line-fill" unit="undefined"/>
+                <metamark rend="line-fill"/>
             </div>
             <div n="25" type="textpart" subtype="questio">
                 <ab> 
@@ -688,7 +686,7 @@
                     <lb/><hi rend="fill-red">S</hi>eptimum<g ref="#f161">⸵</g> quod nec dampnatus egerit peni
                     <lb break="no"/>tentiam.
                 </ab>
-                <milestone rend="line-fill" unit="undefined"/>
+                <metamark rend="line-fill"/>
             </div>
             <div n="27" type="textpart" subtype="questio">
                 <ab> 
@@ -701,7 +699,7 @@
                     <lb break="no"/>lectilem. <hi rend="fill-red">C</hi>um istis partibus<g ref="#f161">⸵</g> dominus pars eius 
                     <lb/>fieri non dignabitur.
                 </ab>
-                <milestone rend="line-fill" unit="undefined"/>
+                <metamark rend="line-fill"/>
             </div>
             <div n="28" type="textpart" subtype="questio">
                 <ab> 
@@ -711,7 +709,7 @@
                     <lb/>mala. <hi rend="fill-red">P</hi>recipiuntur bona. <hi rend="fill-red">C</hi>onceduntur 
                     <lb/>media. <hi rend="fill-red">P</hi>erfecta suadentur.
                 </ab>
-                <milestone rend="line-fill" unit="undefined"/>
+                <metamark rend="line-fill"/>
             </div>
         </body>
     </text>
