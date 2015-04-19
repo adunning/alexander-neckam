@@ -32,31 +32,24 @@
                     </msIdentifier>
                 </msDesc>
                 <listBibl>
-                    <biblStruct type="book" xml:id="Binski2011">
+                    <biblStruct type="journalArticle" xml:id="Braunholtz1927">
+                        <analytic>
+                            <title level="a">Die Streitgedichte Peters von Blois und Roberts von Beaufeu über den Wert des Weines und des Bieres</title>
+                            <author>
+                                <forename>E.</forename>
+                                <surname>Braunholtz</surname>
+                            </author>
+                        </analytic>
                         <monogr>
-                            <title level="m">Western illuminated manuscripts: a catalogue of the collection in Cambridge University Library</title>
-                            <author>
-                                <forename>Paul</forename>
-                                <surname>Binski</surname>
-                            </author>
-                            <author>
-                                <forename>P. N. R.</forename>
-                                <surname>Zutshi</surname>
-                            </author>
-                            <respStmt>
-                                <resp>contributor</resp>
-                                <persName>
-                                    <forename>Stella</forename>
-                                    <surname>Panayotova</surname>
-                                </persName>
-                            </respStmt>
+                            <title level="j">Zeitschrift für romanische Philologie</title>
                             <imprint>
-                                <pubPlace>Cambridge</pubPlace>
-                                <publisher>Cambridge University Press</publisher>
-                                <date>2011</date>
+                                <biblScope type="vol">47</biblScope>
+                                <biblScope type="pp">30–38</biblScope>
+                                <date>1927</date>
                             </imprint>
                         </monogr>
-                        <idno type="ISBN">9780521848923</idno>
+                        <idno type="ISSN">1865-9063</idno>
+                        <idno type="DOI">10.1515/zrph.1927.47.1.30</idno>
                     </biblStruct>
                     <biblStruct type="journalArticle" xml:id="Esposito1915">
                         <analytic>
@@ -78,6 +71,23 @@
                         </monogr>
                         <idno type="ISSN">0013-8266, 1477-4534</idno>
                         <idno type="DOI">10.1093/ehr/XXX.CXIX.450</idno>
+                    </biblStruct>
+                    <biblStruct type="book" xml:id="Giles1847">
+                        <monogr>
+                            <title level="m">Petri Blesensis Bathoniensis archidiaconi opera omnia</title>
+                            <author>
+                                <name>Peter of Blois</name>
+                            </author>
+                            <editor>
+                                <forename>J.A.</forename>
+                                <surname>Giles</surname>
+                            </editor>
+                            <imprint>
+                                <pubPlace>Oxford</pubPlace>
+                                <publisher>Parker</publisher>
+                                <date>1847</date>
+                            </imprint>
+                        </monogr>
                     </biblStruct>
                     <biblStruct type="journalArticle" xml:id="Klein1998">
                         <analytic>
@@ -771,7 +781,7 @@
                                     <note place="right" corresp="#FL1.31-a">
                                         Ennnon. proprium est nomen hominis. Vnde et locus extra ierusalem situs<g ref="#f161">⸵</g> dictus cum gehenna. quasi terra ennon. et quoniam ibi illicita perpetrantes penas meruerunt eternas. ideo transumptum est uocabulum<g ref="#f161">⸵</g> ut locus infernalis hoc nomen <unclear>e</unclear> censeatur.
                                         <!-- From a later corrector -->                      
-                                        <add>Nomen igitur iehenne in ueteri testamento non inuenitur<g ref="#f161">⸵</g> set primum a saluatore ponitur.</add>
+                                        <add place="below" hand="charter">Nomen igitur <mentioned>iehenne</mentioned> in ueteri testamento non inuenitur<g ref="#f161">⸵</g> set primum a saluatore ponitur.</add>
                                     </note>
                                     <lb/>preuidenda. obscuritas<g ref="#f1f9">˷</g> acerbitas penarum<g ref="#f161">⸵</g>
                                     <lb/>diuturnitas miseriarum. De quibus ueritas ait 
@@ -887,7 +897,7 @@
                                 <label rend="outer red">Solutio.</label>
                                 <ab>
                                     <lb/>Set sciendum quod corpora dampnatorum passibilia erunt
-                                    <lb/>set in<subst><del> </del><add/></subst>mortalia. Vnde cum per ignem illum nature mi
+                                    <lb/>set in<del> </del>mortalia. Vnde cum per ignem illum nature mi
                                     <lb break="no"/>nima pars corporis comburi possit<g ref="#f161">⸵</g> constet tibi
                                     <lb/>o lector quod ille ignis longe alterius nature erit
                                     <lb/>quam ignis iste presens<g ref="#f161">⸵</g> quippe ille ignis erit
@@ -1263,30 +1273,30 @@
                                 </ab>
                             </div>
                             <!-- The following section starts on 13v; it appears to be a later addition, but how much later? -->
+                            <addSpan place="overleaf bottom" hand="compressed" spanTo="#FL-1.3add"/>
                             <div n="3" type="textpart" subtype="section">
-                                <head rend="margin outer red">Item super mattheum.</head>
+                                <head rend="margin outer red">Item super <persName>mattheum</persName>.</head>
                                 <ab>
-                                    <add place="overleaf">
-                                        <lb/><handShift/>Quod autem. scriptum est. inmatheo. odio habebis inimicum. nunquid hoc in
-                                        <lb/>lege precipitur. Absit. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> permittebatur. ut enis alium persequeretur. causa etiam
-                                        <lb/><unclear>benedicte</unclear>. quod hodie non licet. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> causa iustitie tantum. quod <unclear>licuit</unclear> in lege hoc quod dictum est
-                                        <lb/>docetur in deutronomen. capitulo .c. viii.<!-- That's weird. --> Vbi dicitur <quote source="Bible.Vul:Deut.23.3–6">ammonites et moabites etiam
-                                            <lb/>post decimam generationem non intrabunt ecclesiam domini in eternum quia noluerunt
-                                            <lb/>occurrere uobis cum pane et aqua. in uia. quando egressi estis de egypto et
-                                            <!-- Bottom of 14r. -->
-                                            <lb/>quia conduxerunt contra te <persName>balaam</persName>. filium beor de mesopotami
-                                            <lb break="no"/>a. syrie. ut malediceret. tibi. et noluit dominus audire. <persName>balaam</persName>. vertitque 
-                                            <lb/>maledictionem eius in benedictionem tuam eo quod diligeret te non faci
-                                            <lb break="no"/>es cum eis pacem. nec quaeras eis bona. cunctis diebus uitae tuae 
-                                            <lb/>in sempiternum.</quote> liber etiam iudit<supplied reason="omitted">i</supplied>um. et regum idem
-                                        <lb/>docent per opera que ibi leguntur.
-                                    </add>
+                                    <lb/>Quod autem. scriptum est. in<reg> </reg><persName>matheo</persName>. odio habebis inimicum. nunquid hoc in
+                                    <lb/>lege precipitur. Absit. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> permittebatur. ut enis alium persequeretur. causa etiam
+                                    <lb/><unclear>benedicte</unclear>. quod hodie non licet. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> causa iustitie tantum. quod <unclear>licuit</unclear> in lege hoc quod dictum est
+                                    <lb/>docetur in deutronomen. capitulo .c. viii.<!-- That's weird. --> Vbi dicitur <quote source="Bible.Vul:Deut.23.3–6">ammonites et moabites etiam
+                                        <lb/>post decimam generationem non intrabunt ecclesiam domini in eternum quia noluerunt
+                                        <lb/>occurrere uobis cum pane et aqua. in uia. quando egressi estis de egypto et
+                                        <!-- Bottom of 14r. -->
+                                        <lb/>quia conduxerunt contra te <persName>balaam</persName>. filium beor de mesopotami
+                                        <lb break="no"/>a. syrie. ut malediceret. tibi. et noluit dominus audire. <persName>balaam</persName>. vertitque 
+                                        <lb/>maledictionem eius in benedictionem tuam eo quod diligeret te non faci
+                                        <lb break="no"/>es cum eis pacem. nec quaeras eis bona. cunctis diebus uitae tuae 
+                                        <lb/>in sempiternum.</quote> liber etiam iudit<supplied reason="omitted">i</supplied>um. et regum idem
+                                    <lb/>docent per opera que ibi leguntur.
                                 </ab>
                             </div>
+                            <anchor xml:id="FL-1.3add"/>
                             <div n="4" type="textpart" subtype="section">
                                 <head rend="margin-outer red frame-blue">Ex sermone de omnibus sanctis.</head>
                                 <ab>               
-                                    <lb/><handShift/>Consistit etiam misericordia insubueniendo<g ref="#f161">⸵</g> Vnde apostolus<g ref="#f1f9">˷</g>
+                                    <lb/>Consistit etiam misericordia insubueniendo<g ref="#f161">⸵</g> Vnde apostolus<g ref="#f1f9">˷</g>
                                     <lb/>Estote misericordes et benigni adinuicem.
                                     <pb n="14v"/>
                                     <lb/>dantes sicut pater uester donauit uobis. In<reg> </reg>subue
@@ -1987,7 +1997,7 @@
                                     <lb/>respexit⸝ et specialiter dilexit<g ref="#f161">⸵</g> eo quod esset. bona. Bona
                                     <lb/>est hec lux secundum humanitatem bonitate creata.
                                     <lb/>secundum uero naturam deitatis<g ref="#f161">⸵</g> ipsa bonitas est. Vidit
-                                    <lb/>item deus pater lucem hand<g ref="#f1f9">˷</g> hoc est uisibilem fecit.
+                                    <lb/>item deus pater lucem hanc<g ref="#f1f9">˷</g> hoc est uisibilem fecit.
                                     <lb/>quia factus est uisibilis in humanitate<g ref="#f161">⸵</g> qui est inuisibilis
                                     <lb/>oculis carneis⸝ secundum diuinitatem. Diuisa autem est
                                     <lb/>hec lux cum filiis lucis⸝ a tenebris⸝ et iis qui faciunt
@@ -2000,7 +2010,7 @@
                                     <lb/>umbre mortis<g ref="#f161">⸵</g> lux orta est eis. Diuisit se etiam
                                     <lb/>lux a tenebris<g ref="#f161">⸵</g> cum a claustris inferni⸝ uictor mor
                                     <lb/>tis exiuit. Set et in<reg> </reg>futuro diuidetur lux a tenebris<g ref="#f161">⸵</g>
-                                    <lb/>quando agni seperabuntur ab hedis. Sequitur. <label place="margin" rend="margin-outer red frame-blue">Additionis gratia repetuntur quedam superius dicta.</label>Appel
+                                    <lb/>quando agni seperabuntur ab hedis. Sequitur. <label place="margin" rend="margin-outer red frame-blue">Additionis gratia repetuntur quedam superius dicta.</label> Appel
                                     <lb break="no"/>lauitque lucem diem<g ref="#f161">⸵</g> et tenebras noctem.
                                     <lb/>Quid est quod dicitur appellauit. nisi appellari uoluit?
                                     <pb n="25r"/>
@@ -2853,7 +2863,7 @@
                                     <lb/>captiuam captiuitatem. Numquid enim spiritus sanctus
                                     <lb/>qui in aliis eum fidelissime instruxit. uoluit
                                     <lb/>ut uste articulus ei ueniret indubium? <persName>Iohannis</persName>
-                                    <lb/>quidem ad<add place="above">huc<!-- Same hand as the person who made the 'autem' correction earlier. --></add> paruulus⸝ adhuc in utero elizabeth ex
+                                    <lb/>quidem ad<add place="above" hand="dkbrown">huc<!-- Same hand as the person who made the 'autem' correction earlier. Might be the scribe, using different ink? --></add> paruulus⸝ adhuc in utero elizabeth ex
                                     <lb break="no"/>istens<g ref="#f161">⸵</g> agnouit iesum existentem in utero bea
                                     <lb break="no"/>tissime uirginis. Agnouit paruulus paruu
                                     <lb break="no"/>lum. agnouit in<surplus> </surplus>nocens in<surplus> </surplus>nocentiam<!-- These both look for all the world as if 'in' has been separated. --><g ref="#f161">⸵</g> ag
@@ -5212,7 +5222,7 @@
                             </ab>
                         </div>
                         <div n="2" type="textpart" subtype="section">
-                            <head rend="margin-outer red frame-blue">Ex libro qui intitulatur <title>laus sapientie diuine</title>. <handShift/>Distinctione quinta. contra inuidum.</head>
+                            <head rend="margin-outer red frame-blue">Ex libro qui intitulatur <title>laus sapientie diuine</title>. <handShift/><!-- Same hand, different ink? -->Distinctione quinta. contra inuidum.</head>
                             <ab>
                                 <lb/><metamark function="div" rend="red">¶</metamark><lg><l><hi rend="dropcap2 red trim-blue">C</hi>um prodesse tibi sudens mea pagina lector<g ref="#f161">⸵</g></l>
                                     <lb/><l>Cur inferre <expan><abbr>m<am>&#x365;</am></abbr><ex>ichi</ex></expan> wlnera crebra studes?</l>
@@ -6201,7 +6211,7 @@
                                     <lb/>et de patrimonio <expan><abbr><am>x&#x365;</am></abbr><ex>christi</ex></expan>. elemosine maxime⸝ et magis de
                                     <lb break="no"/>bite fiunt. cuius dispensatores et testamentarii sumus
                                     <lb/>non <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">ni</abbr></expan>. Hec enim bona pauperum sunt<g ref="#f161">⸵</g> <label place="margin" rend="red frame-blue">.Ieronimus.</label>Vnde Ieronimus<g ref="#f1f9">˷</g>
-                                    <lb/><label place="margin"><add place="left"><!-- In an entirely different hand. --><handShift/><gap reason="lost" quantity="1" unit="character"/>astem magnate<unclear>s est soitlem stlarcto</unclear>.</add></label>Sacrilegium est. rem <del rend="strikethrough"><!-- Does this go with the note in the margin? -->pauperibus</del> aliis dare quam pauperibus<g ref="#f161">⸵</g>
+                                    <lb/><add place="left" hand="cursive-ltbrown"><note place="left"><!-- In an entirely different hand. --><gap reason="lost" quantity="1" unit="character"/>astem magnate<unclear>s est soitlem stlarcto</unclear>.</note></add>Sacrilegium est. rem <del rend="strikethrough"><!-- Does this go with the note in the margin? -->pauperibus</del> aliis dare quam pauperibus<g ref="#f161">⸵</g>
                                     <lb/>nisi ex necessitate et ea<add place="inline"> </add>cognita.
                                 </ab>
                             </div>
@@ -6217,7 +6227,7 @@
                                     <lb/>et intromittitur. Ne dicat ianitor caritati pulsanti.
                                     <lb/>Recede<g ref="#f161">⸵</g> non noui te. Prodolor. Si dicat hospes<unclear>⸝</unclear> nomine
                                     <pb n="83r"/>
-                                    <lb/><!-- another note in the other hand -->iusticiarii regis<g ref="#f161">⸵</g> hospitium peto. uel etiam si nomen
+                                    <lb/>iusticiarii regis<g ref="#f161">⸵</g> hospitium peto. uel etiam si nomen <add place="right" hand="cursive-dkbrown"><note place="right">contra quod <unclear><!-- Come back to this. -->raro intus per cochranuod et premio ed quod quia mencii christi</unclear></note></add> 
                                     <lb/>regis semel proferat<g ref="#f161">⸵</g> dicetur ei clara uoce bene ueni
                                     <lb break="no"/>atis. Suscipite nuntium regis. statim uidebis opus
                                     <lb/>ministrantium feruere<g ref="#f161">⸵</g> lauticiam cibariorum et re
@@ -6478,7 +6488,7 @@
                                     <lb/>epule⸝ et uinum speciebus aromaticis conditum<g ref="#f161">⸵</g> per
                                     <lb break="no"/>meatus colli istius transire solebant instomachum. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan>
                                     <pb n="86v"/>
-                                    <fw place="top" type="new-hand">Gula. Ebrietas.</fw>
+                                    <fw place="top" type="humanist">Gula. Ebrietas.</fw>
                                     <lb/>heu qualis est crapula in honeste remuneratio. Collocato
                                     <lb break="no"/>postea lapide in loco suo<g ref="#f161">⸵</g> discumbunt inuitati. Comes
                                     <lb/>autem conceptum interius dolorem<g ref="#f161">⸵</g> obreuerentiam mense et in ui
@@ -6501,7 +6511,7 @@
                                     <lb/>succensus<g ref="#f161">⸵</g> manum femine uirilem non euasit. Ebri
                                     <lb break="no"/>etas loth<g ref="#f161">⸵</g> mater fuit incestus. dum pater patrem
                                     <lb/>exuens<g ref="#f161">⸵</g> in fastam sobolem geminam ex<reg> </reg>gemi
-                                    <lb break="no"/>na prole procreauit. <!-- What is the addition from the new hand? -->Dum nimis luxuriat humor terre<g ref="#f161">⸵</g>
+                                    <lb break="no"/>na prole procreauit. <add place="left" hand="cursive-dkbrown"><note place="left"><unclear>contra bene.</unclear></note></add>Dum nimis luxuriat humor terre<g ref="#f161">⸵</g>
                                     <lb/>corrumpitur radix arboris. que corrupta<g ref="#f161">⸵</g> ramos
                                     <lb/>corrumpit. O rami degeneres<g ref="#f1f9">˷</g> filias loth loquor<g ref="#f1f9">˷</g>
                                     <lb/>dum rami nimis luxuriantes<g ref="#f161">⸵</g> radicem corrupe
@@ -16198,14 +16208,14 @@
                                     <lb/><l><hi rend="fill-red">I</hi>lla beata domus que <persName>bachi</persName> munere <add place="overstrike">ple</add>na</l>
                                     <lb/><l><hi rend="fill-red">U</hi>ina dat hospitibus de uitis diuite uena.</l>
                                     <lb/><l><hi rend="fill-red">S</hi>et domus infelix ubi ceruisiatur auena.</l>
-                                    <lb/><l><hi rend="fill-red">M</hi>ensurata <choice><sic>min</sic><corr>nim</corr></choice>is modo mensuranda lagena.</l>
-                                    <lb/><l><hi rend="fill-red">I</hi>nfumata seges non uina. immo uenena.</l>
+                                    <lb/><l><hi rend="fill-red">M</hi>ensurata <choice><sic>min</sic><corr resp="#Giles1847">nim</corr></choice>is modo mensuranda lagena.</l>
+                                    <lb/><l><hi rend="fill-red">I</hi>nfumata seges non uina.<!-- 'dat' suppl. Wollin from M and R --> immo uenena.</l>
                                     <lb/><l><hi rend="fill-red">E</hi>ius enim potum sequitur dirissima pena.</l>
                                     <lb/><l><hi rend="fill-red">P</hi>es titubans. cerebri turbatio. mens aliena.</l>
                                     <lb/><l><hi rend="fill-red">T</hi>urbida mens nescit<g ref="#f161">⸵</g> uiciis inponere frena.</l>
                                     <lb/><l><hi rend="fill-red">D</hi>um furit ebrietas in<reg> </reg>aquis. <persName>ueneris</persName>que cathena.</l>
                                     <lb/><l><hi rend="fill-red">F</hi>eruida fermento traitur caro mentis egena.</l>
-                                    <lb/><l><hi rend="fill-red">I</hi>llicitus motus nulla cohibentur habena.</l>
+                                    <lb/><l><hi rend="fill-red">I</hi>llicit<choice><sic>us</sic><corr resp="#Braunholtz1927">i</corr></choice> motus nulla cohibentur habena.</l>
                                     <lb/><l><hi rend="fill-red">D</hi>um bibitur <placeName>lethea</placeName> palus. iterumque serena.</l>
                                     <lb/><l><hi rend="fill-red">M</hi>ingitur. in<reg> </reg>lapidem renum concrescit arena.</l>
                                     <lb/><l><hi rend="fill-red">Q</hi>uem nisi cum ferro nec eicit ars <persName>galiena</persName>.</l>
@@ -16220,13 +16230,13 @@
                                 <lg>
                                     <lb/><l><hi rend="dropcap2 red trim-blue">E</hi>loquio dulci uernans. et uoce serena.</l>
                                     <lb/><l><hi rend="fill-red">M</hi>unera commendat <persName>bachi</persName> tua <persName>petre</persName> camena.</l>
-                                    <lb/><l><hi rend="fill-red">C</hi>um tamen historias nota transcurris arena.</l>
+                                    <lb/><l><hi rend="fill-red">C</hi>um tamen<!-- tu Braun. --> historias nota transcurris arena.</l>
                                     <lb/><l><hi rend="fill-red">N</hi>onne legis <persName>bachi</persName> calices. et pocula plena.</l>
                                     <lb/><l><hi rend="fill-red">P</hi>lus fecisse mali<g ref="#f161">⸵</g> quam noxia queque uenena?</l>
-                                    <lb/><l><hi rend="fill-red">H</hi>oc subnixo deo. uinique iuuante lagena.</l>
+                                    <lb/><l><hi rend="fill-red">H</hi>oc subnix<choice><sic>o</sic><corr resp="#Braunholtz1927">a</corr></choice> deo. uinique iuuante lagena.</l>
                                     <lb/><l><hi rend="fill-red">V</hi>ictorem <persName>sodome</persName> deuicit filia lena.</l>
                                     <lb/><l><hi rend="fill-red">I</hi>ndulgensque mero. cathaclismi post inamena.</l>
-                                    <lb/><l><persName><hi rend="fill-red">C</hi>ham</persName> derisorem dampnat <persName>noe</persName> uindice pena.</l>
+                                    <lb/><l><persName><hi rend="fill-red">C</hi>ham</persName> derisorem dampnat <persName>noe</persName> uindice p<surplus resp="#Braunholtz1927">l</surplus>ena.</l>
                                     <lb/><l><hi rend="fill-red">H</hi>is caret exemplis simplex et sobria cena.</l>
                                     <lb/><l><hi rend="fill-red">I</hi>n<reg> </reg>qua conuiue facili potantur auena.</l>
                                     <lb/><l><hi rend="fill-red">E</hi>xhilarans mentes conuiuia reddit amena<g ref="#f161">⸵</g></l>
@@ -16234,12 +16244,12 @@
                                     <pb n="223v"/>
                                     <lb/><l><hi rend="fill-red">T</hi>emperat ardores. et feruida uentris aena.</l>
                                     <lb/><l><hi rend="fill-red">M</hi>otibus illicitis imponens sobria frena.</l>
-                                    <lb/><l><hi rend="fill-red">S</hi>et simul incaluit uino uinaria uena.</l>
+                                    <lb/><l><hi rend="fill-red">S</hi>et simul incaluit uino uiuaria<!-- uinaria Braun. and Wollin --> uena.</l>
                                     <lb/><l><hi rend="fill-red">E</hi>stuat in lumbis. quos nulla refrenat habena?</l>
                                     <lb/><l><hi rend="fill-red">W</hi>lcani fornax. ut mens rationis egena<g ref="#f161">⸵</g></l>
                                     <lb/><l><hi rend="fill-red">H</hi>as nequeat flammas ulla cohibere cathena.</l>
                                     <lb/><l><hi rend="fill-red">I</hi>nflammata mero<g ref="#f1f9">˷</g> <orgName>greco</orgName> calet igne crumena.</l>
-                                    <lb/><l><hi rend="fill-red">Q</hi>uem nec claustra tenent. quin franges ostia dena.</l>
+                                    <lb/><l><hi rend="fill-red">Q</hi>uem nec claustra tenent. quin frange<supplied reason="omitted" resp="#Braunholtz1927">n</supplied>s ostia dena.</l>
                                     <lb/><l><hi rend="fill-red">A</hi>d mundum reuolet. licet occurente leena.</l>
                                     <lb/><l><hi rend="fill-red">H</hi>anc febris speciem non mitigat ars <persName>galiena</persName>.</l>
                                     <lb/><l><hi rend="fill-red">N</hi>ec citharista sono. nec garritu <persName>philomena</persName>.</l>
@@ -16291,7 +16301,7 @@
                             <div n="Epist" subtype="book" type="textpart">
                                 <head rend="margin-outer red">
                                     <lb/>¶ <persName><roleName>Magister</roleName> alexander</persName> 
-                                    <lb/><persName><expan><abbr>D</abbr><ex>omi</ex><abbr rend="supraline">no</abbr></expan>. <expan>T<am>.</am><ex>homae</ex></expan> <roleName>abbati <placeName>claudie</placeName></roleName></persName>.
+                                    <lb/><persName><expan><abbr>D</abbr><ex>omi</ex><abbr rend="supraline">no</abbr></expan> <expan><am>.</am>T<am>.</am><ex>homae</ex></expan> <roleName>abbati <placeName>claudie</placeName></roleName></persName>.
                                 </head>
                                 <lg>
                                     <lb/><l><hi rend="dropcap2 red trim-blue">M</hi><hi rend="fill-red">u</hi>nus. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> munusculum tibi mitto <persName>thoma</persName>.</l>
@@ -16884,7 +16894,7 @@
                                 <lb/><l><hi rend="spaced fill-red">A</hi>sseruit. <hi rend="fill-red">M</hi>entis impetus iste fuit<g ref="#f161">⸵</g></l>
                                 <lb/><l><hi rend="spaced fill-red">E</hi>t tamen iratam pietas se fingere nouit.</l>
                                 <lb/><l><hi rend="spaced fill-red">I</hi>ram dum simulat<g ref="#f161">⸵</g> pectore regnat amor.</l>
-                                <lb/><l><hi rend="spaced fill-red">S</hi>tabat in<reg> </reg>insidiis lupus aurem dans mulieris<g ref="#f161">⸵</g></l>
+                                <lb/><l><hi rend="spaced fill-red">S</hi>tabat in<reg> </reg>insidiis lupus aur<choice><sic>a</sic><corr source="#P" resp="#Klein1998">e<!-- who first made corr? --></corr></choice>m dans mulieris<g ref="#f161">⸵</g></l>
                                 <lb/><l><hi rend="spaced fill-red">V</hi>erbo. <hi rend="fill-red">S</hi>pe lusus<g ref="#f161">⸵</g> gaudia uana fouet.</l>
                                 <lb/><l><hi rend="spaced fill-red">S</hi>pem prede certam se iudice concipit ardens.</l>
                                 <lb/><l><hi rend="spaced fill-red">F</hi>auces optatis preparat ille cibis.</l>
@@ -16907,7 +16917,7 @@
                                     <lb/><l><hi rend="spaced fill-red">A</hi>scensus. ingens <expan><abbr rend="supraline">e</abbr><ex>ss</ex><abbr rend="supraline">e</abbr><am>.</am></expan> ruina solet.</l>
                                     <lb/><l><hi rend="spaced fill-red">A</hi>mbitus est pestis sibi perniciosa. ruinam<g ref="#f161">⸵</g></l>
                                     <lb/><l><hi rend="spaced fill-red">I</hi>sta uexatus peste. timere potest.</l>
-                                    <lb/><l><hi rend="spaced fill-red">E</hi>xiguis rebus indignus ad arrua tendit<g ref="#f161">⸵</g></l>
+                                    <lb/><l><hi rend="spaced fill-red">E</hi>xiguis rebus indignus ad ar<choice><sic>r</sic><corr source="#P #M" resp="#Klein1998">d</corr></choice>ua tendit<g ref="#f161">⸵</g></l>
                                     <lb/><l><hi rend="spaced fill-red">D</hi>auus. muneribus cuncta licere putans.</l>
                                     <lb/><l><hi rend="spaced fill-red">T</hi>estudo cupiens ferri per inane<g ref="#f1f9">˷</g> dolorem<g ref="#f161">⸵</g></l>
                                     <gb n="24"/>
@@ -16924,7 +16934,7 @@
                                     <lb/><l><said><hi rend="spaced fill-red">R</hi>egine uolucrum dabo munera. <hi rend="fill-red">N</hi>umina quamuis<g ref="#f161">⸵</g></said></l>
                                     <lb/><l><said><hi rend="spaced fill-red">S</hi>int irata<g ref="#f161">⸵</g> potest flectere gemma micans.</said></l>
                                     <lb/><l><said><hi rend="spaced fill-red">V</hi>rbes<g ref="#f1f9">˷</g> cum uicis<g ref="#f1f9">˷</g> campos. siluas. iuga. ualles<g ref="#f161">⸵</g></said></l>
-                                    <lb/><l><said><hi rend="spaced fill-red">F</hi>lamina.<!-- extra m added by corrector? --> prata. lacus. cernere dulce puto.</said></l>
+                                    <lb/><l><said><hi rend="spaced fill-red">F</hi>lamina.<!-- How do we record mark above from light-handed corrector? Proably noting difference with other MSS, which say 'flumina'. Klein thinks G says 'flamma'. --> prata. lacus. cernere dulce puto.</said></l>
                                     <lb/><l><said><hi rend="spaced fill-red">C</hi>ernere tot rerum spe<add place="inline" hand="#FLMcorr-light">cie</add>s cupiet <persName>iouis</persName> ales.</said></l>
                                     <lb/><l><said><hi rend="spaced fill-red">A</hi>er tam purus me recreare potest.</said></l>
                                     <lb/><l><said><hi rend="spaced fill-red">O</hi>cia degeneres animos languentia reddunt.</said></l>
@@ -16945,7 +16955,7 @@
                                     <lb/><l><hi rend="dropcap2 blue trim-red">S</hi>ollicitauit⸝ <hi rend="fill-red">A</hi>ues testudo <said>munere felix<g ref="#f161">⸵</g></said></l>
                                     <lb/><l><said><hi rend="spaced fill-red">S</hi>i qua meis uotis annuat</said> inquit<g ref="#f161">⸵</g> <said>erit.</said></l>
                                     <lb/><l><said><hi rend="spaced fill-red">I</hi>n<reg> </reg>sublime uehi cupio. ditabo uehentem<g ref="#f161">⸵</g></said></l>
-                                    <lb/><l><said><hi rend="spaced fill-red">G</hi>emina. deliciis<g ref="#f161">⸵</g> me recreabo nouis.</said></l>
+                                    <lb/><l><said><hi rend="spaced fill-red">G</hi>em<choice><sic>in</sic><corr source="#P #M" resp="#Klein1998">m</corr></choice>a. deliciis<g ref="#f161">⸵</g> me recreabo nouis.</said></l>
                                     <lb/><l><hi rend="spaced fill-red">A</hi> facie terre mox rapta leuatur in<reg> </reg>auras.</l>
                                     <pb n="233v"/>
                                     <lb/><l><hi rend="spaced fill-red">D</hi>ulce solum celis tutius esset ei.</l>
@@ -17001,7 +17011,7 @@
                                 <lb/><l><hi rend="spaced fill-red">C</hi>onstricta lateri cingit se ueste uiator.</l>
                                 <lb/><l><hi rend="spaced fill-red">E</hi>t <persName>boree</persName> cautus irrita uota facit.</l>
                                 <lb/><l><hi rend="spaced fill-red">A</hi>t <persName>phebus</persName> radiis nubes fugat. orbita solis<g ref="#f161">⸵</g></l>
-                                <lb/><l><hi rend="spaced fill-red">I</hi>gnea declinans nube latere<g ref="#f1f9">˷</g> micat.</l>
+                                <lb/><l><hi rend="spaced fill-red">I</hi>gnea de<choice><sic>cli</sic><corr resp="#Klein1998" source="#P #M">dig</corr></choice>nans nube latere<g ref="#f1f9">˷</g> micat.</l>
                                 <lb/><l><hi rend="spaced fill-red">E</hi>stuat accensus radiis solari<add place="overstrike">b</add>us ether.</l>
                                 <lb/><l><hi rend="spaced fill-red">D</hi>at letum terris letior aura diem.</l>
                                 <lb/><l><hi rend="spaced fill-red">I</hi>mpatiens estus nudat se ueste uiator.</l>
@@ -17015,11 +17025,11 @@
                             <lg>
                                 <lb/><l><hi rend="spaced fill-red">D</hi>e facili menti stulte surrepit inanis<g ref="#f161">⸵</g></l>
                                 <lb/><l><hi rend="spaced fill-red">G</hi>loria. que miseros precipitare solet.</l>
-                                <lb/><l><hi rend="spaced fill-red">E</hi>uehit <del rend="expunct">inpresens </del>in<reg> </reg>preceps stultos elatio ceca.</l>
+                                <lb/><l><hi rend="spaced fill-red">E</hi>uehit <del rend="expunct">inpresens</del> in<reg> </reg>preceps stultos elatio ceca.</l>
                                 <lb/><l><hi rend="spaced fill-red">M</hi>ens elata<g ref="#f161">⸵</g> sui uix memor <expan><abbr rend="supraline">e</abbr><ex>ss</ex><abbr rend="supraline">e</abbr><am>.</am></expan> potest.</l>
                                 <lb/><l><hi rend="spaced fill-red">I</hi>ntumuisse ferunt pro pelle leonis asellum.</l>
                                 <lb/><l><hi rend="spaced fill-red">Q</hi>uam uix aptarat artubus ille suis.</l>
-                                <lb/><l><hi rend="spaced fill-red">E</hi>x<hi rend="underline" style="#FLMcorr-light"><!-- find a way to notate this -->u<choice><sic>ir</sic><corr>u</corr></choice>iis</hi> gaudens alienis. arua pererrans<g ref="#f161">⸵</g></l>
+                                <lb/><l><hi rend="spaced fill-red">E</hi>x<hi rend="underline" style="#FLMcorr-light"><!-- find a way to notate this -->u<choice><sic>ir</sic><corr source="#P #M" resp="#Klein1998">u</corr></choice>iis</hi> gaudens alienis. arua pererrans<g ref="#f161">⸵</g></l>
                                 <lb/><l><hi rend="spaced fill-red">I</hi>nuenta dominum terruit arte suum.</l>
                                 <lb/><l><hi rend="spaced fill-red">Q</hi>uid moror. haut modicus pecudes. armenta. <hi rend="fill-red">M</hi>agistrum.</l>
                                 <lb/><l><hi rend="spaced fill-red">T</hi>error uelocem iussit inire fugam.</l>
@@ -17127,7 +17137,7 @@
                                 <lb/><l><hi rend="dropcap2 red trim-blue">D</hi><hi rend="capitals fill-red">u</hi>lcessit crebro fructus radicis amare.</l>
                                 <lb/><l><hi rend="spaced fill-red">S</hi>i labor <expan><am>∻</am><ex>est</ex></expan> radix. ars <expan><abbr>t<am>&#x365;</am></abbr><ex>ibi</ex></expan> fructus erit.</l>
                                 <lb/><l><hi rend="spaced fill-red">S</hi>pes fructus iubet arua coli. <expan><abbr rend="supraline">p</abbr><ex>re</ex></expan>lud<expan><am>&#x33E;</am><ex>er</ex></expan>e bellum<g ref="#f161">⸵</g></l>
-                                <lb/><l><hi rend="spaced fill-red">L</hi>aurea≥ pluris sunt parta labore graui.</l>
+                                <lb/><l><hi rend="spaced fill-red">L</hi>aurea. pluris sunt parta labore graui.</l>
                                 <lb/><l><hi rend="spaced fill-red">S</hi>i <expan><am>&#xA76F;</am><ex>con</ex></expan>sultius <expan><am>∻</am><ex>est</ex></expan> q<expan><am>&#x1DD3;</am><ex>ua</ex></expan>m n<expan><abbr rend="supraline">u</abbr><ex>n</ex></expan>q<expan><ex>ua</ex>m<am>&#x1DD3;</am></expan> disc<am>&#x1DD3;</am>e sero<am>&#x1DD3;</am></l>
                                 <lb/><l><hi rend="spaced fill-red">I</hi>ncipe. n<expan><abbr rend="supraline">o</abbr><ex>n</ex></expan>ne uoles tu didicisse? Voles.</l>
                                 <lb/><l><hi rend="spaced fill-red">I</hi>nsta. mors instat. etas mat<expan><am>&#x1DD1;</am><ex>ur</ex></expan>a negabit<g ref="#f161">⸵</g></l>
