@@ -163,6 +163,30 @@
     </teiHeader>
     <text xml:lang="la">
         <group>
+            <pb n="216r"/>
+            <cb n="a"/>
+            <text>
+                <body>
+                    <lg><!-- carmina metrica, 4, pp. 218–19 -->
+                        <lb/><l>Qualiter Anglorum possem describere gentem,</l>
+                        <lb/><l>sepe michi dubiam traxit sentencia mentem.</l>
+                        <lb/><l>Sunt in amicicie percusso federe ueri;</l>
+                        <lb/><l>Non minor est uirtus, quam querere, parta tueri.</l>
+                        <lb/><l>Quid sit auaricie pestis, gens Anglica nescit:</l>
+                        <lb/><l>Crescit amor dandi, quantum <supplied reason="omitted" resp="#Browne1954"><!-- submitted to Browne by R.W. Hunt, pp. 77–78; Hochgürtel does not acknowledge his use of this -->ipsa</supplied> pecunia crescit.</l>
+                        <lb/><l>Etas prima studet dare large, dando uirescit.</l>
+                        <lb/><l>Sincerum est nisi uas, quodcumque infundis, acessit.</l>
+                        <lb/><l>Laucior est illis cum mensa diuite cultus.</l>
+                        <lb/><l>Accedunt semper hilares super omnia uultus.</l>
+                        <lb/><l>Non ibi Damethas pauper dicit Melibeo:</l>
+                        <lb/><l><said>In cratere meo Thetis est sociata Lieo.</said></l>
+                        <lb/><l>Gracius ingenium datur hiis et gracia morum:</l>
+                        <lb/><l>Sic norunt, quam sit dulcis mixtura bonorum.</l>
+                        <lb/><l>Anglica, ue, cur es gens cuiuis inuida genci?</l>
+                        <lb/><l>Summa petit liuor, perflant altissima uenti.</l>
+                    </lg>
+                </body>
+            </text>
             <pb n="231v"/>
             <cb n="a"/>
             <text>
@@ -2199,7 +2223,7 @@
                             <lb/><l met="hexameter"><hi rend="versal">H</hi>ec est humane nature gloria<pc type="l">.</pc> uermis</l>
                             <lb/><l met="pentameter"><hi rend="versal">Q</hi>ue candore caro lilia uincit erit<pc type="f">.</pc></l>
                         </lg>
-                        <lg>
+                        <lg><!-- There is a question as to whether the following is really part of CNP; cf. @hunt:1984schools, p. 141; @cropp:1991critical, pp. 49–51, 76. -->
                             <lb/><metamark rend="paraph"/><l met="hexameter"><hi rend="versal">I</hi>am me fata uocant<pc type="s">.</pc> mors astat pallida<pc type="m">.</pc> presens<pc type="m">.</pc></l>
                             <lb/><l met="pentameter"><hi rend="versal">A</hi>dmiransque stupet uana placere seni<pc type="f">.</pc></l>
                             <lb/><l met="hexameter"><hi rend="versal">I</hi>am uictas extendo manus<pc type="m">.</pc> iam dedicioni</l>
@@ -2631,6 +2655,8 @@
                         <lb/>placeant. sin autem. michi primum notificate quid displiceat. Vale
                         <lb break="no"/>te karissime.
                     </p>
-                </body></text></group>
+                </body>
+            </text>
+        </group>
     </text>
 </TEI>
