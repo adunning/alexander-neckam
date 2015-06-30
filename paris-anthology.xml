@@ -2584,7 +2584,7 @@
                 <body>
                     <p><!-- letter of Prior S. of Malmesbury to Master Walter Melidie, canon at Cirencester; also in in London, BL, Royal MS 5 C.v, fol. 57r–57v; first section in Meyer 1896, p. 657n1 -->
                         <lb/><hi rend="dropcap2">V</hi><hi rend="capitals">e</hi>nerabili canonico <placeName>cyrencestr.</placeName> et amico carissimo et fratri in 
-                        <lb/><persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>o</abbr></expan></persName> <persName>magistro Waltero Melidie</persName> <persName>frater S.. dictus prior Malmesbir'</persName>. 
+                        <lb/><persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>o</abbr></expan></persName> <persName>magistro Waltero Melidie</persName> <persName>frater S. dictus prior Malmesbir'</persName>. 
                         <lb/>salutem piam et perpetuam in domino feliciter. Cum de bonis omnibus bene 
                         <lb/>sapere bonorum mentibus bene affectis sit officiosum debitum. hiis 
                         <lb/>tamen quos et noticia caros et amor intimos exhibet<g ref="#f161">⸵</g> precipuus 
@@ -2592,7 +2592,7 @@
                         <lb break="no"/>cessibus extollencia laudum. Hinc ergo quota pars amicorum. predican
                         <lb break="no"/>di uiri et magni amici <persName><roleName>magistri</roleName> Alexandri</persName> titulos extollere 
                         <lb/>cupiens dum montes parturio. ridiculum in partu <supplied reason="omitted" resp="#Meyer1896">mus</supplied> emittere dici 
-                        <lb/>possum. Adeo maius est quod sencio<g ref="#f161">⸵</g> quam quod ore depromere <supplied reason="omitted" resp="#Meyer1896">possum</supplied>. Sed quoniam ta
+                        <lb/>possum.<!-- Ref. to Horace, Ars poetica --> Adeo maius est quod sencio<g ref="#f161">⸵</g> quam quod ore depromere <supplied reason="omitted" resp="#Meyer1896">possum</supplied>. Sed quoniam ta
                         <lb break="no"/>lis nature natiuus color inoleuit ut fidium que instrumentis 
                         <lb/>extense sunt consuetudinem sequar. que quolibet casu si tanguntur 
                         <lb/>silere non possunt. Ego michi tacere non possum. quin uel mecum animo meo 
@@ -2633,13 +2633,13 @@
                         <lb/>cherubin exsculperet. Archum <unclear>deauraret</unclear>. propiciatorium statu 
                         <lb/>oret. Mensam <unclear>demeret</unclear>. panes propsicionis apponeret. uel hyram<g ref="#f161">⸵</g> 
                         <lb/><unclear>tytium</unclear> omni sapiencia et doctrina plenum. opera in domo domini facientem.
-                        <lb/>tota ex lignis et lapidibus preciosis et auro. Es enim et argen
+                        <lb/>tota ex lignis et lapidibus preciosis et auro. <unclear>Es</unclear> enim et argen
                         <lb break="no"/>tum pro nichilo computabatur in illis diebus. Nonne <unclear>sic</unclear> et noster <persName>alex
                             <lb break="no"/>ander</persName><g ref="#f161">⸵</g> historiam <unclear>disponiter</unclear> in sagis. Allegorias in cortinis. <unclear>Tropo</unclear>
                         <lb break="no"/>lis. in <unclear>coloribus</unclear>. <unclear>Questiones</unclear> et soluciones in <unclear>ausis</unclear> et fibulis. Sciencie 
                         <lb/><unclear>plenitudinum in cherubim</unclear>. Anagogen in archa. Religionem<g ref="#f161">⸵</g> 
                         <lb/>in <unclear>propiciatorio</unclear>. Refectionem plenam in mensa cum <unclear>penibus</unclear>. De qua
-                        <lb/><unclear>tor</unclear>. <unclear>predicasti</unclear> in <unclear>contra</unclear> meo mea. <unclear>a. e. qui tibi me</unclear>. Denique omnia solida 
+                        <lb break="no"/><unclear>tuor</unclear>. <unclear>predicasti</unclear> in <unclear>contra</unclear> meo mea. <unclear>a. e. qui tibi me</unclear>. Denique omnia solida 
                         <cb n="b"/>
                         <lb/>sunt in opere templi que <unclear>sunt</unclear> tantum lignis <unclear>terlapidibus pertalis. et cito</unclear>
                         <lb/>sapiencie cuncta nitent. bene et libri <gap reason="illegible" quantity="3" unit="character"/>us meo <gap reason="illegible" quantity="5" unit="character"/> digne di
@@ -2649,7 +2649,7 @@
                         <lb/>nostra <persName>alexandrina</persName> et melior est et dignior nomine tali. tamen au
                         <lb break="no"/>ctore qui condidit cum confect<gap reason="illegible" quantity="3" unit="character"/> quam continet. Non enim solummodo aurum 
                         <lb/>recipit<g ref="#f161">⸵</g> sed et auro tota uestitur. et eo melior<g ref="#f161">⸵</g> quo anima plus <unclear>est</unclear>
-                        <lb/>quam esca et corpus plus quam uestimenta. Hec mea sententia. est de <unclear>qui.</unclear>
+                        <lb/>quam esca et corpus plus quam uestimentum. Hec mea sententia. est de <unclear>qui.</unclear>
                         <lb/>et <unclear>opinor</unclear>. Vos uideritis utrum bene et plene. Mea michi mens fide
                         <lb break="no"/>li testimonio suggerit<g ref="#f161">⸵</g> non <unclear>extasse</unclear> in uerbo. Vtinam hec <unclear>uobis</unclear>
                         <lb/>placeant. sin autem. michi primum notificate quid displiceat. Vale
