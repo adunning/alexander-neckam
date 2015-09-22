@@ -194,13 +194,13 @@
                     <head rend="red">Incipiunt metrice <choice><sic>pro</sic><corr resp="#Cropp1991" source="#CNP-a">cor</corr></choice>rogaciones noui promothei<pc type="f">.</pc></head>
                     <div n="1" subtype="section" type="textpart">
                         <lg>
-                            <lb/><l met="hexameter"><choice><sic><hi rend="dropcap2">I</hi>nduet</sic><corr resp="#Gärtner2011">Quid decet</corr></choice> abbatem<g ref="#f161">⸵</g> qui plus optabit amari<g ref="#f161">⸵</g></l>
+                            <lb/><l met="hexameter"><choice><sic><hi rend="dropcap2">I</hi>nduet</sic><corr resp="#Gärtner2011">Quid decet</corr></choice> abbatem⸵ qui plus optabit amari⸵</l>
                             <lb/><l met="pentameter"><hi rend="versal">Q</hi>uam metui<choice><sic>.</sic><corr>?</corr></choice> Regnet hinc amor<pc>.</pc> Inde metus<pc type="f">.</pc></l>
-                            <lb/><l met="hexameter"><hi rend="versal">I</hi>mmo regnet amor<pc type="m">.</pc> cuius timor assecla fidus<g ref="#f161">⸵</g></l>
+                            <lb/><l met="hexameter"><hi rend="versal">I</hi>mmo regnet amor<pc type="m">.</pc> cuius timor assecla fidus⸵</l>
                             <lb/><l met="pentameter"><hi rend="versal">Q</hi>uo precedit<!-- precedet a --> amor tramite carp<choice><sic>i</sic><corr resp="#Cropp1991" source="#CNP-a">a</corr></choice>t iter<pc type="f">.</pc></l>
-                            <lb/><l met="hexameter"><hi rend="versal">P</hi>redominetur amor<pc type="m">.</pc> <seg source="Statius, Thebais, 12.817">uestigia cuius adoret</seg><g ref="#f161">⸵</g><!-- adheret a --></l>
+                            <lb/><l met="hexameter"><hi rend="versal">P</hi>redominetur amor<pc type="m">.</pc> <seg source="Statius, Thebais, 12.817">uestigia cuius adoret</seg>⸵<!-- adheret a --></l>
                             <lb/><l met="pentameter"><hi rend="versal">E</hi>xpers horroris. inuidieque timor<pc type="f">.</pc></l>
-                            <lb/><l met="hexameter"><hi rend="versal">E</hi>rgo relegetur procul indignacio<pc type="l">.</pc> leui<!-- leni Cropp (not in apparatus) --><g ref="#f161">⸵</g></l>
+                            <lb/><l met="hexameter"><hi rend="versal">E</hi>rgo relegetur procul indignacio<pc type="l">.</pc> leui<!-- leni Cropp (not in apparatus) -->⸵</l>
                             <lb/><l met="pentameter"><hi rend="versal">S</hi>ubditus affatu<!-- affata a --> conueniendus erit<pc type="f">.</pc></l>
                             <lb/><l met="hexameter"><hi rend="versal">A</hi>lloquio dulci comp<choice><sic>o</sic><corr resp="#Cropp1991" source="#CNP-a">e</corr></choice>scitur impetus ire<pc type="s">.</pc></l>
                             <lb/><l met="pentameter"><hi rend="versal">N</hi>ota loquor<pc type="l">.</pc> uerbis conciliatur amor<pc type="f">.</pc></l>
@@ -309,7 +309,7 @@
                             <lb/><l met="pentameter"><hi rend="versal">L</hi>eua fugat<pc type="m">.</pc> prestat dextera dextra Patris<pc type="f">.</pc></l>
                         </lg>
                         <lg>
-                            <lb/><metamark rend="paraph"/><l met="hexameter"><hi rend="versal">I</hi>nstruat ergo suos. re. uerbo. doctor<pc type="m">.</pc> ab oris<g ref="#f161">⸵</g></l>
+                            <lb/><metamark rend="paraph"/><l met="hexameter"><hi rend="versal">I</hi>nstruat ergo suos. re. uerbo. doctor<pc type="m">.</pc> ab oris⸵</l>
                             <lb/><l met="pentameter"><hi rend="versal">E</hi>ius procedant mellea<!-- mellica a --> uerba fauo<!-- faue a --><pc type="f">.</pc></l>
                             <lb/><l met="hexameter"><hi rend="versal">V</hi>tilitas uerbis subsit<pc type="s">.</pc> doctrina fidelis<surplus>.</surplus></l>
                             <lb/><l met="pentameter"><hi rend="versal">D</hi>electat<pc type="m">.</pc> set plus utilitate iuuat<pc type="f">.</pc></l>
@@ -339,7 +339,7 @@
                             <lb/><l met="pentameter"><hi rend="versal">L</hi>ingua nociua prius post medicamen erit<pc type="f">.</pc></l>
                             <lb/><l met="hexameter"><hi rend="versal">V</hi>ulnus <persName>achilleo</persName> que quondam fecerat hosti<pc type="m">.</pc><note place="margin">Ouidius</note></l>
                             <lb/><l met="pentameter"><hi rend="versal">V</hi>ulneris auxilium <persName>pel<choice><sic>e</sic><corr resp="#Cropp1991">i</corr></choice>as</persName> hasta tulit<pc type="f">.</pc></l>
-                            <lb/><l met="hexameter"><hi rend="versal">S</hi>it pastor<g ref="#f161">⸵</g> speculum<pc type="m">.</pc> liber<pc type="m">.</pc> ars<pc type="m">.</pc> exemplar honesti<pc type="m"><g ref="#f1f9">˷</g></pc></l>
+                            <lb/><l met="hexameter"><hi rend="versal">S</hi>it pastor⸵ speculum<pc type="m">.</pc> liber<pc type="m">.</pc> ars<pc type="m">.</pc> exemplar honesti<pc type="m">˷</pc></l>
                             <lb/><l met="pentameter"><hi rend="versal">F</hi>orma<pc type="m">.</pc> modus<pc type="m">.</pc> regimen<pc type="m">.</pc> regula<pc type="m">.</pc> uita suis<pc type="f">.</pc></l>
                             <lb/><l met="hexameter"><hi rend="versal">H</hi>a<pc type="m">.</pc> quociens mors est aliorum uita potentis<pc type="exc">.</pc></l>
                             <lb/><l met="pentameter"><hi rend="versal">N</hi>am plebs conformis regibus esse solet<pc type="f">.</pc></l>
@@ -1148,7 +1148,7 @@
                                 <lb/><l met="hexameter"><hi rend="versal">S</hi>et bene quod paucis licet interitura diebus<pc type="l">.</pc></l>
                                 <lb/><l met="pentameter"><hi rend="versal">S</hi>uccedens euum prorogat ipsa suum<pc type="f">.</pc></l>
                                 <lb/><l met="hexameter"><hi rend="versal">C</hi>ollige<pc type="m">.</pc> uirgo<pc type="m">.</pc> rosas dum flos nouus et noua pubes<pc type="m">.</pc></l>
-                                <lb/><l met="pentameter"><hi rend="versal">E</hi>t memor esto euum<g ref="#f161">⸵</g> sic properare tuum<pc type="f">.</pc></l>
+                                <lb/><l met="pentameter"><hi rend="versal">E</hi>t memor esto euum⸵ sic properare tuum<pc type="f">.</pc></l>
                             </lg>
                             <lg>
                                 <lb/><metamark rend="paraph"/><l met="hexameter"><hi rend="versal">P</hi>ulcher homo<pc type="m">.</pc> putredo decens<pc type="m">.</pc> niue limus opertus<pc type="m">.</pc></l>
@@ -1211,7 +1211,7 @@
                             <lb/><l met="pentameter"><hi rend="versal">E</hi>t precium studii querit habere sui<pc type="f">.</pc></l>
                         </lg>
                         <lg>
-                            <lb/><metamark rend="paraph"/><l met="hexameter"><hi rend="versal">V</hi>mbram dum sequeris<g ref="#f161">⸵</g> fugit<pc type="m">.</pc> at sequitur fugientem<pc type="s">.</pc></l>
+                            <lb/><metamark rend="paraph"/><l met="hexameter"><hi rend="versal">V</hi>mbram dum sequeris⸵ fugit<pc type="m">.</pc> at sequitur fugientem<pc type="s">.</pc></l>
                             <lb/><l met="pentameter"><hi rend="versal">V</hi>mbra sit arbitrio gloria uana tuo<pc type="f">.</pc></l>
                         </lg>
                     </div>
@@ -2254,7 +2254,7 @@
                 <text>
                     <body>
                         <lg><!-- carmina metrica dubia, carmen: 15, versus: 1 (pag.: 240) -->
-                            <lb/><metamark rend="paraph"/><l><hi rend="versal">C</hi>ompositus gressus. sermo grauis. actus honestus<g ref="#f161">⸵</g></l>
+                            <lb/><metamark rend="paraph"/><l><hi rend="versal">C</hi>ompositus gressus. sermo grauis. actus honestus⸵</l>
                             <lb/><l><hi rend="versal">S</hi>it tibi. si uere monachi uis nomen habere.</l>
                         </lg>
                     </body>
@@ -2393,7 +2393,7 @@
                                 <lb/>spes fidelium.</l>
                         </lg>
                         <lg>
-                            <l>Quo uiso<g ref="#f161">⸵</g> <persName>noe</persName> letatur,</l> <l>Ramus es oliue;</l>
+                            <l>Quo uiso⸵ <persName>noe</persName> letatur,</l> <l>Ramus es oliue;</l>
                         </lg>
                         <lg>
                             <l>Per te 
@@ -2439,7 +2439,7 @@
                         </lg>
                         <lg>
                             <l>Heu, quid agam, quo me uertam?</l> 
-                            <lb/><l>Sed, dum queror<g ref="#f161">⸵</g> ecce, certam</l> <l>Nanciscor fiduciam.</l>
+                            <lb/><l>Sed, dum queror⸵ ecce, certam</l> <l>Nanciscor fiduciam.</l>
                         </lg>
                         <lg>
                             <l>In te fi
@@ -2486,9 +2486,9 @@
                 <text>
                     <body>
                         <lg><!-- carmina spuria, carmen 8; Shooner 1981, p. 412; Walther, Proverbia, no. 4046a -->
-                            <lb/><l>Cum breue quid tibi quis dederit. non conice dantem<g ref="#f161">⸵</g></l>
-                            <lb/><l>Sed dantis mentem. non hominem<g ref="#f161">⸵</g> sed opus.</l>
-                            <lb/><l>Non frater accuset quid portet ponderis. immo<g ref="#f161">⸵</g></l>
+                            <lb/><l>Cum breue quid tibi quis dederit. non conice dantem⸵</l>
+                            <lb/><l>Sed dantis mentem. non hominem⸵ sed opus.</l>
+                            <lb/><l>Non frater accuset quid portet ponderis. immo⸵</l>
                             <lb/><l>Quid desiderii, non quid hic, immo quid hoc.</l>
                             <lb/><l>Nec quid, sed de quo, nec quantum connice: quanto</l>
                             <lb/><l>Fiat res animo, pondere pinge tuo.</l>
@@ -2524,31 +2524,31 @@
                         <lg>
                             <lb/><metamark rend="paraph"/><l met="hexameter">Quem tibi transmitto doctor Radulfe nepotem⸵</l>
                             <lb/><l met="pentameter">Suscipe. deuota sedulitate doce.</l>
-                            <lb/><l met="hexameter">Hunc fidei committo tue. uigilancia cure<g ref="#f161">⸵</g></l>
+                            <lb/><l met="hexameter">Hunc fidei committo tue. uigilancia cure⸵</l>
                             <lb/><l met="pentameter">Lucra feret. sterilis non erit iste labor.</l>
                             <lb/><l met="hexameter">Versibus et rithmis. et adhuc dictamine. per te⸵</l>
                             <lb/><l met="pentameter">Floreat. et sit in hiis sollicitudo uigil.</l>
-                            <lb/><l met="hexameter">Moribus informa. uirtutibus inbue. uerbis<g ref="#f161">⸵</g></l>
+                            <lb/><l met="hexameter">Moribus informa. uirtutibus inbue. uerbis⸵</l>
                             <lb/><l met="pentameter">Exorna. refice dogmate. pinge metris.</l>
                             <lb/><l met="hexameter">Sis pater et doctor pariter<supplied reason="omitted">.</supplied> uidearis uterque⸵</l>
                             <lb/><l met="pentameter">Esse sibi. monitis doctor. amore⸵ pater</l>
                             <pb n="238v"/>
                             <cb n="a"/>
                             <lb/><l met="hexameter">Te duce nil pueri capiat puer. et pueriles⸵</l>
-                            <lb/><l met="pentameter">Motus<g ref="#f161">⸵</g> edocte mentis habena regat.</l>
+                            <lb/><l met="pentameter">Motus⸵ edocte mentis habena regat.</l>
                             <lb/><l met="hexameter">Te duce sub teneris annis. uirtute senescat.</l>
-                            <lb/><l met="pentameter">Purus. et inde puer<g ref="#f161">⸵</g> desinat esse puer.</l>
+                            <lb/><l met="pentameter">Purus. et inde puer⸵ desinat esse puer.</l>
                             <lb/><l met="hexameter">Artificem commendet opus. doctrina magistri⸵</l>
                             <lb/><l met="pentameter">Discipulo pateat testificante sua.</l>
-                            <lb/><l met="hexameter">Mutua discurrat inter nos pagina. nota<g ref="#f161">⸵</g></l>
-                            <lb/><l met="pentameter">Mens tua. mensque mea<g ref="#f161">⸵</g> sit mediante nota.</l>
+                            <lb/><l met="hexameter">Mutua discurrat inter nos pagina. nota⸵</l>
+                            <lb/><l met="pentameter">Mens tua. mensque mea⸵ sit mediante nota.</l>
                         </lg>
                     </body>
                 </text>
                 <text>
                     <body>
                         <lg><!-- carmina metrica dubia, carmen 17b -->
-                            <lb/><metamark rend="paraph"/><l>Dulcedo rara<g ref="#f161">⸵</g> dulcescere cogit amara.</l>
+                            <lb/><metamark rend="paraph"/><l>Dulcedo rara⸵ dulcescere cogit amara.</l>
                             <l>Vnica dulcedo condit amara duo.</l>
                         </lg>
                     </body>
@@ -2556,7 +2556,7 @@
                 <text>
                     <body>
                         <lg><!-- carmina metrica dubia, carmen 17d -->
-                            <lb/><metamark rend="paraph"/><l>Vnica maturat geminum matura<g ref="#f161">⸵</g> uirorem.</l>
+                            <lb/><metamark rend="paraph"/><l>Vnica maturat geminum matura⸵ uirorem.</l>
                         </lg>
                     </body>
                 </text>
@@ -2571,9 +2571,9 @@
                 <text>
                     <body>
                         <lg><!-- carmina metrica dubia, carmen 16 -->
-                            <lb/><metamark rend="paraph"/><l>Emmundata liquor<g ref="#f161">⸵</g> dicat <persName>ceres</persName>. algida liquor<g ref="#f161">⸵</g></l>
-                            <lb/><l>Nix. dicat liqueo tibi littera. Cera<g ref="#f161">⸵</g> liquesco.</l>
-                            <lb/><l>Mel<g ref="#f161">⸵</g> uideor quociens eliquor esse liquor.</l>
+                            <lb/><metamark rend="paraph"/><l>Emmundata liquor⸵ dicat <persName>ceres</persName>. algida liquor⸵</l>
+                            <lb/><l>Nix. dicat liqueo tibi littera. Cera⸵ liquesco.</l>
+                            <lb/><l>Mel⸵ uideor quociens eliquor esse liquor.</l>
                         </lg>
                     </body>
                 </text>
@@ -2587,12 +2587,12 @@
                         <lb/><persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>o</abbr></expan></persName> <persName>magistro Waltero Melidie</persName> <persName>frater S. dictus prior Malmesbir'</persName>. 
                         <lb/>salutem piam et perpetuam in domino feliciter. Cum de bonis omnibus bene 
                         <lb/>sapere bonorum mentibus bene affectis sit officiosum debitum. hiis 
-                        <lb/>tamen quos et noticia caros et amor intimos exhibet<g ref="#f161">⸵</g> precipuus 
+                        <lb/>tamen quos et noticia caros et amor intimos exhibet⸵ precipuus 
                         <lb/>debetur honor et in bene gestis predicatio meritorum. et in bonis suc
                         <lb break="no"/>cessibus extollencia laudum. Hinc ergo quota pars amicorum. predican
                         <lb break="no"/>di uiri et magni amici <persName><roleName>magistri</roleName> Alexandri</persName> titulos extollere 
                         <lb/>cupiens dum montes parturio. ridiculum in partu <supplied reason="omitted" resp="#Meyer1896">mus</supplied> emittere dici 
-                        <lb/>possum.<!-- Ref. to Horace, Ars poetica --> Adeo maius est quod sencio<g ref="#f161">⸵</g> quam quod ore depromere <supplied reason="omitted" resp="#Meyer1896">possum</supplied>. Sed quoniam ta
+                        <lb/>possum.<!-- Ref. to Horace, Ars poetica --> Adeo maius est quod sencio⸵ quam quod ore depromere <supplied reason="omitted" resp="#Meyer1896">possum</supplied>. Sed quoniam ta
                         <lb break="no"/>lis nature natiuus color inoleuit ut fidium que instrumentis 
                         <lb/>extense sunt consuetudinem sequar. que quolibet casu si tanguntur 
                         <lb/>silere non possunt. Ego michi tacere non possum. quin uel mecum animo meo 
@@ -2603,15 +2603,15 @@
                         <lb break="no"/>nit liber ille qui quasi de uerborum significacionibus uel proprietatibus. uel si 
                         <lb/>quid huiusmodi dici debeat. editus est a bono magistro. introducto
                         <lb break="no"/>rio modo ad instructionem minorum. in ipsa facie prologi adeo 
-                        <lb/>gauisus sum<g ref="#f161">⸵</g> ut ad singula uerba benedictiones illi uotiuas o
+                        <lb/>gauisus sum⸵ ut ad singula uerba benedictiones illi uotiuas o
                         <lb break="no"/>rarem. Ita in eo nitet intencio iusti propositi quod dulcis kari
-                        <lb break="no"/>tas fideli dispensatori suo suggessit<g ref="#f161">⸵</g> ut ubera sponse uidea
+                        <lb break="no"/>tas fideli dispensatori suo suggessit⸵ ut ubera sponse uidea
                         <lb break="no"/>tur ostendere ad alliciendos paruulos ad suggendum lac. et pre uberta
                         <lb break="no"/>te commedant butirum. nec mel sciencie uidi defuturum. ut eo infe
                         <lb break="no"/>cti sciant reprobare malum. et eligere bonum. hinc quasi porticum 
                         <lb/><persName>salomonis</persName> <unclear>ingressus</unclear>. dum transmissas quondam scolasticas <!-- line filler? -->
                         <lb/>picturas intueor quasi per amena uirecta iuuentutis oblite. 
-                        <lb/>florum odores quos in tali uiro emarcuisse putaueram<g ref="#f161">⸵</g> uehemen
+                        <lb/>florum odores quos in tali uiro emarcuisse putaueram⸵ uehemen
                         <lb break="no"/>ter admiratus sum. <expan><abbr>S<am>&#xA76B;</am></abbr><ex>et</ex></expan> laudanda est felicis memorie cella. que 
                         <lb/>tot et tantas et tam uarias apotecharum gazas comprehendit. 
                         <lb/>et sine marcore seruare preualuit. Hic bene paterfamilias bonus 
@@ -2619,7 +2619,7 @@
                         <lb/>dubio sedem sapiencie dici res et effectus cum experiencia iubent animam 
                         <lb/><sic>eius</sic>. Hec est sponsa fidelis que omnia poma noua et uetera dilecto 
                         <lb/>reseruat ut quasi aliquibus de familia illius modesta hillaritate 
-                        <lb/>dicere possit. <quote source="Virgil, Eclogues 1.80–81"><l>Sunt nobis mitia poma<g ref="#f161">⸵</g></l> <l>castanee molles. et pressi 
+                        <lb/>dicere possit. <quote source="Virgil, Eclogues 1.80–81"><l>Sunt nobis mitia poma⸵</l> <l>castanee molles. et pressi 
                                 <lb/>copia lactis.</l></quote> Delicie quippe rurales sepe gustum exhylarant. dum 
                         <lb/>modo <unclear>modesticas</unclear> non excludatur. In hiis itaque cum iam non tam de
                         <lb break="no"/>fectus quam prouocatus ad alia <unclear>mentis</unclear> et oculorum <unclear>sticoium</unclear> ad ulteriora 
@@ -2631,13 +2631,13 @@
                         <lb/>cui dederat deus in cor ut faceret <quote source="Bible.Vul:1Kings.7.51 Bible.Vul:2Chron.4.22">omne opus in domo domini</quote>. qui saga
                         <lb/>disponeret. qui cortinas intexeret. qui ausas et fibulas laquearet.
                         <lb/>cherubin exsculperet. Archum <unclear>deauraret</unclear>. propiciatorium statu 
-                        <lb/>oret. Mensam <unclear>demeret</unclear>. panes propsicionis apponeret. uel hyram<g ref="#f161">⸵</g> 
+                        <lb/>oret. Mensam <unclear>demeret</unclear>. panes propsicionis apponeret. uel hyram⸵ 
                         <lb/><unclear>tytium</unclear> omni sapiencia et doctrina plenum. opera in domo domini facientem.
                         <lb/>tota ex lignis et lapidibus preciosis et auro. <unclear>Es</unclear> enim et argen
                         <lb break="no"/>tum pro nichilo computabatur in illis diebus. Nonne <unclear>sic</unclear> et noster <persName>alex
-                            <lb break="no"/>ander</persName><g ref="#f161">⸵</g> historiam <unclear>disponiter</unclear> in sagis. Allegorias in cortinis. <unclear>Tropo</unclear>
+                            <lb break="no"/>ander</persName>⸵ historiam <unclear>disponiter</unclear> in sagis. Allegorias in cortinis. <unclear>Tropo</unclear>
                         <lb break="no"/>lis. in <unclear>coloribus</unclear>. <unclear>Questiones</unclear> et soluciones in <unclear>ausis</unclear> et fibulis. Sciencie 
-                        <lb/><unclear>plenitudinum in cherubim</unclear>. Anagogen in archa. Religionem<g ref="#f161">⸵</g> 
+                        <lb/><unclear>plenitudinum in cherubim</unclear>. Anagogen in archa. Religionem⸵ 
                         <lb/>in <unclear>propiciatorio</unclear>. Refectionem plenam in mensa cum <unclear>penibus</unclear>. De qua
                         <lb break="no"/><unclear>tuor</unclear>. <unclear>predicasti</unclear> in <unclear>contra</unclear> meo mea. <unclear>a. e. qui tibi me</unclear>. Denique omnia solida 
                         <cb n="b"/>
@@ -2648,10 +2648,10 @@
                         <lb/>ex auctore qui eam inuenit. et ex <unclear>auro oe tempit.</unclear> Ista uero 
                         <lb/>nostra <persName>alexandrina</persName> et melior est et dignior nomine tali. tamen au
                         <lb break="no"/>ctore qui condidit cum confect<gap reason="illegible" quantity="3" unit="character"/> quam continet. Non enim solummodo aurum 
-                        <lb/>recipit<g ref="#f161">⸵</g> sed et auro tota uestitur. et eo melior<g ref="#f161">⸵</g> quo anima plus <unclear>est</unclear>
+                        <lb/>recipit⸵ sed et auro tota uestitur. et eo melior⸵ quo anima plus <unclear>est</unclear>
                         <lb/>quam esca et corpus plus quam uestimentum. Hec mea sententia. est de <unclear>qui.</unclear>
                         <lb/>et <unclear>opinor</unclear>. Vos uideritis utrum bene et plene. Mea michi mens fide
-                        <lb break="no"/>li testimonio suggerit<g ref="#f161">⸵</g> non <unclear>extasse</unclear> in uerbo. Vtinam hec <unclear>uobis</unclear>
+                        <lb break="no"/>li testimonio suggerit⸵ non <unclear>extasse</unclear> in uerbo. Vtinam hec <unclear>uobis</unclear>
                         <lb/>placeant. sin autem. michi primum notificate quid displiceat. Vale
                         <lb break="no"/>te karissime.
                     </p>
