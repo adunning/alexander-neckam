@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
+schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:space="preserve">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title xml:lang="la">Expositio simboli Athanasii episcopi⸵ secundum Magistrum Alexandrum nequam</title>
+<author xml:id="AN">Alexander Neckam</author>
+<editor xml:id="AD">Andrew Dunning</editor>
+</titleStmt>
+<publicationStmt>
+<authority>Andrew Dunning</authority>
+<availability>
+<licence target="http://creativecommons.org/licences/by-sa/4.0/">Provided under a Creative Commons Attribution-ShareAlike 4.0 International Licence.</licence>
+<p>Produced with thanks to the Principal and Fellows of Jesus College, Oxford.</p>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<settlement>Oxford</settlement>
+<repository>Bodleian Library</repository>
+<idno>Rawl. C.67</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text xml:lang="la">
+<body>
+<pb n="86r"/>
+<lb/><head rend="red">Expositio simboli Athanasii <expan>e<abbr rend="supraline">p</abbr><ex>iscop</ex>i</expan>⸵ <expan>s<ex>e</ex>c<ex>un</ex><abbr rend="stroke">d</abbr><ex>u</ex>m</expan> <expan>Mag<ex>ist</ex><abbr rend="supraline">r</abbr><ex>u</ex>m</expan> Alexandr<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> neq<expan><am>&#x1DD3;</am><ex>ua</ex></expan>m.</head>
+<p>
+<lb/><hi rend="enlarged red">D</hi>icit <expan>ap<ex>osto</ex><abbr rend="stroke">l</abbr><ex>u</ex>s</expan>. Fides <expan><am>∻</am><ex>est</ex></expan> funda<expan><abbr rend="supraline">m</abbr><ex>en</ex></expan>t<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> <expan><am>ꝙ</am><ex>quod</ex></expan> <expan><abbr rend="supraline">i</abbr><ex>m</ex></expan>mutari <expan><abbr rend="supraline">n</abbr><ex>on</ex></expan> <expan>p<am>&#x36D;</am><ex>otest</ex></expan>. Fides ista 
+<lb/>ualde <expan>necc<am>&#x1DD3;</am><ex>essaria</ex></expan> <expan><am>∻</am><ex>est</ex></expan> uo<expan><abbr rend="stroke">b</abbr><ex>is</ex></expan> in <expan><am>ꝯ</am><ex>con</ex></expan>flictu adu<expan><am>&#x33E;</am><ex>er</ex></expan>sus aerios hostes⸵ <expan><am>ẜ</am><ex>secundum</ex></expan> <expan>i<abbr rend="stroke">ll</abbr><ex>u</ex>d</expan> 
+<lb/>egregii u<expan><am>&#x33E;</am><ex>er</ex></expan>sificatoris. P<expan><am>&#x365;</am><ex>ri</ex></expan>ma petit c<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan>p<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> dubia sub sorte 
+<lb/>duelli⸵ pugnat<expan><am>&#x1DD1;</am><ex>ur</ex></expan>a fides. <expan>S<am>ꝫ</am><ex>et</ex></expan> <expan>q<am>ꝛ</am><ex>uia</ex></expan> fides in simbo<expan><abbr rend="stroke">l</abbr><ex>is</ex></expan> <expan><am>ꝯ</am><ex>con</ex></expan>sistit⸵ ui<pc rend="hyphen"/>
+<lb break="no"/>deam<expan><am>ꝰ</am><ex>us</ex></expan> q<expan><am>&#x366;</am><ex>uo</ex></expan>t sint simbola u<expan><ex>e</ex><abbr rend="stroke">l</abbr></expan> simboli. <expan>q<am>ꝛ</am><ex>uia</ex></expan> t<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan> <expan>b<ex>e</ex><abbr resp="supraline">n</abbr><ex>e</ex></expan> <expan>d<ex>icitu</ex>r<am>&#x1DD1;</am></expan> <expan>h<am>&#x365;</am><ex>ic</ex></expan> simbo<pc rend="hyphen"/>
+<lb break="no"/>lus⸵ <expan><am>ꝙ&#x1DD3;</am><ex>quam</ex></expan> <expan>h<am>&#x307;</am><ex>oc</ex></expan> simbol<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan>. Tres <expan>a<abbr rend="supraline">u</abbr><ex>tem</ex></expan> <expan>s<ex>un</ex><abbr rend="supraline">t</abbr></expan> simboli u<expan><ex>e</ex><abbr rend="stroke">l</abbr></expan> simbola. Est <expan><abbr rend="supraline">a</abbr><ex>utem</ex></expan> 
+<lb/>simbol<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> <expan>ap<ex>osto</ex><abbr rend="stroke">l</abbr>o<am>ꝝ</am><ex>rum</ex></expan> <expan>siu<am>&#x307;</am><ex>e</ex></expan> laico<expan><am>ꝝ</am><ex>rum</ex></expan>. <expan><am>∻</am><ex>est</ex></expan> <expan><am rend="supraline crossed">⁊</am><ex>etiam</ex></expan> simbol<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> <add place="overstrike"><name>athanasii</name></add> <expan>e<am rend="supraline">p</am><ex>iscop</ex>i</expan>⸵ <expan>q<ex>uo</ex><abbr rend="stroke">d</abbr></expan> 
+<lb/>cantat<expan><am>&#x1DD1;</am><ex>ur</ex></expan> in hora p<expan><am>&#x365;</am><ex>ri</ex></expan>ma. Et <expan>q<am>ꝛ</am><ex>uia</ex></expan> pleni<expan><am>ꝰ</am><ex>us</ex></expan> <expan><am rend="crossed">⁊</am><ex>et</ex></expan> <expan><am>ꝑ</am><ex>per</ex></expan>fecti<expan><am>ꝰ</am><ex>us</ex></expan> <expan><am>ꝯ</am><ex>con</ex></expan>tinet<expan><am>&#x1DD1;</am><ex>ur</ex></expan> fi<pc rend="hyphen"/>
+<lb break="no"/>des in illo simbolo⸵ <expan rend="supraline">i<ex>de</ex>o</expan> de illo p<expan><am>&#x365;</am><ex>ri</ex></expan>mo dicend<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan>. 
+</p>
+<p>
+<lb/><q rend="underline-red" type="lemma"><hi rend="enlarged blue trim-red">Q</hi>uic<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan><expan>q<am>ꝫ</am><ex>ue</ex></expan> uult saluus <expan rend="supraline">e<ex>ss</ex>e</expan>.</q> Sic ordinate <expan><am>ꝯ</am><ex>con</ex></expan>strict<expan><ex>i</ex><abbr rend="supraline">o</abbr><ex>n</ex></expan>em. 
+<lb/>Op<expan><am>ꝰ</am><ex>us</ex></expan> <expan><am>∻</am><ex>est</ex></expan> ut q<expan><am>&#x365;</am><ex>ui</ex></expan>c<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan><expan>q<am>ꝫ</am><ex>ue</ex></expan> uult salu<expan><am>ꝰ</am><ex>us</ex></expan> <expan rend="supraline">e<ex>ss</ex>e</expan>. <expan>i<ex>d est</ex><am>.</am></expan> q<expan><am>&#x365;</am><ex>ui</ex></expan>c<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan><expan>q<am>ꝫ</am><ex>ue</ex></expan> desi<expan><abbr rend="stroke">d</abbr><ex>er</ex></expan>at <expan>sa<abbr rend="stroke">l</abbr><ex>ute</ex>m</expan> cor<expan><am>ꝑ</am><ex>por</ex></expan><pc rend="hyphen"/>
+<lb break="no"/>is <expan><am rend="crossed">⁊</am><ex>et</ex></expan> <expan>a<ex>n</ex><abbr rend="supraline">i</abbr><ex>m</ex>e</expan>. <expan>q<am>ꝛ</am><ex>uia</ex></expan> duplex salus <expan>h<am>&#x365;</am><ex>ic</ex></expan> notat<expan><am>&#x1DD1;</am><ex>ur</ex></expan>. <expan>s<am>.</am><ex>cilicet</ex></expan> sal<expan><am>ꝰ</am><ex>us</ex></expan> cor<expan><am>ꝑ</am><ex>por</ex></expan>is <expan><am rend="crossed">⁊</am><ex>et</ex></expan> <expan>a<ex>n</ex><abbr rend="supraline">i</abbr><ex>m</ex>e</expan>. 
+<lb/><expan><am rend="crossed">⁊</am><ex>et</ex></expan> ut<expan><am>&#x1DD3;</am><ex>ra</ex></expan><expan>q<am>ꝫ</am><ex>ue</ex></expan> <expan><am>∻</am><ex>est</ex></expan> duplex. <expan><am>∻</am><ex>est</ex></expan> <expan><am>ʜ</am><ex>enim</ex></expan> salus <expan>a<ex>n</ex><abbr rend="supraline">i</abbr><ex>m</ex>e</expan> t<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan><expan><am>ꝑ</am><ex>por</ex></expan>a<expan><abbr rend="stroke">l</abbr><ex>is</ex></expan> <expan><am rend="crossed">⁊</am><ex>et</ex></expan> et<expan><am>&#x33E;</am><ex>er</ex></expan>na<expan><abbr rend="stroke">l</abbr><ex>is</ex></expan>. <expan>t<ex>em</ex><am rend="supraline">ꝑ</am><ex>por</ex>a</expan>lis 
+<lb/><expan><am>∻</am><ex>est</ex></expan> u<expan><am>&#x365;</am><ex>ir</ex></expan>t<expan><am>ꝰ</am><ex>us</ex></expan>. <expan>q<am>ꝛ</am><ex>uia</ex></expan> <expan>si<abbr rend="supraline">c</abbr><ex>ut</ex></expan> <expan>p<ex>e</ex>c<abbr rend="supraline">c</abbr><ex>atu</ex>m</expan> <expan><am>∻</am><ex>est</ex></expan> mors <expan>a<ex>n</ex><abbr rend="supraline">i</abbr><ex>m</ex>e</expan>⸵ ita u<expan><am>&#x365;</am><ex>ir</ex></expan>t<expan><am>ꝰ</am><ex>us</ex></expan> <expan><am>∻</am><ex>est</ex></expan> salus <expan>a<ex>n</ex><abbr rend="supraline">i</abbr><ex>m</ex>e</expan>. <subst><del rend="alt"><expan><am>ẜ</am><ex>secundum</ex></expan></del><add place="overstrike">s</add></subst>al<expan><am>ꝰ</am><ex>us</ex></expan> 
+<lb/>et<expan><am>&#x33E;</am><ex>er</ex></expan>na<expan><abbr rend="stroke">l</abbr><ex>is</ex></expan> <expan><am>∻</am><ex>est</ex></expan> uita et<expan><am>&#x33E;</am><ex>er</ex></expan>na. <expan><am rend="crossed">⁊</am><ex>et</ex></expan> ut<expan><am>&#x1DD3;</am><ex>ra</ex></expan><expan>q<am>ꝫ</am><ex>ue</ex></expan> <expan><am>∻</am><ex>est</ex></expan> affectanda. <expan>si<ex>mi</ex><abbr rend="stroke">l</abbr><ex>ite</ex>r</expan> salus cor<pc rend="hyphen"/>
+<lb break="no"/><expan><am>ꝑ</am><ex>por</ex></expan>is <expan><am>∻</am><ex>est</ex></expan> <expan>t<ex>em</ex><am rend="supraline">ꝑ</am><ex>por</ex>a</expan><expan><abbr rend="stroke">l</abbr><ex>is</ex></expan> <expan><am rend="crossed">⁊</am><ex>et</ex></expan> et<expan><am>&#x33E;</am><ex>er</ex></expan>na<expan><abbr rend="stroke">l</abbr><ex>is</ex></expan>. <expan>t<ex>em</ex><am rend="supraline">ꝑ</am><ex>por</ex>a</expan><expan><abbr rend="stroke">l</abbr><ex>is</ex></expan> <expan><am>ꝙ&#x1DD3;</am><ex>quam</ex></expan> no<expan><abbr rend="stroke">b</abbr><ex>is</ex></expan> <expan><am>ꝯ</am><ex>con</ex></expan>fer<abbr rend="supraline"><unclear>t</unclear></abbr> medici⸵ <expan><abbr rend="supraline">q</abbr><ex>ue</ex></expan> sal<expan><am>ꝰ</am><ex>us</ex></expan> 
+<lb/><expan><abbr rend="supraline">n</abbr><ex>on</ex></expan> <expan><am>∻</am><ex>est</ex></expan> appetenda <expan>n<am>&#x365;</am><ex>isi</ex></expan> sub <expan><am>ꝯ</am><ex>con</ex></expan>dit<expan><ex>i</ex><abbr rend="supraline">o</abbr><ex>n</ex></expan>e tali <expan>m<ex>odo</ex><am>&#x366;</am></expan>. <expan>si<abbr rend="supraline">c</abbr><ex>ut</ex></expan> uult <expan><am rend="crossed">⁊</am><ex>et</ex></expan> scit <subst><del rend="alt">p</del><add place="overstrike">x</add></subst>pe<pc rend="hyphen"/>
+<lb break="no"/>dire ille. <expan>s<am>.</am><ex>cilicet</ex></expan> q<expan><am>&#x365;</am><ex>ui</ex></expan> tal<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> <expan>sa<abbr rend="stroke">l</abbr><ex>ute</ex>m</expan> dedit. est <expan><am rend="supraline crossed">⁊</am><ex>etiam</ex></expan> et<expan><am>&#x33E;</am><ex>er</ex></expan>na<expan><abbr rend="stroke">l</abbr><ex>is</ex></expan>⸵ <expan>s<am>.</am><ex>cilicet</ex></expan> <expan>g<abbr rend="stroke">l</abbr><ex>or</ex>i</expan>fica<pc rend="hyphen"/>
+<lb break="no"/>tio cor<expan><am>ꝑ</am><ex>por</ex></expan>is <expan><abbr rend="supraline">q</abbr><ex>ue</ex></expan>
+</p>
+</body>
+</text>
+</TEI>
