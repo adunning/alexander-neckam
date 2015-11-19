@@ -1,716 +1,716 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
-    schematypens="http://relaxng.org/ns/structure/1.0"?>
+schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng"
-    schematypens="http://purl.oclc.org/dsdl/schematron"?>
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:space="preserve">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title xml:lang="la">Questiones secundum magistrum Alexandrum de Sancto Albano</title>
-                <author xml:id="AN">Alexander Neckam</author>
-                <editor xml:id="AD">Andrew Dunning</editor>
-                <respStmt>
-                    <resp>based on a transcription by</resp>
-                    <name>Tomáš Záhora</name>
-                </respStmt>
-            </titleStmt>
-            <publicationStmt>
-                <authority>Andrew Dunning</authority>
-                <availability>
-                    <licence target="http://creativecommons.org/licences/by-sa/4.0/">Provided under a Creative Commons Attribution-ShareAlike 4.0 International Licence.</licence>
-                    <p>Produced with thanks to the Trustees of Lambeth Palace Library.</p>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc>
-                    <msIdentifier>
-                        <settlement>London</settlement>
-                        <repository>Lambeth Palace Library</repository>
-                        <idno>421</idno>
-                    </msIdentifier>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <editorialDecl>
-                <p>
-                    Transcription made from a black-and-white microfilm, combined with some limited notes on the original manuscript made in October 2013. It is not always possible to tell whether capital letters are indeed highlighted in red, and these should be checked from a colour reproduction. In particular, it is not always possible to tell in the microfilm whether or not 'ergo' is intended to be capitalized, due to the form of the abbreviation.
-                </p>
-                <p>
-                    New questions correspond to versals in the manuscript (as encoded).
-                </p>
-                <p>
-                    Original spelling and punctuation has been retained (with words that might be ambiguous occasionally marked 'sic' to flag unabbreviated forms). Characters from the MUFI private use area have been used for some marks not found in Unicode (from the ENRICH Gaiji Bank).
-                </p>
-                <normalization>
-                    <p>
-                        Hyphens at the ends of lines are not encoded separately from the @break attribute; this has been normalized silently, as hyphenation in the manuscript is not altogether consistent. Abbreviations are expanded silently except in cases of ambiguity or scribal error.
-                    </p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
-    </teiHeader>
-    <text xml:lang="la">
-        <pb n="124v"/>
-        <cb n="a"/>
-        <gap reason="omitted" quantity="13" unit="line"/>
-        <body>
-            <head rend="red enlarged">Incipiunt 
-                <lb/>Questiones secundum magistrum 
-                <lb/>Alexandrum De Sancto Albano.</head>
-            <metamark rend="line-fill"/>
-            <div n="1" type="textpart" subtype="questio">
-                <ab>
-                    <lb/><hi rend="dropcap2 red">Q</hi>ueritur utrum <persName>abraam</persName> alio modo posset 
-                    <lb/>saluari quam fide passionis. <hi rend="fill-red">Q</hi>uod enim 
-                    <lb/>alio modo ante obitum potuit saluari constat. 
-                    <lb/><hi rend="fill-red">A</hi>d<reg> </reg>hec. <hi rend="fill-red">A</hi>dhuc tunc erat deo alius modus pos
-                    <lb break="no"/>sibilis. ergo deus alio modo quam passione potuit 
-                    <lb/>redimere humanum genus. <expan><abbr><hi rend="fill-red">S</hi><am>;</am></abbr><ex>et</ex></expan> si alio modo 
-                    <lb/>redimisset⸵ <persName>abraam</persName> non per fidem passionis 
-                    <lb/>meruisset. quia si aliquid per fidem passionis 
-                    <lb/>meruisset⸵ illa passio tunc presens. aut preterita. 
-                    <lb/>aut futura erat. <hi rend="fill-red">S</hi>ic igitur post mortem aut damp
-                    <lb break="no"/>nari poterat aut alio modo saluari. <hi rend="fill-red">C</hi>ontra hoc. 
-                    <lb/><hi rend="fill-red">I</hi>am erat sanatus. iam meruit per fidem pas
-                    <lb break="no"/>sionis uitam eternam. ergo tunc nec poterat nec me
-                    <lb break="no"/>ruisse per fidem passionis. <hi rend="fill-red">I</hi>tem. <hi rend="fill-red">P</hi>ost mortem 
-                    <lb/>non erat ei relictus locus merendi. nec ad 
-                    <lb/>mereri poterat. ergo nec per alia merita saluari 
-                    <lb/>quam tunc habuerat. ergo tunc non poterat alio modo 
-                    <lb/>saluari⸵ quam fide passionis. qua iam salutem 
-                    <lb/>meruerat.
-                </ab>
-                <div type="textpart" subtype="solutio">
-                    <head rend="red enlarged">Solutio.</head>
-                    <ab>
-                        Forte hiis prodesse potest⸵ 
-                        <lb/>quod si alius modus deo tunc esset possibilis⸵ tamen
-                        <cb n="b"/>
-                        <lb/>iste non potuit alio modo saluari. <hi rend="fill-red">S</hi>icut et si deo 
-                        <lb/>sit possibile istum esse asinum. tamen iste non potest 
-                        <lb/>esse asinus.
-                    </ab>
-                </div>
-                <metamark rend="line-fill"/>
-            </div>
-            <div n="2" type="textpart" subtype="questio">
-                <ab> 
-                    <lb/><hi rend="dropcap2 green">Q</hi>ueritur an <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> antequam <persName>petrus</persName> ipsum negas
-                    <lb break="no"/>set⸵ uellet seuerum dixisse. cum dixerit <persName>petro</persName>.
-                    <lb/><quote source="Bible.Vul:Matt.26.34; Matt.26.75; Mark.14.72; Luke.22.61">Ter me negabis.</quote> <hi rend="fill-red">E</hi>t si hoc⸵ an uellet esse uerum 
-                    <lb/><persName>petrum</persName> ipsum esse negaturum. <hi rend="fill-red">E</hi>t si hoc⸵ an uel
-                    <lb break="no"/>let <persName>petrum</persName> criminaliter peccare. <hi rend="fill-red">A</hi>d hoc. <hi rend="fill-red">C</hi>um 
-                    <lb/><persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> uellet se in nullo dicto suo esse mendacem 
-                    <lb/>et idem uellet dicere⸵ uidetur aliquod uerum se 
-                    <lb/>dixisse hoc dicendo. et sic postea uoluit se uerum 
-                    <lb/>dixisse. et sic uoluit esse uerum <persName>petrum</persName> se esse ne
-                    <lb break="no"/>gaturum. <hi rend="fill-red">C</hi>ontra. hoc faciendo <persName>petrus</persName> mortaliter 
-                    <lb/>peccauit. <hi rend="fill-red">E</hi>rgo hoc <persName>petrum</persName> tacere uoluit deus. 
-                </ab>
-                <div type="textpart" subtype="solutio">
-                    <head rend="red enlarged">Solutio.</head> 
-                    <ab>
-                        <lb/><persName><expan><abbr><am>X<g ref="#e665">p</g>c</am></abbr><ex>Christus</ex></expan></persName> uoluit se dicere id quod uerum erat. et sic 
-                        <lb/>uoluit se dicere illud uerum. et tamen non uoluit 
-                        <lb/>illud esse uerum. <hi rend="fill-red">S</hi>icut iste uult se dicere hoc ue
-                        <lb break="no"/>rum patrem suum moriturum. non tamen uult
-                        <lb/>esse uerum. <hi rend="fill-red">I</hi>tem. <hi rend="fill-red">N</hi>on est concedendum quod <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> 
-                        <lb/>tunc uellet <persName>petrum</persName> se non esse negaturum. cum 
-                        <lb/>uoluntati eius nemo resistere queat. tamen hoc 
-                        <lb/>probari posse uidetur. <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> displicuit quod <persName>petrus</persName> 
-                        <lb/>cum negauit. et cetera. <hi rend="fill-red">E</hi>rgo <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>o</abbr></expan></persName> placuit quod <persName>petrus</persName> 
-                        <lb/>eum non negaret. et cetera. <hi rend="fill-red">F</hi>allacia. <persName><expan><abbr><am>X<g ref="#e665">p</g>c</am></abbr><ex>Christus</ex></expan></persName> non 
-                        <lb/>uult peccatum esse. <hi rend="fill-red">E</hi>rgo <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> uult peccatum non esse. prima 
-                        <lb/>uera⸵ quia non est auctor peccati. <hi rend="fill-red"><!-- I think, but it's hard to tell in the microfilm. -->C</hi>onclusio falsa⸵ 
-                        <lb/>quia falsum est ipsum uelle⸵ quia permittit.
-                    </ab>
-                </div>
-                <metamark rend="line-fill"/>
-            </div>
-            <div n="3" type="textpart" subtype="questio">
-                <ab>
-                    <lb/><hi rend="dropcap2 red">Q</hi>ueritur utrum omne uerum a<reg> </reg>deo sit uerum. 
-                    <lb/><hi rend="fill-red">O</hi>mne uerum a<reg> </reg>deo est uerum. <hi rend="fill-red">A</hi>d hoc⸵ <hi rend="fill-red">A</hi>ucto
-                    <lb break="no"/>ritates plurime. ut hee. <hi rend="fill-red">C</hi>uiusque ueri deus est auctor. 
-                    <lb/><hi rend="fill-red">I</hi>tem. <hi rend="fill-red">O</hi>mne uerum a<reg> </reg>ueritate uerum. <hi rend="fill-red">E</hi> contra
-                    <lb break="no"/>rie sunt rationes. <hi rend="fill-red">N</hi>am istum adulterari ue
-                    <lb break="no"/>rum est. quod si deo auctore uerum est⸵ deus uult 
-                    <lb/>hoc esse uerum. et deo placet hoc esse uerum. <hi rend="fill-red">N</hi>um
-                    <lb break="no"/>quid ergo placet deo istum esse adulterum? <hi rend="fill-red">A</hi>bsit. 
-                </ab>
-                <div type="textpart" subtype="solutio">
-                    <lb/><head rend="red enlarged">Solutio</head> 
-                    <ab>
-                        Dicunt ergo predictas auctoritates tantum
-                        <pb n="125r"/>
-                        <cb n="a"/>
-                        <lb break="no"/>de<reg> </reg>hiis ueris esse intelligendas⸵ que pertinent ad <expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>i
-                                <lb break="no"/>anam</abbr></expan> religionem. <hi rend="fill-red">A</hi>lii dicunt omne uerum 
-                        <lb/>a<reg> </reg>deo esse. set non omne uerum a<reg> </reg>deo esse uerum.
-                    </ab>
-                </div>
-            </div>
-            <div n="4" type="textpart" subtype="questio">
-                <ab> 
-                    <lb/><hi rend="dropcap2 green">Q</hi>ueritur an potius sit habere fidem et peccare⸵ 
-                    <lb/>quam non habere fidem et peccare. <hi rend="fill-red">A</hi>d hoc. 
-                    <lb/><hi rend="fill-red">Q</hi><unclear>uoniam</unclear> melius est ignorare ueritatem⸵ quam post ag
-                    <lb break="no"/>nitam retro abire. <hi rend="fill-red">I</hi>tem super epistulam ad <persName>Iacobum</persName><g ref="#f1e2">,</g> 
-                    <lb/><quote><hi rend="fill-red">P</hi>eccantes admone ut se a<reg> </reg>peccatis contineant. 
-                        <lb/>ne sibi dampnabile sit quod fidei sacramentum per
-                        <lb break="no"/>ceperunt.</quote> <hi rend="fill-red">I</hi>tem. <quote><hi rend="fill-red">P</hi>lus est illi commissum qui fidem 
-                        <lb/>habet⸵ quam infideli. et sic plus offendit quam 
-                        <lb/>infidelis.</quote> <hi rend="fill-red">I</hi>tem. <expan><hi rend="fill-red">Aug</hi><ex>ustinus</ex></expan>. <quote><hi rend="fill-red"><!-- Check -->G</hi>rauiora sunt peccata 
-                        <lb/>post <sic>baptissimum</sic>⸵ quam ante.</quote> <hi rend="fill-red">C</hi>ontra. <hi rend="fill-red">Q</hi>ui 
-                    <lb/>fidem habet et peccat⸵ per hoc quod fidem habet 
-                    <lb/>non meretur quod puniatur⸵ saltem meretur 
-                    <lb/>quod puniatur. minus. quam si fidem non haberet. 
-                    <lb/><hi rend="fill-red">H</hi>abet enim aliquod bonum remunerabile⸵ ille 
-                    <lb/>nullum. <hi rend="fill-red">I</hi>tem. <hi rend="fill-red">P</hi>otest quis habere fidem et super
-                    <lb break="no"/>edificare lignum. fenum. stipulam. et sic tamen 
-                    <lb/>uenialia peccata habere. set non potest aliquis 
-                    <lb/>esse infidelis et non habere mortale. Ergo minus ma
-                    <lb break="no"/>lum est peccare et habere fidem⸵ quam et cetera.
-                </ab>
-                <div type="textpart" subtype="solutio">
-                    <lb/><head rend="red enlarged">Solutio</head>
-                    <ab>
-                        Peccare et habere fidem. et peccare et 
-                        <lb/>non habere fidem sunt excedentia et excessa. gra
-                        <lb break="no"/>uius enim peccat quam fidelis. quia scienter 
-                        <lb/>peccat. ignoranter enim peccat infidelis. <hi rend="fill-red">C</hi>ontra 
-                        <lb/>uero quandoque grauius peccat indifelis. quia 
-                        <lb/>mortaliter. quandoque fidelis uenialiter. set in 
-                        <lb/>eodem peccato deprehenduntur. et uterque id scienter 
-                        <lb/>commiserit. plus dicimus fidelem deliquisse. quis 
-                        <lb/>post baptismum grauiora sunt et cetera.
-                    </ab>
-                </div>
-                <metamark rend="line-fill"/>
-            </div>
-            <div n="5" type="textpart" subtype="questio">
-                <ab> 
-                    <lb/><hi rend="dropcap2 red">Q</hi>ueritur an lex perfectum reddat. <hi rend="fill-red">C</hi>ontra 
-                    <lb/>hoc autem quod ait. <hi rend="fill-red">L</hi>ex neminem ad perfec
-                    <lb break="no"/>tum ducit. <hi rend="fill-red">A</hi>d hoc. <hi rend="fill-red">L</hi>ex spiritualiter intellecta 
-                    <lb/>et ita custodita⸵ ad uitam eternam ducit. <!-- Find out if 'e' is rubricated. -->ergo. ad per
-                    <lb break="no"/>fectum. Item. Vnum preceptum legis hoc. <hi rend="fill-red">S</hi>i dili
-                    <cb n="b" break="no"/>
-                    <lb break="no"/>gis proximum. et cetera. <hi rend="fill-red">A</hi>d uitam eternam ducit. 
-                    <lb/><hi rend="fill-red">E</hi>rgo falsum est quod lex neminem ad perfectum 
-                    <lb/>ducit. <hi rend="fill-red">A</hi>d hoc dicendum. quod nomen legis mul
-                    <lb break="no"/>tipliciter accipitur. 
-                </ab>
-                <div type="textpart" subtype="solutio">
-                    <head rend="red enlarged">Solutio</head> 
-                    <ab>
-                        Quandoque <expan><abbr><am>x&#x365;</am></abbr><ex>christi</ex></expan> 
-                        <lb/>precepta dicuntur lex. <hi rend="fill-red">Q</hi>uandoque. <num value="5"><hi rend="fill-red">V</hi>.</num> libri <unclear>moisi</unclear>. 
-                        <lb/><hi rend="fill-red">Q</hi>uandoque totum uetum testamentura. et item 
-                        <lb/>lex dicitur. <hi rend="fill-red">L</hi>ex tantum ad litteram intellec
-                        <lb break="no"/>ta. <hi rend="fill-red">V</hi>nde dicitur. <hi rend="fill-red">D</hi>edi uobis legem non bonam 
-                        <lb/>ut non uiuatis in ea. <hi rend="fill-red">I</hi>tem. lex dicitur quod 
-                        <lb/>spiritualiter intelligitur. et secundum hoc ducit 
-                        <lb/>ad perfectum. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> secundum quod ad litteram non.
-                    </ab>
-                </div>
-                <metamark rend="line-fill"/>
-            </div>
-            <div n="6" type="textpart" subtype="questio">
-                <ab> 
-                    <lb/><hi rend="dropcap2 green">Q</hi>ueritur an <space quantity="5" unit="character"/>precepto diligere dominum 
-                    <lb/>deum ex<reg> </reg>toto corde et cetera. <hi rend="fill-red">A</hi>liud sit equale. 
-                    <lb/><hi rend="fill-red">A</hi>d hoc. <hi rend="fill-red">Q</hi><unclear>uoniam</unclear> secundum est simile. <hi rend="fill-red">D</hi>iliges proxi
-                    <lb break="no"/>mum tuum. et cetera. <hi rend="fill-red">V</hi>nde uidetur quod sit equale 
-                    <lb/>illi quia simile. <hi rend="fill-red">C</hi>ontra. <hi rend="fill-red">S</hi>i est maximum⸵ nul
-                    <lb break="no"/>lum aliud est eque magnum. sicut fides est dig
-                    <lb break="no"/>nissima et prima uirtus. <hi rend="fill-red"><!-- check -->E</hi>t tamen nec ipsa ante 
-                    <lb/>alias datur. nec uerum est quod nulla alia a<reg> </reg>deo 
-                    <lb/>digna sit. <hi rend="fill-red">D</hi>icatur ergo<!-- Surely that's an example of the small cap g being used for 'ergo'; though it looks rubricated on the microfilm, I think that's an illusion. Is it only the height that can be trusted? --> sic. <hi rend="fill-red">I</hi>llud preceptum est 
-                    <lb/>maximum omnium. <hi rend="fill-red">E</hi>rgo nullum aliud est 
-                    <lb/>eque magnum. <hi rend="fill-red">S</hi>ic sequitur ex<reg> </reg>premisso et 
-                    <lb/>concedenda est conclusio. <expan><abbr><hi rend="fill-red">S</hi><am>;</am></abbr><ex>et</ex></expan> ex hoc quod dicitur. 
-                    <lb/><quote source="Bible.Vul:Mark.12.31">secundum est simile illi</quote>. non prouenit quod sit ei equa
-                    <lb break="no"/>le. 
-                </ab>
-                <div type="textpart" subtype="solutio">
-                    <head rend="red enlarged">Solutio</head> 
-                    <ab>
-                        Dicitur enim ei similem non quia 
-                        <lb/>tanti sit meriti⸵ set quia ad<reg> </reg>idem pertinent. et 
-                        <lb/>propter idem est obseruandum. Diligendus est 
-                        <lb/>deus propter deum⸵ <hi rend="fill-red">S</hi>ic proximus propter deum.
-                    </ab>
-                </div>
-                <metamark rend="line-fill"/>
-            </div>
-            <div n="7" type="textpart" subtype="questio">
-                <ab> 
-                    <lb/><hi rend="dropcap2 red">Q</hi>ueritur an trinitas habeat perfectam cog
-                    <lb break="no"/>nitionem trinitatis. <hi rend="fill-red">Q</hi>uod si ita est⸵ set 
-                    <lb/>quelibet istarum trium personarum habet per
-                    <lb break="no"/>fectam cogn<supplied reason="omitted">iti</supplied>o<supplied reason="omitted">nem</supplied><space quantity="7" unit="character"/> in<reg> </reg>trinitate <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> patris. et 
-                    <lb/>filii. et <persName><expan><abbr>sp<am>c</am></abbr><ex>iritus</ex></expan></persName> <expan><abbr>s</abbr><ex>an</ex><abbr>c</abbr><ex>t</ex><abbr>i</abbr></expan>. <expan><abbr><hi rend="fill-red">S</hi><am>;</am></abbr><ex>et</ex></expan> ille homo assumptus est 
-                    <lb/>tercia persona in<reg> </reg>trinitate. <hi rend="fill-red"><!-- check -->E</hi>rgo ille homo assumptus 
-                    <lb/>habet perfectam cognitionem in<reg> </reg>trinitate. Fallacia. 
-                    <lb/>Filius est genitus a<reg> </reg>patre. set ille homo assumptus<supplied reason="omitted">.</supplied>
-                    <pb n="125v"/>
-                    <cb n="a"/>
-                    <lb/><!-- check rubrication --><hi rend="fill-red">E</hi>rgo ille assumptus est genitus a<reg> </reg>patre. <hi rend="fill-red">I</hi>tem falla
-                    <lb break="no"/>tia. <hi rend="fill-red">Q</hi>uelibet istarum trium personarum habet 
-                    <lb/>perfectam cognitionem natura. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> ille homo 
-                    <lb/>assumptus est tertcia persona. <hi rend="fill-red">E</hi>rgo ille homo habet perfectam 
-                    <lb/>cognitionem trinitatis natura. 
-                </ab>
-                <div type="textpart" subtype="solutio">
-                    <head rend="red enlarged">Solutio</head> 
-                    <ab>
-                        <hi rend="fill-red">F</hi>ilius 
-                        <lb/>dei habet perfectam cognitionem trinitatis natura. 
-                        <lb/>et filius uirginis per gratiam. quia quicquid filius dei habet 
-                        <lb/>per naturam⸵ filius uirginis habet per gratiam. <hi rend="fill-red">N</hi>ota. 
-                        <lb/><hi rend="fill-red">Q</hi>uod deus pater alius est quam deus filius. et deus 
-                        <lb/>filius alius quam deus <del><unclear>a </unclear></del><persName><expan><abbr>sp<am>c</am></abbr><ex>iritus</ex></expan></persName> <expan><abbr>s</abbr><ex>an</ex><abbr>c</abbr><ex>tu</ex><abbr>s</abbr></expan>. <hi rend="fill-red">A</hi>lius⸵ et non 
-                        <lb/>aliud. Alius ad personam⸵ aliud uero ad <space quantity="8" unit="character"/><supplied reason="omitted">essentiam</supplied> 
-                        <lb/>refertur.
-                    </ab>
-                </div>
-                <metamark rend="line-fill"/>
-            </div>
-            <div n="8" type="textpart" subtype="questio">
-                <ab> 
-                    <lb/><hi rend="dropcap2 green">Q</hi>ueritur an potestas diaboli ablata sit dia
-                    <lb break="no"/>bolo post mortem <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>i</abbr></expan></persName>. <hi rend="fill-red">Q</hi>uia auctoritas 
-                    <lb/>est quod potestas diaboli et cetera. <hi rend="fill-red">Q</hi>uod non uidetur. quia 
-                    <lb/>magis punit. temptat. <hi rend="fill-red">V</hi>exat. homines post mor
-                    <lb break="no"/>tem <expan><abbr><am>x&#x365;</am></abbr><ex>christi</ex></expan>⸵ quam ante. 
-                </ab>
-                <div type="textpart" subtype="solutio">
-                    <head rend="red enlarged">Solutio</head> 
-                    <ab>
-                        Potestas ablata est 
-                        <lb/>diabolo et cetera <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> gratia dei nobis. inspirata est post 
-                        <lb/>mortem <expan><abbr><am>x&#x365;</am></abbr><ex>christi</ex></expan> qua possumus resistere peccatis et 
-                        <lb/>potestati eius.
-                    </ab>
-                </div>
-                <metamark rend="line-fill"/>
-            </div>
-            <div n="9" type="textpart" subtype="questio">
-                <ab> 
-                    <lb/><hi rend="dropcap2 red">Q</hi>ueritur an <persName>abraam</persName> promeruisset uitam 
-                    <lb/>eternam ante mortem <expan><abbr><am>x&#x365;</am></abbr><ex>christi</ex></expan>. <hi rend="fill-red">Q</hi>uod si ita est⸵ Set 
-                    <lb/><persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> non dedit ei uitam eternam ante mortem suam. 
-                    <lb/>Ergo iniuste egit in <persName>abraam</persName>. 
-                </ab>
-                <div type="textpart" subtype="solutio">
-                    <head rend="red enlarged">Solutio.</head> 
-                    <ab>
-                        <hi rend="fill-red">N</hi>on me
-                        <lb break="no"/>ruit ut tunc haberet⸵ <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> ut post mortem <expan><abbr><am>x&#x365;</am></abbr><ex>christi</ex></expan> uitam 
-                        <lb/>eternam. haberet. <hi rend="fill-red">S</hi>icut iste iustus promeruit 
-                        <lb/>glorificationem sui corporis non ut nunc haberet. 
-                        <lb/>set ut post diem iudicii.
-                    </ab>
-                </div>
-                <metamark rend="line-fill"/>
-            </div>
-            <div n="10" type="textpart" subtype="questio">
-                <ab> 
-                    <lb/><hi rend="dropcap2 green">Q</hi>ueritur an iste uelit patrem suum mori⸵ 
-                    <lb/>quem scit deum uelle mori. <hi rend="fill-red">Q</hi>uod si ita est⸵ ergo est 
-                    <lb/>contrarius uoluntati dei. <hi rend="fill-red">V</hi>el aliter. <hi rend="fill-red">E</hi>rgo scienter pec
-                    <lb break="no"/>cat resistendo uoluntati dei. <hi rend="fill-red">E</hi>rgo criminaliter 
-                    <lb/>peccat. <hi rend="fill-red">I</hi>tem. <hi rend="fill-red">I</hi>ste uult patrem suum mori. <hi rend="fill-red">E</hi>rgo 
-                    <lb/>inhumanus est. 
-                </ab>
-                <div type="textpart" subtype="solutio">
-                    <head rend="red enlarged">Solutio</head> 
-                    <ab>
-                        <hi rend="fill-red">I</hi>ste non uult pa
-                        <lb break="no"/>trem suum mori. <expan><abbr><hi rend="fill-red">S</hi><am>;</am></abbr><ex>et</ex></expan> compatiendo ei quod deus uult. 
-                        <lb/>et ita non est contrarius uoluntati dei.
-                        <cb n="b"/>
-                    </ab>
-                </div>
-                <metamark rend="line-fill"/>
-            </div>
-            <div n="11" type="textpart" subtype="questio">
-                <ab> 
-                    <lb/><hi rend="dropcap2 red">Q</hi>ueritur an preterita. presentia. futura. sint apud 
-                    <lb/>deum. <hi rend="fill-red">Q</hi>uod si ita est⸵ <hi rend="fill-red">E</hi>rgo passio <expan><abbr><am>x&#x365;</am></abbr><ex>christi</ex></expan>. flagella. et sputa. 
-                    <lb/>sunt presentia. 
-                </ab>
-                <div type="textpart" subtype="solutio">
-                    <head rend="red enlarged">Solutio</head> 
-                    <ab>
-                        Presentia sunt non experien
-                        <lb break="no"/>tia. nec actu⸵ set scientia.
-                    </ab>
-                </div>
-                <metamark rend="line-fill"/>
-            </div>
-            <div n="12" type="textpart" subtype="questio">
-                <ab> 
-                    <lb/><hi rend="dropcap2 green">D</hi>ue sunt nature in <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>i</abbr></expan></persName>. et tres substantie. sci
-                    <lb break="no"/>licet humana natura et diuina. <hi rend="fill-red">D</hi>ue sunt 
-                    <lb/>substantie secundum quod homo. scilicet caro et anima. 
-                    <lb/><hi rend="fill-red">S</hi>ecundum quod deus⸵ tertia⸵ que idem est quod diuina <del><gap reason="illegible" quantity="3" unit="character"/></del><add place="right">natu</add>
-                    <lb break="no"/>ra. <hi rend="fill-red">S</hi>ecundum quod homo⸵ opponitur sic. <hi rend="fill-red">D</hi>ue nature sunt 
-                    <lb/>in <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>i</abbr></expan></persName>. una creata et altera increata. ergo rationalis 
-                    <lb/>et irrationalis. <hi rend="fill-red">S</hi>ic collectiue accipiatur creatura<g ref="#f1e2">,</g> 
-                    <lb/>sicut natura⸵ bene potest concedi. quod sit creatura. 
-                    <lb/><expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> est creatur caro et anima. <hi rend="fill-red">N</hi>on rationalis secundum 
-                    <lb/>carnem⸵ rationalis secundum animam. <hi rend="fill-red">I</hi>tem. <persName><expan><abbr><am><!-- <sic> used here instead of <hi> due to current schema --><sic rend="fill-red">X</sic><g ref="#e665">p</g>c</am></abbr><ex>Christus</ex></expan></persName> est factus 
-                    <lb/>secundum quod homo. <hi rend="fill-red">E</hi>rgo est creatus secundum quod homo. <hi rend="fill-red">E</hi>rgo est 
-                    <lb/>creatura secundum quod homo. uel non omne creatum 
-                    <lb/>est creatura. <hi rend="fill-red">F</hi>allacia. <persName><expan><abbr><am><!-- <sic> used here instead of <hi> due to current schema --><sic rend="fill-red">X</sic><g ref="#e665">p</g>c</am></abbr><ex>Christus</ex></expan></persName> natus est secundum quod homo. 
-                    <lb/>ergo. est factus secundum quod homo. Ergo est factura secundum quod 
-                    <lb/>homo. uel omne factum non est factura. <hi rend="fill-red">Q</hi>uod 
-                    <lb/><persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> sit aliquod factum. uel creatum. uel creatu
-                    <lb break="no"/>ra⸵ non debet concedi.
-                </ab>
-                <metamark rend="line-fill"/>
-            </div>
-            <div n="13" type="textpart" subtype="questio">
-                <ab> 
-                    <lb/><hi rend="dropcap2 red">Q</hi>uoniam coniugium in utroque testamento a do
-                    <lb break="no"/>mino conceditur⸵ aliquid compendiose dissera
-                    <lb break="no"/>mus. <hi rend="fill-red">C</hi>oniugium est uel matrimonium. siue nup
-                    <lb break="no"/>tie⸵ legittima uiri et mulieris coniunctio. indiui
-                    <lb break="no"/>duam uite consuetudinem retinens. <hi rend="fill-red">D</hi>ue sunt 
-                    <lb/>cause principales coniugii. scilicet spes prolis. et 
-                    <lb/>uitacio fornicationis. <hi rend="fill-red">S</hi>ecundarie cause sunt 
-                    <lb/>plures. scilicet reconciliatio amicorum. <hi rend="fill-red">P</hi>ulcri
-                    <lb break="no"/>tudo uiri et mulieris. <hi rend="fill-red">Q</hi>uestus pecunie. <hi rend="fill-red">I</hi>n quibus 
-                    <lb/>secundariis. quamuis sint minus honeste⸵ tamen 
-                    <lb/>in illis diuortium fieri non permittitur. <hi rend="fill-red">S</hi>imiliter 
-                    <lb/>tria bona principalia coniugii esse. dicuntur. quibus 
-                    <lb/>peccatum quod fit in coitu excusatur. scilicet. fides. pro
-                    <lb break="no"/>les. sacramentum. <hi rend="fill-red">I</hi>n fide attenditur ne quis cum 
-                    <lb/>alio uel cum alia preter uinculum coniugale con
-                    <pb n="126r" break="no"/>
-                    <cb n="a" break="no"/>
-                    <lb break="no"/>misceatur. <hi rend="fill-red">I</hi>n prole attenditur ne quis conmisce
-                    <lb break="no"/>atur nisi spe prolem generandi. et eam religiose 
-                    <lb/>educandi. <hi rend="fill-red">I</hi>n<reg> </reg>sacramento attenditur ne coniu
-                    <lb break="no"/>gium separetur. <hi rend="fill-red">D</hi>icitur enim sacramentum sacre 
-                    <lb/>rei signum.
-                </ab>
-                <metamark rend="line-fill"/>
-            </div>
-            <div n="14" type="textpart" subtype="questio">
-                <ab> 
-                    <lb/><hi rend="dropcap2 green">S</hi>tultus et iniquus est qui tenet illam quam 
-                    <lb/>scit esse adulteram. set iste scit suam quam 
-                    <lb/>tenet esse adulteram nec potest eam conuincere 
-                    <lb/>communi ecclesie audientia. <hi rend="fill-red">E</hi>rgo est stultus et ini
-                    <lb break="no"/>quus. 
-                </ab>
-                <div type="textpart" subtype="solutio">
-                    <head rend="red enlarged">Solutio.</head> 
-                    <ab>
-                        Si consentiendo tenet quam 
-                        <lb/>scit esse adulteram⸵ stultus est et iniquus.
-                    </ab>
-                </div>
-                <metamark rend="line-fill"/>
-            </div>
-            <div n="15" type="textpart" subtype="questio">
-                <ab> 
-                    <lb/><hi rend="dropcap2 red">Q</hi>ueritur unusquisque possit operari ad salutem. 
-                    <lb/><hi rend="fill-red">Q</hi>uod non uidetur. <hi rend="fill-red">Q</hi>uia unusquisque non habet 
-                    <lb/>sine qua nullus potest operari ad salutem. 
-                </ab>
-                <div type="textpart" subtype="solutio">
-                    <head rend="red enlarged">Solutio.</head> 
-                    <ab>
-                        <lb/><hi rend="fill-red">P</hi>otest quantum ad naturam. uel ad liberum ar
-                        <lb break="no"/>bitrium⸵ non potest quantum ad gratiam.
-                    </ab>
-                </div>
-                <metamark rend="line-fill"/>
-            </div>
-            <div n="16" type="textpart" subtype="questio">
-                <ab> 
-                    <lb/><hi rend="dropcap2 green">P</hi>robatur quod posse peccare quod bonum est. et hoc 
-                    <lb/>per primum parentem qui habuit potenti
-                    <lb break="no"/>am peccandi. qui nichil a se set a<reg> </reg>deo. et a<reg> </reg>deo 
-                    <lb/>nisi bonum. et ita posse peccare bonum est. <hi rend="fill-red">N</hi>ota. 
-                    <lb/><hi rend="fill-red">H</hi>oc aliter in primo parente aliter in nobis. <hi rend="fill-red">I</hi>n eo⸵ 
-                    <lb/>creatione tantum. <hi rend="fill-red">I</hi>n nobis⸵ creatione et natiuita
-                    <lb break="no"/>te. et infirmitate. <hi rend="fill-red">I</hi>tem. <hi rend="fill-red">N</hi>ota. <hi rend="fill-red">T</hi>res leguntur 
-                    <lb/>status hominum in diuina pagina. <hi rend="fill-red">P</hi>rimus⸵ 
-                    <lb/>ante lapsum primi parentis in quo datum erat 
-                    <lb/>ei posse peccare et resistere peccato. <hi rend="fill-red">S</hi>ecundus⸵ 
-                    <lb/>status⸵ post lapsum. <hi rend="fill-red">V</hi>nde habuit posse peccare 
-                    <lb/>quia <unclear>tum</unclear> nollet non peccaret dum posset peccare 
-                    <lb/>et non peccare. cum uellet non posse peccare. in
-                    <lb break="no"/>flictum est ei non posse peccare.
-                </ab>
-                <metamark rend="line-fill"/>
-            </div>
-            <div n="17" type="textpart" subtype="questio">
-                <ab> 
-                    <lb/><hi rend="dropcap2 red">Q</hi>ueritur de angelis bonis post lapsum con
-                    <lb break="no"/>firmatis si possint peccare an non. <expan><hi rend="fill-red">I</hi>eron<ex>imus</ex></expan>. 
-                    <lb/><quote><hi rend="fill-red">I</hi>n <!-- erasure? -->solum deum non cadit peccatum.</quote> <hi rend="fill-red">V</hi>nde ui
-                    <lb break="no"/>detur quod angeli possint peccare. <expan><hi rend="fill-red">Aug</hi><ex>ustinus</ex></expan>. Cum angeli 
-                    <lb/>noluerunt peccare cum potuerunt. concessum 
-                    <lb/>est eis amplius non posse peccare. 
-                </ab>
-                <div type="textpart" subtype="solutio">
-                    <head rend="red enlarged">Solutio.</head>
-                    <ab>
-                        <cb n="b"/>
-                        <expan><hi rend="fill-red">Ier</hi><ex>onimus</ex></expan>. considerata simplicitate nature⸵ possunt 
-                        <lb/>peccare. <hi rend="fill-red">S</hi>ecundum <expan><hi rend="fill-red">Aug</hi><ex>ustinum</ex></expan>. <hi rend="fill-red">G</hi>ratia adhibita nature 
-                        <lb/>non possunt peccare. et sic concedendum est 
-                        <lb/>angelos non posse peccare. <hi rend="fill-red">P</hi>robatur superi
-                        <lb break="no"/>us quod posse peccare bonum est. quod sic impro
-                        <lb break="no"/>batur ratione dialectica. <hi rend="fill-red">C</hi>uius effectus ma
-                        <lb break="no"/>lus est⸵ ipsum quoque malum est. <hi rend="fill-red">E</hi>ffectus pos
-                        <lb break="no"/>se peccare est malus <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> peccatum. <hi rend="fill-red">E</hi>rgo posse 
-                        <lb/>peccare malum est. Fallacia. <hi rend="fill-red">E</hi>ffectus pre
-                        <lb break="no"/>dicationis malus est <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> lucrum. <hi rend="fill-red">E</hi>rgo predicatio 
-                        <lb/>mala est. <hi rend="red enlarged">Solutio</hi> <hi rend="fill-red">E</hi>ffectus rei quandoque 
-                        <lb/>duplex est effectus qui sequitur. uel qui potest 
-                        <lb/>sequi. <hi rend="fill-red">S</hi>i effectus quidem qui sequitur<!-- puncutation added? --> ma
-                        <lb break="no"/>lus est⸵ et ipsum malum est. <hi rend="fill-red">S</hi>i effectui qui 
-                        <lb/>potest sequi malus est⸵ non tamen ipsum 
-                        <lb/>malum est. <expan><hi rend="fill-red">Aug</hi><ex>ustinus</ex></expan>. <hi rend="fill-red">O</hi>mnia bona humane 
-                        <lb/>nature post lapsum primi parentis dimi
-                        <lb break="no"/>nuta <add place="right"><expan><abbr>s<am>.</am></abbr><ex>cilicet</ex></expan><!-- unclear if there is more cut off --></add> est. <hi rend="fill-red">P</hi>osse peccare ante lapsum primi 
-                        <lb/>patris bonum fuit nature. <hi rend="fill-red">E</hi>rgo posse peccare 
-                        <lb/>post lapsum diminutum est. quod non uide
-                        <lb break="no"/>tur. quia tunc uoluntate⸵ nunc necessitate 
-                        <lb/>et ita augmentatio est. <hi rend="fill-red">I</hi>llud bonum posse pec
-                        <lb break="no"/>care ante lapsum primi parentis habuit se ad 
-                        <lb/>utrumque modo ad<reg> </reg>unum tantum. quod ex neces
-                        <lb break="no"/>sitate et ita diminutum.
-                    </ab>
-                </div>
-                <metamark rend="line-fill"/>
-            </div>
-            <div n="18" type="textpart" subtype="questio">
-                <ab> 
-                    <lb/><hi rend="dropcap2 green">D</hi><hi rend="smallcaps"><!-- rubricated? -->eus</hi> est in omnibus creaturis suis. <hi rend="fill-red">T</hi>am 
-                    <lb/>boni quam mali sunt creatura dei. 
-                    <lb/>Ergo deus est tam in bonis quam in malis. <expan><abbr><hi rend="fill-red">S</hi><am>;</am></abbr><ex>et</ex></expan> deus 
-                    <lb/>est summum bonum. eternum gaudium. tam 
-                    <lb/>angeli boni quam mali sunt creatura dei. 
-                    <lb/><hi rend="fill-red">E</hi>rgo deus est tam in bonis angelis quam in malis 
-                    <lb/>et e<reg> </reg>contrario. Fallacia. <hi rend="fill-red">D</hi>eus est caritas. caritas que 
-                    <lb/>est deus est in omnibus. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> caritas est dilectio. Ergo 
-                    <lb/>caritas uel dilectio est in omnibus. <hi rend="fill-red">N</hi>ota nul
-                    <lb break="no"/>lum accidens esse in deo. set omnia naturaliter 
-                    <lb/>substantialiter in deo sunt. <hi rend="fill-red">T</hi>ribus modis dicitur
-                    <fw place="bottom"><!-- This passage is in a black shade of ink, rather than the dark brown used otherwise in the text. -->
-                        <lb/>Que sunt due metrete. Que ue tercia?
-                        <lb/>Vtique duplex timor communis et notus omnibus⸵
-                        <lb/>ac tercius quidem minus communis. minus notus. Primus
-                        <lb/>enim timor est ne cruciemur in gehenna. Secundus⸵
-                        <lb/>ne exclusi a<reg> </reg>uisione dei. et priuemur tam in esti
-                        <lb break="no"/>mabili gloria. Tercius⸵ replet animam omni sollicitudine
-                        <lb/>timidam. ne forte deseratur a<reg> </reg>gratia.
-                    </fw>
-                    <pb n="126v"/>
-                    <cb n="a"/>             
-                    <lb/>deus esse in rebus per existentiam⸵ tam in bo
-                    <lb break="no"/>nis quam in omnibus. <hi rend="fill-red">P</hi>er existentiam et 
-                    <lb/>per gratiam⸵ in bonis. <hi rend="fill-red">P</hi>er existentiam et per gratiam 
-                    <lb/>et per unionem⸵ in filio uirginis.
-                </ab>
-                <metamark rend="line-fill"/>
-            </div>
-            <div n="19" type="textpart" subtype="questio">
-                <ab> 
-                    <lb/><hi rend="dropcap2 red">H</hi>omo non potest operari contra uolun
-                    <lb break="no"/>tatem dei. <hi rend="fill-red">E</hi>rgo non potest operari ma
-                    <lb break="no"/>lum. quia deus non uult malum operari. 
-                </ab>
-                <div type="textpart" subtype="solutio">
-                    <lb/><head rend="red enlarged">Solutio</head> 
-                    <ab>
-                        <hi rend="fill-red">D</hi>uplex est sensus. <hi rend="fill-red">C</hi>ontra uo
-                        <lb break="no"/>luntatem dei⸵ <expan><abbr>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> preter uoluntatem dei. 
-                        <lb/><hi rend="fill-red">E</hi>t secundum hoc falsum est. <hi rend="fill-red">C</hi>ontra uo
-                        <lb break="no"/>luntatem dei. <expan><abbr>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> resistere ueritati⸵ et ita 
-                        <lb/>uerum est.
-                    </ab>
-                </div>
-                <metamark rend="line-fill"/>
-            </div>
-            <div n="20" type="textpart" subtype="questio">
-                <ab> 
-                    <lb/><hi rend="dropcap2 green">Q</hi>ueritur an <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> missus fuisset ad sa
-                    <lb break="no"/>lutem omnium cum euangeli
-                    <lb break="no"/>ca auctoritas dicat. <quote source="Bible.Vul:Matt.15.24">non sum missus nisi 
-                        <lb/>ad oues que perierunt domus israel</quote> <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> ad 
-                    <lb/>iudeos. <hi rend="fill-red">E</hi>rgo non ad salutem omnium. 
-                </ab>
-                <div type="textpart" subtype="solutio">
-                    <lb/><head rend="red enlarged">Solutio</head> 
-                    <ab>
-                        <hi rend="fill-red">M</hi>issus corporaliter ad iudeos⸵ 
-                        <lb/>per<reg> </reg>apostolos⸵ ad omnes gentes.
-                    </ab>
-                </div>
-                <metamark rend="line-fill"/>
-            </div>
-            <div n="21" type="textpart" subtype="questio">
-                <ab> 
-                    <lb/><hi rend="dropcap2 red">Q</hi>ueritur an <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>i</abbr></expan></persName> aduentus fuit om
-                    <lb break="no"/>nibus necessarius. <hi rend="fill-red">Q</hi>uod non uidetur. 
-                    <lb/><hi rend="fill-red">C</hi>um euuangelica auctoritas dicat. <quote source="Bible.Vul:John.15.22">nisi 
-                        <lb/>uenissem et locutus fuissem cum eis⸵ 
-                        <lb/>peccatum non habent. <hi rend="fill-red">N</hi>unc autem excusa
-                        <lb break="no"/>tionem non habent de peccato suo.</quote> <hi rend="fill-red">I</hi>ta 
-                    <lb/>non omnibus profuit quia quibusdam 
-                    <lb/>nocuit. 
-                </ab>
-                <div type="textpart" subtype="solutio">
-                    <head rend="red enlarged">Solutio</head> 
-                    <ab>
-                        <hi rend="fill-red">D</hi>uplex est sensus. <hi rend="fill-red">N</hi>e
-                        <lb break="no"/>cessarius <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> utilis⸵ falsum est. <hi rend="fill-red">N</hi>ecessarius. 
-                        <lb/>in quo omnes eguerunt⸵ uerum est. <hi rend="fill-red">Q</hi>uod potest 
-                        <lb/>uideri de<reg> </reg>medicina que necessaria est huic 
-                        <lb/>egro⸵ et tamen non utilis. quia indiscrete ea utitur.
-                    </ab>
-                </div>
-                <milestone rend="line-fill-below" unit="undefined"/>
-            </div>
-            <div n="22" type="textpart" subtype="questio">
-                <ab> 
-                    <lb/><hi rend="dropcap2 green">Q</hi>ueritur utrum deus pater aliquid uo
-                    <lb break="no"/>luit quod diabolus uoluit. <hi rend="fill-red">Q</hi>uod uidetur. 
-                    <lb/>quia uoluit <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christu</ex><abbr>m</abbr></expan></persName> pati. <hi rend="fill-red">E</hi>rgo diabolus aliquid uo
-                    <lb/>luit quod deus uoluit. <hi rend="fill-red">E</hi>rgo non fuit contra
-                    <cb n="b" break="no"/>
-                    <lb break="no"/>rius uoluntati dei. Voluit diabolus quod deus uo
-                    <lb break="no"/>luit. set deus non uoluit. nisi bonum. <hi rend="fill-red">E</hi>rgo diabolus 
-                    <lb/>uoluit bonum. quod est contra eius naturam. 
-                </ab>
-                <div type="textpart" subtype="solutio">
-                    <lb/><head rend="red enlarged">Solutio</head> 
-                    <ab>
-                        Voluit diabolus idem. set non ad 
-                        <lb/>idem. <hi rend="fill-red">D</hi>eus pater uoluit ex<reg> </reg>caritate ad salutem⸵ 
-                        <lb/>diabolus ad inuidia ad dampnationem.
-                    </ab>
-                </div>
-                <metamark rend="line-fill"/>
-            </div>
-            <div n="23" type="textpart" subtype="questio">
-                <ab> 
-                    <lb/><quote source="Bible.Vul:John.15.15"><hi rend="dropcap2 red">O</hi>mnia que audiui a<reg> </reg>patre meo. nota feci 
-                        <lb/>uobis.</quote> set omnia que pater scit audiuit 
-                    <lb/>a<reg> </reg>patre. <hi rend="fill-red">E</hi>rgo omnia que pater scit nota fecit apos
-                    <lb break="no"/>tolis. <hi rend="fill-red">E</hi>rgo eque scientes sunt cum patre. 
-                </ab>
-                <div type="textpart" subtype="solutio">
-                    <head rend="red enlarged">Solutio</head> 
-                    <ab>
-                        <lb/><hi rend="fill-red">O</hi>mnia que audiui ad salutem uestram nota fe
-                        <lb break="no"/>ci uobis. <hi rend="fill-red">V</hi>el aliter. <quote source="Bible.Vul:John.15.15"><hi rend="fill-red">O</hi>mnia que audiui a<reg> </reg>patre</quote> 
-                        <lb/>que notificanda erant uobis⸵ <quote source="Bible.Vul:John.15.15">nota feci uobis</quote>.
-                    </ab>
-                </div>
-                <metamark rend="line-fill"/>
-            </div>
-            <div n="24" type="textpart" subtype="questio">
-                <ab> 
-                    <lb/><hi rend="dropcap2 green">Q</hi>ueritur an deus filius sit sapientior deo pa
-                    <lb break="no"/>tre. <hi rend="fill-red">Q</hi>uod uidetur. <hi rend="fill-red">Q</hi>uia filius deus du
-                    <lb break="no"/>plici sapientia sapiens est. scilicet creata et 
-                    <lb/>increata. <hi rend="fill-red">D</hi>eus pater tantum in<surplus> </surplus>creata. <hi rend="fill-red">E</hi>rgo deus 
-                    <lb/>filius sapientior est deo patre. 
-                </ab>
-                <div type="textpart" subtype="solutio">
-                    <head rend="red enlarged">Solutio</head> 
-                    <ab>
-                        <hi rend="fill-red">D</hi>eus 
-                        <lb/>filius non est sapientior deo patre. quia sicut 
-                        <lb/>sapientia creata procedit a<reg> </reg>sapientia increa
-                        <lb break="no"/>ta. que est deus filius. ita eadem sapientia cre
-                        <lb break="no"/>ata procedit a<reg> </reg>sapientia increata que est deus 
-                        <lb/>pater. et sic deus filius sapientior est et cetera.
-                    </ab>
-                </div>
-                <metamark rend="line-fill"/>
-            </div>
-            <div n="25" type="textpart" subtype="questio">
-                <ab> 
-                    <lb/><hi rend="dropcap2 red">Q</hi>ui peccat in patrem⸵ remittetur ei. <hi rend="fill-red">Q</hi>ui pec
-                    <lb break="no"/>cat in filium⸵ remittetur ei. <hi rend="fill-red">Q</hi>ui peccat 
-                    <lb/>in spiritum sanctum⸵ nec hic nec in futuro condonetur 
-                    <lb/>ei. <hi rend="fill-red">S</hi>et qui peccat in patrem et filium⸵ peccat in 
-                    <lb/>spiritum sanctum. uel qui offendit in patrem et filium⸵ 
-                    <lb/>offendit et in spiritum sanctum. <hi rend="fill-red">E</hi>rgo nec hic nec in futuro 
-                    <lb/>condonetur ei. 
-                </ab>
-                <div type="textpart" subtype="solutio">
-                    <head rend="red enlarged">Solutio.</head> 
-                    <ab>
-                        <hi rend="fill-red">Q</hi>ui peccat per in
-                        <lb break="no"/>firmitatem⸵ peccat in patrem. quia dicitur 
-                        <lb/>potentia. <hi rend="fill-red">Q</hi>ui peccat per ignorantiam⸵ peccat 
-                        <lb/>in filium. quia dicitur sapientia. <hi rend="fill-red">Q</hi>ui uero peccat 
-                        <lb/>per deliberationem⸵ peccat in spiritum sanctum. quia dicitur 
-                        <lb/>benignitas uel consolator. et ita hec sunt no
-                        <lb break="no"/>mina. <hi rend="fill-red">P</hi>eccare⸵ <expan><abbr>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> qui peccat per infirmitatem⸵
-                        <pb n="127r"/>
-                        <cb n="a"/>
-                        <lb/>uel per ignorantiam⸵ remittetur ei. <hi rend="fill-red">Q</hi>ui uero 
-                        <lb/>peccat per studium malitie. uel desperatio
-                        <lb break="no"/>nem⸵ nec hic nec in<reg> </reg>futuro remittetur ei. 
-                        <lb/><hi rend="fill-red">S</hi>cilicet in nullo. <hi rend="fill-red">S</hi>ecundum quosdam⸵ sine pena.
-                    </ab>
-                </div>
-                <milestone rend="line-fill-below" unit="undefined"/>
-            </div>
-            <div n="26" type="textpart" subtype="questio">
-                <ab><!-- The following is from Jerome, Ep. ad Damasum -->
-                    <lb/><hi rend="dropcap2 green">S</hi>eptem sunt 
-                    <lb/>peccata <persName>caini</persName>. <hi rend="fill-red">P</hi>rimum⸵ quod recte non 
-                    <lb/>diuiserit. <hi rend="fill-red">S</hi>ecundum⸵ quod inuiderit fratri. <hi rend="fill-red">T</hi>ertium⸵ 
-                    <lb/>quod dolose egerit dicens. <said><!-- cf. Gen. 4:8 --><hi rend="fill-red">T</hi>ranseamus in cam
-                        <lb break="no"/>pum.</said> <hi rend="fill-red">Q</hi>uartum⸵ quod fratrem interfecerit. <hi rend="fill-red">Q</hi>uin
-                    <lb break="no"/>tum⸵ quod procaciter negauerit. <quote source="Bible.Vul:Gen.4.8"><hi rend="fill-red">N</hi>escio 
-                        <lb/>in quid. <hi rend="fill-red">N</hi>unquid custos fratris mei su<surplus>u</surplus>m.</quote> 
-                    <lb/><hi rend="fill-red">S</hi>extum⸵ quod seipsum dampnauerit dicens. 
-                    <lb/><said><hi rend="fill-red">M</hi>aior est culpa mea⸵ quam ut dimittar.</said> 
-                    <lb/><hi rend="fill-red">S</hi>eptimum⸵ quod nec dampnatus egerit peni
-                    <lb break="no"/>tentiam.
-                </ab>
-                <metamark rend="line-fill"/>
-            </div>
-            <div n="27" type="textpart" subtype="questio">
-                <ab> 
-                    <lb/><hi rend="dropcap2 red">Q</hi>ui possidet dominum et cum propheta 
-                    <lb/>dicit. <hi rend="fill-red">P</hi>ars mea dominus⸵ nichil extra 
-                    <lb/>dominum habere potest. <hi rend="fill-red">Q</hi>uod si quicquam aliud 
-                    <lb/>habuerit quam dominum⸵ pars eius non erit 
-                    <lb/>dominus. <hi rend="fill-red">V</hi>erbi gratia. <hi rend="fill-red">S</hi>i aurum. <hi rend="fill-red">S</hi>i argen
-                    <lb break="no"/>tum. <hi rend="fill-red">S</hi>i possessiones. <hi rend="fill-red">S</hi>i uariam suppel
-                    <lb break="no"/>lectilem. <hi rend="fill-red">C</hi>um istis partibus⸵ dominus pars eius 
-                    <lb/>fieri non dignabitur.
-                </ab>
-                <metamark rend="line-fill"/>
-            </div>
-            <div n="28" type="textpart" subtype="questio">
-                <ab> 
-                    <lb/><hi rend="dropcap2 green">Q</hi>uedam in scripturis diuinis prohibentur. 
-                    <lb/><hi rend="fill-red">Q</hi>uedam precipiuntur. <hi rend="fill-red">A</hi>liqua concedun
-                    <lb break="no"/>tur. <hi rend="fill-red">N</hi>on nulla suadentur. <hi rend="fill-red">P</hi>rohibentur 
-                    <lb/>mala. <hi rend="fill-red">P</hi>recipiuntur bona. <hi rend="fill-red">C</hi>onceduntur 
-                    <lb/>media. <hi rend="fill-red">P</hi>erfecta suadentur.
-                </ab>
-                <metamark rend="line-fill"/>
-            </div>
-        </body>
-    </text>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title xml:lang="la">Questiones secundum magistrum Alexandrum de Sancto Albano</title>
+<author xml:id="AN">Alexander Neckam</author>
+<editor xml:id="AD">Andrew Dunning</editor>
+<respStmt>
+<resp>based on a transcription by</resp>
+<name>Tomáš Záhora</name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<authority>Andrew Dunning</authority>
+<availability>
+<licence target="http://creativecommons.org/licences/by-sa/4.0/">Provided under a Creative Commons Attribution-ShareAlike 4.0 International Licence.</licence>
+<p>Produced with thanks to the Trustees of Lambeth Palace Library.</p>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<settlement>London</settlement>
+<repository>Lambeth Palace Library</repository>
+<idno>421</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<editorialDecl>
+<p>
+Transcription made from a black-and-white microfilm, combined with some limited notes on the original manuscript made in October 2013. It is not always possible to tell whether capital letters are indeed highlighted in red, and these should be checked from a colour reproduction. In particular, it is not always possible to tell in the microfilm whether or not 'ergo' is intended to be capitalized, due to the form of the abbreviation.
+</p>
+<p>
+New questions correspond to versals in the manuscript (as encoded).
+</p>
+<p>
+Original spelling and punctuation has been retained (with words that might be ambiguous occasionally marked 'sic' to flag unabbreviated forms). Characters from the MUFI private use area have been used for some marks not found in Unicode (from the ENRICH Gaiji Bank).
+</p>
+<normalization>
+<p>
+Hyphens at the ends of lines are not encoded separately from the @break attribute; this has been normalized silently, as hyphenation in the manuscript is not altogether consistent. Abbreviations are expanded silently except in cases of ambiguity or scribal error.
+</p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+</teiHeader>
+<text xml:lang="la">
+<pb n="124v"/>
+<cb n="a"/>
+<gap reason="omitted" quantity="13" unit="line"/>
+<body>
+<head rend="red enlarged">Incipiunt 
+<lb/>Questiones secundum magistrum 
+<lb/>Alexandrum De Sancto Albano.</head>
+<metamark rend="line-fill"/>
+<div n="1" type="textpart" subtype="questio">
+<ab>
+<lb/><hi rend="dropcap2 red">Q</hi>ueritur utrum <persName>abraam</persName> alio modo posset 
+<lb/>saluari quam fide passionis. <hi rend="fill-red">Q</hi>uod enim 
+<lb/>alio modo ante obitum potuit saluari constat. 
+<lb/><hi rend="fill-red">A</hi>d<reg> </reg>hec. <hi rend="fill-red">A</hi>dhuc tunc erat deo alius modus pos
+<lb break="no"/>sibilis. ergo deus alio modo quam passione potuit 
+<lb/>redimere humanum genus. <expan><abbr><hi rend="fill-red">S</hi><am>;</am></abbr><ex>et</ex></expan> si alio modo 
+<lb/>redimisset⸵ <persName>abraam</persName> non per fidem passionis 
+<lb/>meruisset. quia si aliquid per fidem passionis 
+<lb/>meruisset⸵ illa passio tunc presens. aut preterita. 
+<lb/>aut futura erat. <hi rend="fill-red">S</hi>ic igitur post mortem aut damp
+<lb break="no"/>nari poterat aut alio modo saluari. <hi rend="fill-red">C</hi>ontra hoc. 
+<lb/><hi rend="fill-red">I</hi>am erat sanatus. iam meruit per fidem pas
+<lb break="no"/>sionis uitam eternam. ergo tunc nec poterat nec me
+<lb break="no"/>ruisse per fidem passionis. <hi rend="fill-red">I</hi>tem. <hi rend="fill-red">P</hi>ost mortem 
+<lb/>non erat ei relictus locus merendi. nec ad 
+<lb/>mereri poterat. ergo nec per alia merita saluari 
+<lb/>quam tunc habuerat. ergo tunc non poterat alio modo 
+<lb/>saluari⸵ quam fide passionis. qua iam salutem 
+<lb/>meruerat.
+</ab>
+<div type="textpart" subtype="solutio">
+<head rend="red enlarged">Solutio.</head>
+<ab>
+Forte hiis prodesse potest⸵ 
+<lb/>quod si alius modus deo tunc esset possibilis⸵ tamen
+<cb n="b"/>
+<lb/>iste non potuit alio modo saluari. <hi rend="fill-red">S</hi>icut et si deo 
+<lb/>sit possibile istum esse asinum. tamen iste non potest 
+<lb/>esse asinus.
+</ab>
+</div>
+<metamark rend="line-fill"/>
+</div>
+<div n="2" type="textpart" subtype="questio">
+<ab> 
+<lb/><hi rend="dropcap2 green">Q</hi>ueritur an <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> antequam <persName>petrus</persName> ipsum negas
+<lb break="no"/>set⸵ uellet seuerum dixisse. cum dixerit <persName>petro</persName>.
+<lb/><quote source="Bible.Vul:Matt.26.34; Matt.26.75; Mark.14.72; Luke.22.61">Ter me negabis.</quote> <hi rend="fill-red">E</hi>t si hoc⸵ an uellet esse uerum 
+<lb/><persName>petrum</persName> ipsum esse negaturum. <hi rend="fill-red">E</hi>t si hoc⸵ an uel
+<lb break="no"/>let <persName>petrum</persName> criminaliter peccare. <hi rend="fill-red">A</hi>d hoc. <hi rend="fill-red">C</hi>um 
+<lb/><persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> uellet se in nullo dicto suo esse mendacem 
+<lb/>et idem uellet dicere⸵ uidetur aliquod uerum se 
+<lb/>dixisse hoc dicendo. et sic postea uoluit se uerum 
+<lb/>dixisse. et sic uoluit esse uerum <persName>petrum</persName> se esse ne
+<lb break="no"/>gaturum. <hi rend="fill-red">C</hi>ontra. hoc faciendo <persName>petrus</persName> mortaliter 
+<lb/>peccauit. <hi rend="fill-red">E</hi>rgo hoc <persName>petrum</persName> tacere uoluit deus. 
+</ab>
+<div type="textpart" subtype="solutio">
+<head rend="red enlarged">Solutio.</head> 
+<ab>
+<lb/><persName><expan><abbr><am>X<g ref="#e665">p</g>c</am></abbr><ex>Christus</ex></expan></persName> uoluit se dicere id quod uerum erat. et sic 
+<lb/>uoluit se dicere illud uerum. et tamen non uoluit 
+<lb/>illud esse uerum. <hi rend="fill-red">S</hi>icut iste uult se dicere hoc ue
+<lb break="no"/>rum patrem suum moriturum. non tamen uult
+<lb/>esse uerum. <hi rend="fill-red">I</hi>tem. <hi rend="fill-red">N</hi>on est concedendum quod <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> 
+<lb/>tunc uellet <persName>petrum</persName> se non esse negaturum. cum 
+<lb/>uoluntati eius nemo resistere queat. tamen hoc 
+<lb/>probari posse uidetur. <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> displicuit quod <persName>petrus</persName> 
+<lb/>cum negauit. et cetera. <hi rend="fill-red">E</hi>rgo <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>o</abbr></expan></persName> placuit quod <persName>petrus</persName> 
+<lb/>eum non negaret. et cetera. <hi rend="fill-red">F</hi>allacia. <persName><expan><abbr><am>X<g ref="#e665">p</g>c</am></abbr><ex>Christus</ex></expan></persName> non 
+<lb/>uult peccatum esse. <hi rend="fill-red">E</hi>rgo <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> uult peccatum non esse. prima 
+<lb/>uera⸵ quia non est auctor peccati. <hi rend="fill-red"><!-- I think, but it's hard to tell in the microfilm. -->C</hi>onclusio falsa⸵ 
+<lb/>quia falsum est ipsum uelle⸵ quia permittit.
+</ab>
+</div>
+<metamark rend="line-fill"/>
+</div>
+<div n="3" type="textpart" subtype="questio">
+<ab>
+<lb/><hi rend="dropcap2 red">Q</hi>ueritur utrum omne uerum a<reg> </reg>deo sit uerum. 
+<lb/><hi rend="fill-red">O</hi>mne uerum a<reg> </reg>deo est uerum. <hi rend="fill-red">A</hi>d hoc⸵ <hi rend="fill-red">A</hi>ucto
+<lb break="no"/>ritates plurime. ut hee. <hi rend="fill-red">C</hi>uiusque ueri deus est auctor. 
+<lb/><hi rend="fill-red">I</hi>tem. <hi rend="fill-red">O</hi>mne uerum a<reg> </reg>ueritate uerum. <hi rend="fill-red">E</hi> contra
+<lb break="no"/>rie sunt rationes. <hi rend="fill-red">N</hi>am istum adulterari ue
+<lb break="no"/>rum est. quod si deo auctore uerum est⸵ deus uult 
+<lb/>hoc esse uerum. et deo placet hoc esse uerum. <hi rend="fill-red">N</hi>um
+<lb break="no"/>quid ergo placet deo istum esse adulterum? <hi rend="fill-red">A</hi>bsit. 
+</ab>
+<div type="textpart" subtype="solutio">
+<lb/><head rend="red enlarged">Solutio</head> 
+<ab>
+Dicunt ergo predictas auctoritates tantum
+<pb n="125r"/>
+<cb n="a"/>
+<lb break="no"/>de<reg> </reg>hiis ueris esse intelligendas⸵ que pertinent ad <expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>i
+<lb break="no"/>anam</abbr></expan> religionem. <hi rend="fill-red">A</hi>lii dicunt omne uerum 
+<lb/>a<reg> </reg>deo esse. set non omne uerum a<reg> </reg>deo esse uerum.
+</ab>
+</div>
+</div>
+<div n="4" type="textpart" subtype="questio">
+<ab> 
+<lb/><hi rend="dropcap2 green">Q</hi>ueritur an potius sit habere fidem et peccare⸵ 
+<lb/>quam non habere fidem et peccare. <hi rend="fill-red">A</hi>d hoc. 
+<lb/><hi rend="fill-red">Q</hi><unclear>uoniam</unclear> melius est ignorare ueritatem⸵ quam post ag
+<lb break="no"/>nitam retro abire. <hi rend="fill-red">I</hi>tem super epistulam ad <persName>Iacobum</persName><g ref="#f1e2">,</g> 
+<lb/><quote><hi rend="fill-red">P</hi>eccantes admone ut se a<reg> </reg>peccatis contineant. 
+<lb/>ne sibi dampnabile sit quod fidei sacramentum per
+<lb break="no"/>ceperunt.</quote> <hi rend="fill-red">I</hi>tem. <quote><hi rend="fill-red">P</hi>lus est illi commissum qui fidem 
+<lb/>habet⸵ quam infideli. et sic plus offendit quam 
+<lb/>infidelis.</quote> <hi rend="fill-red">I</hi>tem. <expan><hi rend="fill-red">Aug</hi><ex>ustinus</ex></expan>. <quote><hi rend="fill-red"><!-- Check -->G</hi>rauiora sunt peccata 
+<lb/>post <sic>baptissimum</sic>⸵ quam ante.</quote> <hi rend="fill-red">C</hi>ontra. <hi rend="fill-red">Q</hi>ui 
+<lb/>fidem habet et peccat⸵ per hoc quod fidem habet 
+<lb/>non meretur quod puniatur⸵ saltem meretur 
+<lb/>quod puniatur. minus. quam si fidem non haberet. 
+<lb/><hi rend="fill-red">H</hi>abet enim aliquod bonum remunerabile⸵ ille 
+<lb/>nullum. <hi rend="fill-red">I</hi>tem. <hi rend="fill-red">P</hi>otest quis habere fidem et super
+<lb break="no"/>edificare lignum. fenum. stipulam. et sic tamen 
+<lb/>uenialia peccata habere. set non potest aliquis 
+<lb/>esse infidelis et non habere mortale. Ergo minus ma
+<lb break="no"/>lum est peccare et habere fidem⸵ quam et cetera.
+</ab>
+<div type="textpart" subtype="solutio">
+<lb/><head rend="red enlarged">Solutio</head>
+<ab>
+Peccare et habere fidem. et peccare et 
+<lb/>non habere fidem sunt excedentia et excessa. gra
+<lb break="no"/>uius enim peccat quam fidelis. quia scienter 
+<lb/>peccat. ignoranter enim peccat infidelis. <hi rend="fill-red">C</hi>ontra 
+<lb/>uero quandoque grauius peccat indifelis. quia 
+<lb/>mortaliter. quandoque fidelis uenialiter. set in 
+<lb/>eodem peccato deprehenduntur. et uterque id scienter 
+<lb/>commiserit. plus dicimus fidelem deliquisse. quis 
+<lb/>post baptismum grauiora sunt et cetera.
+</ab>
+</div>
+<metamark rend="line-fill"/>
+</div>
+<div n="5" type="textpart" subtype="questio">
+<ab> 
+<lb/><hi rend="dropcap2 red">Q</hi>ueritur an lex perfectum reddat. <hi rend="fill-red">C</hi>ontra 
+<lb/>hoc autem quod ait. <hi rend="fill-red">L</hi>ex neminem ad perfec
+<lb break="no"/>tum ducit. <hi rend="fill-red">A</hi>d hoc. <hi rend="fill-red">L</hi>ex spiritualiter intellecta 
+<lb/>et ita custodita⸵ ad uitam eternam ducit. <!-- Find out if 'e' is rubricated. -->ergo. ad per
+<lb break="no"/>fectum. Item. Vnum preceptum legis hoc. <hi rend="fill-red">S</hi>i dili
+<cb n="b" break="no"/>
+<lb break="no"/>gis proximum. et cetera. <hi rend="fill-red">A</hi>d uitam eternam ducit. 
+<lb/><hi rend="fill-red">E</hi>rgo falsum est quod lex neminem ad perfectum 
+<lb/>ducit. <hi rend="fill-red">A</hi>d hoc dicendum. quod nomen legis mul
+<lb break="no"/>tipliciter accipitur. 
+</ab>
+<div type="textpart" subtype="solutio">
+<head rend="red enlarged">Solutio</head> 
+<ab>
+Quandoque <expan><abbr><am>x&#x365;</am></abbr><ex>christi</ex></expan> 
+<lb/>precepta dicuntur lex. <hi rend="fill-red">Q</hi>uandoque. <num value="5"><hi rend="fill-red">V</hi>.</num> libri <unclear>moisi</unclear>. 
+<lb/><hi rend="fill-red">Q</hi>uandoque totum uetum testamentura. et item 
+<lb/>lex dicitur. <hi rend="fill-red">L</hi>ex tantum ad litteram intellec
+<lb break="no"/>ta. <hi rend="fill-red">V</hi>nde dicitur. <hi rend="fill-red">D</hi>edi uobis legem non bonam 
+<lb/>ut non uiuatis in ea. <hi rend="fill-red">I</hi>tem. lex dicitur quod 
+<lb/>spiritualiter intelligitur. et secundum hoc ducit 
+<lb/>ad perfectum. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> secundum quod ad litteram non.
+</ab>
+</div>
+<metamark rend="line-fill"/>
+</div>
+<div n="6" type="textpart" subtype="questio">
+<ab> 
+<lb/><hi rend="dropcap2 green">Q</hi>ueritur an <space quantity="5" unit="character"/>precepto diligere dominum 
+<lb/>deum ex<reg> </reg>toto corde et cetera. <hi rend="fill-red">A</hi>liud sit equale. 
+<lb/><hi rend="fill-red">A</hi>d hoc. <hi rend="fill-red">Q</hi><unclear>uoniam</unclear> secundum est simile. <hi rend="fill-red">D</hi>iliges proxi
+<lb break="no"/>mum tuum. et cetera. <hi rend="fill-red">V</hi>nde uidetur quod sit equale 
+<lb/>illi quia simile. <hi rend="fill-red">C</hi>ontra. <hi rend="fill-red">S</hi>i est maximum⸵ nul
+<lb break="no"/>lum aliud est eque magnum. sicut fides est dig
+<lb break="no"/>nissima et prima uirtus. <hi rend="fill-red"><!-- check -->E</hi>t tamen nec ipsa ante 
+<lb/>alias datur. nec uerum est quod nulla alia a<reg> </reg>deo 
+<lb/>digna sit. <hi rend="fill-red">D</hi>icatur ergo<!-- Surely that's an example of the small cap g being used for 'ergo'; though it looks rubricated on the microfilm, I think that's an illusion. Is it only the height that can be trusted? --> sic. <hi rend="fill-red">I</hi>llud preceptum est 
+<lb/>maximum omnium. <hi rend="fill-red">E</hi>rgo nullum aliud est 
+<lb/>eque magnum. <hi rend="fill-red">S</hi>ic sequitur ex<reg> </reg>premisso et 
+<lb/>concedenda est conclusio. <expan><abbr><hi rend="fill-red">S</hi><am>;</am></abbr><ex>et</ex></expan> ex hoc quod dicitur. 
+<lb/><quote source="Bible.Vul:Mark.12.31">secundum est simile illi</quote>. non prouenit quod sit ei equa
+<lb break="no"/>le. 
+</ab>
+<div type="textpart" subtype="solutio">
+<head rend="red enlarged">Solutio</head> 
+<ab>
+Dicitur enim ei similem non quia 
+<lb/>tanti sit meriti⸵ set quia ad<reg> </reg>idem pertinent. et 
+<lb/>propter idem est obseruandum. Diligendus est 
+<lb/>deus propter deum⸵ <hi rend="fill-red">S</hi>ic proximus propter deum.
+</ab>
+</div>
+<metamark rend="line-fill"/>
+</div>
+<div n="7" type="textpart" subtype="questio">
+<ab> 
+<lb/><hi rend="dropcap2 red">Q</hi>ueritur an trinitas habeat perfectam cog
+<lb break="no"/>nitionem trinitatis. <hi rend="fill-red">Q</hi>uod si ita est⸵ set 
+<lb/>quelibet istarum trium personarum habet per
+<lb break="no"/>fectam cogn<supplied reason="omitted">iti</supplied>o<supplied reason="omitted">nem</supplied><space quantity="7" unit="character"/> in<reg> </reg>trinitate <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> patris. et 
+<lb/>filii. et <persName><expan><abbr>sp<am>c</am></abbr><ex>iritus</ex></expan></persName> <expan><abbr>s</abbr><ex>an</ex><abbr>c</abbr><ex>t</ex><abbr>i</abbr></expan>. <expan><abbr><hi rend="fill-red">S</hi><am>;</am></abbr><ex>et</ex></expan> ille homo assumptus est 
+<lb/>tercia persona in<reg> </reg>trinitate. <hi rend="fill-red"><!-- check -->E</hi>rgo ille homo assumptus 
+<lb/>habet perfectam cognitionem in<reg> </reg>trinitate. Fallacia. 
+<lb/>Filius est genitus a<reg> </reg>patre. set ille homo assumptus<supplied reason="omitted">.</supplied>
+<pb n="125v"/>
+<cb n="a"/>
+<lb/><!-- check rubrication --><hi rend="fill-red">E</hi>rgo ille assumptus est genitus a<reg> </reg>patre. <hi rend="fill-red">I</hi>tem falla
+<lb break="no"/>tia. <hi rend="fill-red">Q</hi>uelibet istarum trium personarum habet 
+<lb/>perfectam cognitionem natura. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> ille homo 
+<lb/>assumptus est tertcia persona. <hi rend="fill-red">E</hi>rgo ille homo habet perfectam 
+<lb/>cognitionem trinitatis natura. 
+</ab>
+<div type="textpart" subtype="solutio">
+<head rend="red enlarged">Solutio</head> 
+<ab>
+<hi rend="fill-red">F</hi>ilius 
+<lb/>dei habet perfectam cognitionem trinitatis natura. 
+<lb/>et filius uirginis per gratiam. quia quicquid filius dei habet 
+<lb/>per naturam⸵ filius uirginis habet per gratiam. <hi rend="fill-red">N</hi>ota. 
+<lb/><hi rend="fill-red">Q</hi>uod deus pater alius est quam deus filius. et deus 
+<lb/>filius alius quam deus <del><unclear>a </unclear></del><persName><expan><abbr>sp<am>c</am></abbr><ex>iritus</ex></expan></persName> <expan><abbr>s</abbr><ex>an</ex><abbr>c</abbr><ex>tu</ex><abbr>s</abbr></expan>. <hi rend="fill-red">A</hi>lius⸵ et non 
+<lb/>aliud. Alius ad personam⸵ aliud uero ad <space quantity="8" unit="character"/><supplied reason="omitted">essentiam</supplied> 
+<lb/>refertur.
+</ab>
+</div>
+<metamark rend="line-fill"/>
+</div>
+<div n="8" type="textpart" subtype="questio">
+<ab> 
+<lb/><hi rend="dropcap2 green">Q</hi>ueritur an potestas diaboli ablata sit dia
+<lb break="no"/>bolo post mortem <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>i</abbr></expan></persName>. <hi rend="fill-red">Q</hi>uia auctoritas 
+<lb/>est quod potestas diaboli et cetera. <hi rend="fill-red">Q</hi>uod non uidetur. quia 
+<lb/>magis punit. temptat. <hi rend="fill-red">V</hi>exat. homines post mor
+<lb break="no"/>tem <expan><abbr><am>x&#x365;</am></abbr><ex>christi</ex></expan>⸵ quam ante. 
+</ab>
+<div type="textpart" subtype="solutio">
+<head rend="red enlarged">Solutio</head> 
+<ab>
+Potestas ablata est 
+<lb/>diabolo et cetera <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> gratia dei nobis. inspirata est post 
+<lb/>mortem <expan><abbr><am>x&#x365;</am></abbr><ex>christi</ex></expan> qua possumus resistere peccatis et 
+<lb/>potestati eius.
+</ab>
+</div>
+<metamark rend="line-fill"/>
+</div>
+<div n="9" type="textpart" subtype="questio">
+<ab> 
+<lb/><hi rend="dropcap2 red">Q</hi>ueritur an <persName>abraam</persName> promeruisset uitam 
+<lb/>eternam ante mortem <expan><abbr><am>x&#x365;</am></abbr><ex>christi</ex></expan>. <hi rend="fill-red">Q</hi>uod si ita est⸵ Set 
+<lb/><persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> non dedit ei uitam eternam ante mortem suam. 
+<lb/>Ergo iniuste egit in <persName>abraam</persName>. 
+</ab>
+<div type="textpart" subtype="solutio">
+<head rend="red enlarged">Solutio.</head> 
+<ab>
+<hi rend="fill-red">N</hi>on me
+<lb break="no"/>ruit ut tunc haberet⸵ <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> ut post mortem <expan><abbr><am>x&#x365;</am></abbr><ex>christi</ex></expan> uitam 
+<lb/>eternam. haberet. <hi rend="fill-red">S</hi>icut iste iustus promeruit 
+<lb/>glorificationem sui corporis non ut nunc haberet. 
+<lb/>set ut post diem iudicii.
+</ab>
+</div>
+<metamark rend="line-fill"/>
+</div>
+<div n="10" type="textpart" subtype="questio">
+<ab> 
+<lb/><hi rend="dropcap2 green">Q</hi>ueritur an iste uelit patrem suum mori⸵ 
+<lb/>quem scit deum uelle mori. <hi rend="fill-red">Q</hi>uod si ita est⸵ ergo est 
+<lb/>contrarius uoluntati dei. <hi rend="fill-red">V</hi>el aliter. <hi rend="fill-red">E</hi>rgo scienter pec
+<lb break="no"/>cat resistendo uoluntati dei. <hi rend="fill-red">E</hi>rgo criminaliter 
+<lb/>peccat. <hi rend="fill-red">I</hi>tem. <hi rend="fill-red">I</hi>ste uult patrem suum mori. <hi rend="fill-red">E</hi>rgo 
+<lb/>inhumanus est. 
+</ab>
+<div type="textpart" subtype="solutio">
+<head rend="red enlarged">Solutio</head> 
+<ab>
+<hi rend="fill-red">I</hi>ste non uult pa
+<lb break="no"/>trem suum mori. <expan><abbr><hi rend="fill-red">S</hi><am>;</am></abbr><ex>et</ex></expan> compatiendo ei quod deus uult. 
+<lb/>et ita non est contrarius uoluntati dei.
+<cb n="b"/>
+</ab>
+</div>
+<metamark rend="line-fill"/>
+</div>
+<div n="11" type="textpart" subtype="questio">
+<ab> 
+<lb/><hi rend="dropcap2 red">Q</hi>ueritur an preterita. presentia. futura. sint apud 
+<lb/>deum. <hi rend="fill-red">Q</hi>uod si ita est⸵ <hi rend="fill-red">E</hi>rgo passio <expan><abbr><am>x&#x365;</am></abbr><ex>christi</ex></expan>. flagella. et sputa. 
+<lb/>sunt presentia. 
+</ab>
+<div type="textpart" subtype="solutio">
+<head rend="red enlarged">Solutio</head> 
+<ab>
+Presentia sunt non experien
+<lb break="no"/>tia. nec actu⸵ set scientia.
+</ab>
+</div>
+<metamark rend="line-fill"/>
+</div>
+<div n="12" type="textpart" subtype="questio">
+<ab> 
+<lb/><hi rend="dropcap2 green">D</hi>ue sunt nature in <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>i</abbr></expan></persName>. et tres substantie. sci
+<lb break="no"/>licet humana natura et diuina. <hi rend="fill-red">D</hi>ue sunt 
+<lb/>substantie secundum quod homo. scilicet caro et anima. 
+<lb/><hi rend="fill-red">S</hi>ecundum quod deus⸵ tertia⸵ que idem est quod diuina <del><gap reason="illegible" quantity="3" unit="character"/></del><add place="right">natu</add>
+<lb break="no"/>ra. <hi rend="fill-red">S</hi>ecundum quod homo⸵ opponitur sic. <hi rend="fill-red">D</hi>ue nature sunt 
+<lb/>in <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>i</abbr></expan></persName>. una creata et altera increata. ergo rationalis 
+<lb/>et irrationalis. <hi rend="fill-red">S</hi>ic collectiue accipiatur creatura<g ref="#f1e2">,</g> 
+<lb/>sicut natura⸵ bene potest concedi. quod sit creatura. 
+<lb/><expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> est creatur caro et anima. <hi rend="fill-red">N</hi>on rationalis secundum 
+<lb/>carnem⸵ rationalis secundum animam. <hi rend="fill-red">I</hi>tem. <persName><expan><abbr><am><!-- <sic> used here instead of <hi> due to current schema --><sic rend="fill-red">X</sic><g ref="#e665">p</g>c</am></abbr><ex>Christus</ex></expan></persName> est factus 
+<lb/>secundum quod homo. <hi rend="fill-red">E</hi>rgo est creatus secundum quod homo. <hi rend="fill-red">E</hi>rgo est 
+<lb/>creatura secundum quod homo. uel non omne creatum 
+<lb/>est creatura. <hi rend="fill-red">F</hi>allacia. <persName><expan><abbr><am><!-- <sic> used here instead of <hi> due to current schema --><sic rend="fill-red">X</sic><g ref="#e665">p</g>c</am></abbr><ex>Christus</ex></expan></persName> natus est secundum quod homo. 
+<lb/>ergo. est factus secundum quod homo. Ergo est factura secundum quod 
+<lb/>homo. uel omne factum non est factura. <hi rend="fill-red">Q</hi>uod 
+<lb/><persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> sit aliquod factum. uel creatum. uel creatu
+<lb break="no"/>ra⸵ non debet concedi.
+</ab>
+<metamark rend="line-fill"/>
+</div>
+<div n="13" type="textpart" subtype="questio">
+<ab> 
+<lb/><hi rend="dropcap2 red">Q</hi>uoniam coniugium in utroque testamento a do
+<lb break="no"/>mino conceditur⸵ aliquid compendiose dissera
+<lb break="no"/>mus. <hi rend="fill-red">C</hi>oniugium est uel matrimonium. siue nup
+<lb break="no"/>tie⸵ legittima uiri et mulieris coniunctio. indiui
+<lb break="no"/>duam uite consuetudinem retinens. <hi rend="fill-red">D</hi>ue sunt 
+<lb/>cause principales coniugii. scilicet spes prolis. et 
+<lb/>uitacio fornicationis. <hi rend="fill-red">S</hi>ecundarie cause sunt 
+<lb/>plures. scilicet reconciliatio amicorum. <hi rend="fill-red">P</hi>ulcri
+<lb break="no"/>tudo uiri et mulieris. <hi rend="fill-red">Q</hi>uestus pecunie. <hi rend="fill-red">I</hi>n quibus 
+<lb/>secundariis. quamuis sint minus honeste⸵ tamen 
+<lb/>in illis diuortium fieri non permittitur. <hi rend="fill-red">S</hi>imiliter 
+<lb/>tria bona principalia coniugii esse. dicuntur. quibus 
+<lb/>peccatum quod fit in coitu excusatur. scilicet. fides. pro
+<lb break="no"/>les. sacramentum. <hi rend="fill-red">I</hi>n fide attenditur ne quis cum 
+<lb/>alio uel cum alia preter uinculum coniugale con
+<pb n="126r" break="no"/>
+<cb n="a" break="no"/>
+<lb break="no"/>misceatur. <hi rend="fill-red">I</hi>n prole attenditur ne quis conmisce
+<lb break="no"/>atur nisi spe prolem generandi. et eam religiose 
+<lb/>educandi. <hi rend="fill-red">I</hi>n<reg> </reg>sacramento attenditur ne coniu
+<lb break="no"/>gium separetur. <hi rend="fill-red">D</hi>icitur enim sacramentum sacre 
+<lb/>rei signum.
+</ab>
+<metamark rend="line-fill"/>
+</div>
+<div n="14" type="textpart" subtype="questio">
+<ab> 
+<lb/><hi rend="dropcap2 green">S</hi>tultus et iniquus est qui tenet illam quam 
+<lb/>scit esse adulteram. set iste scit suam quam 
+<lb/>tenet esse adulteram nec potest eam conuincere 
+<lb/>communi ecclesie audientia. <hi rend="fill-red">E</hi>rgo est stultus et ini
+<lb break="no"/>quus. 
+</ab>
+<div type="textpart" subtype="solutio">
+<head rend="red enlarged">Solutio.</head> 
+<ab>
+Si consentiendo tenet quam 
+<lb/>scit esse adulteram⸵ stultus est et iniquus.
+</ab>
+</div>
+<metamark rend="line-fill"/>
+</div>
+<div n="15" type="textpart" subtype="questio">
+<ab> 
+<lb/><hi rend="dropcap2 red">Q</hi>ueritur unusquisque possit operari ad salutem. 
+<lb/><hi rend="fill-red">Q</hi>uod non uidetur. <hi rend="fill-red">Q</hi>uia unusquisque non habet 
+<lb/>sine qua nullus potest operari ad salutem. 
+</ab>
+<div type="textpart" subtype="solutio">
+<head rend="red enlarged">Solutio.</head> 
+<ab>
+<lb/><hi rend="fill-red">P</hi>otest quantum ad naturam. uel ad liberum ar
+<lb break="no"/>bitrium⸵ non potest quantum ad gratiam.
+</ab>
+</div>
+<metamark rend="line-fill"/>
+</div>
+<div n="16" type="textpart" subtype="questio">
+<ab> 
+<lb/><hi rend="dropcap2 green">P</hi>robatur quod posse peccare quod bonum est. et hoc 
+<lb/>per primum parentem qui habuit potenti
+<lb break="no"/>am peccandi. qui nichil a se set a<reg> </reg>deo. et a<reg> </reg>deo 
+<lb/>nisi bonum. et ita posse peccare bonum est. <hi rend="fill-red">N</hi>ota. 
+<lb/><hi rend="fill-red">H</hi>oc aliter in primo parente aliter in nobis. <hi rend="fill-red">I</hi>n eo⸵ 
+<lb/>creatione tantum. <hi rend="fill-red">I</hi>n nobis⸵ creatione et natiuita
+<lb break="no"/>te. et infirmitate. <hi rend="fill-red">I</hi>tem. <hi rend="fill-red">N</hi>ota. <hi rend="fill-red">T</hi>res leguntur 
+<lb/>status hominum in diuina pagina. <hi rend="fill-red">P</hi>rimus⸵ 
+<lb/>ante lapsum primi parentis in quo datum erat 
+<lb/>ei posse peccare et resistere peccato. <hi rend="fill-red">S</hi>ecundus⸵ 
+<lb/>status⸵ post lapsum. <hi rend="fill-red">V</hi>nde habuit posse peccare 
+<lb/>quia <unclear>tum</unclear> nollet non peccaret dum posset peccare 
+<lb/>et non peccare. cum uellet non posse peccare. in
+<lb break="no"/>flictum est ei non posse peccare.
+</ab>
+<metamark rend="line-fill"/>
+</div>
+<div n="17" type="textpart" subtype="questio">
+<ab> 
+<lb/><hi rend="dropcap2 red">Q</hi>ueritur de angelis bonis post lapsum con
+<lb break="no"/>firmatis si possint peccare an non. <expan><hi rend="fill-red">I</hi>eron<ex>imus</ex></expan>. 
+<lb/><quote><hi rend="fill-red">I</hi>n <!-- erasure? -->solum deum non cadit peccatum.</quote> <hi rend="fill-red">V</hi>nde ui
+<lb break="no"/>detur quod angeli possint peccare. <expan><hi rend="fill-red">Aug</hi><ex>ustinus</ex></expan>. Cum angeli 
+<lb/>noluerunt peccare cum potuerunt. concessum 
+<lb/>est eis amplius non posse peccare. 
+</ab>
+<div type="textpart" subtype="solutio">
+<head rend="red enlarged">Solutio.</head>
+<ab>
+<cb n="b"/>
+<expan><hi rend="fill-red">Ier</hi><ex>onimus</ex></expan>. considerata simplicitate nature⸵ possunt 
+<lb/>peccare. <hi rend="fill-red">S</hi>ecundum <expan><hi rend="fill-red">Aug</hi><ex>ustinum</ex></expan>. <hi rend="fill-red">G</hi>ratia adhibita nature 
+<lb/>non possunt peccare. et sic concedendum est 
+<lb/>angelos non posse peccare. <hi rend="fill-red">P</hi>robatur superi
+<lb break="no"/>us quod posse peccare bonum est. quod sic impro
+<lb break="no"/>batur ratione dialectica. <hi rend="fill-red">C</hi>uius effectus ma
+<lb break="no"/>lus est⸵ ipsum quoque malum est. <hi rend="fill-red">E</hi>ffectus pos
+<lb break="no"/>se peccare est malus <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> peccatum. <hi rend="fill-red">E</hi>rgo posse 
+<lb/>peccare malum est. Fallacia. <hi rend="fill-red">E</hi>ffectus pre
+<lb break="no"/>dicationis malus est <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> lucrum. <hi rend="fill-red">E</hi>rgo predicatio 
+<lb/>mala est. <hi rend="red enlarged">Solutio</hi> <hi rend="fill-red">E</hi>ffectus rei quandoque 
+<lb/>duplex est effectus qui sequitur. uel qui potest 
+<lb/>sequi. <hi rend="fill-red">S</hi>i effectus quidem qui sequitur<!-- puncutation added? --> ma
+<lb break="no"/>lus est⸵ et ipsum malum est. <hi rend="fill-red">S</hi>i effectui qui 
+<lb/>potest sequi malus est⸵ non tamen ipsum 
+<lb/>malum est. <expan><hi rend="fill-red">Aug</hi><ex>ustinus</ex></expan>. <hi rend="fill-red">O</hi>mnia bona humane 
+<lb/>nature post lapsum primi parentis dimi
+<lb break="no"/>nuta <add place="right"><expan><abbr>s<am>.</am></abbr><ex>cilicet</ex></expan><!-- unclear if there is more cut off --></add> est. <hi rend="fill-red">P</hi>osse peccare ante lapsum primi 
+<lb/>patris bonum fuit nature. <hi rend="fill-red">E</hi>rgo posse peccare 
+<lb/>post lapsum diminutum est. quod non uide
+<lb break="no"/>tur. quia tunc uoluntate⸵ nunc necessitate 
+<lb/>et ita augmentatio est. <hi rend="fill-red">I</hi>llud bonum posse pec
+<lb break="no"/>care ante lapsum primi parentis habuit se ad 
+<lb/>utrumque modo ad<reg> </reg>unum tantum. quod ex neces
+<lb break="no"/>sitate et ita diminutum.
+</ab>
+</div>
+<metamark rend="line-fill"/>
+</div>
+<div n="18" type="textpart" subtype="questio">
+<ab> 
+<lb/><hi rend="dropcap2 green">D</hi><hi rend="smallcaps"><!-- rubricated? -->eus</hi> est in omnibus creaturis suis. <hi rend="fill-red">T</hi>am 
+<lb/>boni quam mali sunt creatura dei. 
+<lb/>Ergo deus est tam in bonis quam in malis. <expan><abbr><hi rend="fill-red">S</hi><am>;</am></abbr><ex>et</ex></expan> deus 
+<lb/>est summum bonum. eternum gaudium. tam 
+<lb/>angeli boni quam mali sunt creatura dei. 
+<lb/><hi rend="fill-red">E</hi>rgo deus est tam in bonis angelis quam in malis 
+<lb/>et e<reg> </reg>contrario. Fallacia. <hi rend="fill-red">D</hi>eus est caritas. caritas que 
+<lb/>est deus est in omnibus. <expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> caritas est dilectio. Ergo 
+<lb/>caritas uel dilectio est in omnibus. <hi rend="fill-red">N</hi>ota nul
+<lb break="no"/>lum accidens esse in deo. set omnia naturaliter 
+<lb/>substantialiter in deo sunt. <hi rend="fill-red">T</hi>ribus modis dicitur
+<fw place="bottom"><!-- This passage is in a black shade of ink, rather than the dark brown used otherwise in the text. -->
+<lb/>Que sunt due metrete. Que ue tercia?
+<lb/>Vtique duplex timor communis et notus omnibus⸵
+<lb/>ac tercius quidem minus communis. minus notus. Primus
+<lb/>enim timor est ne cruciemur in gehenna. Secundus⸵
+<lb/>ne exclusi a<reg> </reg>uisione dei. et priuemur tam in esti
+<lb break="no"/>mabili gloria. Tercius⸵ replet animam omni sollicitudine
+<lb/>timidam. ne forte deseratur a<reg> </reg>gratia.
+</fw>
+<pb n="126v"/>
+<cb n="a"/>             
+<lb/>deus esse in rebus per existentiam⸵ tam in bo
+<lb break="no"/>nis quam in omnibus. <hi rend="fill-red">P</hi>er existentiam et 
+<lb/>per gratiam⸵ in bonis. <hi rend="fill-red">P</hi>er existentiam et per gratiam 
+<lb/>et per unionem⸵ in filio uirginis.
+</ab>
+<metamark rend="line-fill"/>
+</div>
+<div n="19" type="textpart" subtype="questio">
+<ab> 
+<lb/><hi rend="dropcap2 red">H</hi>omo non potest operari contra uolun
+<lb break="no"/>tatem dei. <hi rend="fill-red">E</hi>rgo non potest operari ma
+<lb break="no"/>lum. quia deus non uult malum operari. 
+</ab>
+<div type="textpart" subtype="solutio">
+<lb/><head rend="red enlarged">Solutio</head> 
+<ab>
+<hi rend="fill-red">D</hi>uplex est sensus. <hi rend="fill-red">C</hi>ontra uo
+<lb break="no"/>luntatem dei⸵ <expan><abbr>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> preter uoluntatem dei. 
+<lb/><hi rend="fill-red">E</hi>t secundum hoc falsum est. <hi rend="fill-red">C</hi>ontra uo
+<lb break="no"/>luntatem dei. <expan><abbr>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> resistere ueritati⸵ et ita 
+<lb/>uerum est.
+</ab>
+</div>
+<metamark rend="line-fill"/>
+</div>
+<div n="20" type="textpart" subtype="questio">
+<ab> 
+<lb/><hi rend="dropcap2 green">Q</hi>ueritur an <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> missus fuisset ad sa
+<lb break="no"/>lutem omnium cum euangeli
+<lb break="no"/>ca auctoritas dicat. <quote source="Bible.Vul:Matt.15.24">non sum missus nisi 
+<lb/>ad oues que perierunt domus israel</quote> <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> ad 
+<lb/>iudeos. <hi rend="fill-red">E</hi>rgo non ad salutem omnium. 
+</ab>
+<div type="textpart" subtype="solutio">
+<lb/><head rend="red enlarged">Solutio</head> 
+<ab>
+<hi rend="fill-red">M</hi>issus corporaliter ad iudeos⸵ 
+<lb/>per<reg> </reg>apostolos⸵ ad omnes gentes.
+</ab>
+</div>
+<metamark rend="line-fill"/>
+</div>
+<div n="21" type="textpart" subtype="questio">
+<ab> 
+<lb/><hi rend="dropcap2 red">Q</hi>ueritur an <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>i</abbr></expan></persName> aduentus fuit om
+<lb break="no"/>nibus necessarius. <hi rend="fill-red">Q</hi>uod non uidetur. 
+<lb/><hi rend="fill-red">C</hi>um euuangelica auctoritas dicat. <quote source="Bible.Vul:John.15.22">nisi 
+<lb/>uenissem et locutus fuissem cum eis⸵ 
+<lb/>peccatum non habent. <hi rend="fill-red">N</hi>unc autem excusa
+<lb break="no"/>tionem non habent de peccato suo.</quote> <hi rend="fill-red">I</hi>ta 
+<lb/>non omnibus profuit quia quibusdam 
+<lb/>nocuit. 
+</ab>
+<div type="textpart" subtype="solutio">
+<head rend="red enlarged">Solutio</head> 
+<ab>
+<hi rend="fill-red">D</hi>uplex est sensus. <hi rend="fill-red">N</hi>e
+<lb break="no"/>cessarius <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> utilis⸵ falsum est. <hi rend="fill-red">N</hi>ecessarius. 
+<lb/>in quo omnes eguerunt⸵ uerum est. <hi rend="fill-red">Q</hi>uod potest 
+<lb/>uideri de<reg> </reg>medicina que necessaria est huic 
+<lb/>egro⸵ et tamen non utilis. quia indiscrete ea utitur.
+</ab>
+</div>
+<milestone rend="line-fill-below" unit="undefined"/>
+</div>
+<div n="22" type="textpart" subtype="questio">
+<ab> 
+<lb/><hi rend="dropcap2 green">Q</hi>ueritur utrum deus pater aliquid uo
+<lb break="no"/>luit quod diabolus uoluit. <hi rend="fill-red">Q</hi>uod uidetur. 
+<lb/>quia uoluit <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christu</ex><abbr>m</abbr></expan></persName> pati. <hi rend="fill-red">E</hi>rgo diabolus aliquid uo
+<lb/>luit quod deus uoluit. <hi rend="fill-red">E</hi>rgo non fuit contra
+<cb n="b" break="no"/>
+<lb break="no"/>rius uoluntati dei. Voluit diabolus quod deus uo
+<lb break="no"/>luit. set deus non uoluit. nisi bonum. <hi rend="fill-red">E</hi>rgo diabolus 
+<lb/>uoluit bonum. quod est contra eius naturam. 
+</ab>
+<div type="textpart" subtype="solutio">
+<lb/><head rend="red enlarged">Solutio</head> 
+<ab>
+Voluit diabolus idem. set non ad 
+<lb/>idem. <hi rend="fill-red">D</hi>eus pater uoluit ex<reg> </reg>caritate ad salutem⸵ 
+<lb/>diabolus ad inuidia ad dampnationem.
+</ab>
+</div>
+<metamark rend="line-fill"/>
+</div>
+<div n="23" type="textpart" subtype="questio">
+<ab> 
+<lb/><quote source="Bible.Vul:John.15.15"><hi rend="dropcap2 red">O</hi>mnia que audiui a<reg> </reg>patre meo. nota feci 
+<lb/>uobis.</quote> set omnia que pater scit audiuit 
+<lb/>a<reg> </reg>patre. <hi rend="fill-red">E</hi>rgo omnia que pater scit nota fecit apos
+<lb break="no"/>tolis. <hi rend="fill-red">E</hi>rgo eque scientes sunt cum patre. 
+</ab>
+<div type="textpart" subtype="solutio">
+<head rend="red enlarged">Solutio</head> 
+<ab>
+<lb/><hi rend="fill-red">O</hi>mnia que audiui ad salutem uestram nota fe
+<lb break="no"/>ci uobis. <hi rend="fill-red">V</hi>el aliter. <quote source="Bible.Vul:John.15.15"><hi rend="fill-red">O</hi>mnia que audiui a<reg> </reg>patre</quote> 
+<lb/>que notificanda erant uobis⸵ <quote source="Bible.Vul:John.15.15">nota feci uobis</quote>.
+</ab>
+</div>
+<metamark rend="line-fill"/>
+</div>
+<div n="24" type="textpart" subtype="questio">
+<ab> 
+<lb/><hi rend="dropcap2 green">Q</hi>ueritur an deus filius sit sapientior deo pa
+<lb break="no"/>tre. <hi rend="fill-red">Q</hi>uod uidetur. <hi rend="fill-red">Q</hi>uia filius deus du
+<lb break="no"/>plici sapientia sapiens est. scilicet creata et 
+<lb/>increata. <hi rend="fill-red">D</hi>eus pater tantum in<surplus> </surplus>creata. <hi rend="fill-red">E</hi>rgo deus 
+<lb/>filius sapientior est deo patre. 
+</ab>
+<div type="textpart" subtype="solutio">
+<head rend="red enlarged">Solutio</head> 
+<ab>
+<hi rend="fill-red">D</hi>eus 
+<lb/>filius non est sapientior deo patre. quia sicut 
+<lb/>sapientia creata procedit a<reg> </reg>sapientia increa
+<lb break="no"/>ta. que est deus filius. ita eadem sapientia cre
+<lb break="no"/>ata procedit a<reg> </reg>sapientia increata que est deus 
+<lb/>pater. et sic deus filius sapientior est et cetera.
+</ab>
+</div>
+<metamark rend="line-fill"/>
+</div>
+<div n="25" type="textpart" subtype="questio">
+<ab> 
+<lb/><hi rend="dropcap2 red">Q</hi>ui peccat in patrem⸵ remittetur ei. <hi rend="fill-red">Q</hi>ui pec
+<lb break="no"/>cat in filium⸵ remittetur ei. <hi rend="fill-red">Q</hi>ui peccat 
+<lb/>in spiritum sanctum⸵ nec hic nec in futuro condonetur 
+<lb/>ei. <hi rend="fill-red">S</hi>et qui peccat in patrem et filium⸵ peccat in 
+<lb/>spiritum sanctum. uel qui offendit in patrem et filium⸵ 
+<lb/>offendit et in spiritum sanctum. <hi rend="fill-red">E</hi>rgo nec hic nec in futuro 
+<lb/>condonetur ei. 
+</ab>
+<div type="textpart" subtype="solutio">
+<head rend="red enlarged">Solutio.</head> 
+<ab>
+<hi rend="fill-red">Q</hi>ui peccat per in
+<lb break="no"/>firmitatem⸵ peccat in patrem. quia dicitur 
+<lb/>potentia. <hi rend="fill-red">Q</hi>ui peccat per ignorantiam⸵ peccat 
+<lb/>in filium. quia dicitur sapientia. <hi rend="fill-red">Q</hi>ui uero peccat 
+<lb/>per deliberationem⸵ peccat in spiritum sanctum. quia dicitur 
+<lb/>benignitas uel consolator. et ita hec sunt no
+<lb break="no"/>mina. <hi rend="fill-red">P</hi>eccare⸵ <expan><abbr>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> qui peccat per infirmitatem⸵
+<pb n="127r"/>
+<cb n="a"/>
+<lb/>uel per ignorantiam⸵ remittetur ei. <hi rend="fill-red">Q</hi>ui uero 
+<lb/>peccat per studium malitie. uel desperatio
+<lb break="no"/>nem⸵ nec hic nec in<reg> </reg>futuro remittetur ei. 
+<lb/><hi rend="fill-red">S</hi>cilicet in nullo. <hi rend="fill-red">S</hi>ecundum quosdam⸵ sine pena.
+</ab>
+</div>
+<milestone rend="line-fill-below" unit="undefined"/>
+</div>
+<div n="26" type="textpart" subtype="questio">
+<ab><!-- The following is from Jerome, Ep. ad Damasum -->
+<lb/><hi rend="dropcap2 green">S</hi>eptem sunt 
+<lb/>peccata <persName>caini</persName>. <hi rend="fill-red">P</hi>rimum⸵ quod recte non 
+<lb/>diuiserit. <hi rend="fill-red">S</hi>ecundum⸵ quod inuiderit fratri. <hi rend="fill-red">T</hi>ertium⸵ 
+<lb/>quod dolose egerit dicens. <said><!-- cf. Gen. 4:8 --><hi rend="fill-red">T</hi>ranseamus in cam
+<lb break="no"/>pum.</said> <hi rend="fill-red">Q</hi>uartum⸵ quod fratrem interfecerit. <hi rend="fill-red">Q</hi>uin
+<lb break="no"/>tum⸵ quod procaciter negauerit. <quote source="Bible.Vul:Gen.4.8"><hi rend="fill-red">N</hi>escio 
+<lb/>in quid. <hi rend="fill-red">N</hi>unquid custos fratris mei su<surplus>u</surplus>m.</quote> 
+<lb/><hi rend="fill-red">S</hi>extum⸵ quod seipsum dampnauerit dicens. 
+<lb/><said><hi rend="fill-red">M</hi>aior est culpa mea⸵ quam ut dimittar.</said> 
+<lb/><hi rend="fill-red">S</hi>eptimum⸵ quod nec dampnatus egerit peni
+<lb break="no"/>tentiam.
+</ab>
+<metamark rend="line-fill"/>
+</div>
+<div n="27" type="textpart" subtype="questio">
+<ab> 
+<lb/><hi rend="dropcap2 red">Q</hi>ui possidet dominum et cum propheta 
+<lb/>dicit. <hi rend="fill-red">P</hi>ars mea dominus⸵ nichil extra 
+<lb/>dominum habere potest. <hi rend="fill-red">Q</hi>uod si quicquam aliud 
+<lb/>habuerit quam dominum⸵ pars eius non erit 
+<lb/>dominus. <hi rend="fill-red">V</hi>erbi gratia. <hi rend="fill-red">S</hi>i aurum. <hi rend="fill-red">S</hi>i argen
+<lb break="no"/>tum. <hi rend="fill-red">S</hi>i possessiones. <hi rend="fill-red">S</hi>i uariam suppel
+<lb break="no"/>lectilem. <hi rend="fill-red">C</hi>um istis partibus⸵ dominus pars eius 
+<lb/>fieri non dignabitur.
+</ab>
+<metamark rend="line-fill"/>
+</div>
+<div n="28" type="textpart" subtype="questio">
+<ab> 
+<lb/><hi rend="dropcap2 green">Q</hi>uedam in scripturis diuinis prohibentur. 
+<lb/><hi rend="fill-red">Q</hi>uedam precipiuntur. <hi rend="fill-red">A</hi>liqua concedun
+<lb break="no"/>tur. <hi rend="fill-red">N</hi>on nulla suadentur. <hi rend="fill-red">P</hi>rohibentur 
+<lb/>mala. <hi rend="fill-red">P</hi>recipiuntur bona. <hi rend="fill-red">C</hi>onceduntur 
+<lb/>media. <hi rend="fill-red">P</hi>erfecta suadentur.
+</ab>
+<metamark rend="line-fill"/>
+</div>
+</body>
+</text>
 </TEI>
