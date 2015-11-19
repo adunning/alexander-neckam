@@ -42,14 +42,14 @@
                             </editor>
                             <imprint>
                                 <pubPlace>Turnhout</pubPlace>
-                                <biblScope type="vol">2.2b</biblScope>
+                                <biblScope unit="volume">2.2b</biblScope>
                                 <publisher>Brepols</publisher>
                                 <date>1983</date>
                             </imprint>
                         </monogr>
                         <series>
                             <title level="s">CCSL</title>
-                            <biblScope type="vol">119b</biblScope>
+                            <biblScope unit="volume">119b</biblScope>
                         </series>
                         <idno type="ISBN">2503011950 9782503011950 2503011969 9782503011967</idno>
                     </biblStruct>

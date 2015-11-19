@@ -38,14 +38,14 @@
                         </analytic>
                         <monogr>
                             <title level="j">The Journal of Medieval Latin</title>
+                            <idno type="DOI">10.1484/J.JML.2.304112</idno>
                             <imprint>
-                                <biblScope type="vol">9</biblScope>
-                                <biblScope type="pp">1-40</biblScope>
+                                <biblScope unit="volume">9</biblScope>
+                                <biblScope unit="page">1-40</biblScope>
                                 <date>1999</date>
                                 <note type="url">http://dx.doi.org/10.1484/J.JML.2.304112</note>
                             </imprint>
                         </monogr>
-                        <idno type="DOI">10.1484/J.JML.2.304112</idno>
                     </biblStruct>
                 </listBibl>
             </sourceDesc>

@@ -38,9 +38,9 @@
                         <monogr>
                             <title level="j">Notices et extraits des manuscrits de la Bibliothèque Nationale et autres bibliothèques</title>
                             <imprint>
-                                <biblScope type="vol">35</biblScope>
-                                <biblScope type="issue">2</biblScope>
-                                <biblScope type="pp">641-682</biblScope>
+                                <biblScope unit="volume">35</biblScope>
+                                <biblScope unit="issue">2</biblScope>
+                                <biblScope unit="page">641-682</biblScope>
                                 <date>1896</date>
                             </imprint>
                         </monogr>
@@ -70,16 +70,16 @@
                         </analytic>
                         <monogr>
                             <title level="j">The English Historical Review</title>
+                            <idno type="ISSN">0013-8266</idno>
+                            <idno type="DOI">10.1093/ehr/XXX.CXIX.450</idno>
                             <imprint>
-                                <biblScope type="vol">30</biblScope>
-                                <biblScope type="issue">119</biblScope>
-                                <biblScope type="pp">450-471</biblScope>
+                                <biblScope unit="volume">30</biblScope>
+                                <biblScope unit="issue">119</biblScope>
+                                <biblScope unit="page">450-471</biblScope>
                                 <date>1915</date>
                                 <note type="url">http://ehr.oxfordjournals.org/content/XXX/CXIX/450</note>
                             </imprint>
                         </monogr>
-                        <idno type="ISSN">0013-8266</idno>
-                        <idno type="DOI">10.1093/ehr/XXX.CXIX.450</idno>
                     </biblStruct>
                     <biblStruct type="journalArticle" xml:id="Walther1962">
                         <analytic>
@@ -91,13 +91,13 @@
                         </analytic>
                         <monogr>
                             <title level="j">Medium Ævum</title>
+                            <idno type="ISSN">0025-8385</idno>
                             <imprint>
-                                <biblScope type="vol">31</biblScope>
-                                <biblScope type="pp">33–42</biblScope>
+                                <biblScope unit="volume">31</biblScope>
+                                <biblScope unit="page">33–42</biblScope>
                                 <date>1962</date>
                             </imprint>
                         </monogr>
-                        <idno type="ISSN">0025-8385</idno>
                     </biblStruct>
                     <biblStruct type="thesis" xml:id="Cropp1991">
                         <monogr>
@@ -125,9 +125,9 @@
                         <monogr>
                             <title level="j">Studi Medievali</title>
                             <imprint>
-                                <biblScope type="vol">52</biblScope>
-                                <biblScope type="issue">2</biblScope>
-                                <biblScope type="pp">865–866</biblScope>
+                                <biblScope unit="volume">52</biblScope>
+                                <biblScope unit="issue">2</biblScope>
+                                <biblScope unit="page">865–866</biblScope>
                                 <date>2011</date>
                             </imprint>
                         </monogr>
@@ -138,6 +138,7 @@
                     <biblStruct type="book" xml:id="Hochgürtel2008">
                         <monogr>
                             <title level="m">Suppletio defectuum. Carmina minora</title>
+                            <idno type="ISBN">9782503052113</idno>
                             <editor>
                                 <forename>Peter</forename>
                                 <surname>Hochgürtel</surname>
@@ -153,9 +154,8 @@
                         </monogr>
                         <series>
                             <title level="s">CCCM</title>
-                            <biblScope type="vol">221</biblScope>
+                            <biblScope unit="volume">221</biblScope>
                         </series>
-                        <idno type="ISBN">9782503052113</idno>
                     </biblStruct>
                 </listBibl>
             </sourceDesc>

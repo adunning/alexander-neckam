@@ -42,14 +42,14 @@
                         </analytic>
                         <monogr>
                             <title level="j">Zeitschrift für romanische Philologie</title>
+                            <idno type="ISSN">1865-9063</idno>
+                            <idno type="DOI">10.1515/zrph.1927.47.1.30</idno>
                             <imprint>
-                                <biblScope type="vol">47</biblScope>
-                                <biblScope type="pp">30–38</biblScope>
+                                <biblScope unit="volume">47</biblScope>
+                                <biblScope unit="page">30–38</biblScope>
                                 <date>1927</date>
                             </imprint>
                         </monogr>
-                        <idno type="ISSN">1865-9063</idno>
-                        <idno type="DOI">10.1515/zrph.1927.47.1.30</idno>
                     </biblStruct>
                     <biblStruct type="journalArticle" xml:id="Esposito1915">
                         <analytic>
@@ -61,16 +61,16 @@
                         </analytic>
                         <monogr>
                             <title level="j">The English Historical Review</title>
+                            <idno type="ISSN">0013-8266, 1477-4534</idno>
+                            <idno type="DOI">10.1093/ehr/XXX.CXIX.450</idno>
                             <imprint>
-                                <biblScope type="vol">30</biblScope>
-                                <biblScope type="issue">119</biblScope>
-                                <biblScope type="pp">450-471</biblScope>
+                                <biblScope unit="volume">30</biblScope>
+                                <biblScope unit="issue">119</biblScope>
+                                <biblScope unit="page">450-471</biblScope>
                                 <date>1915</date>
                                 <note type="url">http://ehr.oxfordjournals.org/content/XXX/CXIX/450</note>
                             </imprint>
                         </monogr>
-                        <idno type="ISSN">0013-8266, 1477-4534</idno>
-                        <idno type="DOI">10.1093/ehr/XXX.CXIX.450</idno>
                     </biblStruct>
                     <biblStruct type="book" xml:id="Giles1847">
                         <monogr>
@@ -103,8 +103,8 @@
                                 <surname>Klein</surname>
                             </editor>
                             <imprint>
-                                <biblScope type="vol">7</biblScope>
-                                <biblScope type="pp">99-136</biblScope>
+                                <biblScope unit="volume">7</biblScope>
+                                <biblScope unit="page">99-136</biblScope>
                                 <date>1998</date>
                             </imprint>
                         </monogr>
@@ -112,6 +112,7 @@
                     <biblStruct type="book" xml:id="Hochgürtel2008">
                         <monogr>
                             <title level="m">Suppletio defectuum. Carmina minora</title>
+                            <idno type="ISBN">9782503052113</idno>
                             <editor>
                                 <forename>Peter</forename>
                                 <surname>Hochgürtel</surname>
@@ -127,9 +128,8 @@
                         </monogr>
                         <series>
                             <title level="s">CCCM</title>
-                            <biblScope type="vol">221</biblScope>
+                            <biblScope unit="volume">221</biblScope>
                         </series>
-                        <idno type="ISBN">9782503052113</idno>
                     </biblStruct>
                     <biblStruct type="journalArticle" xml:id="McDonough2004">
                         <analytic>
@@ -141,14 +141,14 @@
                         </analytic>
                         <monogr>
                             <title level="j">Mediaeval Studies</title>
+                            <idno type="ISSN">00765872</idno>
+                            <idno type="DOI">10.1484/J.MS.2.306508</idno>
                             <imprint>
-                                <biblScope type="vol">66</biblScope>
-                                <biblScope type="pp">99-128</biblScope>
+                                <biblScope unit="volume">66</biblScope>
+                                <biblScope unit="page">99-128</biblScope>
                                 <date>2004</date>
                             </imprint>
                         </monogr>
-                        <idno type="ISSN">00765872</idno>
-                        <idno type="DOI">10.1484/J.MS.2.306508</idno>
                     </biblStruct>
                     <biblStruct type="journalArticle" xml:id="McDonough2005">
                         <analytic>
@@ -161,9 +161,9 @@
                         <monogr>
                             <title level="j">Studi medievali</title>
                             <imprint>
-                                <biblScope type="vol">46</biblScope>
-                                <biblScope type="issue">2</biblScope>
-                                <biblScope type="pp">783-809</biblScope>
+                                <biblScope unit="volume">46</biblScope>
+                                <biblScope unit="issue">2</biblScope>
+                                <biblScope unit="page">783-809</biblScope>
                                 <date>2005</date>
                             </imprint>
                         </monogr>
@@ -174,6 +174,7 @@
                     <biblStruct type="book" xml:id="Reeve2007">
                         <monogr>
                             <title level="m">The history of the kings of Britain: an edition and translation of De gestis Britonum (Historia regum Britanniae)</title>
+                            <idno type="ISBN">9781843832065</idno>
                             <author>
                                 <name>Geoffrey of Monmouth</name>
                             </author>
@@ -196,9 +197,8 @@
                         </monogr>
                         <series>
                             <title level="s">Arthurian studies</title>
-                            <biblScope type="vol">69</biblScope>
+                            <biblScope unit="volume">69</biblScope>
                         </series>
-                        <idno type="ISBN">9781843832065</idno>
                     </biblStruct>
                     <biblStruct type="journalArticle" xml:id="Russell1932">
                         <analytic>
@@ -210,20 +210,21 @@
                         </analytic>
                         <monogr>
                             <title level="j">The English Historical Review</title>
+                            <idno type="ISSN">0013-8266, 1477-4534</idno>
+                            <idno type="DOI">10.1093/ehr/XLVII.CLXXXVI.260</idno>
                             <imprint>
-                                <biblScope type="vol">47</biblScope>
-                                <biblScope type="issue">186</biblScope>
-                                <biblScope type="pp">260-268</biblScope>
+                                <biblScope unit="volume">47</biblScope>
+                                <biblScope unit="issue">186</biblScope>
+                                <biblScope unit="page">260-268</biblScope>
                                 <date>1932</date>
                                 <note type="url">http://ehr.oxfordjournals.org/content/XLVII/CLXXXVI/260</note>
                             </imprint>
                         </monogr>
-                        <idno type="ISSN">0013-8266, 1477-4534</idno>
-                        <idno type="DOI">10.1093/ehr/XLVII.CLXXXVI.260</idno>
                     </biblStruct>
                     <biblStruct type="book" xml:id="Wollin1998">
                         <monogr>
                             <title level="m">Carmina</title>
+                            <idno type="ISBN">2503032818  9782503032818  2503032826  9782503032825</idno>
                             <author>
                                 <name>Peter of Blois</name>
                             </author>
@@ -239,9 +240,8 @@
                         </monogr>
                         <series>
                             <title level="s">CCCM</title>
-                            <biblScope type="vol">128</biblScope>
+                            <biblScope unit="volume">128</biblScope>
                         </series>
-                        <idno type="ISBN">2503032818  9782503032818  2503032826  9782503032825</idno>
                     </biblStruct>
                 </listBibl>
             </sourceDesc>
