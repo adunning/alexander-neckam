@@ -36,6 +36,7 @@
                         </analytic>
                         <monogr>
                             <title level="m">Opera exegetica</title>
+                            <idno type="ISBN">2503011950 9782503011950 2503011969 9782503011967</idno>
                             <editor>
                                 <forename>David</forename>
                                 <surname>Hurst</surname>
@@ -51,7 +52,6 @@
                             <title level="s">CCSL</title>
                             <biblScope unit="volume">119b</biblScope>
                         </series>
-                        <idno type="ISBN">2503011950 9782503011950 2503011969 9782503011967</idno>
                     </biblStruct>
                 </listBibl>
             </sourceDesc>
