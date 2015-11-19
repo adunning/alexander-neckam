@@ -117,7 +117,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <lb/>gratie celestia dona˷ felicitatem iocunditatis eterne 
 <lb/>considera. et que sit dignitas hominis⸵ uel exparte ag
 <lb break="no"/>nosces. Calamitatibus et insidiis exponitur homo. set uic
-<lb break="no"/>torie⸵ debetur corona glorie immarcessibilis. Temta
+<lb break="no"/>torie⸵ debetur corona glorie immarcessibilis. Tem<unclear>p</unclear>ta
 <lb break="no"/>tionibus uexamur. set ei<del>u</del>sdem erudimur. Temptationibus 
 <lb/>uexamur. set fidelis dominus qui non permittit nos temptari 
 <lb/>supra id quod possumus⸵ set etiam dat cum temptatione prouentum. 
@@ -213,8 +213,8 @@ O utinam reducas ad memoriam illud
 <metamark function="flag" rend="nota"/><lb/>ceto deglutiaris. Qui igitur mare iam enauigastis. et ad portum 
 <lb/>terre firmi et stabilis propositi iam applicuistis⸵ ut quid iterato pro
 <lb break="no"/>cellosum mare tumultuum secularium intrare desideratis? <quote source="Bible.Vul:Col.3.3">Mortui 
-<lb/>estis</quote> ut ait apostolus. <quote source="Bible.Vul:Col.3.3–Col.3.4">et uita uestra abscondita est cum <expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>o</abbr></expan> in deo. Cum uero 
-<lb/>apparuerit <expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan> uita uestra⸵ apparebitis et uos cum ipso in gloria.</quote> 
+<lb/>estis</quote> ut ait apostolus. <quote source="Bible.Vul:Col.3.3–Col.3.4">et uita uestra abscondita est cum <expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>crist</ex><abbr>o</abbr></expan> in deo. Cum uero 
+<lb/>apparuerit <expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>cristus</ex></expan> uita uestra⸵ apparebitis et uos cum ipso in gloria.</quote> 
 <lb/>Mortui estis mundo<g ref="#f1e2">,</g> uiciis et concupiscentiis. mortui estis 
 <lb/>terrenis desideriis. Que sursum ergo sunt sapite⸵ non que super terram. 
 <lb/>Mortui estis⸵ et uiuitis. Mortui⸵ mundo. uiuentes⸵ deo. 
@@ -223,7 +223,7 @@ O utinam reducas ad memoriam illud
 <lb/>per quam feliciter uiuit spiritus. Mors ista⸵ uitalis est mors. Baal⸵ au
 <lb break="no"/>reus exterius. set luteus erat interius. Nos autem qui luteas 
 <lb/>domos habemus˷ lutei sumus exterius. utinam aurei simus inte
-<lb break="no"/>rius. Mortui estis. et uita uestra abscondita est cum <expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>o</abbr></expan> in deo. 
+<lb break="no"/>rius. Mortui estis. et uita uestra abscondita est cum <expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>crist</ex><abbr>o</abbr></expan> in deo. 
 <cb n="b"/>
 <lb/>Qui uero ducunt in bonis dies suos˷ set in puncto hore in 
 <lb/>infernum descensuri⸵ in presenti uiuunt. et uita illorum⸵ 
@@ -233,7 +233,7 @@ O utinam reducas ad memoriam illud
 <lb/>uirtutem uegetatiuam uiuentes interius⸵ aride uidentur 
 <lb/>et mortue. Cum uero aderit estas glorie⸵ uestientur arbores ho
 <lb break="no"/>nore foliorum. et gloria generosi fructus nobilitabuntur. Vnde 
-<lb/>competenter subiungitur. Cum apparuerit <expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan> uita uestra⸵ 
+<lb/>competenter subiungitur. Cum apparuerit <expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>cristus</ex></expan> uita uestra⸵ 
 <lb/>apparebitis et uos cum ipso in gloria. Vtquid uoluntatem propriam 
 <lb/>ne dicam errorem˷ tueri presumitis. qui collum uestrum iu
 <lb break="no"/>go spontanee seruitutis supposuistis? Elefas⸵ animal est 
@@ -355,7 +355,7 @@ Nobilis argiuorum princeps <persName>agamen
 <lb/>solo sunt equate. Immo quot regiones opulentissime˷
 <lb/>bachi cererisque et minerue muneribus gloriate˷ pascuis uber
 <lb break="no"/>rime˷ uenis metallorum ditate˷ siluis uestite˷ populo legibus
-<lb/>equissimis uiuente replte˷ urbibus tutissimis munite⸵ aut
+<lb/>equissimis uiuente repl<unclear>e</unclear>te˷ urbibus tutissimis munite⸵ aut
 <lb/>repentinis aquarum inundationibus sunt submerse. aut aeris
 <lb/>corruptione uel hostili populatione in solitudinem sunt re
 <lb break="no"/>dacte? Quot populi preclaris insignium triumphorum titulis e
@@ -387,7 +387,7 @@ Nobilis argiuorum princeps <persName>agamen
 <hi rend="enlarged red">V</hi>anitates
 <lb/>igitur rerum⸵ se ipsas multipliciter ennarant. et sui contemptum
 <lb/>docent. Consideratio uero utilitatis creaturarum⸵ ad amorem 
-<lb/>diuinum nos inuitat. Cernis quonammodo superiora corpora⸵ soloa
+<lb/>diuinum nos inuitat. Cernis quonammodo superiora corpora⸵ sola
 <lb break="no"/>tium lucis nobis exhibent. Dies et nox gratis successionibus
 <lb/>sibi tempora diuidunt. ita ut hec no<subst><del>rum</del><add>s</add></subst> quiete <unclear>recreant</unclear>⸵
 <lb/>illa nobis exercitium laboris indicat. Frigiditas et siccitas
@@ -412,7 +412,7 @@ Nobilis argiuorum princeps <persName>agamen
 <lb/>utilitatem. intuere recreationis opera⸵ que tibi salutem confe
 <lb break="no"/>runt. Si beneficia˷ si dispensationem˷ si dulcedinem diuine
 <lb/>clementie consideras interius. semper tibi nouus⸵ semper se ipso quo
-<lb break="no"/>dammodo maior tuus tibi occurret <expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan>. Ipse est dulcedo meditationum.
+<lb break="no"/>dammodo maior tuus tibi occurret <expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>cristus</ex></expan>. Ipse est dulcedo meditationum.
 <lb/>orationum iocunditas⸵ lectionis fructus. actionum finis⸵ fidei fun
 <lb break="no"/>damentum. spei firmamentum⸵ caritatis soliditas. uirtutum
 <lb/>integritas⸵ quies laboris. desiderii consummatio.
@@ -427,7 +427,7 @@ Nobilis argiuorum princeps <persName>agamen
 <lb break="no"/>dit⸵ se debet liber parabolorum. considerationi uani
 <lb break="no"/>tatum mundanarum⸵ obnoxius est ecclesiastes. contempla
 <lb break="no"/>tioni diuine⸵ obsequitur liber canticorum. Clamat idida 
-<lb/>quia <quote source="Bible.Vulg.Prov.9.10">inicium sapiencie<!-- This spelling is written out, but -tie is also written out above (e.g. on 57v). -->⸵ timor domini</quote>. Concionatur ecclesiastes⸵ 
+<lb/>quia <quote source="Bible.Vulg.Prov.9.10">inicium sapiencie⸵ timor domini</quote>. Concionatur ecclesiastes⸵ 
 <lb/>dicens. <quote source="Bible.Vulg.Eccl.1.2">Vanitas uanitatum. uanitas uanitatum⸵ et omnia uanitas.</quote>
 <lb/>Suspirat ad pacis delicias⸵ <persName>sal<add place="overstrike">o</add>mon</persName> inquiens. <quote source="Bible.Vulg.Song.1.1">Osculetur 
 <lb/>me osculo oris sui.</quote> Idida˷ idest dilectus eris a domino⸵ per hu
@@ -483,7 +483,8 @@ Nobilis argiuorum princeps <persName>agamen
 <p>
 <hi rend="enlarged red">D</hi>um igitur audet pia deuotio medi
 <lb break="no"/>tationes defecatas tanquam fidas interne uoluptatis nuntias
-<lb/>mittere in presentiam summi iudicis⸵ consideret potentam rectoris<g ref="#f1e2">,</g> sapientiam<lb/> benignitatem. Profecto si ad creaturas
+<lb/>mittere in presentiam summi iudicis⸵ consideret potentam rectoris<g ref="#f1e2">,</g> sapientiam
+<lb/>benignitatem. Profecto si ad creaturas
 <lb/>adhibeatur respectus⸵ facile est summi conditoris attendere
 <lb/>potentiam. dum res ex nichilo creat. sapientiam⸵ dum sine causa nichil in<add> </add>esse producit. benignitatem⸵ dum res benig
 <lb break="no"/>ne conseruat. Potens est⸵ qui in omnibus uoluntatem manci
@@ -509,7 +510,8 @@ Nobilis argiuorum princeps <persName>agamen
 <lb/>ponderositate. In numero res creauit⸵ qui numeris ele
 <lb break="no"/>menta ligat. qui numerat multitudinem stellarum⸵
 <lb/>et omnibus eis nomina uocat. Sicut in simplici et summa <del><unclear>a</unclear></del>ie
-<lb break="no"/>rarchia<lb/> trinitas est personarum⸵ sic et in triplici ternos or
+<lb break="no"/>rarchia
+<lb/>trinitas est personarum⸵ sic et in triplici ternos or
 <lb break="no"/>dines reperies. et in anima rationali que ad imaginem dei facta est⸵
 <lb/>tres partes potentiales agnosce. Quid quod habitabilis
 <lb/>nostra in tres distincta est portiones? Ditioni quaternarii
@@ -666,13 +668,14 @@ Nobilis argiuorum princeps <persName>agamen
 </div>
 <div n="2" type="textpart" subtype="section">
 <p>
-<hi rend="enlarged red">V</hi>ereor ne dum liber parabolarum˷<lb/>nostris se concedit manibus⸵ inuidia faciem infecta liuore˷ intonet
+<hi rend="enlarged red">V</hi>ereor ne dum liber parabolarum˷
+<lb/>nostris se concedit manibus⸵ inuidia faciem infecta liuore˷ intonet
 <lb/>ore cinico dicens. O dedecus⸵ o indignatio. Non sufficerent ue
 <lb break="no"/>nerabilium patrum uolumina in archiuis recondita⸵ nisi nouellas
-<lb/>quasdam expositiunculas adicere presumeret moernorum infrunita te
+<lb/>quasdam expositiunculas adicere presumeret modernorum infrunita te
 <lb break="no"/>meritas? Siccine sui impatiens˷ uerecundie prorsus ignara<g ref="#f1e2">,</g> ui
 <lb/>tio ingratitudinis laborans existit<g ref="#f1e2">,</g> ceca iuniorum impudentia.
-<lb/>ut per consequens arguere insufficientie˷ maiorum egregia oper gau
+<lb/>ut per consequens arguere insufficientie˷ maiorum egregia oper<unclear>a</unclear> gau
 <lb break="no"/>deant minores? Superuacuis laborat impendis⸵ qui solem ni
 <lb break="no"/>titur facibus iunare. Nonne similiter superfluo detinetur labore. qui ma
 <lb break="no"/>iorum lucidas expositiones<g ref="#f1e2">,</g> nouis uiuare contendit? Ad hec. Aut a ui
@@ -682,12 +685,12 @@ Nobilis argiuorum princeps <persName>agamen
 <lb break="no"/>um auctoritati in nullo sunt obnoxia. nonne minus autentica
 <lb/>censebuntur? Preterea. In solatium <expan><abbr>m<am>&#x365;</am></abbr><ex>ichi</ex></expan> cedit. quia cum ueterum labores
 <lb/>tinea demoliatur⸵ et opuscula modernorum edax abolebit uetustas.
-<lb/>Quid quod non sumper letum initium. felix consequitur consummatio?
+<lb/>Quid quod non <unclear>sumper</unclear> letum initium. felix consequitur consummatio?
 <lb/>Set et si iocundo principio feliciter respondeat finis operis. facilitas
 <lb/>tamen intelligentie⸵ contemptibilis lectori‚ obscuritas⸵ molesta
 <lb/>censebitur. Set quid? Audeant iuniores audeant operibus nouis
 <lb/>insudare⸵ dum non nisi molestos et tetricos reperiant lectores. Experiar
-<lb/>igirut siquid possum experiar. et lectoribus assistam comes indiuidua. Scri
+<lb/>igitur siquid possum experiar. et lectoribus assistam comes indiuidua. Scri
 <lb break="no"/>bentis diligentiam⸵ tediose prolixitati. subtilitatem⸵ ostentiationi
 <lb/>curiose. breuitatem⸵ ascribi faciam negligentie.
 </p>
@@ -706,7 +709,7 @@ Nobilis argiuorum princeps <persName>agamen
 <lb break="no"/>icienda⸵ humiliatio. Nonne certamur ineuntes. eo ipso quod certant<g ref="#f1e2">,</g>
 <lb/>pares sunt? Par igitur efficitur stulto⸵ qui stulto stulte respondet.
 <cb n="b"/>
-<lb/>Quid? Immo dum rixaris cum inuido. iam iuctus censeberis⸵
+<lb/>Quid? Immo dum rixaris cum inuido. iam i<unclear>u</unclear>ctus censeberis⸵
 <lb/>dum uotum assequitur liuor tabescens. Tunc renidet et applau
 <lb break="no"/>dit inuidia⸵ dum se desiderii compotem effectam cernit. Nonne
 <metamark function="flag" rend="nota"/><lb/>qui tribulant te˷ exultabunt si motus fueris? Nonne qui pi
@@ -716,7 +719,7 @@ Nobilis argiuorum princeps <persName>agamen
 <lb/>uictoriam assequitur. qui orat pro <add place="overstrike">litig</add>ioso˷ ut dominus cor ipsius illu
 <lb break="no"/>stret ad penitentiam⸵ triumphauit. Inuidia⸵ maximam par
 <lb break="no"/>tem ueneni sui bibit. sibi ipsi lues est perniciosa. Motus inuidie⸵
-<lb/>uiperee sunt generationes. Rumpitur in partu⸵ upera. infauste so
+<lb/>uiperee sunt generationes. Rumpitur in partu⸵ uipera. infauste so
 <lb break="no"/>bolis infausta parens. Contempnanda est pestis exitialis⸵ sui
 <lb/>ipsius cruciatrix. Quo pacto placida pectoris transquillitate fruetur.
 <lb/>qui sibi ipsi molestus est<g ref="#f1e2">,</g> nisi ei cuncta suppetant ad nutum? Non est 
@@ -752,7 +755,8 @@ Nobilis argiuorum princeps <persName>agamen
 </div>
 <div n="4" type="textpart" subtype="section" rendition="lemma">
 <p rend="sidequotes">
-<quote source="Bible.Vul:Prov.1.1"><hi rend="enlarged red">P</hi>arabole salomonis filii dauid regis israel⸵<lb/>ad sciendam sapientiam et disciplinam et cetera.</quote>
+<quote source="Bible.Vul:Prov.1.1"><hi rend="enlarged red">P</hi>arabole salomonis filii dauid regis israel⸵
+<lb/>ad sciendam sapientiam et disciplinam et cetera.</quote>
 </p>
 </div>
 <div n="5" type="textpart" subtype="section">
@@ -817,7 +821,7 @@ Nobilis argiuorum princeps <persName>agamen
 <lb/>quandoque coarctatur. quandoque laxatur. Set nunquam ueri nominis sapientia in <add place="overstrike">puro</add> 
 <lb/>homine uiatore substitit⸵ sine fide mediatoris dei et hominum.
 <lb/>fide inquam⸵ implicita aut explic<add place="overstrike">ita</add>. Puro dixi⸵ respici
-<lb break="no"/>ens <persName><expan><abbr>i<am>ħ</am></abbr><ex>esu</ex><abbr>m</abbr></expan> <expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christu</ex><abbr>m</abbr></expan></persName>. qui non fidem⸵ set scientiam habuit comprehensiuam.
+<lb break="no"/>ens <persName><expan><abbr>i<am>ħ</am></abbr><ex>esu</ex><abbr>m</abbr></expan> <expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>cristu</ex><abbr>m</abbr></expan></persName>. qui non fidem⸵ set scientiam habuit comprehensiuam.
 <cb n="b"/>
 <lb/>Viatore adieci⸵ eo quod comprehensores fidem non habent. Fides namque 
 <lb/>et spes⸵ euacuabuntur. caritas autem nunquam excidet. Quid autem
@@ -944,7 +948,7 @@ Nobilis argiuorum princeps <persName>agamen
 <p>
 <metamark function="div">¶</metamark> Sint igitur affectus
 <lb/>mentis⸵ disciplinati. actiones⸵ disciplinate. studia⸵ discipli
-<lb break="no"/>nata. Si enim discipline uocavulo rite uti uolumus⸵ conti
+<lb break="no"/>nata. Si enim discipline uocabulo rite uti uolumus⸵ conti
 <lb break="no"/>nebit disciplina continentiam et sustinentiam. ita ut conti
 <lb break="no"/>nentia⸵ sub se contineat abstinentiam. Dignitas enim hu
 <lb break="no"/>mane conditionis per immoderantiam sauciata⸵ studio par
@@ -1302,15 +1306,15 @@ Institutis morali
 <div n="3" type="textpart" subtype="section">
 <p>
 <metamark rend="red" function="div">¶</metamark> Mirabitur fortasse
-<lb/>quis minus fideligter in sublimibus pagine celestis insti
+<lb/>quis minus fideliter in sublimibus pagine celestis insti
 <lb break="no"/>tutis instructus<g ref="#f1e2">,</g> super hoc quod superius effectum ini<add place="above">ci</add>alis
-<lb/>timoris esse diximusntuitu desistere ab illicitis. 
+<lb/>timoris esse diximus <unclear>i</unclear>ntuitu desistere ab illicitis. 
 <lb/>Sic enim confundere uidemur⸵ effectu timoris et amoris. 
 <lb/>Set <sic>non ne</sic><!-- This does look to be two words, but it might just be one. --> fides operatur per dilectionem? Profecto caritas
 <lb/>facit diligere. et fides idem efficit. Set diligere⸵ dilec
 <lb break="no"/>tionis est effectus formalis siue denominationis. set fidei⸵
 <lb/>effectus est causalis. Dona spiritus sancti⸵ mutuo federe connec
-<lb break="no"/>tuntur. et effectus socialiter communicant. TImor initialis
+<lb break="no"/>tuntur. et effectus socialiter communicant. Timor initialis
 <lb/>desidere facit ab illicitis⸵ ab amorem iusticie. et idem⸵ facit
 <lb/>fides. Quid ni? Dona⸵ sunt ipsarum uirtutum effectus. 
 <lb/>Timor initialis qui est domum spiritus sancti<g ref="#f1e2">,</g> et est habitus mentis
@@ -1333,7 +1337,7 @@ Institutis morali
 </div>
 <div n="4" type="textpart" subtype="section">
 <p> 
-<lb/><hi rend="enlarged red">T</hi>imor deum⸵ principium sapientie. Timere⸵ naturaliter precedit id
+<lb/><quote source="Bible.Vul:Prov.1.7"><hi rend="enlarged red">T</hi>imor deum⸵ principium sapientie.</quote> Timere⸵ naturaliter precedit id
 <lb/>quod est diligere. Timor enim⸵ declinare a malo<g ref="#f1e2">,</g> amor⸵ facere bonum <add place="margin">docet</add>. 
 <lb/>Precessiuus amoris est timor. dum <add place="margin" resp="#AN">timor et amor</add> tanquam exploratores
 <lb/>terre uiuentium⸵ botrum florentis desiderii in palo fidei portant. 
@@ -1370,7 +1374,7 @@ Institutis morali
 </div>
 <div n="5" type="textpart" subtype="section">
 <p>                       
-<lb/><hi rend="enlarged red">S</hi>equitur. Sapientiam atque doctrinam stulti despiciunt. Sapi
+<lb/><hi rend="enlarged red">S</hi>equitur. <quote source="Bible.Vul:Prov.1.7">Sapientiam atque doctrinam stulti despiciunt.</quote> Sapi
 <lb break="no"/>entiam⸵ recti dogmatis. doctrinam⸵ pure conuersationis. O dolor
 <lb/>o gemitus. Multi sunt qui melleam manne celestis <add place="margin">doctrine</add> dulcedinem
 <lb/>fastidientis⸵ dicunt. Manhu? Hoc est. Quid est hoc? Suspirant ad
@@ -1890,7 +1894,7 @@ Institutis morali
 <lb/>Contractus uero em<add place="above"><add place="margin" resp="#AN">p</add></add>tionis et uenditionis<g ref="#f1e2">,</g> quibus institores stu
 <lb break="no"/>dia sua impendunt⸵ noue fraudes et crebra periuria co
 <lb break="no"/>mitantur. Pro dolor. dum pro lucello exili<g ref="#f1e2">,</g> homo anime sue
-<lb/>precioso sanguine <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>i</abbr></expan></persName> redempte<g ref="#f1e2">,</g> detriment<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> patitur.
+<lb/>precioso sanguine <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>crist</ex><abbr>i</abbr></expan></persName> redempte<g ref="#f1e2">,</g> detriment<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> patitur.
 <lb/>Quid moror? Vix aliquam conditionem hominum reperies⸵ que
 <cb n="b"/>
 <lb/>non sit aut ambitioni. aut auaritie<g ref="#f1e2">,</g> aut inani glorie<g ref="#f1e2">,</g> aut
@@ -2318,7 +2322,7 @@ Institutis morali
 <lb/>in fines orbis terrarum. Cetus ergo apostolorum dedit uocem
 <lb/>suam in plateis. <sic>idest</sic> in latitudine gentium. Quod
 <lb/>enim dicitur per prophetam˷ neque audiet aliquis in pla
-<lb break="no"/>teis uocem eis⸵ ad predicationem ipsius <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>i</abbr></expan></persName> referendum
+<lb break="no"/>teis uocem eis⸵ ad predicationem ipsius <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>crist</ex><abbr>i</abbr></expan></persName> referendum
 <lb/>est. Non enim missus erat nisi ad oues que perierunt
 <lb/>domus <placeName>israel</placeName>. Sequitur.
 </p>
@@ -2356,7 +2360,7 @@ Institutis morali
 <lb/>carnaliter sapientes adherent? Obseruantie item
 <lb/>sacramentorum legalium⸵ hodie noxie sunt cultoribus
 <lb/>suis. Vsquequo imprudentes odibunt scienciam. spiritu
-<lb break="no"/>alem uidelicet intelligentiam<g ref="#f1e2">,</g> <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>o</abbr></expan></persName> et ecclesie sacramen
+<lb break="no"/>alem uidelicet intelligentiam<g ref="#f1e2">,</g> <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>crist</ex><abbr>o</abbr></expan></persName> et ecclesie sacramen
 <lb break="no"/>tis obnoxiam contempnendi? Conuertimini ad correp
 <lb break="no"/>tionem meam qua per apostolos meos uos corripui<g ref="#f1e2">,</g> ad pe
 <lb break="no"/>nitentiam inuitans. En proferam uobis spiritum meum.
@@ -2406,8 +2410,8 @@ Institutis morali
 </div>
 <div n="4" type="textpart" subtype="section">
 <p>
-<hi rend="enlarged red">A</hi>duersio pauulorum interficiet eos. et pros
-<lb break="no"/>peritas sultorum perdet illos.
+<quote source="Bible.Vul:Prov.1.32"><hi rend="enlarged red">A</hi>duersio pa<unclear>r</unclear>uulorum interficiet eos. et pros
+<lb break="no"/>peritas s<unclear>t</unclear>ultorum perdet illos.</quote>
 </p>
 </div>
 <div n="5" type="textpart" subtype="section">
@@ -2616,7 +2620,7 @@ Institutis morali
 <lb/>inuenies thesaur<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan>. Quis thesaurus <expan><abbr rend="supraline">p</abbr><ex>re</ex></expan>ci
 <lb break="no"/>osior scientia diuinitatis. que <expan><am>&#xA751;</am><ex>per</ex></expan>petuo bea
 <lb break="no"/>t<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> facit? Hec est en<expan><abbr>i<am>&#x305;</am></abbr><ex>m</ex></expan> uita et<expan><am>&#x33E;</am><ex>er</ex></expan>na ut cog
-<lb break="no"/>nocam<expan><am>&#xA770;</am><ex>us</ex></expan> te <expan><abbr>d</abbr><ex>eu</ex><abbr rend="supraline">m</abbr></expan>⸵ <expan><am>&amp;</am><ex>et</ex></expan> qu<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> misisti <persName><expan><abbr>i<am>ħ</am></abbr><ex>esu</ex><abbr>m</abbr></expan></persName> <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christu</ex><abbr>m</abbr></expan></persName> 
+<lb break="no"/>nocam<expan><am>&#xA770;</am><ex>us</ex></expan> te <expan><abbr>d</abbr><ex>eu</ex><abbr rend="supraline">m</abbr></expan>⸵ <expan><am>&amp;</am><ex>et</ex></expan> qu<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> misisti <persName><expan><abbr>i<am>ħ</am></abbr><ex>esu</ex><abbr>m</abbr></expan></persName> <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>cristu</ex><abbr>m</abbr></expan></persName> 
 <lb/>Seq<expan><am>&#x365;</am><ex>ui</ex></expan>tur. Quia <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><ex>u</ex><abbr>s</abbr></expan> <expan>sap<abbr rend="supraline">i</abbr><ex>enti</ex>a</expan>⸝ <expan><am>&amp;</am><ex>et</ex></expan> ex ore 
 <lb/>eius⸵ scientia <expan><am>&amp;</am><ex>et</ex></expan> p<expan><am>&#x367;</am><ex>ru</ex></expan>dentia. Intelliges dixi⸵ 
 <lb/>quia <expan><abbr>d</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><ex>u</ex><abbr>s</abbr></expan> pat<expan><am>&#x33E;</am><ex>er</ex></expan> dat sapientia<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan>. <expan><am>&amp;</am><ex>et</ex></expan> ex ore eius 
@@ -2790,7 +2794,7 @@ Institutis morali
 <lb/>lucid<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> facit⸵ ille q<expan><am>&#x365;</am><ex>ui</ex></expan> uera lux est. Cum <expan><ex>er</ex>g<am>&#x366;</am><ex>o</ex></expan> 
 <lb/>iter fit rect<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan>⸵ fit <expan><am>&amp;</am><ex>et</ex></expan> lucidum. Quid ni? 
 <lb/>Verus sol iusticie⸝ est <expan><am>&amp;</am><ex>et</ex></expan> ueritas iusticie⸵ 
-<lb/>est <expan><am>&amp;</am><ex>et</ex></expan> uera lux. Adde. quia <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> uia est⸝ 
+<lb/>est <expan><am>&amp;</am><ex>et</ex></expan> uera lux. Adde. quia <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>cristus</ex></expan></persName> uia est⸝ 
 <lb/>rectitudo est⸝ lumen est. Beda. <quote><add place="overstrike" resp="#AN-nt">Pulcre</add> 
 <lb/>itineri recto⸵ uias tenebrosas<del rend="erased">.</del> opposuit. q<expan><am>&#x365;</am><ex>ui</ex></expan>a 
 <lb/>iter recte actionis⸵ in luce <expan><am>&#xA751;</am><ex>per</ex></expan>agit<expan><am>&#x1DD1;</am><ex>ur</ex></expan>. <expan><am>&amp;</am><ex>et</ex></expan> ad lucis 
@@ -2949,7 +2953,7 @@ Institutis morali
 <p>
 <hi rend="red enlarged">P</hi>otest 
 <lb/><expan><am>&amp;</am><ex>et</ex></expan> <expan><am>&#xA751;</am><ex>per</ex></expan> mulier<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> ex.tranea<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan>⸵ heretico<expan><am>ꝝ</am><ex>rum</ex></expan> p<expan><am>&#xF1C1;</am><ex>ra</ex></expan>uitas in
-<lb break="no"/>telligi⸝ a <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>i</abbr></expan></persName> <expan><am>&amp;</am><ex>et</ex></expan> <expan>eccl<am>&#xF1C7;</am><ex>es</ex>ie</expan> membris aliena. que 
+<lb break="no"/>telligi⸝ a <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>crist</ex><abbr>i</abbr></expan></persName> <expan><am>&amp;</am><ex>et</ex></expan> <expan>eccl<am>&#xF1C7;</am><ex>es</ex>ie</expan> membris aliena. que 
 <lb/>lingue blandimentis innocenti<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> corda de
 <lb break="no"/>cipit. Vnde sc<expan><am>&#x365;</am><ex>ri</ex></expan>pt<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> est. <quote>Mollierunt sermones 
 <lb/>suos su<expan><am>&#xA751;</am><ex>per</ex></expan> ole<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan>. <expan><am>&amp;</am><ex>et</ex></expan> <expan><abbr>i</abbr><abbr rend="supraline">p</abbr><ex>s</ex><abbr>i</abbr></expan> <expan><abbr>s</abbr><ex>un</ex><abbr rend="supraline">t</abbr></expan> iac<expan><ex>u</ex>l<am>&#xF1C7;</am></expan>a.</quote> Relinquit eti<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan> 
@@ -2987,7 +2991,7 @@ Institutis morali
 <lb break="no"/>nis. Sic sic <persName>eua</persName><del rend="erased" resp="#AN-x"><unclear>c</unclear></del> <persName>ade</persName> porrigens pom<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan>⸵ 
 <lb/>blandis <expan><am>&#xA751;</am><ex>per</ex></expan>suasioni<expan><abbr>b<am>&#xA76B;</am></abbr><ex>us</ex></expan> eum ad esum 
 <lb/>illicit<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> inuitat. <handShift/>Dux aut<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> pub<expan><am>&#x33E;</am><ex>er</ex></expan>tatis 
-<lb/>ipsi<expan><am>&#xA770;</am><ex>us</ex></expan>⸵ est usus rationis˷ siue <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName>. q<expan><am>&#x365;</am><ex>ui</ex></expan> re
+<lb/>ipsi<expan><am>&#xA770;</am><ex>us</ex></expan>⸵ est usus rationis˷ siue <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>cristus</ex></expan></persName>. q<expan><am>&#x365;</am><ex>ui</ex></expan> re
 <lb break="no"/>nouat in <expan>no<abbr rend="stroke">b</abbr><ex>is</ex></expan> iuuentut<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> <expan><abbr>g</abbr><abbr rend="supraline">r</abbr><ex>ati</ex><abbr>e</abbr></expan>. Felix <expan><am>∻</am><ex>est</ex></expan> 
 <lb/><persName>agar</persName>⸵ d<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> <persName>abrahe</persName> fruit<expan><am>&#x1DD1;</am><ex>ur</ex></expan> amplexi<expan><abbr>b<am>&#xA76B;</am></abbr><ex>us</ex></expan>. Fe
 <lb break="no"/>lix est <del rend="erased">s</del>sensualitas⸵ d<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> humiliat se pa
@@ -3443,7 +3447,7 @@ Institutis morali
 <lb/>exponant<expan><am>&#x1DD1;</am><ex>ur</ex></expan>⸵ distillat <expan><abbr>t</abbr><ex>ame</ex><abbr rend="supraline">n</abbr></expan> ab eis uin<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> iocun
 <lb break="no"/>ditatis leticie <expan>s<abbr rend="supraline">p</abbr><ex>irit</ex>u</expan>alis. Ibant <expan>ap<ex>osto</ex>l<am>&#xF1C7;</am>i</expan> a conspe
 <lb break="no"/>ctu concilii gaudentes. <expan><abbr>q<am>&#xA75B;</am></abbr><ex>uia</ex></expan> digni habiti <expan><abbr>s</abbr><ex>un</ex><abbr rend="supraline">t</abbr></expan> 
-<lb/><expan><am>&#xA753;</am><ex>pro</ex></expan> <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>i</abbr></expan></persName> nomine contumeliam pati. <expan><abbr>S<am>&#xA76B;</am></abbr><ex>et</ex></expan> q<expan><am>&#x365;</am><ex>ui</ex></expan>d 
+<lb/><expan><am>&#xA753;</am><ex>pro</ex></expan> <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>crist</ex><abbr>i</abbr></expan></persName> nomine contumeliam pati. <expan><abbr>S<am>&#xA76B;</am></abbr><ex>et</ex></expan> q<expan><am>&#x365;</am><ex>ui</ex></expan>d 
 <lb/><expan><am>∻</am><ex>est</ex></expan> <expan><abbr>q</abbr><ex>uo</ex><abbr>d<am>&#x315;</am></abbr></expan> dixi distillat. c<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> dicat <persName>iacobus</persName>. <expan>O<abbr rend="supraline">m</abbr><ex>n</ex>e</expan> 
 <lb/>gaudi<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> existimate <expan>fr<ex>atr</ex><abbr rend="supraline">e</abbr>s</expan> c<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> <unclear>inuarias</unclear> inci
 <lb break="no"/>deritis temptationes? <expan><abbr>S<am>&#xA76B;</am></abbr><ex>et</ex></expan> consid<expan><am>&#x33E;</am><ex>er</ex></expan>ationem 
@@ -3561,7 +3565,6 @@ Institutis morali
 <p>
 <quote><hi rend="red enlarged">B</hi><hi rend="fill-red">e</hi>atus homo q<expan><am>&#x365;</am><ex>ui</ex></expan> in
 <lb break="no"/>uenit <expan>sap<abbr rend="supraline">i</abbr><ex>enti</ex>a</expan>m. <expan><am>⁊</am><ex>et</ex></expan> qui affluit prudentia.</quote>
-
 </p>
 </div>
 <div n="28" type="textpart" subtype="section">
@@ -3646,7 +3649,7 @@ Institutis morali
 <lb break="no"/>loquentie. In consiliis ipsius pax re<expan><am>&#xA751;</am><ex>per</ex></expan>itur. 
 <lb/><handShift/>A consiliis nimir<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> sapientie⸵ <expan><am>&#xA753;</am><ex>pro</ex></expan>cul re
 <lb break="no"/>legata <expan><am>∻</am><ex>est</ex></expan> <expan><am>ꝯ</am><ex>con</ex></expan>t<expan><am>&#xF1C1;</am><ex>ra</ex></expan>rietas. In obseruati<expan><abbr rend="supraline">o</abbr><ex>n</ex></expan>e it<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> pre
-<lb break="no"/>cepto<expan><am>ꝝ</am><ex>rum</ex></expan> <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>i</abbr></expan></persName>⸵ adest pulc<expan><am>&#x365;</am><ex>ri</ex></expan>tudo <expan><abbr>g</abbr><abbr rend="supraline">r</abbr><ex>ati</ex><abbr>e</abbr></expan>. aderit 
+<lb break="no"/>cepto<expan><am>ꝝ</am><ex>rum</ex></expan> <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>crist</ex><abbr>i</abbr></expan></persName>⸵ adest pulc<expan><am>&#x365;</am><ex>ri</ex></expan>tudo <expan><abbr>g</abbr><abbr rend="supraline">r</abbr><ex>ati</ex><abbr>e</abbr></expan>. aderit 
 <lb/>pulc<expan><am>&#x365;</am><ex>ri</ex></expan>tudo <add place="overstrike">glorie</add>. Obseruanti<expan><abbr>b<am>&#xA76B;</am></abbr><ex>us</ex></expan> <expan><abbr>a</abbr><abbr rend="supraline">u</abbr><ex>tem</ex></expan> <expan><am>ꝯ</am><ex>con</ex></expan>silia 
 <lb/>legis ewang<expan><ex>e</ex>l<am>&#xF1C7;</am></expan>ice⸵ adest pax int<expan><am>&#x33E;</am><ex>er</ex></expan>na. aderit 
 <lb/>pax et<expan><am>&#x33E;</am><ex>er</ex></expan>na. <hi rend="enlarged"><!-- check -->S</hi>equit<expan><am>&#x1DD1;</am><ex>ur</ex></expan>. <quote><hi rend="enlarged">L</hi>ign<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> uite <expan><am>∻</am><ex>est</ex></expan> iis q<expan><am>&#x365;</am><ex>ui</ex></expan> 
@@ -3656,7 +3659,7 @@ Institutis morali
 <lb break="no"/>n<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> uite. q<expan><ex>uo</ex><am>&#x366;</am></expan>ad <expan>h<ex>un</ex><abbr rend="supraline">c</abbr></expan> effect<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan>⸵ ut ipsis uitam 
 <lb/>et<expan><am>&#x33E;</am><ex>er</ex></expan>n<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan> <expan><am>ꝯ</am><ex>con</ex></expan>ferat. Dicit<expan><am>&#x1DD1;</am><ex>ur</ex></expan> eti<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan> sapientia lign<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan>⸵ 
 <lb/>t<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> <expan><am>&#xA753;</am><ex>pro</ex></expan>pt<expan><am>&#x33E;</am><ex>er</ex></expan> umbr<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan> t<expan><am>&#xF1C1;</am><ex>ra</ex></expan>nq<expan><am>&#x365;</am><ex>ui</ex></expan>llitatis <expan><am>&amp;</am><ex>et</ex></expan> refrigerii. 
-<lb/><persName><expan><abbr><am>X<g ref="#e665">p</g>c</am></abbr><ex>Christus</ex></expan></persName> it<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> q<expan><am>&#x365;</am><ex>ui</ex></expan> sapientia <expan><am>∻</am><ex>est</ex></expan> pat<expan><am>&#x365;</am><ex>ri</ex></expan>s dicit<expan><am>&#x1DD1;</am><ex>ur</ex></expan> lign<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> 
+<lb/><persName><expan><abbr><am>X<g ref="#e665">p</g>c</am></abbr><ex>Cristus</ex></expan></persName> it<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> q<expan><am>&#x365;</am><ex>ui</ex></expan> sapientia <expan><am>∻</am><ex>est</ex></expan> pat<expan><am>&#x365;</am><ex>ri</ex></expan>s dicit<expan><am>&#x1DD1;</am><ex>ur</ex></expan> lign<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> 
 <lb/>uite⸵ q<expan><am>&#x365;</am><ex>ui</ex></expan> <expan><am>∻</am><ex>est</ex></expan> <expan><am>&amp;</am><ex>et</ex></expan> uita fideli<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan>. Hoc <expan><am>∻</am><ex>est</ex></expan> lignum 
 <lb/>q<expan><ex>uo</ex><am>&#x366;</am></expan>d plantat<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> <expan><am>∻</am><ex>est</ex></expan> sec<expan><am>&#xA770;</am><ex>us</ex></expan> dec<expan><am>&#x1DD1;</am><ex>ur</ex></expan>sus aq<expan><am>&#x1DD3;</am><ex>ua</ex></expan>r<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan>. q<expan><ex>uo</ex><am>&#x366;</am></expan>d fruct<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> 
 <lb/>su<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> dedit in t<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan>pore suo. Dicit<expan><am>&#x1DD1;</am><ex>ur</ex></expan> <expan><am>&amp;</am><ex>et</ex></expan> lign<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> 
@@ -3792,7 +3795,7 @@ Institutis morali
 <lb break="no"/>henderint eam. <expan><am>⁊</am><ex>et</ex></expan> qui tenuerit eam 
 <lb/>beatus. Sicut <expan><abbr>i<am>&#x305;</am></abbr><ex>n</ex></expan> medio paradisi lign<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> 
 <lb/>uite positum <persName>moyses</persName> <expan rend="supraline">e<ex>ss</ex>e</expan> testatur⸵ ita <expan><am>&#xA751;</am><ex>per</ex></expan> sa
-<lb break="no"/>pienci<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan> dei uidelicet <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christu</ex><abbr>m</abbr></expan></persName> uiuificat<expan><am>&#x1DD1;</am><ex>ur</ex></expan> 
+<lb break="no"/>pienci<expan><abbr rend="supraline">a</abbr><ex>m</ex></expan> dei uidelicet <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>cristu</ex><abbr>m</abbr></expan></persName> uiuificat<expan><am>&#x1DD1;</am><ex>ur</ex></expan> 
 <lb/><expan>eccl<am>&#xF1C7;</am><ex>es</ex>ia</expan>. Cui<expan><am>&#xA770;</am><ex>us</ex></expan> <expan><am>⁊</am><ex>et</ex></expan> nunc sacramentis carnis 
 <lb/><expan><am>⁊</am><ex>et</ex></expan> sanguinis pignus uite accipit. <expan><am>⁊</am><ex>et</ex></expan> in 
 <lb/>fut<expan><am>&#x1DD1;</am><ex>ur</ex></expan>o <expan><abbr rend="supraline">p</abbr><ex>re</ex></expan>senti beatificat<expan><am>&#x1DD1;</am><ex>ur</ex></expan> aspectu.
@@ -3824,7 +3827,7 @@ Institutis morali
 <lb/>Potest <expan><am>⁊</am><ex>et</ex></expan> no<expan><abbr>m<am>&#x305;</am></abbr><ex>en</ex></expan> <mentioned><expan>sa<abbr rend="supraline">p</abbr><ex>ient</ex>ie</expan></mentioned> teneri <expan><am>&#xA751;</am><ex>per</ex></expan>sonalit<expan><am>&#x33E;</am><ex>er</ex></expan> ut <expan><am>&#xA753;</am><ex>pro</ex></expan> 
 <lb/>filio supponat q<expan><am>&#x365;</am><ex>ui</ex></expan> <expan><am>∻</am><ex>est</ex></expan> <expan>sap<abbr rend="supraline">i</abbr><ex>enti</ex>a</expan> patris. <expan><abbr>D</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><ex>u</ex><abbr>s</abbr></expan> <expan><am>ʜ</am><ex>enim</ex></expan> pat<expan><am>&#x33E;</am><ex>er</ex></expan> 
 <lb/>uidelicet <expan>sap<abbr rend="supraline">i</abbr><ex>enti</ex>a</expan> fundauit t<expan><am>&#x33E;</am><ex>er</ex></expan>ram. <expan><abbr>q<am>&#xA75B;</am></abbr><ex>uia</ex></expan> <expan><am>&#xA751;</am><ex>per</ex></expan><reg> </reg>fili<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> 
-<lb/>confirmata <expan><am>⁊</am><ex>et</ex></expan> corroborata fides <expan>eccl<am>&#xF1C7;</am><ex>es</ex>ie</expan>. <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> <expan><am>ʜ</am><ex>enim</ex></expan> 
+<lb/>confirmata <expan><am>⁊</am><ex>et</ex></expan> corroborata fides <expan>eccl<am>&#xF1C7;</am><ex>es</ex>ie</expan>. <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>cristus</ex></expan></persName> <expan><am>ʜ</am><ex>enim</ex></expan> 
 <lb/>fundament<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> <expan><am>∻</am><ex>est</ex></expan> <expan>eccl<am>&#xF1C7;</am><ex>es</ex>ie</expan> <expan><abbr rend="supraline">p</abbr><ex>re</ex></expan>t<expan><am>&#x33E;</am><ex>er</ex></expan> <expan><abbr>q</abbr><ex>uo</ex><abbr>d<am>&#x315;</am></abbr></expan> non <expan><am>∻</am><ex>est</ex></expan> aliud 
 <lb/>ponere. <expan><abbr rend="supraline">H</abbr><ex>ec</ex></expan> <expan><am>∻</am><ex>est</ex></expan> terra de<reg> </reg>qua dicitur <expan><abbr>i<am>&#x305;</am></abbr><ex>n</ex></expan> <expan>eccl<am>&#xF1C7;</am><ex>es</ex>i
 <lb break="no"/>aste</expan>. t<expan><am>&#x33E;</am><ex>er</ex></expan>ra in et<expan><am>&#x33E;</am><ex>er</ex></expan>n<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> stat. <expan><abbr>D</abbr><ex>omi</ex><abbr rend="supraline">n</abbr><ex>u</ex><abbr>s</abbr></expan> it<expan><abbr rend="supraline">e</abbr><ex>m</ex></expan> stabili
@@ -3921,7 +3924,7 @@ Institutis morali
 <lb/><persName>noe</persName> rupti sunt <expan><abbr>om<am>&#x305;</am></abbr><ex>ne</ex><abbr>s</abbr></expan> fontes abissi magne. 
 <lb/>uel c<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> cotidiano <expan><am>&#xA753;</am><ex>pro</ex></expan>cursu fontes <expan><am>⁊</am><ex>et</ex></expan> flumina 
 <lb/>de abisso <expan><am>&#xA751;</am><ex>per</ex></expan> t<expan><am>&#x33E;</am><ex>er</ex></expan>re uenas emanant. Alit<expan><am>&#x33E;</am><ex>er</ex></expan>. Sapi
-<lb break="no"/>entia erumpunt abissi c<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> largiente <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>i</abbr></expan></persName> 
+<lb break="no"/>entia erumpunt abissi c<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> largiente <persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>crist</ex><abbr>i</abbr></expan></persName> 
 <lb/><expan><abbr>g</abbr><abbr rend="supraline">r</abbr><ex>ati</ex><abbr>a</abbr></expan> <expan><am>&#xA753;</am><ex>pro</ex></expan>funda sacramento<expan><am>ꝝ</am><ex>rum</ex></expan> celesti<expan><abbr rend="supraline">u</abbr><ex>m</ex></expan> fideli<expan><abbr>b<am>&#xA76B;</am></abbr><ex>us</ex></expan> 
 <lb/>innotescunt.
 </quote>
