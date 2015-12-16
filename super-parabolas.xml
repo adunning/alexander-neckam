@@ -180,7 +180,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <lb/>prelati⸵ subditorum ministri sunt. Quid putas illam sensisse que 
 <lb/>ait. <quote source="Bible.Vul:Song.5.3">expoliaui me tunica mea˷ quomodo induar ea<del>s</del>. laui pedes 
 <lb/>meos<g ref="#f1e2">,</g> quomodo inquin<add place="overstrike">abo eos?</add></quote> 
-<add resp="#AN" place="margin">Etiam ambitionis desiderio˷ frenum dabit prudentia⸵ si illud iob reducas ad memoriam. <quote source="Bible.Vul:Job.29.18">In nidulo meo moriar. et sicut palma multiplicabo dies.</quote></add> 
+<add resp="#AN" place="margin">Etiam ambitionis desiderio˷ frenum dabit prudentia⸵ si illud iob reducas ad memoriam. <quote source="urn:cts:greekLit:tlg0527.tlg032.perseus-lat1:29.18">In nidulo meo moriar. et sicut palma multiplicabo dies.</quote></add> 
 O utinam reducas ad memoriam illud 
 <lb/>commendatione dignissimum paradigma⸵ quod in libro iudicum propo
 <lb break="no"/>nit <persName>ioathan</persName> filius <persName>ieroboal</persName>. <quote source="Bible.Vul:Judg.9.8–15"><add place="overstrike">Ierunt</add> inquit ligna ut unge
@@ -436,8 +436,8 @@ Nobilis argiuorum princeps <persName>agamen
 <lb/>prudentia et spes et temperantia. Prudentia nimirum 
 <lb/>naturas rerum transitoriarum inuentigans⸵ eas esse ua
 <lb break="no"/>nitatibus obnoxias comprehendit. Spes manu desiderii 
-<lb/>deum ipsum iam tenens⸵ omnia preter deum uanitati muliplici 
-<lb/>subiecta esse prefitetur. Temperanta modicum esse quod nature sat est<g ref="#f1e2">,</g> 
+<lb/>deum ipsum iam tenens⸵ omnia preter deum uanitati multiplici 
+<lb/>subiecta esse profitetur. Temperantia modicum esse quod nature sat est⸝ 
 <lb/>perpendens⸵ rerum amorem temporalium abiciendum esse nouit.
 <lb/>Amor sanctus et deuotio⸵ osculo et amplexibus dilecti deliciantur.</p>
 </div>
@@ -446,7 +446,7 @@ Nobilis argiuorum princeps <persName>agamen
 <div n="1" type="textpart" subtype="section">
 <p>
 <lb/><hi rend="dropcap3 red trim-blue">T</hi>riplici igitur considerationi⸵ tria trinomii <persName>salomonis</persName> opera 
-<lb/>sunt obnoxia. Ingredere itaque. eregedere⸵ supergredere. In
+<lb/>sunt obnoxia. Ingredere itaque. egredere⸵ supergredere. In
 <lb break="no"/>gredere cordis thalamum. ingredere humum fossam⸵ et tui 
 <lb/>statum agnosce. Humus fossa⸵ est terra liberi arbitrii. que si a
 <lb break="no"/>ratro discipline bene culta fuerit⸵ letas uirtutum segetes pro
@@ -629,15 +629,15 @@ Nobilis argiuorum princeps <persName>agamen
 <lb/>sicut ordo editionis librorum <persName>aristotilis</persName>⸵ contrarius est ordini ex
 <lb break="no"/>positionis eorundem. Liber igitur canticorum⸵ ad misterium incar
 <lb break="no"/>nationis. ecclesiastes⸵ ad tempus predicationis apostolice. liber parabo
-<lb break="no"/>larum⸵ ad tempora geresum subortarum refertur. Hinc est quod in
+<lb break="no"/>larum⸵ ad tempora heresum subortarum refertur. Hinc est quod in
 <lb/>hoc opere quod premanibus habemus⸵ nomine meretricis˷ tipice de
 <lb break="no"/>signatur hereticorum peruersa doctrina. Quoniam uero per gloriosam uir
 <lb break="no"/>ginem cuncte hereses erant interimende⸵ transfert se
 <lb/>in spiritu in hoc opere salomon quandoque ad misterium incar
 <lb break="no"/>nationis. Principaliter uero tropologie indulgere proposui.
 <lb/>ita ut allegorie loca quedam specialiter reseruentur. Nec me
-<lb/>prolixitatis arguat temeraris arbiter. neque enim expositoris
-<lb/>officium tantum<g ref="#f1e2">,</g> assumere libet⸵ set etiam consolatoriis meditationibus
+<lb/>prolixitatis arguat temerarius arbiter. neque enim expositoris
+<lb/>officium tantum⸝ assumere libet⸵ set etiam consolatoriis meditationibus
 <pb n="59v"/>
 <cb n="a"/>
 <lb/>recreare claustralium animos<g ref="#f1e2">,</g> non nunquam iniustis uexatos molestiis.
@@ -1065,8 +1065,8 @@ Nobilis argiuorum princeps <persName>agamen
 <lb break="no"/>les sunt parabole⸵ ad sciendam uel faciendam iusticiam
 <lb/>et iuditium et equitatem. hoc est ad sciendum quid iustum
 <lb/>quid consultum quid equum. uel ad faciendum quod iustum est<g ref="#f1e2">,</g>
-<lb/>quod subest etiam prudentie<g ref="#f1e2">,</g> et quod equum est. <quote source="Bible.Vul:Ps.118.166">Feci</quote> inquit
-<lb/>psalmista⸵ <quote source="Bible.Vul:Ps.118.166">iuditium et iustitiam</quote>. iuditium⸵ inconfigendo
+<lb/>quod subest etiam prudentie<g ref="#f1e2">,</g> et quod equum est. <quote source="urn:cts:greekLit:tlg0527.tlg027.perseus-lat1:118.166">Feci</quote> inquit
+<lb/>psalmista⸵ <quote source="urn:cts:greekLit:tlg0527.tlg027.perseus-lat1:118.166">iuditium et iustitiam</quote>. iuditium⸵ inconfigendo
 <lb/>discrete<g ref="#f1e2">,</g> carnales concupiscentias. iustitiam similiter⸵ idest opus
 <lb/>iustitie. Cum item dicitur. omnia mandata tua equitas⸵ em
 <lb break="no"/>phasis est.
@@ -1110,7 +1110,7 @@ Nobilis argiuorum princeps <persName>agamen
 <lb/>cessaria est nobis astutia⸵ contra hostis insidias antiqui et contra
 <lb/>carnis illecebras. Scientia hic dicitur. comprehensio minus subtilium
 <lb/>rerum. intellectus⸵ comprehensio subtilium. Vel intellectus ut dicit
-<lb/>iob⸵ <quote source="Bible.Vul:Job.28.28">est recedere a malo</quote>. Solet tamen quandoque scientia dici donum <add place="inline"><add place="margin" resp="#AN">il
+<lb/>iob⸵ <quote source="urn:cts:greekLit:tlg0527.tlg032.perseus-lat1:28.28">est recedere a malo</quote>. Solet tamen quandoque scientia dici donum <add place="inline"><add place="margin" resp="#AN">il
 <lb break="no"/>lud</add></add>⸵ quo recte conuseramur in medio huius peruerse nationis. Intellectus⸵ solet
 <lb/>referri˷ ad ordinum angelicorum comprehensionem<g ref="#f1e2">,</g> et notitiam
 <lb/>offitiorum eorundem. presertim cum nos pro<add place="inline"> </add>conditione humane imbe
@@ -1597,7 +1597,7 @@ Institutis morali
 <lb/>de spiritu sancto⸵ ex parte auctoris appositum est. Similiter cum dicitur
 <lb/><quote source="Bible.Vul:Mark.5.41">tabita kumi</quote>. et apponitur˷ <quote source="Bible.Vul:Mark.5.41">tibi dico˷ puella surge</quote>⸵ ex parte auc
 <lb break="no"/>toris interpositum est. id quod dicitur˷ <quote source="Bible.Vul:Mark.5.41">tibi dico</quote>. <quote source="Bible.Vul:Prov.1.11" rend="sidequotes">Abscondamus inquiunt isti⸵
-<lb/>tendiculas contra insontem.</quote> Psalmista etiam ait. <quote source="Bible.Vul:Ps.139.6" rend="sidequotes">Absconderunt super
+<lb/>tendiculas contra insontem.</quote> Psalmista etiam ait. <quote source="urn:cts:greekLit:tlg0527.tlg027.perseus-lat1:139.6" rend="sidequotes">Absconderunt super
 <lb break="no"/>bi laqueum michi.</quote> <quote source="Bible.Vul:Prov.1.12" rend="sidequotes">Deglutiamus</quote> inquiunt <quote source="Bible.Vul:Prov.1.12" rend="sidequotes">eum sicut infernus uiuen
 <lb break="no"/>tem<del>⸵</del> et integrum⸵ quasi descendentem in lacum.</quote> Deglutiamus
 <lb/>aiunt eum. quamuis sit uiuens uita gratie. deglutiamus inquam⸵ ut
@@ -1690,8 +1690,8 @@ Institutis morali
 <lb/><quote source="Bible.Vul:Prov.1.12" rend="sidequotes">deglutiamus eum uiuentem</quote>. ut sciens et prudens peccata committat
 <cb n="b" break="no"/>
 <lb break="no"/>enormia. <quote source="Bible.Vul:Prov.1.12" rend="sidequotes">Deglutiamus</quote> inquam <quote source="Bible.Vul:Prov.1.12" rend="sidequotes">sicut infernus</quote><g ref="#f1e2">,</g> abissus
-<lb/>uidelicet desperationis⸵ miseros deglutire solet. <quote source="Bible.Vul:Ps.54.16">Veniat</quote>
-<lb/>inquit propheta <quote source="Bible.Vul:Ps.54.16">mors super illos⸵ et descendant in infernum
+<lb/>uidelicet desperationis⸵ miseros deglutire solet. <quote source="urn:cts:greekLit:tlg0527.tlg027.perseus-lat1:54.16">Veniat</quote>
+<lb/>inquit propheta <quote source="urn:cts:greekLit:tlg0527.tlg027.perseus-lat1:54.16">mors super illos⸵ et descendant in infernum
 <lb/>uiuentes.</quote> Illi descendunt in infernum uiuentes⸵ qui scien
 <lb break="no"/>ter peccant et scienter pereunt. Et <quote source="Bible.Vul:Prov.1.12" rend="sidequotes">deglutiamus</quote> inquiunt <quote source="Bible.Vul:Prov.1.12" rend="sidequotes">eum
 <lb/>integrum</quote>⸵ ut tam corpus quam anima descendat <quote source="Bible.Vul:Prov.1.12" rend="sidequotes">in lacum</quote> eterne
@@ -1719,20 +1719,20 @@ Institutis morali
 <lb/>que dei sunt. <quote source="Bible.Vul:Prov.1.12">Deglutiamus</quote> inquiunt <persName>christum</persName> <quote source="Bible.Vul:Prov.1.12">uiuentem. sicut infernus</quote>
 <lb/>mortuos solet deglutire. Deglutiamus etiam eum integrum˷ in capi
 <lb/>te scilicet et membris. Ac si sit de numero descendentium in lacum
-<lb/>culpe. Vnde introducitur a propheta⸵ dominus loquens. <quote source="Bible.Vul:Ps.87.5">Estimatus sum cum
+<lb/>culpe. Vnde introducitur a propheta⸵ dominus loquens. <quote source="urn:cts:greekLit:tlg0527.tlg027.perseus-lat1:87.5">Estimatus sum cum
 <lb/>descendentibus in lacum. factus sum sicut homo sine adiutorio</quote>⸵
-<lb/>cum tamen essem <quote source="Bible.Vul:Ps.87.6">inter mortuos liber</quote>. solus scilicet sine peccato. Hinc est
-<lb/>etiam quod ad patrem alibi sermonem dirigit. dicens. <add><quote source="Bible.Vul:Ps.27.1">Ad te domine clamabo deus meus ne sileas a me. ne quando taceas a me et assimilabor descendentibus in lacum.</quote> <quote source="Bible.Vul:Prov.1.15">Fili prohibe pedem tuum a semitis eorum.</quote></add> <quote source="Bible.Vul:Prov.1.16">Pedes enim illorum
+<lb/>cum tamen essem <quote source="urn:cts:greekLit:tlg0527.tlg027.perseus-lat1:87.6">inter mortuos liber</quote>. solus scilicet sine peccato. Hinc est
+<lb/>etiam quod ad patrem alibi sermonem dirigit. dicens. <add><quote source="urn:cts:greekLit:tlg0527.tlg027.perseus-lat1:27.1">Ad te domine clamabo deus meus ne sileas a me. ne quando taceas a me et assimilabor descendentibus in lacum.</quote> <quote source="Bible.Vul:Prov.1.15">Fili prohibe pedem tuum a semitis eorum.</quote></add> <quote source="Bible.Vul:Prov.1.16">Pedes enim illorum
 <lb/>ad malum currunt. et festinant⸵ ut effundant sanguinem.</quote>
 <lb/>Consonat ueritas <persName>salomonis</persName>˷ ueritati <persName>mosaice</persName>⸵ ubi legitur in fine
-<lb/>geneseos. <quote source="Bible.Vul:Gen.49.5–7"><persName>Simeon</persName> et <persName>leui</persName> fratres<g ref="#f1e2">,</g> uasa iniquitatis bellantia.
+<lb/>geneseos. <quote source="urn:cts:greekLit:tlg0527.tlg001.perseus-lat1:49.5–7"><persName>Simeon</persName> et <persName>leui</persName> fratres<g ref="#f1e2">,</g> uasa iniquitatis bellantia.
 <lb/>In consilium eorum ne ueniat anima mea⸵ et in<del> </del>cetu illorum non sit
 <lb/>gloria mea. quia in furore suo occiderunt uirum⸵ et in uoluntate
 <lb/>sua suffoderunt murum. Maledictus furor eorum⸵ quia pertinax. 
 <lb/>et indignatio illorum⸵ quia dura. Diuidam eos in <persName>iacob</persName>⸵ et disper
 <lb break="no"/>gam eos in <placeName>israel</placeName>.</quote> Prophetice etiam hic dicitur. Ipsi quoque contra sanguinem suum⸵
 <lb/>insidiantur. Proclamare nimirum ausi sunt imprecatores temer
-<lb break="no"/>arii. <quote source="Bible.Vul:Matt.27.25">Sanguis eius super nos⸵ et super filios nostros.</quote> Semitas⸵ uocat
+<lb break="no"/>arii. <quote source="urn:cts:greekLit:tlg0031.tlg001.perseus-lat1:27.25">Sanguis eius super nos⸵ et super filios nostros.</quote> Semitas⸵ uocat
 <lb/>hoc in loco subtiles dispositiones. quibus mali moliuntur frau
 <lb/>des uiris honestis.
 </p>
@@ -1825,7 +1825,7 @@ Institutis morali
 <lb break="no"/>na.<!-- Source? --> Si delinquit <placeName>israel</placeName>⸵ ne transgredians iuda. <expan><abbr>S<am>&#xA76B;</am></abbr><ex>et</ex></expan> quid?
 <lb/>Erubesce sidon⸵ ait mare. Si amfractuosi sunt errores
 <lb/>potestatis laice⸵ certum sit cleri propositum incedentis per uiam
-<lb/><quote source="Bible.Vul:Matt.7.14">que ducit ad uitam</quote>. Luna quidem per epyciclum⸵ discurrit.
+<lb/><quote source="urn:cts:greekLit:tlg0031.tlg001.perseus-lat1:7.14">que ducit ad uitam</quote>. Luna quidem per epyciclum⸵ discurrit.
 <lb/><expan><abbr>s<am>&#xA76B;</am></abbr><ex>et</ex></expan> sol⸵ epuciclo caret. unico contentus circulo. Si seculari
 <lb/>um affectus uariis distrahuntur desideriis⸵ unicum sit deside
 <lb break="no"/>rium cleri. uir uidelicet desideriorum. Vicina sit terris luna.
@@ -1864,7 +1864,7 @@ Institutis morali
 <lb/>latitudinis⸵ quandoque aureis<g ref="#f1e2">,</g> quandoque tetris scribitur litte
 <lb break="no"/>ris. Aureis⸵ ut ibi. In tribulatione dilatasti michi. Et iterum.
 <lb/>De tribulatione inuocaui dominum⸵ et exaudiuit me in latitudi
-<lb break="no"/>ne dominus. Et iterum. <quote source="Bible.Vul:Ps.118.45">Et ambulabam in latitudine⸵ quia mandata
+<lb break="no"/>ne dominus. Et iterum. <quote source="urn:cts:greekLit:tlg0527.tlg027.perseus-lat1:118.45">Et ambulabam in latitudine⸵ quia mandata
 <lb/>tua exquisiui.</quote> Ad latitudinem reprehensione dignam⸵ spe
 <lb break="no"/>ctat quod dicitur. Et dilatauerunt super me os suum. Dilatat
 <lb/>cor⸵ spirituale gaudium. <metamark function="flag" rend="nota red"/><!-- Here is a good example of the pencilled 'F'-style nota being replaced with a rubricated version. -->Dilatat et cor⸵ uoluntas erronea discur
@@ -1933,7 +1933,7 @@ Institutis morali
 <lb/>Habet et babilon<del rend="expunctuated">ia</del>⸵ syas plateas. per quam⸵ discurrit uitiorum
 <lb/>barbaries. O dolor<g ref="#f1e2">,</g> o gemitus. dum infelicissimi salu
 <lb break="no"/>tis proprie contemptores⸵ peccata sua pulblicant<g ref="#f1e2">,</g> sicut
-<lb/>sodoma. Hec est diuitas⸵ de qua dicitur per psalmistam. <quote source="Bible.Vul:Ps.54.10–12">Vidi
+<lb/>sodoma. Hec est diuitas⸵ de qua dicitur per psalmistam. <quote source="urn:cts:greekLit:tlg0527.tlg027.perseus-lat1:54.10–12">Vidi
 <lb/>iniquitatem et contradictionem⸵ in ciuitate. Die et nocte cir
 <lb break="no"/>cumdabit eam super muros eius et iniquitas. et labor in medio 
 <lb/>eius⸵ et iniustitia. et non defecit de plateis eius⸵ usura et dolus.</quote>
@@ -2509,7 +2509,7 @@ Institutis morali
 <lb/>tenere. Fili mi inquit si sucipere uolueris ut rem
 <lb/>gratam sermones meos<g ref="#f1e2">,</g> et mandata mea abscon
 <lb break="no"/>deris penes te in corde tuo iuxta id quod alibi
-<lb/>dicitur. <quote source="Bible.Vul:Ps.118.11">in corde meo abscondi eloquia tua ut non
+<lb/>dicitur. <quote source="urn:cts:greekLit:tlg0527.tlg027.perseus-lat1:118.11">in corde meo abscondi eloquia tua ut non
 <lb/>peccem tibi</quote><g ref="#f1e2">,</g> si ita scilicet susceperis ut audiat sapi
 <lb break="no"/>entiam auris tua. aure scilicet cordis et operis ex
 <lb break="no"/>pletione⸵ inclinabis ut habet alia translatio˷ cor

@@ -99,7 +99,7 @@ Forte hiis prodesse potest⸵
 <ab> 
 <lb/><hi rend="dropcap2 green">Q</hi>ueritur an <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> antequam <persName>petrus</persName> ipsum negas
 <lb break="no"/>set⸵ uellet seuerum dixisse. cum dixerit <persName>petro</persName>.
-<lb/><quote source="Bible.Vul:Matt.26.34; Matt.26.75; Mark.14.72; Luke.22.61">Ter me negabis.</quote> <hi rend="fill-red">E</hi>t si hoc⸵ an uellet esse uerum 
+<lb/><quote source="urn:cts:greekLit:tlg0031.tlg001.perseus-lat1:26.34; Matt.26.75; Mark.14.72; Luke.22.61">Ter me negabis.</quote> <hi rend="fill-red">E</hi>t si hoc⸵ an uellet esse uerum 
 <lb/><persName>petrum</persName> ipsum esse negaturum. <hi rend="fill-red">E</hi>t si hoc⸵ an uel
 <lb break="no"/>let <persName>petrum</persName> criminaliter peccare. <hi rend="fill-red">A</hi>d hoc. <hi rend="fill-red">C</hi>um 
 <lb/><persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> uellet se in nullo dicto suo esse mendacem 
@@ -547,7 +547,7 @@ Si consentiendo tenet quam
 <ab> 
 <lb/><hi rend="dropcap2 green">Q</hi>ueritur an <persName><expan><abbr><am>x<g ref="#e665">p</g>c</am></abbr><ex>christus</ex></expan></persName> missus fuisset ad sa
 <lb break="no"/>lutem omnium cum euangeli
-<lb break="no"/>ca auctoritas dicat. <quote source="Bible.Vul:Matt.15.24">non sum missus nisi 
+<lb break="no"/>ca auctoritas dicat. <quote source="urn:cts:greekLit:tlg0031.tlg001.perseus-lat1:15.24">non sum missus nisi 
 <lb/>ad oues que perierunt domus israel</quote> <expan><abbr><am>.</am>i</abbr><ex>d est</ex><abbr><am>.</am></abbr></expan> ad 
 <lb/>iudeos. <hi rend="fill-red">E</hi>rgo non ad salutem omnium. 
 </ab>
@@ -679,7 +679,7 @@ Voluit diabolus idem. set non ad
 <lb/>diuiserit. <hi rend="fill-red">S</hi>ecundum⸵ quod inuiderit fratri. <hi rend="fill-red">T</hi>ertium⸵ 
 <lb/>quod dolose egerit dicens. <said><!-- cf. Gen. 4:8 --><hi rend="fill-red">T</hi>ranseamus in cam
 <lb break="no"/>pum.</said> <hi rend="fill-red">Q</hi>uartum⸵ quod fratrem interfecerit. <hi rend="fill-red">Q</hi>uin
-<lb break="no"/>tum⸵ quod procaciter negauerit. <quote source="Bible.Vul:Gen.4.8"><hi rend="fill-red">N</hi>escio 
+<lb break="no"/>tum⸵ quod procaciter negauerit. <quote source="urn:cts:greekLit:tlg0527.tlg001.perseus-lat1:4.8"><hi rend="fill-red">N</hi>escio 
 <lb/>in quid. <hi rend="fill-red">N</hi>unquid custos fratris mei su<surplus>u</surplus>m.</quote> 
 <lb/><hi rend="fill-red">S</hi>extum⸵ quod seipsum dampnauerit dicens. 
 <lb/><said><hi rend="fill-red">M</hi>aior est culpa mea⸵ quam ut dimittar.</said> 
