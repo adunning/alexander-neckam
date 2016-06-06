@@ -2584,7 +2584,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <body>
 <p><!-- letter of Prior S. of Malmesbury to Master Walter Melidie, canon at Cirencester; also in in London, BL, Royal MS 5 C.v, fol. 57r–57v; first section in Meyer 1896, p. 657n1 -->
 <lb/><hi rend="dropcap2">V</hi><hi rend="capitals">e</hi>nerabili canonico <placeName>cyrencestr.</placeName> et amico karissimo et fratri in 
-<lb/><persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>o</abbr></expan></persName> <persName>magistro Waltero Melidie</persName> <persName>frater S. dictus prior Malmesbir'</persName>. 
+<lb/><persName><expan><abbr><am>x<g ref="#e665">p</g></am></abbr><ex>christ</ex><abbr>o</abbr></expan></persName> <persName>magistro waltero melidie</persName> <persName>frater S. dictus prior malmesbir'</persName>. 
 <lb/>salutem piam. et perpetuam in domino feliciter. Cum de bonis omnibus bene 
 <lb/>sapere bonorum mentibus bene affectis sit officiosum debitum. hiis 
 <lb/>tamen quos et noticia caros et amor intimos exhibet⸵ precipuus 
@@ -2598,7 +2598,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <lb/>silere non possunt. Ego michi tacere non possum. quin uel mecum animo meo 
 <lb/>satisfaciam. Vestram uero bonitatem mei consilii participem esse <!-- line filler? -->
 <lb/>uelim. que nullo malicie fuco ni fallor mea uerba signabit. Sic 
-<lb/>enim genituram uestram beniuolus respexit horoscopus ut nullius 
+<lb/>enim genituram <unclear>nostram<!-- maybe uestram, as Meyer --></unclear> beniuolus respexit horoscopus ut nullius 
 <lb/>nociui syderis sit papa decretum. Postquam itaque in manus meas ue
 <lb break="no"/>nit liber ille qui quasi de uerborum significacionibus uel proprietatibus. uel si 
 <lb/>quid huiusmodi dici debeat. editus est a bono magistro. introducto
@@ -2607,8 +2607,8 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <lb break="no"/>rarem. Ita in eo nitet intencio iusti propositi quod dulcis kari
 <lb break="no"/>tas fideli dispensatori suo suggessit⸵ ut ubera sponse uidea
 <lb break="no"/>tur ostendere ad alliciendos paruulos ad suggendum lac. et pre uberta
-<lb break="no"/>te commedant butirum. nec mel sciencie uidi defuturum. ut eo <unclear>re</unclear>fe
-<lb break="no"/>cta sciant reprobare malum. et eligere bonum. hinc quasi porticum 
+<lb break="no"/>te comedant butirum. nec mel sciencie uidi defuturum. ut eo <choice><sic><unclear>m</unclear></sic><corr>re</corr></choice>fe
+<lb break="no"/>cti sciant reprobare malum. et eligere bonum. Hinc quasi porticum 
 <lb/><persName>salomonis</persName> ingressus. dum transmissas quondam scolasticas <!-- line filler? -->
 <lb/>picturas intueor quasi per amena uirecta iuuentutis oblite. 
 <lb/>florum odores quos in tali uiro emarcuisse putaueram⸵ uehemen
@@ -2621,32 +2621,32 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <lb/>reseruat ut quasi aliquibus de familia illius modesta hillaritate 
 <lb/>dicere possit. <quote source="Virgil, Eclogues 1.80–81"><l>Sunt nobis mitia poma⸵</l> <l>castanee molles. et pressi 
 <lb/>copia lactis.</l></quote> Delicie quippe rurales sepe gustum exhylarant. dum 
-<lb/>modo <sic>modestitas</sic> non excludatur. In hiis itaque cum iam non tam de
+<lb/>modo <sic>modestitas</sic> non excludatur. In hiis itaque cum iam non tam <unclear>r</unclear>e
 <lb break="no"/>fectus quam prouocatus ad alia mentis et oculorum studium ad ulteriora 
 <lb/>et interiora porrexi. Tum uero quasi tabernaculum federis uel <persName>salomo
 <lb break="no"/>nis</persName> templum ingredior curiosus toti mundo mirificum specta
 <lb break="no"/>tor. et ecce uidi et sensi opus et operam eius que ducit in <title>prouerbiis</title>.
 <lb/>Ecce <quote source="Bible.Vul:Prov.8.12">eruditis intersum cogitacionibus</quote> <quote source="Bible.Vul:Prov.8.30">et delicie mee cum filiis 
-<lb/>hominum.</quote> Vbi uidere michi uisus sum. uel <persName>Heseleel</persName> filium <persName>huri</persName> filii <persName>hur</persName>.
+<lb/>hominum.</quote> Vbi uidere michi uisus sum. uel <persName>beseleel</persName> filium <persName>huri</persName> filii <persName>hur</persName>.
 <lb/>cui dederat deus in cor ut faceret <quote source="Bible.Vul:1Kings.7.51 Bible.Vul:2Chron.4.22">omne opus in domo domini</quote>. qui saga
 <lb/>disponeret. qui cortinas intexeret. qui ausas et fibulas laquearet.
 <lb/>cherubin exsculperet. Archum deauraret. propiciatorium statu 
-<lb break="no"/>eret. mensam sterneret. panes propsicionis apponeret. uel hyram⸵ 
+<lb break="no"/>eret. mensam sterneret. panes proposicionis apponeret. uel hyram⸵ 
 <lb/>tyrium omni sapiencia et doctrina plenum. opera in domo domini facientem.
 <lb/>tota ex lignis et lapidibus preciosis et auro. Es<!-- space? --> enim et argen
 <lb break="no"/>tum pro nichilo computabatur in illis diebus. Nonne sic et noster <persName>alex
 <lb break="no"/>ander</persName>⸵ historiam <unclear>disponitur</unclear> in sagis. Allegorias in cortinis. Tropo
-<lb break="no"/>lis. in coloribus. Questiones et soluciones in <unclear>ausis<!-- ansis? --></unclear> et fibulis. Sciencie 
+<lb break="no"/>lis. in coloribus. Questiones et soluciones in ansis et fibulis. Sciencie 
 <lb/>plenitudinem in cherubin. Anagogen in archa. Religionem⸵ 
 <lb/>in propiciatorio. Refectionem plenam in mensa cum panibus. De qua
-<lb/>dicitur. <unclear>parasti</unclear> in conspectu meo men<ex>sam</ex> a<ex>duersus</ex> e<ex>os</ex> qui tri<ex>bulant</ex> me. Denique omnia solida 
+<lb/>dicitur. <quote>p<surplus><unclear>ared</unclear></surplus>arasti in conspectu meo men<ex>sam</ex> a<ex>duersus</ex> e<ex>os</ex> qui tri<ex>bulant</ex> me.</quote> Denique omnia solida 
 <cb n="b"/>
 <lb/>sunt in opere templi que facit <unclear>iram</unclear> lignis et lapidibus preciosis. et auro
 <lb/>sapiencie cuncta nitent. Vnde et libri <unclear>titulus</unclear> meo iudicio digne di
-<lb break="no"/>cetur. aurea <persName>alexandrina</persName>. exemplo cuiusdam phisice confectionis. que
+<lb break="no"/>cetur. aurea <persName>alexandrina</persName>. exemplo cuiusdam phisice confectionis. <unclear>que</unclear>
 <lb/>sic uocatur ex ciuitate forsitan in qua primum inuenta est. uel
-<lb/>ex auctore qui eam inuenit. et ex auro que recepit. Ista uero 
-<lb/>nostra <persName>alexandrina</persName> et melior est et dignior nomine tali. tamen au
+<lb/>ex auctore qui eam inuenit. et ex auro <unclear>quod</unclear> recepit. Ista uero 
+<lb/>nostra <persName>alexandrina</persName> et melior est et dignior nomine tali. <unclear>cum</unclear> au
 <lb break="no"/>ctore qui condidit cum confectione <unclear>quam</unclear> continet. Non enim solummodo aurum 
 <lb/>recipit⸵ sed et auro tota uestitur. et eo melior⸵ quo anima plus est
 <lb/>quam esca et corpus plus quam uestimentum. Hec mea sententia. est de opere.
